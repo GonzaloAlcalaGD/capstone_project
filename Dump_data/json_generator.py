@@ -1,6 +1,5 @@
 from datetime import datetime
 import random
-from sqlite3 import Timestamp
 from faker import Faker
 import jsonlines
 import pendulum
