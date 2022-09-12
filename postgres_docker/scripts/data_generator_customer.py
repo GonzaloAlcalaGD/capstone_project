@@ -68,6 +68,7 @@ class CustomerFactory():
 
             except Exception as error:
                 logging.critical(error.__class__)
+                logging.critical(error)
                 return logging.critical('Insertion into database failed, check params.')
         status = db.close_connection(self=self)
         logging.info('Insertions into database success.'), 

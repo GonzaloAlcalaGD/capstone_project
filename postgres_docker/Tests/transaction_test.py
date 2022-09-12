@@ -1,14 +1,15 @@
+from datetime import date, datetime
 import sys
 sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/postgres_docker/scripts')
-from data_generator_customer import CustomerFactory
+from data_generator_transactions import TransactionFactory
 from db_conn import DatabaseConection
 
 
-factory = CustomerFactory(n_transactions=5, 
-                          database='root',
-                          user='root',
-                          password='root',
-                          host='localhost')
+factory = TransactionFactory(n_transactions=5, 
+                             database='root',
+                             user='root',
+                             password='root',
+                             host='localhost')
 
 # Data generators tests.
 def test_id():
@@ -18,32 +19,27 @@ def test_id():
     assert isinstance(factory.generate_id(), int)
 
 
-def test_first_name():
+def test_customer_id():
     """
-    Test for generated first name : must be a str
+    Test for generated customer id : must be an int
     """
-    assert isinstance(factory.generate_fname(), str)
+    assert isinstance(factory.generate_customer_id(), int)
 
 
-def test_last_name():
+def test_transaction_ts():
     """
-    Test for generated last name : must be a str
+    Test for generated transaction timestamp : must be a string with iso
+    format and a also a valid datetime string.
     """
-    assert isinstance(factory.generate_lname(), str)
+    time = factory.generate_transaction_ts()
+    assert isinstance(datetime.fromisoformat(time), datetime)
 
 
-def test_phone_number():
+def test_amount():
     """
-    Test for generated phone number : must be a str 
+    Tests for generated amount : must be a str 
     """
-    assert isinstance(factory.generate_phone_number(), str)
-
-
-def test_address():
-    """
-    Test for generated address : must be a str
-    """
-    assert isinstance(factory.generate_address(), str)
+    assert isinstance(factory.generate_amount(), str)
 
 
 # Connection Tests
@@ -67,6 +63,7 @@ def test_db_connection():
                                        password='root',
                                        host='localhost') == True
 
+
 # Insertions Tests
 def test_insertions():
     """
@@ -77,7 +74,7 @@ def test_insertions():
 
     connection = DatabaseConection()
 
-    test_factory = CustomerFactory(n_transactions=records, 
+    test_factory = TransactionFactory(n_transactions=records, 
                           database='root',
                           user='root',
                           password='root',
@@ -90,10 +87,10 @@ def test_insertions():
 
 
     # We count the current rows before insertions
-    current_rows = connection.count_rows()
+    current_rows = connection.count_rows_transaction()
     #Insertions
     test_factory.generate_insertions()
     # Rows after insertion
-    new_rows = connection.count_rows()
+    new_rows = connection.count_rows_transaction()
 
     assert new_rows == current_rows+records

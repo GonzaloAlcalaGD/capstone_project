@@ -1,5 +1,3 @@
-from audioop import add
-import psycopg2
 from faker import Faker
 import logging
 from db_conn import DatabaseConection as db
@@ -17,27 +15,6 @@ class TransactionFactory():
         self.password = password
         self.host = host
     
-    
-    def connect_database(self):
-        """
-        Make connection to database and returns cursor to perfom
-        operations inside of it.
-        """
-        try:
-            conn = psycopg2.connect(
-                database = self.database,
-                user = self.user,
-                password = self.password,
-                host = self.host
-            )
-
-            cursor = conn.cursor()
-            logging.info('Connection to database success')
-            return cursor, conn
-        except Exception as e:
-            logging.critical(e.__class__)
-            return logging.critical('Connection to database failed')
-
 
     def generate_id(self) -> int:
         """
@@ -46,51 +23,49 @@ class TransactionFactory():
         """
         return fake.random_int(min=1, max=9999)
 
+    def generate_customer_id(self) -> int:
+        """
+        Returns a fake customer id generated from 1 to 9999
+        """
+        return fake.random_int(min=1, max=9999)
     
-    def generate_fname(self) -> str:
-        """
-        Returns a fake first name.
-        """
-        return fake.first_name()
 
-    def generate_lname(self) -> str:
+    def generate_transaction_ts(self) -> str:
         """
-        Returns a fake last name.
+        Returns a fake transaction timestamp
         """
-        return fake.last_name()
-
-
-    def generate_phone_number(self) -> str:
-        """
-        Returns a fake phone number generated from a msisdn.
-        """
-        return fake.msisdn()[3:]
-
-    def generate_address(self) -> str:
-        """
-        Returns a fake generated address.
-        """
-        return fake.address()
+        time = fake.date_time_between(start_date='-10y', end_date='now')
+        return time.isoformat()
     
+
+    def generate_amount(self) -> str:
+        """
+        Returns a fake amount pricetag
+        """
+        return str(fake.pricetag())
 
     def generate_insertions(self):
-        cursor, conn = self.connect_database()
-        id = self.generate_id()
-        first_name = self.generate_fname()
-        last_name = self.generate_lname()
-        phone_number = self.generate_phone_number()
-        address = self.generate_address()
+        db.connect_database(self,
+                            database=self.database,
+                            user=self.user,
+                            password=self.password,
+                            host=self.host)        
 
         for _ in range(self.n_transactions):
             try:
-                logging.info(f'Working on transaction #{_+1} with data: {id}, {first_name}, {last_name}, {phone_number}, {address}')
-                cursor.execute('INSERT INTO dev_test.transaction(id, first_name, last_name, phone_number, address) VALUES(%i, %s, %s, %s, %s)', (id, first_name, last_name, phone_number, address))
+                db.insertion_transactions(self,
+                                          record = _,
+                                          id = self.generate_id(),
+                                          customer_id = self.generate_customer_id(),
+                                          transaction_ts = self.generate_transaction_ts(),
+                                          amount = self.generate_amount())
             except Exception as error:
                 logging.critical(error.__class__)
+                logging.critical(error)
                 return logging.critical('Insertion into database failed, check params.')
-        conn.commit()
-
-        return logging.info('Insertions into database success.')
+        status = db.close_connection(self=self)
+        logging.info('Insertions into database success.'), 
+        return status
 
 
 if __name__ == '__main__':
