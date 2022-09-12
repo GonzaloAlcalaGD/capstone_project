@@ -2,22 +2,7 @@ from audioop import add
 import psycopg2
 from faker import Faker
 import logging
-
-
-   
-# # Queries 
-# cursor.execute('SELECT * FROM dev_test.customer')
-# rows = cursor.fetchall()
-
-# if not len(rows):
-#     print('Empty')
-# else:
-#     for row in rows:
-#             print(row)
-
-# # Close connection
-# cursor.close()
-# conn.close()
+from db_conn import DatabaseConection as db
 
 class TransactionFactory():
     

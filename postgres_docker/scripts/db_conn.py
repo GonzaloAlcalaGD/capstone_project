@@ -23,9 +23,11 @@ class DatabaseConection():
                 logging.info('Connection to database success')
                 self.cursor = cursor
                 self.conn = conn
-            except Exception as e:
-                logging.critical(e.__class__)
-                return logging.critical('Connection to database failed')
+                return True
+            except (Exception, psycopg2.DatabaseError) as error:
+                logging.critical(error)
+                logging.critical('Connection to database failed')
+                return False
 
     def insertion_customer(self, record: int, id: str, first_name: str, last_name: str, phone_number: str, address: str) -> None:
         """
@@ -39,6 +41,20 @@ class DatabaseConection():
     def close_connection(self) -> None:
         self.cursor.close()
         self.conn.close()
-        if self.conn.closed != 0:
-            return logging.info('Both cursor and conn closed successfully')
-        return logging.info(f'Something went wrong, connection still open {self.conn.closed}')
+        if self.conn.closed == 0:
+            logging.info(f'Something went wrong, connection still open {self.conn.closed}')
+            return self.conn.closed
+        logging.info('Both cursor and conn closed successfully')
+        return self.conn.closed
+    
+    def count_rows(self):
+        self.cursor.execute('SELECT * FROM dev_test.customer')
+        rows = self.cursor.fetchall()
+
+        if not len(rows):
+            print('Empty')
+        else:
+            count = 0
+            for row in rows:
+                    count += 1
+        return count

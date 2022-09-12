@@ -69,10 +69,11 @@ class CustomerFactory():
             except Exception as error:
                 logging.critical(error.__class__)
                 return logging.critical('Insertion into database failed, check params.')
-        db.close_connection(self=self)
-        return logging.info('Insertions into database success.')
+        status = db.close_connection(self=self)
+        logging.info('Insertions into database success.'), 
+        return status
 
-
+ 
 if __name__ == '__main__':
     
     factory = CustomerFactory(n_transactions=5, 
@@ -81,4 +82,5 @@ if __name__ == '__main__':
                                  password='root',
                                  host='localhost')
 
-    factory.generate_insertions()
+    status = factory.generate_insertions()
+    
