@@ -57,9 +57,10 @@ class JsonFactory():
     def generate_jsonlines(self, n_lines: int) -> None:
         
         dump = []
+        file_path = f'/Users/gonzo/Desktop/capstone_project/data_generators/Dump_data/json_dump/testing_{pendulum.now()}.jsonl'
 
-        for _ in range(1, n_lines+1):
-            print(f'Generating jsonline: {_}')
+        for _ in range(0, n_lines):
+            print(f'Generating jsonline: {_+1}')
             id = self.generate_random_id()
             first_name = self.generate_random_fname()
             last_name = self.generate_random_lname()
@@ -78,10 +79,10 @@ class JsonFactory():
 
             dump.append(j_dict)
 
-        with jsonlines.open(f'Testing/json_dump/testing_{pendulum.now()}.jsonl', 'w') as file:
-            file.write_all(dump)
+        with jsonlines.open(file_path, 'w') as writer:
+            writer.write_all(dump)
 
-        return 'All records generated succesfully'
+        return file_path
 
 if __name__ == '__main__':
 

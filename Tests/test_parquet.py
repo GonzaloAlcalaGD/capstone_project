@@ -7,9 +7,6 @@ from parquet_generator import ParquetFactory
 
 factory = ParquetFactory(None)
 
-# data = factory.generate_data(n_records=10)
-# factory.generate_parquet(data)
-
 # Testing for data field generators
 def test_id_gen():
     """
