@@ -90,10 +90,10 @@ def test_insertions():
 
 
     # We count the current rows before insertions
-    current_rows = connection.count_rows()
+    current_rows = connection.count_rows(table='customer')
     #Insertions
     test_factory.generate_insertions()
     # Rows after insertion
-    new_rows = connection.count_rows()
+    new_rows = connection.count_rows(table='customer')
 
     assert new_rows == current_rows+records

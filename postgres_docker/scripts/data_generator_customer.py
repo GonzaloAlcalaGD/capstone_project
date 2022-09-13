@@ -21,7 +21,7 @@ class CustomerFactory():
         Returns a fake id generated from a range of
         1 to 9999
         """
-        return fake.random_int(min=1, max=9999)
+        return fake.random_int(min=1, max=99999)
 
     
     def generate_fname(self) -> str:
@@ -51,11 +51,12 @@ class CustomerFactory():
     
 
     def generate_insertions(self) -> None:
+        #connection to database
         db.connect_database(self, database=self.database,
                             user=self.user,
                             password=self.password,
                             host=self.host)
-    
+        
         for _ in range(self.n_transactions):
             try:
                 db.insertion_customer(self, 

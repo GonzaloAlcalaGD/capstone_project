@@ -21,13 +21,13 @@ class TransactionFactory():
         Returns a fake id generated from a range of
         1 to 9999
         """
-        return fake.random_int(min=1, max=9999)
+        return fake.random_int(min=1, max=99999)
 
     def generate_customer_id(self) -> int:
         """
         Returns a fake customer id generated from 1 to 9999
         """
-        return fake.random_int(min=1, max=9999)
+        return fake.random_int(min=1, max=99999)
     
 
     def generate_transaction_ts(self) -> str:

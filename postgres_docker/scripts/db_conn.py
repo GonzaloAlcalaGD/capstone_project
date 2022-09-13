@@ -56,21 +56,9 @@ class DatabaseConection():
         logging.info('Both cursor and conn closed successfully')
         return self.conn.closed
     
-    def count_rows(self):
-        self.cursor.execute('SELECT * FROM dev_test.customer')
-        rows = self.cursor.fetchall()
-
-        if not len(rows):
-            print('Empty')
-        else:
-            count = 0
-            for row in rows:
-                    count += 1
-        return count
-
     
-    def count_rows_transaction(self):
-        self.cursor.execute('SELECT * FROM dev_test.transaction')
+    def count_rows(self, table: str):
+        self.cursor.execute(f'SELECT * FROM dev_test.{table}')
         rows = self.cursor.fetchall()
 
         if not len(rows):
