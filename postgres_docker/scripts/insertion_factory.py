@@ -9,8 +9,7 @@ class Factory():
     global fake
     fake = Faker()
     
-    def __init__(self, id: int, n_transactions: int, database: str, user: str, password: str, host: str) -> None:
-        self.id = id
+    def __init__(self, n_transactions: int, database: str, user: str, password: str, host: str) -> None:
         self.n_transactions = n_transactions
         self.database = database
         self.user = user
