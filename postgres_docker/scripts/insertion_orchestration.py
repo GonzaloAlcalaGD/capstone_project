@@ -10,7 +10,7 @@ if __name__ == '__main__':
     insertions = 10
     jf = JsonFactory(None)
     pf = ParquetFactory(None)
-    id = dg.generate_id()
+    id = 1
 
     factory = Factory(id=id,
                       n_transactions=insertions, 
