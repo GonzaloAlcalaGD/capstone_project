@@ -29,7 +29,7 @@ class Factory():
             try:
                 db.insertion(self, 
                                       record = _,
-                                      id = self.id,
+                                      id = dg.generate_id(),
                                       first_name = dg.generate_fname(),
                                       last_name = dg.generate_lname(),
                                       phone_number = dg.generate_phone_number(),
@@ -37,7 +37,6 @@ class Factory():
                                       customer_id = dg.generate_customer_id(),
                                       transaction_ts = dg.generate_transaction_ts(),
                                       amount = dg.generate_amount())
-                self.id = dg.generate_id()
             except Exception as error:
                 logging.critical(error.__class__)
                 logging.critical(error)
