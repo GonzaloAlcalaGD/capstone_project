@@ -29,14 +29,14 @@ class DatabaseConection():
                 logging.critical('Connection to database failed')
                 return False
 
-    def insertion(self, record: int, id: str, first_name: str, last_name: str, phone_number: str, address: str, customer_id: int, transaction_ts, amount: str) -> None:
+    def insertion(self, record: int, id_customer: str, id_transaction: str, first_name: str, last_name: str, phone_number: str, address: str, customer_id: int, transaction_ts, amount: str) -> None:
         """
         Perfom insertions into database and commits them.
         """
-        logging.info(f'Working on customer #{record+1} with data: {id}, {first_name}, {last_name}, {phone_number}, {address}')
-        logging.info(f'Working on transaction #{record+1} with data: {id}, {customer_id}, {transaction_ts}, {amount}')
-        self.cursor.execute('INSERT INTO dev_test.customer(id, first_name, last_name, phone_number, address) VALUES(%s, %s, %s, %s, %s)', (id, first_name, last_name, phone_number, address))
-        self.cursor.execute('INSERT INTO dev_test.transaction(id, customer_id, transaction_ts, amount) VALUES(%s, %s, %s, %s)', (id, customer_id, transaction_ts, amount))
+        logging.info(f'Working on customer #{record+1} with data: {id_customer}, {first_name}, {last_name}, {phone_number}, {address}')
+        logging.info(f'Working on transaction #{record+1} with data: {id_transaction}, {customer_id}, {transaction_ts}, {amount}')
+        self.cursor.execute('INSERT INTO customer(id, first_name, last_name, phone_number, address) VALUES(%s, %s, %s, %s, %s)', (id_customer, first_name, last_name, phone_number, address))
+        self.cursor.execute('INSERT INTO transaction(id, customer_id, transaction_ts, amount) VALUES(%s, %s, %s, %s)', (id_transaction, customer_id, transaction_ts, amount))
         self.conn.commit()
 
     

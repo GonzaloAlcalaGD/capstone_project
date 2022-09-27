@@ -5,8 +5,9 @@ import pytest
 import sys
 from os import path
 sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators/Dump_data')
+sys.path.insert(0, '/Users/gonzo/Desktop/capstone_project/postgres_docker/scripts')
 from json_generator import JsonFactory
-
+import data_generators as dg
 
 factory = JsonFactory(None)
 
@@ -16,7 +17,7 @@ def test_id_gen():
     """
     Test for instance id : must be int
     """
-    assert isinstance(factory.generate_random_id(), int)
+    assert isinstance(dg.get_id(), int)
 
 
 def test_fname_gen():

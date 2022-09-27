@@ -5,7 +5,7 @@ from db_conn import DatabaseConection
 import data_generators as dg
 from datetime import datetime
 
-id = dg.generate_id()
+id = dg.get_id()
 
 factory = Factory(id = id,
                   n_transactions=5, 
@@ -19,7 +19,7 @@ def test_id():
     """
     Test for generated id : must be an int
     """
-    assert isinstance(dg.generate_id(), int)
+    assert isinstance(dg.get_id(), int)
 
 
 def test_first_name():

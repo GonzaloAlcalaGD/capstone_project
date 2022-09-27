@@ -1,23 +1,28 @@
-version: "3.8"
-
+--- 
 services: 
-  postgres:
-    image: postgres
-    restart: always
+  pgadmin:
+    depends_on: 
+      - postgres
+    environment: 
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    image: dpage/pgadmin4
+    ports: 
+      - "80:80"
+  postgres: 
     environment: 
       - DATABASE_HOST=127.0.0.1
       - POSTGRES_USER=root
       - POSTGRES_PASSWORD=root
       - POSTGRES_DB=root
+    image: postgres
     ports: 
-      - 5432:5432
+      - "5432:5432"
+    restart: always
+    volumes: 
+      - pgdata:/var/lib/postgresql/data
 
-  pgadmin:
-    image: dpage/pgadmin4
-    environment: 
-      PGADMIN_DEFAULT_EMAIL: "admin@admin.com"
-      PGADMIN_DEFAULT_PASSWORD: "admin"
-    ports:
-      - "80:80"
-    depends_on: 
-      - postgres 
+version: "3.8"
+
+volumes:
+  pgdata:

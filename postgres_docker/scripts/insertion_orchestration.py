@@ -7,13 +7,13 @@ from parquet_generator import ParquetFactory
 
 if __name__ == '__main__':
     
-    insertions = 10
+    insertions = 100
     jf = JsonFactory(None)
     pf = ParquetFactory(None)
 
 
     factory = Factory(n_transactions=insertions, 
-                      database='root',
+                      database='capstone',
                       user='root',
                       password='root',
                       host='localhost')
