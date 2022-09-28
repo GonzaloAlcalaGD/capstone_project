@@ -51,7 +51,7 @@ class DatabaseConection():
     
     
     def count_rows(self, table: str):
-        self.cursor.execute(f'SELECT * FROM dev_test.{table}')
+        self.cursor.execute(f'SELECT * FROM {table}')
         rows = self.cursor.fetchall()
 
         if not len(rows):

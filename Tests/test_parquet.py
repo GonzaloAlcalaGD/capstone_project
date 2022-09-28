@@ -3,8 +3,6 @@ from os import path
 from datetime import datetime
 import pandas as pd
 sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators/Dump_data')
-sys.path.insert(0, '/Users/gonzo/Desktop/capstone_project/postgres_docker/scripts')
-import data_generators as dg
 from parquet_generator import ParquetFactory
 
 factory = ParquetFactory(None)
@@ -14,7 +12,7 @@ def test_id_gen():
     """
     Test for instance id : must be int
     """
-    assert isinstance(dg.get_id(), int)
+    assert isinstance(factory.generate_random_id(), int)
 
 
 def test_fname_gen():

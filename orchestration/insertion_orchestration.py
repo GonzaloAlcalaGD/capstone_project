@@ -1,7 +1,6 @@
 from insertion_factory import Factory
 import sys
-import data_generators as dg
-sys.path.insert(0, '/Users/gonzo/Desktop/capstone_project/data_generators/Dump_data')
+sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators')
 from json_generator import JsonFactory
 from parquet_generator import ParquetFactory
 
