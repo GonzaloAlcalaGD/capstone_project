@@ -3,7 +3,8 @@ import sys
 sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/database_connection')
 sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators')
 from db_conn import DatabaseConection as db
-import insertions_generator as dg
+from generators import DataFactory as data
+import id_loader as id
 
 class Factory():
     
@@ -19,6 +20,7 @@ class Factory():
     
   
     def generate_insertions(self) -> None:
+        
         #connection to database
         db.connect_database(self, database=self.database,
                             user=self.user,
@@ -27,18 +29,18 @@ class Factory():
         
         for _ in range(self.n_transactions):
             try:
-                ids = dg.load_ids()
+                ids = id.load_ids()
                 db.insertion(self, 
                             record = _,
-                            id_customer = dg.get_id(dict_ids=ids),
-                            id_transaction = dg.get_id(dict_ids=ids),
-                            first_name = dg.generate_fname(),
-                            last_name = dg.generate_lname(),
-                            phone_number = dg.generate_phone_number(),
-                            address = dg.generate_address(),
-                            customer_id = dg.generate_customer_id(),
-                            transaction_ts = dg.generate_transaction_ts(),
-                            amount = dg.generate_amount())
+                            id_customer = id.get_id(dict_ids=ids),
+                            id_transaction = id.get_id(dict_ids=ids),
+                            first_name = data.generate_fname(),
+                            last_name = data.generate_lname(),
+                            phone_number = data.generate_phone_number(),
+                            address = data.generate_address(),
+                            customer_id = data.generate_customer_id(),
+                            transaction_ts = data.generate_random_date(),
+                            amount = data.generate_amount())
             except Exception as error:
                 logging.critical(error.__class__)
                 logging.critical(error)

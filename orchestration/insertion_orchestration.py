@@ -1,15 +1,15 @@
 from insertion_factory import Factory
 import sys
-sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators')
-from json_generator import JsonFactory
-from parquet_generator import ParquetFactory
+sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/files_factories')
+from json_factory import JsonFactory
+from parquet_factory import ParquetFactory
 
 if __name__ == '__main__':
     
     insertions = 100
+
     jf = JsonFactory(None)
     pf = ParquetFactory(None)
-
 
     factory = Factory(n_transactions=insertions, 
                       database='capstone',
