@@ -86,7 +86,7 @@ class Docker2Host():
 
 
     def container2host(self, table: str, containerID: str) -> bool:
-        path = self.generate_path(parent_path='/Users/gonzo/Desktop/capstone_project/data_storage/pgdata', table=table)
+        path = self.generate_path(parent_path=f'/Users/gonzo/Desktop/capstone_project/data_storage/pgdata/{table}', table=table)
         filename = f'{table}_{pendulum.now().to_date_string()}.csv'
         self.create_path(path=path)
         os.system(f"docker cp {containerID}:/var/lib/postgresql/data/{table}.csv {path}/{filename}")
@@ -105,17 +105,17 @@ class Docker2Host():
         logging.info('Both cursor and conn closed successfully')
         return self.conn.closed
 
-# if __name__ == '__main__':
+if __name__ == '__main__':
 
-#     connection = Docker2Host(database='capstone',
-#                                   user='root',
-#                                   password='root',
-#                                   host='localhost')
-#     connection.connect_database()
-#     if connection:
-#         connection.copy_table(table='transaction')
-#         connection.container2host(table='transaction',
-#                                   containerID='f7cbb5820c26')
-#         connection.close_connection()
-#     else:
-#         logging.critical('Something went wrong')
+    connection = Docker2Host(database='capstone',
+                                  user='root',
+                                  password='root',
+                                  host='localhost')
+    connection.connect_database()
+    if connection:
+        connection.copy_table(table='customer')
+        connection.container2host(table='customer',
+                                  containerID='f7cbb5820c26')
+        connection.close_connection()
+    else:
+        logging.critical('Something went wrong')
