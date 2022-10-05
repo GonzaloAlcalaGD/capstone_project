@@ -32,8 +32,7 @@ class Factory():
                 ids = id.load_ids()
                 db.insertion(self, 
                             record = _,
-                            id_customer = id.get_id(dict_ids=ids),
-                            id_transaction = id.get_id(dict_ids=ids),
+                            id = id.get_id(dict_ids=ids),
                             first_name = data.generate_fname(),
                             last_name = data.generate_lname(),
                             phone_number = data.generate_phone_number(),
