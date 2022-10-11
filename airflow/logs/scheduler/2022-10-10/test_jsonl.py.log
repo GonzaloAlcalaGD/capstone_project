@@ -1,0 +1,1197 @@
+[2022-10-10 21:12:02,329] {processor.py:153} INFO - Started process (PID=6630) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:02,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:12:02,335] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,335] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:02,404] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:02,576] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,575] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:12:02,624] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,624] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:12:02.400667+00:00, run_after=2022-10-10T21:17:02.400667+00:00
+[2022-10-10 21:12:02,664] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.343 seconds
+[2022-10-10 21:12:32,772] {processor.py:153} INFO - Started process (PID=6650) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:32,773] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:12:32,775] {logging_mixin.py:115} INFO - [2022-10-10 21:12:32,775] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:32,798] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:12:32,883] {logging_mixin.py:115} INFO - [2022-10-10 21:12:32,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:12:32,914] {logging_mixin.py:115} INFO - [2022-10-10 21:12:32,914] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:12:32.796452+00:00, run_after=2022-10-10T21:17:32.796452+00:00
+[2022-10-10 21:12:32,929] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:13:03,178] {processor.py:153} INFO - Started process (PID=6671) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:03,183] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:13:03,187] {logging_mixin.py:115} INFO - [2022-10-10 21:13:03,186] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:03,213] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:03,326] {logging_mixin.py:115} INFO - [2022-10-10 21:13:03,326] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:13:03,365] {logging_mixin.py:115} INFO - [2022-10-10 21:13:03,365] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:13:03.211444+00:00, run_after=2022-10-10T21:18:03.211444+00:00
+[2022-10-10 21:13:03,400] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.228 seconds
+[2022-10-10 21:13:33,500] {processor.py:153} INFO - Started process (PID=6700) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:33,501] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:13:33,503] {logging_mixin.py:115} INFO - [2022-10-10 21:13:33,502] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:33,531] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:13:33,641] {logging_mixin.py:115} INFO - [2022-10-10 21:13:33,641] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:13:33,674] {logging_mixin.py:115} INFO - [2022-10-10 21:13:33,674] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:13:33.529090+00:00, run_after=2022-10-10T21:18:33.529090+00:00
+[2022-10-10 21:13:33,695] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.200 seconds
+[2022-10-10 21:14:03,903] {processor.py:153} INFO - Started process (PID=6728) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:03,912] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:14:03,925] {logging_mixin.py:115} INFO - [2022-10-10 21:14:03,923] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:04,115] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:04,539] {logging_mixin.py:115} INFO - [2022-10-10 21:14:04,539] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:14:04,698] {logging_mixin.py:115} INFO - [2022-10-10 21:14:04,698] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:14:04.098070+00:00, run_after=2022-10-10T21:19:04.098070+00:00
+[2022-10-10 21:14:04,767] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.928 seconds
+[2022-10-10 21:14:34,940] {processor.py:153} INFO - Started process (PID=6749) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:34,944] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:14:34,945] {logging_mixin.py:115} INFO - [2022-10-10 21:14:34,945] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:34,981] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:14:35,107] {logging_mixin.py:115} INFO - [2022-10-10 21:14:35,107] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:14:35,144] {logging_mixin.py:115} INFO - [2022-10-10 21:14:35,143] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:14:34.978410+00:00, run_after=2022-10-10T21:19:34.978410+00:00
+[2022-10-10 21:14:35,165] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.232 seconds
+[2022-10-10 21:15:05,284] {processor.py:153} INFO - Started process (PID=6770) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:05,286] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:15:05,288] {logging_mixin.py:115} INFO - [2022-10-10 21:15:05,288] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:05,318] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:05,433] {logging_mixin.py:115} INFO - [2022-10-10 21:15:05,433] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:15:05,465] {logging_mixin.py:115} INFO - [2022-10-10 21:15:05,464] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:15:05.315029+00:00, run_after=2022-10-10T21:20:05.315029+00:00
+[2022-10-10 21:15:05,490] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.213 seconds
+[2022-10-10 21:15:35,607] {processor.py:153} INFO - Started process (PID=6799) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:35,609] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:15:35,610] {logging_mixin.py:115} INFO - [2022-10-10 21:15:35,610] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:35,639] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:15:35,741] {logging_mixin.py:115} INFO - [2022-10-10 21:15:35,741] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:15:35,775] {logging_mixin.py:115} INFO - [2022-10-10 21:15:35,775] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:15:35.637052+00:00, run_after=2022-10-10T21:20:35.637052+00:00
+[2022-10-10 21:15:35,798] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.195 seconds
+[2022-10-10 21:16:05,912] {processor.py:153} INFO - Started process (PID=6819) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:05,916] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:16:05,917] {logging_mixin.py:115} INFO - [2022-10-10 21:16:05,917] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:05,942] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:06,036] {logging_mixin.py:115} INFO - [2022-10-10 21:16:06,036] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:16:06,065] {logging_mixin.py:115} INFO - [2022-10-10 21:16:06,065] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:16:05.940761+00:00, run_after=2022-10-10T21:21:05.940761+00:00
+[2022-10-10 21:16:06,085] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.177 seconds
+[2022-10-10 21:16:36,195] {processor.py:153} INFO - Started process (PID=6849) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:36,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:16:36,198] {logging_mixin.py:115} INFO - [2022-10-10 21:16:36,198] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:36,220] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:16:36,301] {logging_mixin.py:115} INFO - [2022-10-10 21:16:36,300] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:16:36,325] {logging_mixin.py:115} INFO - [2022-10-10 21:16:36,325] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:16:36.218093+00:00, run_after=2022-10-10T21:21:36.218093+00:00
+[2022-10-10 21:16:36,342] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 21:17:06,511] {processor.py:153} INFO - Started process (PID=6869) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:06,514] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:17:06,516] {logging_mixin.py:115} INFO - [2022-10-10 21:17:06,516] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:06,554] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:06,658] {logging_mixin.py:115} INFO - [2022-10-10 21:17:06,658] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:17:06,690] {logging_mixin.py:115} INFO - [2022-10-10 21:17:06,690] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:17:06.551917+00:00, run_after=2022-10-10T21:22:06.551917+00:00
+[2022-10-10 21:17:06,726] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.220 seconds
+[2022-10-10 21:17:36,806] {processor.py:153} INFO - Started process (PID=6900) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:36,809] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:17:36,812] {logging_mixin.py:115} INFO - [2022-10-10 21:17:36,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:36,863] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:17:37,006] {logging_mixin.py:115} INFO - [2022-10-10 21:17:37,006] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:17:37,062] {logging_mixin.py:115} INFO - [2022-10-10 21:17:37,062] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:17:36.860879+00:00, run_after=2022-10-10T21:22:36.860879+00:00
+[2022-10-10 21:17:37,089] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.293 seconds
+[2022-10-10 21:18:07,333] {processor.py:153} INFO - Started process (PID=6921) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:07,336] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:18:07,339] {logging_mixin.py:115} INFO - [2022-10-10 21:18:07,339] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:07,427] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:07,754] {logging_mixin.py:115} INFO - [2022-10-10 21:18:07,754] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:18:07,848] {logging_mixin.py:115} INFO - [2022-10-10 21:18:07,848] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:18:07.421105+00:00, run_after=2022-10-10T21:23:07.421105+00:00
+[2022-10-10 21:18:07,904] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.583 seconds
+[2022-10-10 21:18:38,592] {processor.py:153} INFO - Started process (PID=6943) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:38,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:18:38,596] {logging_mixin.py:115} INFO - [2022-10-10 21:18:38,596] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:38,621] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:18:38,709] {logging_mixin.py:115} INFO - [2022-10-10 21:18:38,709] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:18:38,737] {logging_mixin.py:115} INFO - [2022-10-10 21:18:38,737] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:18:38.619286+00:00, run_after=2022-10-10T21:23:38.619286+00:00
+[2022-10-10 21:18:38,753] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.167 seconds
+[2022-10-10 21:19:08,872] {processor.py:153} INFO - Started process (PID=6974) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:08,873] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:19:08,874] {logging_mixin.py:115} INFO - [2022-10-10 21:19:08,874] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:08,897] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:08,983] {logging_mixin.py:115} INFO - [2022-10-10 21:19:08,983] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:19:09,009] {logging_mixin.py:115} INFO - [2022-10-10 21:19:09,009] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:19:08.895724+00:00, run_after=2022-10-10T21:24:08.895724+00:00
+[2022-10-10 21:19:09,025] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 21:19:39,130] {processor.py:153} INFO - Started process (PID=6996) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:39,132] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:19:39,133] {logging_mixin.py:115} INFO - [2022-10-10 21:19:39,133] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:39,155] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:19:39,239] {logging_mixin.py:115} INFO - [2022-10-10 21:19:39,239] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:19:39,266] {logging_mixin.py:115} INFO - [2022-10-10 21:19:39,265] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:19:39.153794+00:00, run_after=2022-10-10T21:24:39.153794+00:00
+[2022-10-10 21:19:39,282] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 21:20:09,397] {processor.py:153} INFO - Started process (PID=7027) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:09,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:20:09,400] {logging_mixin.py:115} INFO - [2022-10-10 21:20:09,400] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:09,423] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:09,506] {logging_mixin.py:115} INFO - [2022-10-10 21:20:09,506] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:20:09,533] {logging_mixin.py:115} INFO - [2022-10-10 21:20:09,533] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:20:09.421805+00:00, run_after=2022-10-10T21:25:09.421805+00:00
+[2022-10-10 21:20:09,550] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 21:20:39,658] {processor.py:153} INFO - Started process (PID=7056) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:39,659] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:20:39,661] {logging_mixin.py:115} INFO - [2022-10-10 21:20:39,661] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:39,687] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:20:39,770] {logging_mixin.py:115} INFO - [2022-10-10 21:20:39,769] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:20:39,806] {logging_mixin.py:115} INFO - [2022-10-10 21:20:39,805] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:20:39.685289+00:00, run_after=2022-10-10T21:25:39.685289+00:00
+[2022-10-10 21:20:39,826] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.173 seconds
+[2022-10-10 21:21:10,075] {processor.py:153} INFO - Started process (PID=7080) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:10,076] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:21:10,077] {logging_mixin.py:115} INFO - [2022-10-10 21:21:10,077] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:10,104] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:10,192] {logging_mixin.py:115} INFO - [2022-10-10 21:21:10,192] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:21:10,219] {logging_mixin.py:115} INFO - [2022-10-10 21:21:10,219] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:21:10.101838+00:00, run_after=2022-10-10T21:26:10.101838+00:00
+[2022-10-10 21:21:10,237] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.170 seconds
+[2022-10-10 21:21:40,361] {processor.py:153} INFO - Started process (PID=7111) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:40,364] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:21:40,365] {logging_mixin.py:115} INFO - [2022-10-10 21:21:40,365] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:40,389] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:21:40,473] {logging_mixin.py:115} INFO - [2022-10-10 21:21:40,472] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:21:40,499] {logging_mixin.py:115} INFO - [2022-10-10 21:21:40,499] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:21:40.387365+00:00, run_after=2022-10-10T21:26:40.387365+00:00
+[2022-10-10 21:21:40,516] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:22:10,817] {processor.py:153} INFO - Started process (PID=7133) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:10,819] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:22:10,820] {logging_mixin.py:115} INFO - [2022-10-10 21:22:10,820] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:10,847] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:10,947] {logging_mixin.py:115} INFO - [2022-10-10 21:22:10,947] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:22:10,974] {logging_mixin.py:115} INFO - [2022-10-10 21:22:10,974] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:22:10.844722+00:00, run_after=2022-10-10T21:27:10.844722+00:00
+[2022-10-10 21:22:10,993] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.182 seconds
+[2022-10-10 21:22:41,113] {processor.py:153} INFO - Started process (PID=7163) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:41,114] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:22:41,115] {logging_mixin.py:115} INFO - [2022-10-10 21:22:41,115] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:41,142] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:22:41,241] {logging_mixin.py:115} INFO - [2022-10-10 21:22:41,241] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:22:41,273] {logging_mixin.py:115} INFO - [2022-10-10 21:22:41,272] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:22:41.140026+00:00, run_after=2022-10-10T21:27:41.140026+00:00
+[2022-10-10 21:22:41,296] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.191 seconds
+[2022-10-10 21:23:11,557] {processor.py:153} INFO - Started process (PID=7194) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:11,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:23:11,559] {logging_mixin.py:115} INFO - [2022-10-10 21:23:11,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:11,583] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:11,670] {logging_mixin.py:115} INFO - [2022-10-10 21:23:11,670] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:23:11,697] {logging_mixin.py:115} INFO - [2022-10-10 21:23:11,697] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:23:11.581395+00:00, run_after=2022-10-10T21:28:11.581395+00:00
+[2022-10-10 21:23:11,716] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.164 seconds
+[2022-10-10 21:23:41,859] {processor.py:153} INFO - Started process (PID=7215) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:41,861] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:23:41,862] {logging_mixin.py:115} INFO - [2022-10-10 21:23:41,862] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:41,885] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:23:41,972] {logging_mixin.py:115} INFO - [2022-10-10 21:23:41,972] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:23:42,001] {logging_mixin.py:115} INFO - [2022-10-10 21:23:42,001] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:23:41.883643+00:00, run_after=2022-10-10T21:28:41.883643+00:00
+[2022-10-10 21:23:42,021] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.166 seconds
+[2022-10-10 21:24:12,256] {processor.py:153} INFO - Started process (PID=7245) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:12,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:24:12,259] {logging_mixin.py:115} INFO - [2022-10-10 21:24:12,259] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:12,283] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:12,368] {logging_mixin.py:115} INFO - [2022-10-10 21:24:12,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:24:12,396] {logging_mixin.py:115} INFO - [2022-10-10 21:24:12,396] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:24:12.281243+00:00, run_after=2022-10-10T21:29:12.281243+00:00
+[2022-10-10 21:24:12,413] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:24:42,561] {processor.py:153} INFO - Started process (PID=7266) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:42,565] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:24:42,566] {logging_mixin.py:115} INFO - [2022-10-10 21:24:42,566] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:42,589] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:24:42,675] {logging_mixin.py:115} INFO - [2022-10-10 21:24:42,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:24:42,700] {logging_mixin.py:115} INFO - [2022-10-10 21:24:42,700] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:24:42.587375+00:00, run_after=2022-10-10T21:29:42.587375+00:00
+[2022-10-10 21:24:42,717] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:25:12,905] {processor.py:153} INFO - Started process (PID=7297) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:12,906] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:25:12,908] {logging_mixin.py:115} INFO - [2022-10-10 21:25:12,908] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:12,931] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:13,016] {logging_mixin.py:115} INFO - [2022-10-10 21:25:13,016] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:25:13,043] {logging_mixin.py:115} INFO - [2022-10-10 21:25:13,043] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:25:12.928912+00:00, run_after=2022-10-10T21:30:12.928912+00:00
+[2022-10-10 21:25:13,062] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 21:25:43,313] {processor.py:153} INFO - Started process (PID=7327) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:43,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:25:43,316] {logging_mixin.py:115} INFO - [2022-10-10 21:25:43,315] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:43,340] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:25:43,430] {logging_mixin.py:115} INFO - [2022-10-10 21:25:43,430] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:25:43,464] {logging_mixin.py:115} INFO - [2022-10-10 21:25:43,464] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:25:43.338292+00:00, run_after=2022-10-10T21:30:43.338292+00:00
+[2022-10-10 21:25:43,484] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.177 seconds
+[2022-10-10 21:26:13,732] {processor.py:153} INFO - Started process (PID=7348) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:13,734] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:26:13,735] {logging_mixin.py:115} INFO - [2022-10-10 21:26:13,735] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:13,757] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:13,843] {logging_mixin.py:115} INFO - [2022-10-10 21:26:13,843] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:26:13,869] {logging_mixin.py:115} INFO - [2022-10-10 21:26:13,868] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:26:13.755506+00:00, run_after=2022-10-10T21:31:13.755506+00:00
+[2022-10-10 21:26:13,887] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 21:26:44,071] {processor.py:153} INFO - Started process (PID=7378) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:44,072] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:26:44,073] {logging_mixin.py:115} INFO - [2022-10-10 21:26:44,073] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:44,100] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:26:44,186] {logging_mixin.py:115} INFO - [2022-10-10 21:26:44,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:26:44,214] {logging_mixin.py:115} INFO - [2022-10-10 21:26:44,214] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:26:44.098308+00:00, run_after=2022-10-10T21:31:44.098308+00:00
+[2022-10-10 21:26:44,233] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.167 seconds
+[2022-10-10 21:27:14,500] {processor.py:153} INFO - Started process (PID=7400) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:14,502] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:27:14,504] {logging_mixin.py:115} INFO - [2022-10-10 21:27:14,504] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:14,531] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:14,618] {logging_mixin.py:115} INFO - [2022-10-10 21:27:14,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:27:14,645] {logging_mixin.py:115} INFO - [2022-10-10 21:27:14,645] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:27:14.529461+00:00, run_after=2022-10-10T21:32:14.529461+00:00
+[2022-10-10 21:27:14,664] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.171 seconds
+[2022-10-10 21:27:44,881] {processor.py:153} INFO - Started process (PID=7430) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:44,882] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:27:44,883] {logging_mixin.py:115} INFO - [2022-10-10 21:27:44,883] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:44,908] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:27:44,993] {logging_mixin.py:115} INFO - [2022-10-10 21:27:44,993] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:27:45,021] {logging_mixin.py:115} INFO - [2022-10-10 21:27:45,021] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:27:44.905965+00:00, run_after=2022-10-10T21:32:44.905965+00:00
+[2022-10-10 21:27:45,039] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:28:15,259] {processor.py:153} INFO - Started process (PID=7460) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:15,261] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:28:15,262] {logging_mixin.py:115} INFO - [2022-10-10 21:28:15,262] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:15,289] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:15,376] {logging_mixin.py:115} INFO - [2022-10-10 21:28:15,375] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:28:15,406] {logging_mixin.py:115} INFO - [2022-10-10 21:28:15,406] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:28:15.286804+00:00, run_after=2022-10-10T21:33:15.286804+00:00
+[2022-10-10 21:28:15,423] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.170 seconds
+[2022-10-10 21:28:45,604] {processor.py:153} INFO - Started process (PID=7481) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:45,608] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:28:45,609] {logging_mixin.py:115} INFO - [2022-10-10 21:28:45,609] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:45,637] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:28:45,725] {logging_mixin.py:115} INFO - [2022-10-10 21:28:45,725] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:28:45,756] {logging_mixin.py:115} INFO - [2022-10-10 21:28:45,756] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:28:45.634881+00:00, run_after=2022-10-10T21:33:45.634881+00:00
+[2022-10-10 21:28:45,778] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.178 seconds
+[2022-10-10 21:29:16,210] {processor.py:153} INFO - Started process (PID=7511) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:16,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:29:16,214] {logging_mixin.py:115} INFO - [2022-10-10 21:29:16,214] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:16,237] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:16,319] {logging_mixin.py:115} INFO - [2022-10-10 21:29:16,319] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:29:16,343] {logging_mixin.py:115} INFO - [2022-10-10 21:29:16,343] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:29:16.235034+00:00, run_after=2022-10-10T21:34:16.235034+00:00
+[2022-10-10 21:29:16,361] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 21:29:46,511] {processor.py:153} INFO - Started process (PID=7533) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:46,512] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:29:46,513] {logging_mixin.py:115} INFO - [2022-10-10 21:29:46,513] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:46,536] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:29:46,622] {logging_mixin.py:115} INFO - [2022-10-10 21:29:46,622] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:29:46,648] {logging_mixin.py:115} INFO - [2022-10-10 21:29:46,648] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:29:46.534391+00:00, run_after=2022-10-10T21:34:46.534391+00:00
+[2022-10-10 21:29:46,666] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:30:16,799] {processor.py:153} INFO - Started process (PID=7563) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:16,801] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:30:16,802] {logging_mixin.py:115} INFO - [2022-10-10 21:30:16,802] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:16,824] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:16,906] {logging_mixin.py:115} INFO - [2022-10-10 21:30:16,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:30:16,930] {logging_mixin.py:115} INFO - [2022-10-10 21:30:16,930] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:30:16.822469+00:00, run_after=2022-10-10T21:35:16.822469+00:00
+[2022-10-10 21:30:16,947] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 21:30:47,096] {processor.py:153} INFO - Started process (PID=7593) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:47,099] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:30:47,101] {logging_mixin.py:115} INFO - [2022-10-10 21:30:47,101] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:47,127] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:30:47,223] {logging_mixin.py:115} INFO - [2022-10-10 21:30:47,223] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:30:47,253] {logging_mixin.py:115} INFO - [2022-10-10 21:30:47,253] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:30:47.125593+00:00, run_after=2022-10-10T21:35:47.125593+00:00
+[2022-10-10 21:30:47,273] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.182 seconds
+[2022-10-10 21:31:17,535] {processor.py:153} INFO - Started process (PID=7615) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:17,536] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:31:17,537] {logging_mixin.py:115} INFO - [2022-10-10 21:31:17,537] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:17,559] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:17,640] {logging_mixin.py:115} INFO - [2022-10-10 21:31:17,640] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:31:17,665] {logging_mixin.py:115} INFO - [2022-10-10 21:31:17,665] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:31:17.556867+00:00, run_after=2022-10-10T21:36:17.556867+00:00
+[2022-10-10 21:31:17,683] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 21:31:47,869] {processor.py:153} INFO - Started process (PID=7645) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:47,870] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:31:47,872] {logging_mixin.py:115} INFO - [2022-10-10 21:31:47,872] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:47,894] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:31:47,974] {logging_mixin.py:115} INFO - [2022-10-10 21:31:47,974] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:31:47,999] {logging_mixin.py:115} INFO - [2022-10-10 21:31:47,999] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:31:47.892372+00:00, run_after=2022-10-10T21:36:47.892372+00:00
+[2022-10-10 21:31:48,015] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.150 seconds
+[2022-10-10 21:32:18,297] {processor.py:153} INFO - Started process (PID=7675) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:18,298] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:32:18,299] {logging_mixin.py:115} INFO - [2022-10-10 21:32:18,299] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:18,323] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:18,406] {logging_mixin.py:115} INFO - [2022-10-10 21:32:18,405] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:32:18,432] {logging_mixin.py:115} INFO - [2022-10-10 21:32:18,432] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:32:18.321728+00:00, run_after=2022-10-10T21:37:18.321728+00:00
+[2022-10-10 21:32:18,449] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 21:32:48,629] {processor.py:153} INFO - Started process (PID=7696) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:48,631] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:32:48,632] {logging_mixin.py:115} INFO - [2022-10-10 21:32:48,632] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:48,656] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:32:48,745] {logging_mixin.py:115} INFO - [2022-10-10 21:32:48,744] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:32:48,772] {logging_mixin.py:115} INFO - [2022-10-10 21:32:48,771] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:32:48.654089+00:00, run_after=2022-10-10T21:37:48.654089+00:00
+[2022-10-10 21:32:48,786] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 21:33:19,058] {processor.py:153} INFO - Started process (PID=7726) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:19,060] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:33:19,061] {logging_mixin.py:115} INFO - [2022-10-10 21:33:19,061] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:19,083] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:19,163] {logging_mixin.py:115} INFO - [2022-10-10 21:33:19,163] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:33:19,192] {logging_mixin.py:115} INFO - [2022-10-10 21:33:19,191] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:33:19.081513+00:00, run_after=2022-10-10T21:38:19.081513+00:00
+[2022-10-10 21:33:19,212] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 21:33:49,401] {processor.py:153} INFO - Started process (PID=7747) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:49,402] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:33:49,403] {logging_mixin.py:115} INFO - [2022-10-10 21:33:49,403] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:49,426] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:33:49,508] {logging_mixin.py:115} INFO - [2022-10-10 21:33:49,508] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:33:49,533] {logging_mixin.py:115} INFO - [2022-10-10 21:33:49,533] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:33:49.424570+00:00, run_after=2022-10-10T21:38:49.424570+00:00
+[2022-10-10 21:33:49,552] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.156 seconds
+[2022-10-10 21:34:19,834] {processor.py:153} INFO - Started process (PID=7778) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:19,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:34:19,837] {logging_mixin.py:115} INFO - [2022-10-10 21:34:19,837] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:19,860] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:19,944] {logging_mixin.py:115} INFO - [2022-10-10 21:34:19,944] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:34:19,972] {logging_mixin.py:115} INFO - [2022-10-10 21:34:19,972] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:34:19.858603+00:00, run_after=2022-10-10T21:39:19.858603+00:00
+[2022-10-10 21:34:19,989] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 21:34:50,097] {processor.py:153} INFO - Started process (PID=7807) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:50,100] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:34:50,101] {logging_mixin.py:115} INFO - [2022-10-10 21:34:50,101] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:50,127] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:34:50,220] {logging_mixin.py:115} INFO - [2022-10-10 21:34:50,220] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:34:50,246] {logging_mixin.py:115} INFO - [2022-10-10 21:34:50,245] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:34:50.125115+00:00, run_after=2022-10-10T21:39:50.125115+00:00
+[2022-10-10 21:34:50,264] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.177 seconds
+[2022-10-10 21:35:20,370] {processor.py:153} INFO - Started process (PID=7829) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:20,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:35:20,372] {logging_mixin.py:115} INFO - [2022-10-10 21:35:20,372] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:20,395] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:20,478] {logging_mixin.py:115} INFO - [2022-10-10 21:35:20,478] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:35:20,512] {logging_mixin.py:115} INFO - [2022-10-10 21:35:20,511] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:35:20.392935+00:00, run_after=2022-10-10T21:40:20.392935+00:00
+[2022-10-10 21:35:20,528] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 21:35:50,813] {processor.py:153} INFO - Started process (PID=7860) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:50,815] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:35:50,816] {logging_mixin.py:115} INFO - [2022-10-10 21:35:50,816] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:50,837] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:35:50,926] {logging_mixin.py:115} INFO - [2022-10-10 21:35:50,926] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:35:50,950] {logging_mixin.py:115} INFO - [2022-10-10 21:35:50,950] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:35:50.835977+00:00, run_after=2022-10-10T21:40:50.835977+00:00
+[2022-10-10 21:35:50,967] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 21:36:21,101] {processor.py:153} INFO - Started process (PID=7882) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:21,103] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:36:21,104] {logging_mixin.py:115} INFO - [2022-10-10 21:36:21,104] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:21,131] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:21,232] {logging_mixin.py:115} INFO - [2022-10-10 21:36:21,232] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:36:21,266] {logging_mixin.py:115} INFO - [2022-10-10 21:36:21,266] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:36:21.128621+00:00, run_after=2022-10-10T21:41:21.128621+00:00
+[2022-10-10 21:36:21,286] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.190 seconds
+[2022-10-10 21:36:51,585] {processor.py:153} INFO - Started process (PID=7913) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:51,586] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:36:51,590] {logging_mixin.py:115} INFO - [2022-10-10 21:36:51,590] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:51,623] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:36:51,716] {logging_mixin.py:115} INFO - [2022-10-10 21:36:51,715] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:36:51,746] {logging_mixin.py:115} INFO - [2022-10-10 21:36:51,746] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:36:51.621481+00:00, run_after=2022-10-10T21:41:51.621481+00:00
+[2022-10-10 21:36:51,774] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.193 seconds
+[2022-10-10 21:37:21,951] {processor.py:153} INFO - Started process (PID=7943) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:21,953] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:37:21,955] {logging_mixin.py:115} INFO - [2022-10-10 21:37:21,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:21,980] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:22,075] {logging_mixin.py:115} INFO - [2022-10-10 21:37:22,075] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:37:22,101] {logging_mixin.py:115} INFO - [2022-10-10 21:37:22,101] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:37:21.978567+00:00, run_after=2022-10-10T21:42:21.978567+00:00
+[2022-10-10 21:37:22,121] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.176 seconds
+[2022-10-10 21:37:52,409] {processor.py:153} INFO - Started process (PID=7964) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:52,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:37:52,411] {logging_mixin.py:115} INFO - [2022-10-10 21:37:52,411] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:52,437] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:37:52,523] {logging_mixin.py:115} INFO - [2022-10-10 21:37:52,523] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:37:52,552] {logging_mixin.py:115} INFO - [2022-10-10 21:37:52,552] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:37:52.435426+00:00, run_after=2022-10-10T21:42:52.435426+00:00
+[2022-10-10 21:37:52,568] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.164 seconds
+[2022-10-10 21:38:22,729] {processor.py:153} INFO - Started process (PID=7993) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:22,731] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:38:22,733] {logging_mixin.py:115} INFO - [2022-10-10 21:38:22,732] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:22,756] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:22,847] {logging_mixin.py:115} INFO - [2022-10-10 21:38:22,846] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:38:22,874] {logging_mixin.py:115} INFO - [2022-10-10 21:38:22,874] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:38:22.754116+00:00, run_after=2022-10-10T21:43:22.754116+00:00
+[2022-10-10 21:38:22,892] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.168 seconds
+[2022-10-10 21:38:52,998] {processor.py:153} INFO - Started process (PID=8024) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:53,000] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:38:53,001] {logging_mixin.py:115} INFO - [2022-10-10 21:38:53,001] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:53,030] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:38:53,117] {logging_mixin.py:115} INFO - [2022-10-10 21:38:53,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:38:53,146] {logging_mixin.py:115} INFO - [2022-10-10 21:38:53,146] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:38:53.028336+00:00, run_after=2022-10-10T21:43:53.028336+00:00
+[2022-10-10 21:38:53,167] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.175 seconds
+[2022-10-10 21:39:23,262] {processor.py:153} INFO - Started process (PID=8046) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:23,263] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:39:23,265] {logging_mixin.py:115} INFO - [2022-10-10 21:39:23,265] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:23,292] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:23,384] {logging_mixin.py:115} INFO - [2022-10-10 21:39:23,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:39:23,419] {logging_mixin.py:115} INFO - [2022-10-10 21:39:23,418] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:39:23.290174+00:00, run_after=2022-10-10T21:44:23.290174+00:00
+[2022-10-10 21:39:23,441] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.186 seconds
+[2022-10-10 21:39:53,729] {processor.py:153} INFO - Started process (PID=8076) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:53,732] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:39:53,734] {logging_mixin.py:115} INFO - [2022-10-10 21:39:53,734] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:53,756] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:39:53,837] {logging_mixin.py:115} INFO - [2022-10-10 21:39:53,837] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:39:53,863] {logging_mixin.py:115} INFO - [2022-10-10 21:39:53,863] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:39:53.754651+00:00, run_after=2022-10-10T21:44:53.754651+00:00
+[2022-10-10 21:39:53,880] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 21:40:24,079] {processor.py:153} INFO - Started process (PID=8097) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:24,080] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:40:24,081] {logging_mixin.py:115} INFO - [2022-10-10 21:40:24,081] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:24,106] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:24,185] {logging_mixin.py:115} INFO - [2022-10-10 21:40:24,185] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:40:24,210] {logging_mixin.py:115} INFO - [2022-10-10 21:40:24,210] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:40:24.104323+00:00, run_after=2022-10-10T21:45:24.104323+00:00
+[2022-10-10 21:40:24,228] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 21:40:54,499] {processor.py:153} INFO - Started process (PID=8126) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:54,500] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:40:54,501] {logging_mixin.py:115} INFO - [2022-10-10 21:40:54,501] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:54,524] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:40:54,602] {logging_mixin.py:115} INFO - [2022-10-10 21:40:54,602] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:40:54,627] {logging_mixin.py:115} INFO - [2022-10-10 21:40:54,627] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:40:54.522269+00:00, run_after=2022-10-10T21:45:54.522269+00:00
+[2022-10-10 21:40:54,645] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 21:41:24,801] {processor.py:153} INFO - Started process (PID=8155) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:24,804] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:41:24,805] {logging_mixin.py:115} INFO - [2022-10-10 21:41:24,805] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:24,827] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:24,907] {logging_mixin.py:115} INFO - [2022-10-10 21:41:24,906] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:41:24,931] {logging_mixin.py:115} INFO - [2022-10-10 21:41:24,931] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:41:24.825753+00:00, run_after=2022-10-10T21:46:24.825753+00:00
+[2022-10-10 21:41:24,948] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 21:41:55,235] {processor.py:153} INFO - Started process (PID=8176) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:55,238] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:41:55,239] {logging_mixin.py:115} INFO - [2022-10-10 21:41:55,239] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:55,262] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:41:55,350] {logging_mixin.py:115} INFO - [2022-10-10 21:41:55,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:41:55,376] {logging_mixin.py:115} INFO - [2022-10-10 21:41:55,375] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:41:55.260374+00:00, run_after=2022-10-10T21:46:55.260374+00:00
+[2022-10-10 21:41:55,392] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 21:42:25,597] {processor.py:153} INFO - Started process (PID=8207) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:25,598] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:42:25,600] {logging_mixin.py:115} INFO - [2022-10-10 21:42:25,599] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:25,622] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:25,703] {logging_mixin.py:115} INFO - [2022-10-10 21:42:25,703] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:42:25,731] {logging_mixin.py:115} INFO - [2022-10-10 21:42:25,731] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:42:25.619989+00:00, run_after=2022-10-10T21:47:25.619989+00:00
+[2022-10-10 21:42:25,748] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 21:42:56,017] {processor.py:153} INFO - Started process (PID=8238) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:56,020] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:42:56,022] {logging_mixin.py:115} INFO - [2022-10-10 21:42:56,022] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:56,046] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:42:56,136] {logging_mixin.py:115} INFO - [2022-10-10 21:42:56,136] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:42:56,166] {logging_mixin.py:115} INFO - [2022-10-10 21:42:56,166] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:42:56.044533+00:00, run_after=2022-10-10T21:47:56.044533+00:00
+[2022-10-10 21:42:56,183] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.171 seconds
+[2022-10-10 21:43:26,550] {processor.py:153} INFO - Started process (PID=8259) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:26,553] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:43:26,554] {logging_mixin.py:115} INFO - [2022-10-10 21:43:26,554] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:26,576] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:26,657] {logging_mixin.py:115} INFO - [2022-10-10 21:43:26,657] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:43:26,681] {logging_mixin.py:115} INFO - [2022-10-10 21:43:26,681] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:43:26.574489+00:00, run_after=2022-10-10T21:48:26.574489+00:00
+[2022-10-10 21:43:26,698] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 21:43:56,859] {processor.py:153} INFO - Started process (PID=8289) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:56,860] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:43:56,861] {logging_mixin.py:115} INFO - [2022-10-10 21:43:56,861] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:56,884] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:43:56,964] {logging_mixin.py:115} INFO - [2022-10-10 21:43:56,964] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:43:56,989] {logging_mixin.py:115} INFO - [2022-10-10 21:43:56,989] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:43:56.882197+00:00, run_after=2022-10-10T21:48:56.882197+00:00
+[2022-10-10 21:43:57,006] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 21:44:27,278] {processor.py:153} INFO - Started process (PID=8311) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:27,281] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:44:27,282] {logging_mixin.py:115} INFO - [2022-10-10 21:44:27,282] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:27,304] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:27,384] {logging_mixin.py:115} INFO - [2022-10-10 21:44:27,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:44:27,409] {logging_mixin.py:115} INFO - [2022-10-10 21:44:27,409] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:44:27.302412+00:00, run_after=2022-10-10T21:49:27.302412+00:00
+[2022-10-10 21:44:27,426] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 21:44:57,630] {processor.py:153} INFO - Started process (PID=8341) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:57,631] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:44:57,633] {logging_mixin.py:115} INFO - [2022-10-10 21:44:57,633] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:57,666] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:44:57,746] {logging_mixin.py:115} INFO - [2022-10-10 21:44:57,745] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:44:57,770] {logging_mixin.py:115} INFO - [2022-10-10 21:44:57,770] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:44:57.664021+00:00, run_after=2022-10-10T21:49:57.664021+00:00
+[2022-10-10 21:44:57,787] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:45:28,057] {processor.py:153} INFO - Started process (PID=8371) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:28,059] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:45:28,060] {logging_mixin.py:115} INFO - [2022-10-10 21:45:28,060] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:28,105] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:28,196] {logging_mixin.py:115} INFO - [2022-10-10 21:45:28,196] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:45:28,224] {logging_mixin.py:115} INFO - [2022-10-10 21:45:28,224] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:45:28.100325+00:00, run_after=2022-10-10T21:50:28.100325+00:00
+[2022-10-10 21:45:28,242] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.191 seconds
+[2022-10-10 21:45:58,352] {processor.py:153} INFO - Started process (PID=8392) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:58,354] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:45:58,355] {logging_mixin.py:115} INFO - [2022-10-10 21:45:58,355] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:58,377] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:45:58,462] {logging_mixin.py:115} INFO - [2022-10-10 21:45:58,462] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:45:58,487] {logging_mixin.py:115} INFO - [2022-10-10 21:45:58,487] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:45:58.375685+00:00, run_after=2022-10-10T21:50:58.375685+00:00
+[2022-10-10 21:45:58,509] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 21:46:28,652] {processor.py:153} INFO - Started process (PID=8424) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:28,653] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:46:28,655] {logging_mixin.py:115} INFO - [2022-10-10 21:46:28,655] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:28,681] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:28,765] {logging_mixin.py:115} INFO - [2022-10-10 21:46:28,765] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:46:28,790] {logging_mixin.py:115} INFO - [2022-10-10 21:46:28,790] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:46:28.679389+00:00, run_after=2022-10-10T21:51:28.679389+00:00
+[2022-10-10 21:46:28,808] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 21:46:58,927] {processor.py:153} INFO - Started process (PID=8445) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:58,931] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:46:58,933] {logging_mixin.py:115} INFO - [2022-10-10 21:46:58,933] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:58,959] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:46:59,039] {logging_mixin.py:115} INFO - [2022-10-10 21:46:59,039] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:46:59,065] {logging_mixin.py:115} INFO - [2022-10-10 21:46:59,065] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:46:58.957816+00:00, run_after=2022-10-10T21:51:58.957816+00:00
+[2022-10-10 21:46:59,082] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:47:29,257] {processor.py:153} INFO - Started process (PID=8476) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:29,258] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:47:29,259] {logging_mixin.py:115} INFO - [2022-10-10 21:47:29,259] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:29,281] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:29,368] {logging_mixin.py:115} INFO - [2022-10-10 21:47:29,368] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:47:29,393] {logging_mixin.py:115} INFO - [2022-10-10 21:47:29,393] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:47:29.279560+00:00, run_after=2022-10-10T21:52:29.279560+00:00
+[2022-10-10 21:47:29,409] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 21:47:59,690] {processor.py:153} INFO - Started process (PID=8506) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:59,691] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:47:59,693] {logging_mixin.py:115} INFO - [2022-10-10 21:47:59,692] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:59,715] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:47:59,798] {logging_mixin.py:115} INFO - [2022-10-10 21:47:59,798] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:47:59,828] {logging_mixin.py:115} INFO - [2022-10-10 21:47:59,827] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:47:59.712817+00:00, run_after=2022-10-10T21:52:59.712817+00:00
+[2022-10-10 21:47:59,845] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:48:30,010] {processor.py:153} INFO - Started process (PID=8528) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:48:30,011] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:48:30,012] {logging_mixin.py:115} INFO - [2022-10-10 21:48:30,012] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:48:30,035] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:48:30,115] {logging_mixin.py:115} INFO - [2022-10-10 21:48:30,115] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:48:30,141] {logging_mixin.py:115} INFO - [2022-10-10 21:48:30,141] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:48:30.032910+00:00, run_after=2022-10-10T21:53:30.032910+00:00
+[2022-10-10 21:48:30,159] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 21:49:00,419] {processor.py:153} INFO - Started process (PID=8558) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:00,420] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:49:00,421] {logging_mixin.py:115} INFO - [2022-10-10 21:49:00,421] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:00,444] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:00,525] {logging_mixin.py:115} INFO - [2022-10-10 21:49:00,525] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:49:00,550] {logging_mixin.py:115} INFO - [2022-10-10 21:49:00,550] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:49:00.442464+00:00, run_after=2022-10-10T21:54:00.442464+00:00
+[2022-10-10 21:49:00,570] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.156 seconds
+[2022-10-10 21:49:30,804] {processor.py:153} INFO - Started process (PID=8588) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:30,805] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:49:30,806] {logging_mixin.py:115} INFO - [2022-10-10 21:49:30,806] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:30,829] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:49:30,919] {logging_mixin.py:115} INFO - [2022-10-10 21:49:30,919] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:49:30,946] {logging_mixin.py:115} INFO - [2022-10-10 21:49:30,945] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:49:30.827739+00:00, run_after=2022-10-10T21:54:30.827739+00:00
+[2022-10-10 21:49:30,964] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.165 seconds
+[2022-10-10 21:50:01,136] {processor.py:153} INFO - Started process (PID=8609) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:01,137] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:50:01,138] {logging_mixin.py:115} INFO - [2022-10-10 21:50:01,138] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:01,163] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:01,249] {logging_mixin.py:115} INFO - [2022-10-10 21:50:01,248] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:50:01,276] {logging_mixin.py:115} INFO - [2022-10-10 21:50:01,276] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:50:01.161516+00:00, run_after=2022-10-10T21:55:01.161516+00:00
+[2022-10-10 21:50:01,294] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 21:50:31,535] {processor.py:153} INFO - Started process (PID=8639) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:31,536] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:50:31,538] {logging_mixin.py:115} INFO - [2022-10-10 21:50:31,538] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:31,560] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:50:31,649] {logging_mixin.py:115} INFO - [2022-10-10 21:50:31,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:50:31,675] {logging_mixin.py:115} INFO - [2022-10-10 21:50:31,675] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:50:31.558827+00:00, run_after=2022-10-10T21:55:31.558827+00:00
+[2022-10-10 21:50:31,692] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 21:51:01,869] {processor.py:153} INFO - Started process (PID=8661) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:01,871] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:51:01,872] {logging_mixin.py:115} INFO - [2022-10-10 21:51:01,872] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:01,894] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:01,974] {logging_mixin.py:115} INFO - [2022-10-10 21:51:01,974] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:51:01,998] {logging_mixin.py:115} INFO - [2022-10-10 21:51:01,998] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:51:01.892127+00:00, run_after=2022-10-10T21:56:01.892127+00:00
+[2022-10-10 21:51:02,016] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 21:51:32,274] {processor.py:153} INFO - Started process (PID=8691) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:32,275] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:51:32,276] {logging_mixin.py:115} INFO - [2022-10-10 21:51:32,276] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:32,300] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:51:32,381] {logging_mixin.py:115} INFO - [2022-10-10 21:51:32,381] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:51:32,406] {logging_mixin.py:115} INFO - [2022-10-10 21:51:32,406] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:51:32.298223+00:00, run_after=2022-10-10T21:56:32.298223+00:00
+[2022-10-10 21:51:32,423] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 21:52:02,565] {processor.py:153} INFO - Started process (PID=8721) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:02,569] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:52:02,570] {logging_mixin.py:115} INFO - [2022-10-10 21:52:02,570] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:02,594] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:02,689] {logging_mixin.py:115} INFO - [2022-10-10 21:52:02,689] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:52:02,714] {logging_mixin.py:115} INFO - [2022-10-10 21:52:02,714] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:52:02.592254+00:00, run_after=2022-10-10T21:57:02.592254+00:00
+[2022-10-10 21:52:02,731] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.170 seconds
+[2022-10-10 21:52:32,985] {processor.py:153} INFO - Started process (PID=8742) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:32,986] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:52:32,987] {logging_mixin.py:115} INFO - [2022-10-10 21:52:32,987] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:33,010] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:52:33,093] {logging_mixin.py:115} INFO - [2022-10-10 21:52:33,093] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:52:33,121] {logging_mixin.py:115} INFO - [2022-10-10 21:52:33,121] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:52:33.007968+00:00, run_after=2022-10-10T21:57:33.007968+00:00
+[2022-10-10 21:52:33,140] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:53:03,412] {processor.py:153} INFO - Started process (PID=8773) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:03,413] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:53:03,415] {logging_mixin.py:115} INFO - [2022-10-10 21:53:03,415] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:03,437] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:03,516] {logging_mixin.py:115} INFO - [2022-10-10 21:53:03,516] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:53:03,541] {logging_mixin.py:115} INFO - [2022-10-10 21:53:03,541] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:53:03.435371+00:00, run_after=2022-10-10T21:58:03.435371+00:00
+[2022-10-10 21:53:03,558] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 21:53:33,745] {processor.py:153} INFO - Started process (PID=8795) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:33,746] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:53:33,748] {logging_mixin.py:115} INFO - [2022-10-10 21:53:33,748] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:33,769] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:53:33,853] {logging_mixin.py:115} INFO - [2022-10-10 21:53:33,853] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:53:33,878] {logging_mixin.py:115} INFO - [2022-10-10 21:53:33,878] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:53:33.767892+00:00, run_after=2022-10-10T21:58:33.767892+00:00
+[2022-10-10 21:53:33,896] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.156 seconds
+[2022-10-10 21:54:04,200] {processor.py:153} INFO - Started process (PID=8825) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:04,201] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:54:04,203] {logging_mixin.py:115} INFO - [2022-10-10 21:54:04,203] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:04,226] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:04,308] {logging_mixin.py:115} INFO - [2022-10-10 21:54:04,308] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:54:04,333] {logging_mixin.py:115} INFO - [2022-10-10 21:54:04,332] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:54:04.223990+00:00, run_after=2022-10-10T21:59:04.223990+00:00
+[2022-10-10 21:54:04,353] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 21:54:34,528] {processor.py:153} INFO - Started process (PID=8855) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:34,529] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:54:34,530] {logging_mixin.py:115} INFO - [2022-10-10 21:54:34,530] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:34,552] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:54:34,636] {logging_mixin.py:115} INFO - [2022-10-10 21:54:34,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:54:34,662] {logging_mixin.py:115} INFO - [2022-10-10 21:54:34,662] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:54:34.550592+00:00, run_after=2022-10-10T21:59:34.550592+00:00
+[2022-10-10 21:54:34,680] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 21:55:04,952] {processor.py:153} INFO - Started process (PID=8877) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:04,953] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:55:04,954] {logging_mixin.py:115} INFO - [2022-10-10 21:55:04,954] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:04,976] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:05,056] {logging_mixin.py:115} INFO - [2022-10-10 21:55:05,055] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:55:05,080] {logging_mixin.py:115} INFO - [2022-10-10 21:55:05,080] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:55:04.974545+00:00, run_after=2022-10-10T22:00:04.974545+00:00
+[2022-10-10 21:55:05,097] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 21:55:35,304] {processor.py:153} INFO - Started process (PID=8907) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:35,306] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:55:35,307] {logging_mixin.py:115} INFO - [2022-10-10 21:55:35,307] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:35,329] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:55:35,408] {logging_mixin.py:115} INFO - [2022-10-10 21:55:35,407] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:55:35,433] {logging_mixin.py:115} INFO - [2022-10-10 21:55:35,433] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:55:35.327424+00:00, run_after=2022-10-10T22:00:35.327424+00:00
+[2022-10-10 21:55:35,453] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 21:56:05,683] {processor.py:153} INFO - Started process (PID=8937) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:05,684] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:56:05,685] {logging_mixin.py:115} INFO - [2022-10-10 21:56:05,685] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:05,708] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:05,794] {logging_mixin.py:115} INFO - [2022-10-10 21:56:05,794] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:56:05,820] {logging_mixin.py:115} INFO - [2022-10-10 21:56:05,820] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:56:05.706309+00:00, run_after=2022-10-10T22:01:05.706309+00:00
+[2022-10-10 21:56:05,838] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 21:56:36,070] {processor.py:153} INFO - Started process (PID=8957) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:36,071] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:56:36,072] {logging_mixin.py:115} INFO - [2022-10-10 21:56:36,072] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:36,097] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:56:36,177] {logging_mixin.py:115} INFO - [2022-10-10 21:56:36,177] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:56:36,202] {logging_mixin.py:115} INFO - [2022-10-10 21:56:36,202] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:56:36.095083+00:00, run_after=2022-10-10T22:01:36.095083+00:00
+[2022-10-10 21:56:36,218] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 21:57:06,401] {processor.py:153} INFO - Started process (PID=8988) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:06,402] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:57:06,403] {logging_mixin.py:115} INFO - [2022-10-10 21:57:06,403] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:06,425] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:06,506] {logging_mixin.py:115} INFO - [2022-10-10 21:57:06,506] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:57:06,534] {logging_mixin.py:115} INFO - [2022-10-10 21:57:06,534] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:57:06.423292+00:00, run_after=2022-10-10T22:02:06.423292+00:00
+[2022-10-10 21:57:06,549] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 21:57:36,837] {processor.py:153} INFO - Started process (PID=9009) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:36,838] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:57:36,840] {logging_mixin.py:115} INFO - [2022-10-10 21:57:36,840] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:36,861] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:57:36,944] {logging_mixin.py:115} INFO - [2022-10-10 21:57:36,944] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:57:36,973] {logging_mixin.py:115} INFO - [2022-10-10 21:57:36,973] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:57:36.859760+00:00, run_after=2022-10-10T22:02:36.859760+00:00
+[2022-10-10 21:57:36,991] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 21:58:07,150] {processor.py:153} INFO - Started process (PID=9039) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:07,151] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:58:07,152] {logging_mixin.py:115} INFO - [2022-10-10 21:58:07,152] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:07,175] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:07,256] {logging_mixin.py:115} INFO - [2022-10-10 21:58:07,255] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:58:07,281] {logging_mixin.py:115} INFO - [2022-10-10 21:58:07,281] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:58:07.173428+00:00, run_after=2022-10-10T22:03:07.173428+00:00
+[2022-10-10 21:58:07,300] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 21:58:37,460] {processor.py:153} INFO - Started process (PID=9070) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:37,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:58:37,467] {logging_mixin.py:115} INFO - [2022-10-10 21:58:37,467] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:37,512] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:58:37,661] {logging_mixin.py:115} INFO - [2022-10-10 21:58:37,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:58:37,699] {logging_mixin.py:115} INFO - [2022-10-10 21:58:37,699] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:58:37.509997+00:00, run_after=2022-10-10T22:03:37.509997+00:00
+[2022-10-10 21:58:37,724] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.275 seconds
+[2022-10-10 21:59:07,929] {processor.py:153} INFO - Started process (PID=9091) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:07,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:59:07,933] {logging_mixin.py:115} INFO - [2022-10-10 21:59:07,933] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:07,956] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:08,037] {logging_mixin.py:115} INFO - [2022-10-10 21:59:08,037] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:59:08,062] {logging_mixin.py:115} INFO - [2022-10-10 21:59:08,062] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:59:07.954862+00:00, run_after=2022-10-10T22:04:07.954862+00:00
+[2022-10-10 21:59:08,080] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 21:59:38,263] {processor.py:153} INFO - Started process (PID=9120) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:38,266] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 21:59:38,268] {logging_mixin.py:115} INFO - [2022-10-10 21:59:38,268] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:38,292] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 21:59:38,377] {logging_mixin.py:115} INFO - [2022-10-10 21:59:38,376] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:59:38,405] {logging_mixin.py:115} INFO - [2022-10-10 21:59:38,405] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T21:59:38.290209+00:00, run_after=2022-10-10T22:04:38.290209+00:00
+[2022-10-10 21:59:38,425] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.167 seconds
+[2022-10-10 22:00:08,603] {processor.py:153} INFO - Started process (PID=9141) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:08,606] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:00:08,608] {logging_mixin.py:115} INFO - [2022-10-10 22:00:08,607] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:08,630] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:08,721] {logging_mixin.py:115} INFO - [2022-10-10 22:00:08,721] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:00:08,752] {logging_mixin.py:115} INFO - [2022-10-10 22:00:08,752] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:00:08.627902+00:00, run_after=2022-10-10T22:05:08.627902+00:00
+[2022-10-10 22:00:08,767] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.169 seconds
+[2022-10-10 22:00:38,972] {processor.py:153} INFO - Started process (PID=9171) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:38,973] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:00:38,974] {logging_mixin.py:115} INFO - [2022-10-10 22:00:38,974] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:38,997] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:00:39,078] {logging_mixin.py:115} INFO - [2022-10-10 22:00:39,078] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:00:39,103] {logging_mixin.py:115} INFO - [2022-10-10 22:00:39,102] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:00:38.995058+00:00, run_after=2022-10-10T22:05:38.995058+00:00
+[2022-10-10 22:00:39,121] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 22:01:09,355] {processor.py:153} INFO - Started process (PID=9201) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:09,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:01:09,358] {logging_mixin.py:115} INFO - [2022-10-10 22:01:09,358] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:09,387] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:09,479] {logging_mixin.py:115} INFO - [2022-10-10 22:01:09,478] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:01:09,508] {logging_mixin.py:115} INFO - [2022-10-10 22:01:09,507] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:01:09.385216+00:00, run_after=2022-10-10T22:06:09.385216+00:00
+[2022-10-10 22:01:09,526] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.178 seconds
+[2022-10-10 22:01:39,641] {processor.py:153} INFO - Started process (PID=9222) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:39,642] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:01:39,643] {logging_mixin.py:115} INFO - [2022-10-10 22:01:39,643] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:39,667] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:01:39,752] {logging_mixin.py:115} INFO - [2022-10-10 22:01:39,752] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:01:39,780] {logging_mixin.py:115} INFO - [2022-10-10 22:01:39,780] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:01:39.665739+00:00, run_after=2022-10-10T22:06:39.665739+00:00
+[2022-10-10 22:01:39,799] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 22:02:10,067] {processor.py:153} INFO - Started process (PID=9251) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:10,068] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:02:10,069] {logging_mixin.py:115} INFO - [2022-10-10 22:02:10,069] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:10,091] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:10,172] {logging_mixin.py:115} INFO - [2022-10-10 22:02:10,172] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:02:10,198] {logging_mixin.py:115} INFO - [2022-10-10 22:02:10,198] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:02:10.089366+00:00, run_after=2022-10-10T22:07:10.089366+00:00
+[2022-10-10 22:02:10,215] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 22:02:40,331] {processor.py:153} INFO - Started process (PID=9272) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:40,334] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:02:40,336] {logging_mixin.py:115} INFO - [2022-10-10 22:02:40,336] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:40,371] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:02:40,452] {logging_mixin.py:115} INFO - [2022-10-10 22:02:40,452] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:02:40,477] {logging_mixin.py:115} INFO - [2022-10-10 22:02:40,477] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:02:40.369265+00:00, run_after=2022-10-10T22:07:40.369265+00:00
+[2022-10-10 22:02:40,496] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.172 seconds
+[2022-10-10 22:03:10,603] {processor.py:153} INFO - Started process (PID=9302) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:10,606] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:03:10,608] {logging_mixin.py:115} INFO - [2022-10-10 22:03:10,608] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:10,631] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:10,713] {logging_mixin.py:115} INFO - [2022-10-10 22:03:10,713] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:03:10,738] {logging_mixin.py:115} INFO - [2022-10-10 22:03:10,738] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:03:10.629154+00:00, run_after=2022-10-10T22:08:10.629154+00:00
+[2022-10-10 22:03:10,755] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 22:03:41,004] {processor.py:153} INFO - Started process (PID=9331) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:41,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:03:41,008] {logging_mixin.py:115} INFO - [2022-10-10 22:03:41,008] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:41,036] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:03:41,119] {logging_mixin.py:115} INFO - [2022-10-10 22:03:41,119] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:03:41,147] {logging_mixin.py:115} INFO - [2022-10-10 22:03:41,147] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:03:41.034103+00:00, run_after=2022-10-10T22:08:41.034103+00:00
+[2022-10-10 22:03:41,168] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.171 seconds
+[2022-10-10 22:04:11,288] {processor.py:153} INFO - Started process (PID=9351) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:11,291] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:04:11,292] {logging_mixin.py:115} INFO - [2022-10-10 22:04:11,292] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:11,315] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:11,395] {logging_mixin.py:115} INFO - [2022-10-10 22:04:11,395] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:04:11,421] {logging_mixin.py:115} INFO - [2022-10-10 22:04:11,420] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:04:11.312871+00:00, run_after=2022-10-10T22:09:11.312871+00:00
+[2022-10-10 22:04:11,438] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 22:04:41,710] {processor.py:153} INFO - Started process (PID=9381) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:41,713] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:04:41,714] {logging_mixin.py:115} INFO - [2022-10-10 22:04:41,714] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:41,755] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:04:41,836] {logging_mixin.py:115} INFO - [2022-10-10 22:04:41,835] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:04:41,861] {logging_mixin.py:115} INFO - [2022-10-10 22:04:41,861] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:04:41.753463+00:00, run_after=2022-10-10T22:09:41.753463+00:00
+[2022-10-10 22:04:41,878] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.172 seconds
+[2022-10-10 22:05:12,029] {processor.py:153} INFO - Started process (PID=9402) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:12,032] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:05:12,034] {logging_mixin.py:115} INFO - [2022-10-10 22:05:12,033] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:12,056] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:12,138] {logging_mixin.py:115} INFO - [2022-10-10 22:05:12,137] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:05:12,164] {logging_mixin.py:115} INFO - [2022-10-10 22:05:12,164] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:05:12.054214+00:00, run_after=2022-10-10T22:10:12.054214+00:00
+[2022-10-10 22:05:12,190] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.165 seconds
+[2022-10-10 22:05:42,324] {processor.py:153} INFO - Started process (PID=9433) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:42,328] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:05:42,329] {logging_mixin.py:115} INFO - [2022-10-10 22:05:42,328] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:42,355] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:05:42,437] {logging_mixin.py:115} INFO - [2022-10-10 22:05:42,437] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:05:42,462] {logging_mixin.py:115} INFO - [2022-10-10 22:05:42,462] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:05:42.353694+00:00, run_after=2022-10-10T22:10:42.353694+00:00
+[2022-10-10 22:05:42,480] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 22:06:12,765] {processor.py:153} INFO - Started process (PID=9462) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:12,768] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:06:12,769] {logging_mixin.py:115} INFO - [2022-10-10 22:06:12,769] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:12,795] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:12,880] {logging_mixin.py:115} INFO - [2022-10-10 22:06:12,880] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:06:12,905] {logging_mixin.py:115} INFO - [2022-10-10 22:06:12,905] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:06:12.793434+00:00, run_after=2022-10-10T22:11:12.793434+00:00
+[2022-10-10 22:06:12,924] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 22:06:43,057] {processor.py:153} INFO - Started process (PID=9483) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:43,058] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:06:43,060] {logging_mixin.py:115} INFO - [2022-10-10 22:06:43,060] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:43,082] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:06:43,162] {logging_mixin.py:115} INFO - [2022-10-10 22:06:43,162] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:06:43,187] {logging_mixin.py:115} INFO - [2022-10-10 22:06:43,187] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:06:43.079911+00:00, run_after=2022-10-10T22:11:43.079911+00:00
+[2022-10-10 22:06:43,204] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 22:07:13,335] {processor.py:153} INFO - Started process (PID=9514) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:13,336] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:07:13,338] {logging_mixin.py:115} INFO - [2022-10-10 22:07:13,337] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:13,361] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:13,444] {logging_mixin.py:115} INFO - [2022-10-10 22:07:13,444] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:07:13,469] {logging_mixin.py:115} INFO - [2022-10-10 22:07:13,469] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:07:13.359074+00:00, run_after=2022-10-10T22:12:13.359074+00:00
+[2022-10-10 22:07:13,486] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.156 seconds
+[2022-10-10 22:07:43,726] {processor.py:153} INFO - Started process (PID=9544) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:43,728] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:07:43,729] {logging_mixin.py:115} INFO - [2022-10-10 22:07:43,729] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:43,755] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:07:43,846] {logging_mixin.py:115} INFO - [2022-10-10 22:07:43,846] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:07:43,875] {logging_mixin.py:115} INFO - [2022-10-10 22:07:43,874] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:07:43.753236+00:00, run_after=2022-10-10T22:12:43.753236+00:00
+[2022-10-10 22:07:43,893] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.171 seconds
+[2022-10-10 22:08:14,022] {processor.py:153} INFO - Started process (PID=9565) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:14,023] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:08:14,024] {logging_mixin.py:115} INFO - [2022-10-10 22:08:14,024] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:14,046] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:14,128] {logging_mixin.py:115} INFO - [2022-10-10 22:08:14,127] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:08:14,160] {logging_mixin.py:115} INFO - [2022-10-10 22:08:14,159] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:08:14.045025+00:00, run_after=2022-10-10T22:13:14.045025+00:00
+[2022-10-10 22:08:14,180] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 22:08:44,468] {processor.py:153} INFO - Started process (PID=9596) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:44,470] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:08:44,471] {logging_mixin.py:115} INFO - [2022-10-10 22:08:44,471] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:44,493] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:08:44,573] {logging_mixin.py:115} INFO - [2022-10-10 22:08:44,573] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:08:44,598] {logging_mixin.py:115} INFO - [2022-10-10 22:08:44,598] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:08:44.491480+00:00, run_after=2022-10-10T22:13:44.491480+00:00
+[2022-10-10 22:08:44,615] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 22:09:14,768] {processor.py:153} INFO - Started process (PID=9618) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:14,770] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:09:14,771] {logging_mixin.py:115} INFO - [2022-10-10 22:09:14,771] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:14,793] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:14,874] {logging_mixin.py:115} INFO - [2022-10-10 22:09:14,874] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:09:14,899] {logging_mixin.py:115} INFO - [2022-10-10 22:09:14,899] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:09:14.791374+00:00, run_after=2022-10-10T22:14:14.791374+00:00
+[2022-10-10 22:09:14,918] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 22:09:45,166] {processor.py:153} INFO - Started process (PID=9648) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:45,167] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:09:45,168] {logging_mixin.py:115} INFO - [2022-10-10 22:09:45,168] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:45,191] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:09:45,275] {logging_mixin.py:115} INFO - [2022-10-10 22:09:45,275] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:09:45,300] {logging_mixin.py:115} INFO - [2022-10-10 22:09:45,300] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:09:45.189330+00:00, run_after=2022-10-10T22:14:45.189330+00:00
+[2022-10-10 22:09:45,319] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 22:10:15,931] {processor.py:153} INFO - Started process (PID=9677) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:10:15,932] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:10:15,934] {logging_mixin.py:115} INFO - [2022-10-10 22:10:15,934] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:10:15,973] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:10:16,088] {logging_mixin.py:115} INFO - [2022-10-10 22:10:16,088] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:10:16,126] {logging_mixin.py:115} INFO - [2022-10-10 22:10:16,126] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:10:15.967696+00:00, run_after=2022-10-10T22:15:15.967696+00:00
+[2022-10-10 22:10:16,148] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.222 seconds
+[2022-10-10 22:17:31,314] {processor.py:153} INFO - Started process (PID=9681) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:17:31,315] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:17:31,317] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,316] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:17:31,340] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:17:31,439] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:17:31,476] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,476] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:17:31.338527+00:00, run_after=2022-10-10T22:22:31.338527+00:00
+[2022-10-10 22:17:31,495] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.186 seconds
+[2022-10-10 22:18:01,648] {processor.py:153} INFO - Started process (PID=9711) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:01,649] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:18:01,651] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,651] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:01,672] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:01,752] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,752] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:18:01,777] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,777] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:18:01.670269+00:00, run_after=2022-10-10T22:23:01.670269+00:00
+[2022-10-10 22:18:01,792] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.149 seconds
+[2022-10-10 22:18:31,956] {processor.py:153} INFO - Started process (PID=9732) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:31,958] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:18:31,959] {logging_mixin.py:115} INFO - [2022-10-10 22:18:31,959] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:31,981] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:18:32,093] {logging_mixin.py:115} INFO - [2022-10-10 22:18:32,093] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:18:32,125] {logging_mixin.py:115} INFO - [2022-10-10 22:18:32,124] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:18:31.979760+00:00, run_after=2022-10-10T22:23:31.979760+00:00
+[2022-10-10 22:18:32,140] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.190 seconds
+[2022-10-10 22:19:02,221] {processor.py:153} INFO - Started process (PID=9762) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:02,223] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:19:02,224] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,224] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:02,246] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:02,328] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,328] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:19:02,354] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,354] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:19:02.244550+00:00, run_after=2022-10-10T22:24:02.244550+00:00
+[2022-10-10 22:19:02,372] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 22:19:32,525] {processor.py:153} INFO - Started process (PID=9792) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:32,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:19:32,529] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,528] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:32,559] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:19:32,649] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:19:32,680] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,679] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:19:32.557357+00:00, run_after=2022-10-10T22:24:32.557357+00:00
+[2022-10-10 22:19:32,701] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.181 seconds
+[2022-10-10 22:20:02,863] {processor.py:153} INFO - Started process (PID=9813) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:02,864] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:20:02,865] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,865] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:02,888] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:02,971] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,970] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:20:02,997] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,997] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:20:02.886271+00:00, run_after=2022-10-10T22:25:02.886271+00:00
+[2022-10-10 22:20:03,015] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 22:20:33,136] {processor.py:153} INFO - Started process (PID=9843) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:33,138] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:20:33,139] {logging_mixin.py:115} INFO - [2022-10-10 22:20:33,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:33,162] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:20:33,241] {logging_mixin.py:115} INFO - [2022-10-10 22:20:33,241] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:20:33,266] {logging_mixin.py:115} INFO - [2022-10-10 22:20:33,266] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:20:33.160072+00:00, run_after=2022-10-10T22:25:33.160072+00:00
+[2022-10-10 22:20:33,282] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.150 seconds
+[2022-10-10 22:21:03,406] {processor.py:153} INFO - Started process (PID=9863) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:03,408] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:21:03,409] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,409] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:03,431] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:03,527] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,527] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:21:03,552] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,552] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:21:03.429761+00:00, run_after=2022-10-10T22:26:03.429761+00:00
+[2022-10-10 22:21:03,569] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.168 seconds
+[2022-10-10 22:21:33,693] {processor.py:153} INFO - Started process (PID=9893) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:33,694] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:21:33,696] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,696] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:33,718] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:21:33,801] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,801] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:21:33,825] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,825] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:21:33.716608+00:00, run_after=2022-10-10T22:26:33.716608+00:00
+[2022-10-10 22:21:33,849] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 22:22:04,026] {processor.py:153} INFO - Started process (PID=9924) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:04,027] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:22:04,029] {logging_mixin.py:115} INFO - [2022-10-10 22:22:04,029] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:04,051] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:04,130] {logging_mixin.py:115} INFO - [2022-10-10 22:22:04,130] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:22:04,155] {logging_mixin.py:115} INFO - [2022-10-10 22:22:04,155] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:22:04.048911+00:00, run_after=2022-10-10T22:27:04.048911+00:00
+[2022-10-10 22:22:04,175] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 22:22:34,325] {processor.py:153} INFO - Started process (PID=9945) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:34,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:22:34,329] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,329] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:34,356] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:22:34,434] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,434] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:22:34,460] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,460] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:22:34.353187+00:00, run_after=2022-10-10T22:27:34.353187+00:00
+[2022-10-10 22:22:34,478] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 22:23:04,594] {processor.py:153} INFO - Started process (PID=9974) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:04,595] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:23:04,596] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,596] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:04,617] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:04,704] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,704] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:23:04,729] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,728] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:23:04.615880+00:00, run_after=2022-10-10T22:28:04.615880+00:00
+[2022-10-10 22:23:04,744] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 22:23:34,874] {processor.py:153} INFO - Started process (PID=9996) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:34,876] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:23:34,877] {logging_mixin.py:115} INFO - [2022-10-10 22:23:34,877] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:34,899] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:23:34,979] {logging_mixin.py:115} INFO - [2022-10-10 22:23:34,979] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:23:35,005] {logging_mixin.py:115} INFO - [2022-10-10 22:23:35,004] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:23:34.897235+00:00, run_after=2022-10-10T22:28:34.897235+00:00
+[2022-10-10 22:23:35,020] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.150 seconds
+[2022-10-10 22:24:05,157] {processor.py:153} INFO - Started process (PID=10026) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:05,158] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:24:05,159] {logging_mixin.py:115} INFO - [2022-10-10 22:24:05,159] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:05,181] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:05,263] {logging_mixin.py:115} INFO - [2022-10-10 22:24:05,262] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:24:05,289] {logging_mixin.py:115} INFO - [2022-10-10 22:24:05,288] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:24:05.179276+00:00, run_after=2022-10-10T22:29:05.179276+00:00
+[2022-10-10 22:24:05,305] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 22:24:35,527] {processor.py:153} INFO - Started process (PID=10056) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:35,529] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:24:35,530] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,530] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:35,553] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:24:35,637] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:24:35,665] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,665] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:24:35.551065+00:00, run_after=2022-10-10T22:29:35.551065+00:00
+[2022-10-10 22:24:35,684] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 22:25:05,862] {processor.py:153} INFO - Started process (PID=10078) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:05,863] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:25:05,865] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,864] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:05,887] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:05,968] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,968] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:25:05,995] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,995] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:25:05.885824+00:00, run_after=2022-10-10T22:30:05.885824+00:00
+[2022-10-10 22:25:06,010] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.153 seconds
+[2022-10-10 22:25:36,158] {processor.py:153} INFO - Started process (PID=10108) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:36,159] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:25:36,160] {logging_mixin.py:115} INFO - [2022-10-10 22:25:36,160] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:36,182] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:25:36,262] {logging_mixin.py:115} INFO - [2022-10-10 22:25:36,262] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:25:36,287] {logging_mixin.py:115} INFO - [2022-10-10 22:25:36,287] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:25:36.180384+00:00, run_after=2022-10-10T22:30:36.180384+00:00
+[2022-10-10 22:25:36,305] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 22:26:06,493] {processor.py:153} INFO - Started process (PID=10129) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:06,494] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:26:06,495] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,495] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:06,517] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:06,642] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,642] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:26:06,675] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,675] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:26:06.514932+00:00, run_after=2022-10-10T22:31:06.514932+00:00
+[2022-10-10 22:26:06,693] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.205 seconds
+[2022-10-10 22:26:36,808] {processor.py:153} INFO - Started process (PID=10158) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:36,810] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:26:36,811] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,811] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:36,833] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:26:36,913] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,913] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:26:36,939] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,939] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:26:36.831404+00:00, run_after=2022-10-10T22:31:36.831404+00:00
+[2022-10-10 22:26:36,956] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 22:27:07,096] {processor.py:153} INFO - Started process (PID=10188) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:07,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:27:07,099] {logging_mixin.py:115} INFO - [2022-10-10 22:27:07,099] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:07,122] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:07,202] {logging_mixin.py:115} INFO - [2022-10-10 22:27:07,202] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:27:07,230] {logging_mixin.py:115} INFO - [2022-10-10 22:27:07,230] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:27:07.120834+00:00, run_after=2022-10-10T22:32:07.120834+00:00
+[2022-10-10 22:27:07,248] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 22:27:37,408] {processor.py:153} INFO - Started process (PID=10209) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:37,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:27:37,411] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,411] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:37,434] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:27:37,514] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,514] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:27:37,540] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,540] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:27:37.432679+00:00, run_after=2022-10-10T22:32:37.432679+00:00
+[2022-10-10 22:27:37,558] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.154 seconds
+[2022-10-10 22:28:07,759] {processor.py:153} INFO - Started process (PID=10239) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:07,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:28:07,762] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:07,785] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:07,870] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,870] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:28:07,896] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,896] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:28:07.783425+00:00, run_after=2022-10-10T22:33:07.783425+00:00
+[2022-10-10 22:28:07,915] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.161 seconds
+[2022-10-10 22:28:38,176] {processor.py:153} INFO - Started process (PID=10269) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:38,177] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:28:38,178] {logging_mixin.py:115} INFO - [2022-10-10 22:28:38,178] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:38,207] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:28:38,300] {logging_mixin.py:115} INFO - [2022-10-10 22:28:38,300] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:28:38,332] {logging_mixin.py:115} INFO - [2022-10-10 22:28:38,332] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:28:38.204148+00:00, run_after=2022-10-10T22:33:38.204148+00:00
+[2022-10-10 22:28:38,353] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.182 seconds
+[2022-10-10 22:29:08,496] {processor.py:153} INFO - Started process (PID=10290) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:08,497] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:29:08,499] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,499] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:08,526] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:08,627] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,627] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:29:08,655] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,654] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:29:08.524220+00:00, run_after=2022-10-10T22:34:08.524220+00:00
+[2022-10-10 22:29:08,670] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.180 seconds
+[2022-10-10 22:29:39,195] {processor.py:153} INFO - Started process (PID=10319) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:39,196] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:29:39,198] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:39,220] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:29:39,304] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,304] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:29:39,333] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,333] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:29:39.218544+00:00, run_after=2022-10-10T22:34:39.218544+00:00
+[2022-10-10 22:29:39,353] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 22:43:29,541] {processor.py:153} INFO - Started process (PID=10340) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:43:29,544] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:43:29,547] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,546] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:43:29,594] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:43:29,773] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,772] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:43:29,816] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,815] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:43:29.589613+00:00, run_after=2022-10-10T22:48:29.589613+00:00
+[2022-10-10 22:43:29,847] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.316 seconds
+[2022-10-10 22:44:00,814] {processor.py:153} INFO - Started process (PID=10361) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:00,815] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:44:00,816] {logging_mixin.py:115} INFO - [2022-10-10 22:44:00,816] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:00,839] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:01,001] {logging_mixin.py:115} INFO - [2022-10-10 22:44:01,001] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:44:01,028] {logging_mixin.py:115} INFO - [2022-10-10 22:44:01,028] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:44:00.836624+00:00, run_after=2022-10-10T22:49:00.836624+00:00
+[2022-10-10 22:44:01,045] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.236 seconds
+[2022-10-10 22:44:31,105] {processor.py:153} INFO - Started process (PID=10391) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:31,106] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:44:31,108] {logging_mixin.py:115} INFO - [2022-10-10 22:44:31,107] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:31,132] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:44:31,214] {logging_mixin.py:115} INFO - [2022-10-10 22:44:31,214] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:44:31,243] {logging_mixin.py:115} INFO - [2022-10-10 22:44:31,243] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:44:31.130285+00:00, run_after=2022-10-10T22:49:31.130285+00:00
+[2022-10-10 22:44:31,261] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.160 seconds
+[2022-10-10 22:45:01,375] {processor.py:153} INFO - Started process (PID=10412) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:01,376] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:45:01,377] {logging_mixin.py:115} INFO - [2022-10-10 22:45:01,377] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:01,402] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:01,490] {logging_mixin.py:115} INFO - [2022-10-10 22:45:01,490] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:45:01,514] {logging_mixin.py:115} INFO - [2022-10-10 22:45:01,514] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:45:01.400862+00:00, run_after=2022-10-10T22:50:01.400862+00:00
+[2022-10-10 22:45:01,529] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.162 seconds
+[2022-10-10 22:45:31,605] {processor.py:153} INFO - Started process (PID=10442) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:31,607] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:45:31,608] {logging_mixin.py:115} INFO - [2022-10-10 22:45:31,608] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:31,631] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:45:31,714] {logging_mixin.py:115} INFO - [2022-10-10 22:45:31,713] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:45:31,739] {logging_mixin.py:115} INFO - [2022-10-10 22:45:31,739] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:45:31.629888+00:00, run_after=2022-10-10T22:50:31.629888+00:00
+[2022-10-10 22:45:31,756] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.156 seconds
+[2022-10-10 22:46:01,838] {processor.py:153} INFO - Started process (PID=10473) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:01,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:46:01,842] {logging_mixin.py:115} INFO - [2022-10-10 22:46:01,842] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:01,865] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:01,957] {logging_mixin.py:115} INFO - [2022-10-10 22:46:01,957] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:46:02,005] {logging_mixin.py:115} INFO - [2022-10-10 22:46:02,005] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:46:01.864062+00:00, run_after=2022-10-10T22:51:01.864062+00:00
+[2022-10-10 22:46:02,039] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.206 seconds
+[2022-10-10 22:46:32,115] {processor.py:153} INFO - Started process (PID=10494) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:32,116] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:46:32,118] {logging_mixin.py:115} INFO - [2022-10-10 22:46:32,117] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:32,153] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:46:32,242] {logging_mixin.py:115} INFO - [2022-10-10 22:46:32,242] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:46:32,268] {logging_mixin.py:115} INFO - [2022-10-10 22:46:32,267] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:46:32.149737+00:00, run_after=2022-10-10T22:51:32.149737+00:00
+[2022-10-10 22:46:32,286] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.175 seconds
+[2022-10-10 22:47:02,418] {processor.py:153} INFO - Started process (PID=10524) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:02,419] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:47:02,420] {logging_mixin.py:115} INFO - [2022-10-10 22:47:02,420] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:02,443] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:02,534] {logging_mixin.py:115} INFO - [2022-10-10 22:47:02,533] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:47:02,559] {logging_mixin.py:115} INFO - [2022-10-10 22:47:02,559] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:47:02.441831+00:00, run_after=2022-10-10T22:52:02.441831+00:00
+[2022-10-10 22:47:02,585] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.171 seconds
+[2022-10-10 22:47:32,700] {processor.py:153} INFO - Started process (PID=10545) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:32,701] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:47:32,702] {logging_mixin.py:115} INFO - [2022-10-10 22:47:32,702] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:32,726] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:47:32,817] {logging_mixin.py:115} INFO - [2022-10-10 22:47:32,817] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:47:32,842] {logging_mixin.py:115} INFO - [2022-10-10 22:47:32,842] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:47:32.724557+00:00, run_after=2022-10-10T22:52:32.724557+00:00
+[2022-10-10 22:47:32,859] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.163 seconds
+[2022-10-10 22:48:02,972] {processor.py:153} INFO - Started process (PID=10575) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:02,973] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:48:02,974] {logging_mixin.py:115} INFO - [2022-10-10 22:48:02,974] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:02,995] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:03,079] {logging_mixin.py:115} INFO - [2022-10-10 22:48:03,079] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:48:03,107] {logging_mixin.py:115} INFO - [2022-10-10 22:48:03,107] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:48:02.993203+00:00, run_after=2022-10-10T22:53:02.993203+00:00
+[2022-10-10 22:48:03,124] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.157 seconds
+[2022-10-10 22:48:33,295] {processor.py:153} INFO - Started process (PID=10604) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:33,296] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:48:33,298] {logging_mixin.py:115} INFO - [2022-10-10 22:48:33,298] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:33,331] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:48:33,439] {logging_mixin.py:115} INFO - [2022-10-10 22:48:33,439] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:48:33,469] {logging_mixin.py:115} INFO - [2022-10-10 22:48:33,469] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:48:33.325876+00:00, run_after=2022-10-10T22:53:33.325876+00:00
+[2022-10-10 22:48:33,489] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.202 seconds
+[2022-10-10 22:49:03,557] {processor.py:153} INFO - Started process (PID=10626) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:03,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:49:03,559] {logging_mixin.py:115} INFO - [2022-10-10 22:49:03,559] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:03,584] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:03,664] {logging_mixin.py:115} INFO - [2022-10-10 22:49:03,664] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:49:03,690] {logging_mixin.py:115} INFO - [2022-10-10 22:49:03,690] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:49:03.582317+00:00, run_after=2022-10-10T22:54:03.582317+00:00
+[2022-10-10 22:49:03,707] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 22:49:33,878] {processor.py:153} INFO - Started process (PID=10656) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:33,879] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:49:33,881] {logging_mixin.py:115} INFO - [2022-10-10 22:49:33,880] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:33,905] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:49:33,998] {logging_mixin.py:115} INFO - [2022-10-10 22:49:33,998] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:49:34,029] {logging_mixin.py:115} INFO - [2022-10-10 22:49:34,029] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:49:33.903126+00:00, run_after=2022-10-10T22:54:33.903126+00:00
+[2022-10-10 22:49:34,044] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.170 seconds
+[2022-10-10 22:50:04,196] {processor.py:153} INFO - Started process (PID=10677) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:04,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:50:04,198] {logging_mixin.py:115} INFO - [2022-10-10 22:50:04,197] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:04,220] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:04,303] {logging_mixin.py:115} INFO - [2022-10-10 22:50:04,303] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:50:04,329] {logging_mixin.py:115} INFO - [2022-10-10 22:50:04,329] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:50:04.218517+00:00, run_after=2022-10-10T22:55:04.218517+00:00
+[2022-10-10 22:50:04,344] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.152 seconds
+[2022-10-10 22:50:34,464] {processor.py:153} INFO - Started process (PID=10706) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:34,465] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:50:34,467] {logging_mixin.py:115} INFO - [2022-10-10 22:50:34,467] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:34,489] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:50:34,570] {logging_mixin.py:115} INFO - [2022-10-10 22:50:34,570] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:50:34,596] {logging_mixin.py:115} INFO - [2022-10-10 22:50:34,596] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:50:34.487117+00:00, run_after=2022-10-10T22:55:34.487117+00:00
+[2022-10-10 22:50:34,615] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.155 seconds
+[2022-10-10 22:51:04,839] {processor.py:153} INFO - Started process (PID=10737) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:04,840] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:51:04,842] {logging_mixin.py:115} INFO - [2022-10-10 22:51:04,842] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:04,867] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:04,974] {logging_mixin.py:115} INFO - [2022-10-10 22:51:04,974] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:51:05,005] {logging_mixin.py:115} INFO - [2022-10-10 22:51:05,005] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:51:04.865525+00:00, run_after=2022-10-10T22:56:04.865525+00:00
+[2022-10-10 22:51:05,029] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.196 seconds
+[2022-10-10 22:51:35,145] {processor.py:153} INFO - Started process (PID=10758) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:35,147] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:51:35,148] {logging_mixin.py:115} INFO - [2022-10-10 22:51:35,148] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:35,172] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:51:35,257] {logging_mixin.py:115} INFO - [2022-10-10 22:51:35,257] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:51:35,281] {logging_mixin.py:115} INFO - [2022-10-10 22:51:35,281] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:51:35.170709+00:00, run_after=2022-10-10T22:56:35.170709+00:00
+[2022-10-10 22:51:35,300] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 22:52:05,473] {processor.py:153} INFO - Started process (PID=10789) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:05,475] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:52:05,477] {logging_mixin.py:115} INFO - [2022-10-10 22:52:05,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:05,505] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:05,589] {logging_mixin.py:115} INFO - [2022-10-10 22:52:05,589] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:52:05,618] {logging_mixin.py:115} INFO - [2022-10-10 22:52:05,618] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:52:05.502968+00:00, run_after=2022-10-10T22:57:05.502968+00:00
+[2022-10-10 22:52:05,637] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.174 seconds
+[2022-10-10 22:52:35,759] {processor.py:153} INFO - Started process (PID=10810) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:35,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:52:35,761] {logging_mixin.py:115} INFO - [2022-10-10 22:52:35,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:35,786] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:52:35,869] {logging_mixin.py:115} INFO - [2022-10-10 22:52:35,869] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:52:35,894] {logging_mixin.py:115} INFO - [2022-10-10 22:52:35,894] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:52:35.784237+00:00, run_after=2022-10-10T22:57:35.784237+00:00
+[2022-10-10 22:52:35,913] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.158 seconds
+[2022-10-10 22:53:06,044] {processor.py:153} INFO - Started process (PID=10840) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:06,045] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:53:06,046] {logging_mixin.py:115} INFO - [2022-10-10 22:53:06,046] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:06,069] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:06,166] {logging_mixin.py:115} INFO - [2022-10-10 22:53:06,166] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:53:06,194] {logging_mixin.py:115} INFO - [2022-10-10 22:53:06,194] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:53:06.067692+00:00, run_after=2022-10-10T22:58:06.067692+00:00
+[2022-10-10 22:53:06,213] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.173 seconds
+[2022-10-10 22:53:36,292] {processor.py:153} INFO - Started process (PID=10870) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:36,293] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:53:36,295] {logging_mixin.py:115} INFO - [2022-10-10 22:53:36,295] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:36,320] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:53:36,413] {logging_mixin.py:115} INFO - [2022-10-10 22:53:36,413] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:53:36,443] {logging_mixin.py:115} INFO - [2022-10-10 22:53:36,442] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:53:36.317154+00:00, run_after=2022-10-10T22:58:36.317154+00:00
+[2022-10-10 22:53:36,460] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.173 seconds
+[2022-10-10 22:54:06,552] {processor.py:153} INFO - Started process (PID=10891) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:06,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:54:06,555] {logging_mixin.py:115} INFO - [2022-10-10 22:54:06,555] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:06,579] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:06,661] {logging_mixin.py:115} INFO - [2022-10-10 22:54:06,661] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:54:06,685] {logging_mixin.py:115} INFO - [2022-10-10 22:54:06,685] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:54:06.577275+00:00, run_after=2022-10-10T22:59:06.577275+00:00
+[2022-10-10 22:54:06,711] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.164 seconds
+[2022-10-10 22:54:36,842] {processor.py:153} INFO - Started process (PID=10923) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:36,843] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:54:36,844] {logging_mixin.py:115} INFO - [2022-10-10 22:54:36,844] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:36,866] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:54:36,951] {logging_mixin.py:115} INFO - [2022-10-10 22:54:36,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:54:36,977] {logging_mixin.py:115} INFO - [2022-10-10 22:54:36,977] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:54:36.864019+00:00, run_after=2022-10-10T22:59:36.864019+00:00
+[2022-10-10 22:54:36,996] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.159 seconds
+[2022-10-10 22:55:07,723] {processor.py:153} INFO - Started process (PID=10944) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:55:07,725] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 22:55:07,728] {logging_mixin.py:115} INFO - [2022-10-10 22:55:07,727] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:55:07,764] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 22:55:07,883] {logging_mixin.py:115} INFO - [2022-10-10 22:55:07,883] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:55:07,921] {logging_mixin.py:115} INFO - [2022-10-10 22:55:07,921] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T22:55:07.760231+00:00, run_after=2022-10-10T23:00:07.760231+00:00
+[2022-10-10 22:55:07,941] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.223 seconds
+[2022-10-10 23:24:59,304] {processor.py:153} INFO - Started process (PID=10963) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:24:59,307] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:24:59,309] {logging_mixin.py:115} INFO - [2022-10-10 23:24:59,309] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:24:59,362] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:24:59,485] {logging_mixin.py:115} INFO - [2022-10-10 23:24:59,485] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:24:59,520] {logging_mixin.py:115} INFO - [2022-10-10 23:24:59,520] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:24:59.355379+00:00, run_after=2022-10-10T23:29:59.355379+00:00
+[2022-10-10 23:24:59,543] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.262 seconds
+[2022-10-10 23:25:30,551] {processor.py:153} INFO - Started process (PID=10987) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:25:30,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:25:30,556] {logging_mixin.py:115} INFO - [2022-10-10 23:25:30,555] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:25:30,578] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:25:30,655] {logging_mixin.py:115} INFO - [2022-10-10 23:25:30,655] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:25:30,679] {logging_mixin.py:115} INFO - [2022-10-10 23:25:30,679] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:25:30.575437+00:00, run_after=2022-10-10T23:30:30.575437+00:00
+[2022-10-10 23:25:30,698] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.151 seconds
+[2022-10-10 23:55:29,670] {processor.py:153} INFO - Started process (PID=11017) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:55:29,673] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:55:29,678] {logging_mixin.py:115} INFO - [2022-10-10 23:55:29,678] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:55:29,772] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:55:30,001] {logging_mixin.py:115} INFO - [2022-10-10 23:55:30,001] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:55:30,102] {logging_mixin.py:115} INFO - [2022-10-10 23:55:30,102] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:55:29.759490+00:00, run_after=2022-10-11T00:00:29.759490+00:00
+[2022-10-10 23:55:30,133] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.480 seconds
+[2022-10-10 23:56:01,404] {processor.py:153} INFO - Started process (PID=11036) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:01,410] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:56:01,417] {logging_mixin.py:115} INFO - [2022-10-10 23:56:01,416] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:01,595] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:02,190] {logging_mixin.py:115} INFO - [2022-10-10 23:56:02,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:56:02,469] {logging_mixin.py:115} INFO - [2022-10-10 23:56:02,467] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:56:01.581415+00:00, run_after=2022-10-11T00:01:01.581415+00:00
+[2022-10-10 23:56:02,640] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 1.265 seconds
+[2022-10-10 23:56:34,027] {processor.py:153} INFO - Started process (PID=11051) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:34,034] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:56:34,041] {logging_mixin.py:115} INFO - [2022-10-10 23:56:34,041] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:34,199] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:56:34,718] {logging_mixin.py:115} INFO - [2022-10-10 23:56:34,717] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:56:34,854] {logging_mixin.py:115} INFO - [2022-10-10 23:56:34,854] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:56:34.188080+00:00, run_after=2022-10-11T00:01:34.188080+00:00
+[2022-10-10 23:56:35,039] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 1.037 seconds
+[2022-10-10 23:59:47,690] {processor.py:153} INFO - Started process (PID=11064) to work on /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:59:47,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_jsonl.py for tasks to queue
+[2022-10-10 23:59:47,700] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,700] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:59:47,748] {processor.py:651} INFO - DAG(s) dict_keys(['generate_jsonlines']) retrieved from /opt/airflow/dags/test_jsonl.py
+[2022-10-10 23:59:47,887] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,887] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:59:47,938] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,938] {dag.py:2972} INFO - Setting next_dagrun for generate_jsonlines to 2022-10-10T23:59:47.745476+00:00, run_after=2022-10-11T00:04:47.745476+00:00
+[2022-10-10 23:59:47,970] {processor.py:161} INFO - Processing /opt/airflow/dags/test_jsonl.py took 0.288 seconds

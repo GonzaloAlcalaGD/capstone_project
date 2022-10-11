@@ -2,13 +2,14 @@ import logging
 import os
 import pendulum
 
-def generate_path(parent_path: str) -> str:
+def generate_path(parent_path: str, day: int) -> str:
     """
     Function that returns a valid directory path with 
     the name of the current name
     e.g /path/to/app/2022-10-01 
     """
-    return os.path.join(parent_path, pendulum.now().to_date_string())
+    now = pendulum.now()
+    return os.path.join(parent_path, now.add(days=day).to_date_string())
 
 
 def check_path_exists(path: str) -> bool:

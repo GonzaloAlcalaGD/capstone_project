@@ -1,3 +1,4 @@
+from pkgutil import get_data
 import jsonlines
 import pendulum
 import os
@@ -9,11 +10,12 @@ import id_loader as ID
 
 class JsonFactory():
 
+    
     def __init__(self, n_lines: int) -> None:
         self.n_lines = n_lines
     
-
-    def generate_jsonlines(self, n_lines: int) -> None:
+ 
+    def generate_jsonlines(self, n_lines: int, days: int) -> None:
         """
         Function that writes n amount of json lines into a 
         jsonl file.
@@ -37,8 +39,9 @@ class JsonFactory():
                         'type': type
                     }
             dump.append(j_dict)
-        path = pf.generate_path(parent_path='/Users/gonzo/Desktop/capstone_project/data_storage/json_storage')
-        filename = f'jsonl_{pendulum.now().to_date_string()}'
+        path = pf.generate_path(parent_path='/Users/gonzo/Desktop/capstone_project/data_storage/json_storage', day=days)
+        now = pendulum.now()
+        filename = f'jsonl_{now.add(days=days).to_date_string()}'
         if not pf.check_path_exists(path):
                 pf.create_path(path)
         with jsonlines.open(f'{path}/{filename}', 'w') as writer:

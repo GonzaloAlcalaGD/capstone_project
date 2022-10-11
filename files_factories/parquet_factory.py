@@ -5,10 +5,9 @@ from generators import DataFactory as data
 import id_loader as ID
 from directories_factory import path_factory as pf
 
-
 class ParquetFactory():
 
-
+    
     def __init__(self, n_records: int) -> None:
         self.n_records = n_records
     
@@ -32,12 +31,13 @@ class ParquetFactory():
         return records
 
 
-    def generate_parquet(self, records : list) -> None:
+    def generate_parquet(self, records : list, days: int) -> None:
         """
         Function that generates .parquet file with provided nested list.
         """
-        path = pf.generate_path(parent_path='/Users/gonzo/Desktop/capstone_project/data_storage/parquet_storage') 
-        filename = f'parquet_{pendulum.now().to_date_string()}'
+        path = pf.generate_path(parent_path='/Users/gonzo/Desktop/capstone_project/data_storage/parquet_storage', day=days) 
+        now = pendulum.now()
+        filename = f'parquet_{now.add(days=days).to_date_string()}'
         if not pf.check_path_exists(path):
             pf.create_path(path)
         df = pd.DataFrame(records, columns=['Id',  'First_name', 'Last_name', 'Amount', 'timestamp', 'Store_id'])

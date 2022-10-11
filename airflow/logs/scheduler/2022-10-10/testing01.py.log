@@ -1,0 +1,48 @@
+[2022-10-10 21:07:02,100] {processor.py:153} INFO - Started process (PID=6391) to work on /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:02,102] {processor.py:641} INFO - Processing file /opt/airflow/dags/testing01.py for tasks to queue
+[2022-10-10 21:07:02,104] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,104] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:02,143] {processor.py:651} INFO - DAG(s) dict_keys(['loop_hello_world_1', 'loop_hello_world_2', 'loop_hello_world_3']) retrieved from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:02,258] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,258] {manager.py:508} INFO - Created Permission View: can edit on DAG:loop_hello_world_1
+[2022-10-10 21:07:02,271] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,271] {manager.py:508} INFO - Created Permission View: can read on DAG:loop_hello_world_1
+[2022-10-10 21:07:02,282] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,282] {manager.py:508} INFO - Created Permission View: can delete on DAG:loop_hello_world_1
+[2022-10-10 21:07:02,300] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,300] {manager.py:508} INFO - Created Permission View: can edit on DAG:loop_hello_world_2
+[2022-10-10 21:07:02,310] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,310] {manager.py:508} INFO - Created Permission View: can read on DAG:loop_hello_world_2
+[2022-10-10 21:07:02,320] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,320] {manager.py:508} INFO - Created Permission View: can delete on DAG:loop_hello_world_2
+[2022-10-10 21:07:02,348] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,348] {manager.py:508} INFO - Created Permission View: can edit on DAG:loop_hello_world_3
+[2022-10-10 21:07:02,359] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,359] {manager.py:508} INFO - Created Permission View: can read on DAG:loop_hello_world_3
+[2022-10-10 21:07:02,368] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,368] {manager.py:508} INFO - Created Permission View: can delete on DAG:loop_hello_world_3
+[2022-10-10 21:07:02,369] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,369] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-10-10 21:07:02,381] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,381] {dag.py:2439} INFO - Creating ORM DAG for loop_hello_world_2
+[2022-10-10 21:07:02,382] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,382] {dag.py:2439} INFO - Creating ORM DAG for loop_hello_world_1
+[2022-10-10 21:07:02,383] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,383] {dag.py:2439} INFO - Creating ORM DAG for loop_hello_world_3
+[2022-10-10 21:07:02,403] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,403] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_1 to 2021-01-01T00:00:00+00:00, run_after=2021-01-02T00:00:00+00:00
+[2022-10-10 21:07:02,405] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,405] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_2 to 2021-01-01T00:00:00+00:00, run_after=2021-01-02T00:00:00+00:00
+[2022-10-10 21:07:02,407] {logging_mixin.py:115} INFO - [2022-10-10 21:07:02,407] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_3 to 2021-01-01T00:00:00+00:00, run_after=2021-01-02T00:00:00+00:00
+[2022-10-10 21:07:02,440] {processor.py:161} INFO - Processing /opt/airflow/dags/testing01.py took 0.347 seconds
+[2022-10-10 21:07:17,313] {processor.py:153} INFO - Started process (PID=6401) to work on /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:17,314] {processor.py:641} INFO - Processing file /opt/airflow/dags/testing01.py for tasks to queue
+[2022-10-10 21:07:17,316] {logging_mixin.py:115} INFO - [2022-10-10 21:07:17,316] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:17,352] {processor.py:651} INFO - DAG(s) dict_keys(['loop_hello_world_1', 'loop_hello_world_2', 'loop_hello_world_3']) retrieved from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:17,382] {logging_mixin.py:115} INFO - [2022-10-10 21:07:17,382] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-10-10 21:07:17,420] {logging_mixin.py:115} INFO - [2022-10-10 21:07:17,420] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_1 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:17,423] {logging_mixin.py:115} INFO - [2022-10-10 21:07:17,423] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_2 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:17,427] {logging_mixin.py:115} INFO - [2022-10-10 21:07:17,427] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_3 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:17,447] {processor.py:161} INFO - Processing /opt/airflow/dags/testing01.py took 0.141 seconds
+[2022-10-10 21:07:20,330] {processor.py:153} INFO - Started process (PID=6402) to work on /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:20,332] {processor.py:641} INFO - Processing file /opt/airflow/dags/testing01.py for tasks to queue
+[2022-10-10 21:07:20,333] {logging_mixin.py:115} INFO - [2022-10-10 21:07:20,333] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:20,379] {processor.py:651} INFO - DAG(s) dict_keys(['loop_hello_world_1', 'loop_hello_world_2', 'loop_hello_world_3']) retrieved from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:20,403] {logging_mixin.py:115} INFO - [2022-10-10 21:07:20,403] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-10-10 21:07:20,437] {logging_mixin.py:115} INFO - [2022-10-10 21:07:20,437] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_1 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:20,439] {logging_mixin.py:115} INFO - [2022-10-10 21:07:20,439] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_2 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:20,441] {logging_mixin.py:115} INFO - [2022-10-10 21:07:20,441] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_3 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:20,464] {processor.py:161} INFO - Processing /opt/airflow/dags/testing01.py took 0.139 seconds
+[2022-10-10 21:07:50,580] {processor.py:153} INFO - Started process (PID=6432) to work on /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:50,583] {processor.py:641} INFO - Processing file /opt/airflow/dags/testing01.py for tasks to queue
+[2022-10-10 21:07:50,585] {logging_mixin.py:115} INFO - [2022-10-10 21:07:50,584] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:50,605] {processor.py:651} INFO - DAG(s) dict_keys(['loop_hello_world_1', 'loop_hello_world_2', 'loop_hello_world_3']) retrieved from /opt/airflow/dags/testing01.py
+[2022-10-10 21:07:50,706] {logging_mixin.py:115} INFO - [2022-10-10 21:07:50,706] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-10-10 21:07:50,732] {logging_mixin.py:115} INFO - [2022-10-10 21:07:50,732] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_1 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:50,734] {logging_mixin.py:115} INFO - [2022-10-10 21:07:50,734] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_2 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:50,736] {logging_mixin.py:115} INFO - [2022-10-10 21:07:50,736] {dag.py:2972} INFO - Setting next_dagrun for loop_hello_world_3 to 2022-10-11T00:00:00+00:00, run_after=2022-10-12T00:00:00+00:00
+[2022-10-10 21:07:50,754] {processor.py:161} INFO - Processing /opt/airflow/dags/testing01.py took 0.179 seconds

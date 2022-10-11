@@ -1,0 +1,1208 @@
+[2022-10-10 21:12:02,361] {processor.py:153} INFO - Started process (PID=6631) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:02,363] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:12:02,366] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,365] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:02,427] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:02,645] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,645] {manager.py:508} INFO - Created Permission View: can edit on DAG:generate_parquet
+[2022-10-10 21:12:02,675] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,674] {manager.py:508} INFO - Created Permission View: can read on DAG:generate_parquet
+[2022-10-10 21:12:02,694] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,694] {manager.py:508} INFO - Created Permission View: can delete on DAG:generate_parquet
+[2022-10-10 21:12:02,695] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,695] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:12:02,721] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,721] {dag.py:2439} INFO - Creating ORM DAG for generate_parquet
+[2022-10-10 21:12:02,749] {logging_mixin.py:115} INFO - [2022-10-10 21:12:02,749] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:12:02.422539+00:00, run_after=2022-10-10T21:17:02.422539+00:00
+[2022-10-10 21:12:02,781] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.429 seconds
+[2022-10-10 21:12:32,896] {processor.py:153} INFO - Started process (PID=6651) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:32,897] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:12:32,899] {logging_mixin.py:115} INFO - [2022-10-10 21:12:32,898] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:32,933] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:33,025] {logging_mixin.py:115} INFO - [2022-10-10 21:12:33,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:12:33,055] {logging_mixin.py:115} INFO - [2022-10-10 21:12:33,055] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:12:32.929275+00:00, run_after=2022-10-10T21:17:32.929275+00:00
+[2022-10-10 21:12:33,075] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.185 seconds
+[2022-10-10 21:12:34,969] {processor.py:153} INFO - Started process (PID=6652) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:34,971] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:12:34,972] {logging_mixin.py:115} INFO - [2022-10-10 21:12:34,972] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:35,010] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:12:35,034] {logging_mixin.py:115} INFO - [2022-10-10 21:12:35,034] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:12:35,073] {logging_mixin.py:115} INFO - [2022-10-10 21:12:35,073] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:12:35.007619+00:00, run_after=2022-10-10T21:17:35.007619+00:00
+[2022-10-10 21:12:35,097] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.134 seconds
+[2022-10-10 21:13:05,201] {processor.py:153} INFO - Started process (PID=6681) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:05,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:13:05,216] {logging_mixin.py:115} INFO - [2022-10-10 21:13:05,216] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:05,255] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:05,350] {logging_mixin.py:115} INFO - [2022-10-10 21:13:05,350] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:13:05,384] {logging_mixin.py:115} INFO - [2022-10-10 21:13:05,384] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:13:05.253460+00:00, run_after=2022-10-10T21:18:05.253460+00:00
+[2022-10-10 21:13:05,403] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.209 seconds
+[2022-10-10 21:13:35,524] {processor.py:153} INFO - Started process (PID=6701) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:35,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:13:35,529] {logging_mixin.py:115} INFO - [2022-10-10 21:13:35,529] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:35,572] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:13:35,690] {logging_mixin.py:115} INFO - [2022-10-10 21:13:35,690] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:13:35,727] {logging_mixin.py:115} INFO - [2022-10-10 21:13:35,727] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:13:35.568085+00:00, run_after=2022-10-10T21:18:35.568085+00:00
+[2022-10-10 21:13:35,749] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.233 seconds
+[2022-10-10 21:14:05,941] {processor.py:153} INFO - Started process (PID=6731) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:05,950] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:14:05,955] {logging_mixin.py:115} INFO - [2022-10-10 21:14:05,954] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:06,109] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:06,405] {logging_mixin.py:115} INFO - [2022-10-10 21:14:06,405] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:14:06,459] {logging_mixin.py:115} INFO - [2022-10-10 21:14:06,458] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:14:06.097054+00:00, run_after=2022-10-10T21:19:06.097054+00:00
+[2022-10-10 21:14:06,498] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.601 seconds
+[2022-10-10 21:14:36,960] {processor.py:153} INFO - Started process (PID=6750) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:36,963] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:14:36,964] {logging_mixin.py:115} INFO - [2022-10-10 21:14:36,964] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:36,996] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:14:37,106] {logging_mixin.py:115} INFO - [2022-10-10 21:14:37,105] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:14:37,177] {logging_mixin.py:115} INFO - [2022-10-10 21:14:37,177] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:14:36.993784+00:00, run_after=2022-10-10T21:19:36.993784+00:00
+[2022-10-10 21:14:37,203] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.251 seconds
+[2022-10-10 21:15:07,325] {processor.py:153} INFO - Started process (PID=6771) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:07,328] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:15:07,330] {logging_mixin.py:115} INFO - [2022-10-10 21:15:07,330] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:07,367] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:07,526] {logging_mixin.py:115} INFO - [2022-10-10 21:15:07,526] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:15:07,567] {logging_mixin.py:115} INFO - [2022-10-10 21:15:07,566] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:15:07.363708+00:00, run_after=2022-10-10T21:20:07.363708+00:00
+[2022-10-10 21:15:07,591] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.277 seconds
+[2022-10-10 21:15:37,680] {processor.py:153} INFO - Started process (PID=6800) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:37,681] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:15:37,682] {logging_mixin.py:115} INFO - [2022-10-10 21:15:37,682] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:37,706] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:15:37,794] {logging_mixin.py:115} INFO - [2022-10-10 21:15:37,794] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:15:37,825] {logging_mixin.py:115} INFO - [2022-10-10 21:15:37,825] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:15:37.704549+00:00, run_after=2022-10-10T21:20:37.704549+00:00
+[2022-10-10 21:15:37,844] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.169 seconds
+[2022-10-10 21:16:07,932] {processor.py:153} INFO - Started process (PID=6820) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:07,935] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:16:07,936] {logging_mixin.py:115} INFO - [2022-10-10 21:16:07,936] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:07,961] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:08,051] {logging_mixin.py:115} INFO - [2022-10-10 21:16:08,051] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:16:08,078] {logging_mixin.py:115} INFO - [2022-10-10 21:16:08,078] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:16:07.958648+00:00, run_after=2022-10-10T21:21:07.958648+00:00
+[2022-10-10 21:16:08,097] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.169 seconds
+[2022-10-10 21:16:38,210] {processor.py:153} INFO - Started process (PID=6850) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:38,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:16:38,214] {logging_mixin.py:115} INFO - [2022-10-10 21:16:38,214] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:38,237] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:16:38,320] {logging_mixin.py:115} INFO - [2022-10-10 21:16:38,320] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:16:38,344] {logging_mixin.py:115} INFO - [2022-10-10 21:16:38,344] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:16:38.235055+00:00, run_after=2022-10-10T21:21:38.235055+00:00
+[2022-10-10 21:16:38,360] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:17:08,520] {processor.py:153} INFO - Started process (PID=6870) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:08,522] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:17:08,523] {logging_mixin.py:115} INFO - [2022-10-10 21:17:08,523] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:08,557] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:08,654] {logging_mixin.py:115} INFO - [2022-10-10 21:17:08,654] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:17:08,680] {logging_mixin.py:115} INFO - [2022-10-10 21:17:08,680] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:17:08.555269+00:00, run_after=2022-10-10T21:22:08.555269+00:00
+[2022-10-10 21:17:08,698] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.182 seconds
+[2022-10-10 21:17:38,887] {processor.py:153} INFO - Started process (PID=6901) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:38,891] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:17:38,895] {logging_mixin.py:115} INFO - [2022-10-10 21:17:38,894] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:38,955] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:17:39,145] {logging_mixin.py:115} INFO - [2022-10-10 21:17:39,145] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:17:39,189] {logging_mixin.py:115} INFO - [2022-10-10 21:17:39,189] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:17:38.949832+00:00, run_after=2022-10-10T21:22:38.949832+00:00
+[2022-10-10 21:17:39,224] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.349 seconds
+[2022-10-10 21:18:09,498] {processor.py:153} INFO - Started process (PID=6922) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:09,501] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:18:09,503] {logging_mixin.py:115} INFO - [2022-10-10 21:18:09,502] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:09,541] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:09,680] {logging_mixin.py:115} INFO - [2022-10-10 21:18:09,679] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:18:09,725] {logging_mixin.py:115} INFO - [2022-10-10 21:18:09,725] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:18:09.537259+00:00, run_after=2022-10-10T21:23:09.537259+00:00
+[2022-10-10 21:18:09,750] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.259 seconds
+[2022-10-10 21:18:39,803] {processor.py:153} INFO - Started process (PID=6944) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:39,806] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:18:39,808] {logging_mixin.py:115} INFO - [2022-10-10 21:18:39,808] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:39,841] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:18:40,000] {logging_mixin.py:115} INFO - [2022-10-10 21:18:40,000] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:18:40,068] {logging_mixin.py:115} INFO - [2022-10-10 21:18:40,068] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:18:39.838941+00:00, run_after=2022-10-10T21:23:39.838941+00:00
+[2022-10-10 21:18:40,099] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.302 seconds
+[2022-10-10 21:19:10,881] {processor.py:153} INFO - Started process (PID=6975) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:10,883] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:19:10,884] {logging_mixin.py:115} INFO - [2022-10-10 21:19:10,884] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:10,907] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:10,996] {logging_mixin.py:115} INFO - [2022-10-10 21:19:10,996] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:19:11,023] {logging_mixin.py:115} INFO - [2022-10-10 21:19:11,023] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:19:10.905706+00:00, run_after=2022-10-10T21:24:10.905706+00:00
+[2022-10-10 21:19:11,039] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.162 seconds
+[2022-10-10 21:19:41,139] {processor.py:153} INFO - Started process (PID=6997) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:41,140] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:19:41,142] {logging_mixin.py:115} INFO - [2022-10-10 21:19:41,141] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:41,164] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:19:41,253] {logging_mixin.py:115} INFO - [2022-10-10 21:19:41,252] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:19:41,294] {logging_mixin.py:115} INFO - [2022-10-10 21:19:41,294] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:19:41.162727+00:00, run_after=2022-10-10T21:24:41.162727+00:00
+[2022-10-10 21:19:41,316] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.181 seconds
+[2022-10-10 21:20:11,405] {processor.py:153} INFO - Started process (PID=7028) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:11,407] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:20:11,408] {logging_mixin.py:115} INFO - [2022-10-10 21:20:11,408] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:11,431] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:11,515] {logging_mixin.py:115} INFO - [2022-10-10 21:20:11,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:20:11,542] {logging_mixin.py:115} INFO - [2022-10-10 21:20:11,542] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:20:11.429779+00:00, run_after=2022-10-10T21:25:11.429779+00:00
+[2022-10-10 21:20:11,559] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 21:20:41,840] {processor.py:153} INFO - Started process (PID=7059) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:41,841] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:20:41,842] {logging_mixin.py:115} INFO - [2022-10-10 21:20:41,842] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:41,864] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:20:41,950] {logging_mixin.py:115} INFO - [2022-10-10 21:20:41,949] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:20:41,974] {logging_mixin.py:115} INFO - [2022-10-10 21:20:41,974] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:20:41.862748+00:00, run_after=2022-10-10T21:25:41.862748+00:00
+[2022-10-10 21:20:41,989] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:21:12,121] {processor.py:153} INFO - Started process (PID=7081) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:12,122] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:21:12,123] {logging_mixin.py:115} INFO - [2022-10-10 21:21:12,123] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:12,146] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:12,233] {logging_mixin.py:115} INFO - [2022-10-10 21:21:12,233] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:21:12,259] {logging_mixin.py:115} INFO - [2022-10-10 21:21:12,259] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:21:12.144636+00:00, run_after=2022-10-10T21:26:12.144636+00:00
+[2022-10-10 21:21:12,278] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.162 seconds
+[2022-10-10 21:21:42,536] {processor.py:153} INFO - Started process (PID=7112) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:42,539] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:21:42,541] {logging_mixin.py:115} INFO - [2022-10-10 21:21:42,540] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:42,563] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:21:42,647] {logging_mixin.py:115} INFO - [2022-10-10 21:21:42,647] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:21:42,674] {logging_mixin.py:115} INFO - [2022-10-10 21:21:42,674] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:21:42.561331+00:00, run_after=2022-10-10T21:26:42.561331+00:00
+[2022-10-10 21:21:42,692] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.161 seconds
+[2022-10-10 21:22:12,827] {processor.py:153} INFO - Started process (PID=7143) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:12,830] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:22:12,832] {logging_mixin.py:115} INFO - [2022-10-10 21:22:12,832] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:12,862] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:12,951] {logging_mixin.py:115} INFO - [2022-10-10 21:22:12,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:22:12,980] {logging_mixin.py:115} INFO - [2022-10-10 21:22:12,980] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:22:12.859488+00:00, run_after=2022-10-10T21:27:12.859488+00:00
+[2022-10-10 21:22:13,001] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.182 seconds
+[2022-10-10 21:22:43,313] {processor.py:153} INFO - Started process (PID=7164) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:43,315] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:22:43,316] {logging_mixin.py:115} INFO - [2022-10-10 21:22:43,316] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:43,339] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:22:43,424] {logging_mixin.py:115} INFO - [2022-10-10 21:22:43,423] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:22:43,450] {logging_mixin.py:115} INFO - [2022-10-10 21:22:43,450] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:22:43.337439+00:00, run_after=2022-10-10T21:27:43.337439+00:00
+[2022-10-10 21:22:43,469] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 21:23:13,590] {processor.py:153} INFO - Started process (PID=7195) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:13,591] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:23:13,592] {logging_mixin.py:115} INFO - [2022-10-10 21:23:13,592] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:13,628] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:13,736] {logging_mixin.py:115} INFO - [2022-10-10 21:23:13,736] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:23:13,763] {logging_mixin.py:115} INFO - [2022-10-10 21:23:13,763] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:23:13.625808+00:00, run_after=2022-10-10T21:28:13.625808+00:00
+[2022-10-10 21:23:13,782] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.197 seconds
+[2022-10-10 21:23:44,006] {processor.py:153} INFO - Started process (PID=7216) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:44,007] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:23:44,008] {logging_mixin.py:115} INFO - [2022-10-10 21:23:44,008] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:44,031] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:23:44,114] {logging_mixin.py:115} INFO - [2022-10-10 21:23:44,114] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:23:44,141] {logging_mixin.py:115} INFO - [2022-10-10 21:23:44,141] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:23:44.029511+00:00, run_after=2022-10-10T21:28:44.029511+00:00
+[2022-10-10 21:23:44,163] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.162 seconds
+[2022-10-10 21:24:14,308] {processor.py:153} INFO - Started process (PID=7246) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:14,310] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:24:14,311] {logging_mixin.py:115} INFO - [2022-10-10 21:24:14,311] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:14,337] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:14,421] {logging_mixin.py:115} INFO - [2022-10-10 21:24:14,421] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:24:14,447] {logging_mixin.py:115} INFO - [2022-10-10 21:24:14,447] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:24:14.335265+00:00, run_after=2022-10-10T21:29:14.335265+00:00
+[2022-10-10 21:24:14,464] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.161 seconds
+[2022-10-10 21:24:44,572] {processor.py:153} INFO - Started process (PID=7276) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:44,576] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:24:44,578] {logging_mixin.py:115} INFO - [2022-10-10 21:24:44,578] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:44,606] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:24:44,708] {logging_mixin.py:115} INFO - [2022-10-10 21:24:44,708] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:24:44,756] {logging_mixin.py:115} INFO - [2022-10-10 21:24:44,755] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:24:44.603332+00:00, run_after=2022-10-10T21:29:44.603332+00:00
+[2022-10-10 21:24:44,774] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.207 seconds
+[2022-10-10 21:25:15,035] {processor.py:153} INFO - Started process (PID=7298) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:15,037] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:25:15,038] {logging_mixin.py:115} INFO - [2022-10-10 21:25:15,038] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:15,062] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:15,160] {logging_mixin.py:115} INFO - [2022-10-10 21:25:15,159] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:25:15,197] {logging_mixin.py:115} INFO - [2022-10-10 21:25:15,197] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:25:15.059767+00:00, run_after=2022-10-10T21:30:15.059767+00:00
+[2022-10-10 21:25:15,213] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.182 seconds
+[2022-10-10 21:25:45,447] {processor.py:153} INFO - Started process (PID=7328) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:45,449] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:25:45,450] {logging_mixin.py:115} INFO - [2022-10-10 21:25:45,450] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:45,474] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:25:45,565] {logging_mixin.py:115} INFO - [2022-10-10 21:25:45,565] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:25:45,600] {logging_mixin.py:115} INFO - [2022-10-10 21:25:45,600] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:25:45.472025+00:00, run_after=2022-10-10T21:30:45.472025+00:00
+[2022-10-10 21:25:45,619] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.176 seconds
+[2022-10-10 21:26:15,822] {processor.py:153} INFO - Started process (PID=7349) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:15,823] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:26:15,824] {logging_mixin.py:115} INFO - [2022-10-10 21:26:15,824] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:15,850] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:15,940] {logging_mixin.py:115} INFO - [2022-10-10 21:26:15,940] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:26:15,967] {logging_mixin.py:115} INFO - [2022-10-10 21:26:15,967] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:26:15.848117+00:00, run_after=2022-10-10T21:31:15.848117+00:00
+[2022-10-10 21:26:15,985] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.168 seconds
+[2022-10-10 21:26:46,238] {processor.py:153} INFO - Started process (PID=7379) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:46,239] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:26:46,241] {logging_mixin.py:115} INFO - [2022-10-10 21:26:46,240] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:46,270] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:26:46,354] {logging_mixin.py:115} INFO - [2022-10-10 21:26:46,354] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:26:46,396] {logging_mixin.py:115} INFO - [2022-10-10 21:26:46,395] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:26:46.267883+00:00, run_after=2022-10-10T21:31:46.267883+00:00
+[2022-10-10 21:26:46,417] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.185 seconds
+[2022-10-10 21:27:16,585] {processor.py:153} INFO - Started process (PID=7410) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:16,587] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:27:16,589] {logging_mixin.py:115} INFO - [2022-10-10 21:27:16,589] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:16,612] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:16,716] {logging_mixin.py:115} INFO - [2022-10-10 21:27:16,716] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:27:16,761] {logging_mixin.py:115} INFO - [2022-10-10 21:27:16,761] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:27:16.610940+00:00, run_after=2022-10-10T21:32:16.610940+00:00
+[2022-10-10 21:27:16,777] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.197 seconds
+[2022-10-10 21:27:46,980] {processor.py:153} INFO - Started process (PID=7431) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:46,982] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:27:46,983] {logging_mixin.py:115} INFO - [2022-10-10 21:27:46,983] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:47,023] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:27:47,117] {logging_mixin.py:115} INFO - [2022-10-10 21:27:47,117] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:27:47,146] {logging_mixin.py:115} INFO - [2022-10-10 21:27:47,146] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:27:47.016744+00:00, run_after=2022-10-10T21:32:47.016744+00:00
+[2022-10-10 21:27:47,168] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.193 seconds
+[2022-10-10 21:28:17,352] {processor.py:153} INFO - Started process (PID=7461) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:17,355] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:28:17,357] {logging_mixin.py:115} INFO - [2022-10-10 21:28:17,357] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:17,386] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:17,470] {logging_mixin.py:115} INFO - [2022-10-10 21:28:17,470] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:28:17,497] {logging_mixin.py:115} INFO - [2022-10-10 21:28:17,497] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:28:17.384370+00:00, run_after=2022-10-10T21:33:17.384370+00:00
+[2022-10-10 21:28:17,515] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.168 seconds
+[2022-10-10 21:28:47,771] {processor.py:153} INFO - Started process (PID=7482) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:47,772] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:28:47,774] {logging_mixin.py:115} INFO - [2022-10-10 21:28:47,774] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:47,800] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:28:47,907] {logging_mixin.py:115} INFO - [2022-10-10 21:28:47,907] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:28:47,934] {logging_mixin.py:115} INFO - [2022-10-10 21:28:47,934] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:28:47.797199+00:00, run_after=2022-10-10T21:33:47.797199+00:00
+[2022-10-10 21:28:47,953] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.187 seconds
+[2022-10-10 21:29:18,229] {processor.py:153} INFO - Started process (PID=7512) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:18,231] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:29:18,232] {logging_mixin.py:115} INFO - [2022-10-10 21:29:18,232] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:18,254] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:18,334] {logging_mixin.py:115} INFO - [2022-10-10 21:29:18,333] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:29:18,367] {logging_mixin.py:115} INFO - [2022-10-10 21:29:18,367] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:29:18.252600+00:00, run_after=2022-10-10T21:34:18.252600+00:00
+[2022-10-10 21:29:18,382] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 21:29:48,519] {processor.py:153} INFO - Started process (PID=7543) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:48,521] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:29:48,522] {logging_mixin.py:115} INFO - [2022-10-10 21:29:48,522] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:48,545] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:29:48,625] {logging_mixin.py:115} INFO - [2022-10-10 21:29:48,625] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:29:48,657] {logging_mixin.py:115} INFO - [2022-10-10 21:29:48,656] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:29:48.543230+00:00, run_after=2022-10-10T21:34:48.543230+00:00
+[2022-10-10 21:29:48,672] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 21:30:18,804] {processor.py:153} INFO - Started process (PID=7564) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:18,805] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:30:18,806] {logging_mixin.py:115} INFO - [2022-10-10 21:30:18,806] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:18,847] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:18,934] {logging_mixin.py:115} INFO - [2022-10-10 21:30:18,934] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:30:18,964] {logging_mixin.py:115} INFO - [2022-10-10 21:30:18,964] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:30:18.844405+00:00, run_after=2022-10-10T21:35:18.844405+00:00
+[2022-10-10 21:30:18,986] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.187 seconds
+[2022-10-10 21:30:49,265] {processor.py:153} INFO - Started process (PID=7594) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:49,266] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:30:49,268] {logging_mixin.py:115} INFO - [2022-10-10 21:30:49,267] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:49,291] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:30:49,371] {logging_mixin.py:115} INFO - [2022-10-10 21:30:49,371] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:30:49,402] {logging_mixin.py:115} INFO - [2022-10-10 21:30:49,402] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:30:49.289689+00:00, run_after=2022-10-10T21:35:49.289689+00:00
+[2022-10-10 21:30:49,420] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 21:31:19,613] {processor.py:153} INFO - Started process (PID=7616) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:19,615] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:31:19,616] {logging_mixin.py:115} INFO - [2022-10-10 21:31:19,616] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:19,640] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:19,733] {logging_mixin.py:115} INFO - [2022-10-10 21:31:19,733] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:31:19,764] {logging_mixin.py:115} INFO - [2022-10-10 21:31:19,763] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:31:19.638298+00:00, run_after=2022-10-10T21:36:19.638298+00:00
+[2022-10-10 21:31:19,784] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.176 seconds
+[2022-10-10 21:31:50,004] {processor.py:153} INFO - Started process (PID=7646) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:50,006] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:31:50,007] {logging_mixin.py:115} INFO - [2022-10-10 21:31:50,007] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:50,029] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:31:50,110] {logging_mixin.py:115} INFO - [2022-10-10 21:31:50,110] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:31:50,137] {logging_mixin.py:115} INFO - [2022-10-10 21:31:50,137] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:31:50.027350+00:00, run_after=2022-10-10T21:36:50.027350+00:00
+[2022-10-10 21:31:50,152] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 21:32:20,344] {processor.py:153} INFO - Started process (PID=7676) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:20,345] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:32:20,346] {logging_mixin.py:115} INFO - [2022-10-10 21:32:20,346] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:20,369] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:20,451] {logging_mixin.py:115} INFO - [2022-10-10 21:32:20,450] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:32:20,476] {logging_mixin.py:115} INFO - [2022-10-10 21:32:20,475] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:32:20.367318+00:00, run_after=2022-10-10T21:37:20.367318+00:00
+[2022-10-10 21:32:20,491] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:32:50,794] {processor.py:153} INFO - Started process (PID=7697) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:50,795] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:32:50,796] {logging_mixin.py:115} INFO - [2022-10-10 21:32:50,796] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:50,820] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:32:50,901] {logging_mixin.py:115} INFO - [2022-10-10 21:32:50,900] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:32:50,929] {logging_mixin.py:115} INFO - [2022-10-10 21:32:50,929] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:32:50.818169+00:00, run_after=2022-10-10T21:37:50.818169+00:00
+[2022-10-10 21:32:50,948] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 21:33:21,127] {processor.py:153} INFO - Started process (PID=7727) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:21,128] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:33:21,129] {logging_mixin.py:115} INFO - [2022-10-10 21:33:21,129] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:21,151] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:21,231] {logging_mixin.py:115} INFO - [2022-10-10 21:33:21,231] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:33:21,256] {logging_mixin.py:115} INFO - [2022-10-10 21:33:21,256] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:33:21.149910+00:00, run_after=2022-10-10T21:38:21.149910+00:00
+[2022-10-10 21:33:21,273] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.151 seconds
+[2022-10-10 21:33:51,556] {processor.py:153} INFO - Started process (PID=7757) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:51,558] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:33:51,560] {logging_mixin.py:115} INFO - [2022-10-10 21:33:51,560] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:51,589] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:33:51,678] {logging_mixin.py:115} INFO - [2022-10-10 21:33:51,678] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:33:51,709] {logging_mixin.py:115} INFO - [2022-10-10 21:33:51,708] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:33:51.587645+00:00, run_after=2022-10-10T21:38:51.587645+00:00
+[2022-10-10 21:33:51,729] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.187 seconds
+[2022-10-10 21:34:21,866] {processor.py:153} INFO - Started process (PID=7779) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:21,867] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:34:21,868] {logging_mixin.py:115} INFO - [2022-10-10 21:34:21,868] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:21,892] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:21,973] {logging_mixin.py:115} INFO - [2022-10-10 21:34:21,973] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:34:21,997] {logging_mixin.py:115} INFO - [2022-10-10 21:34:21,997] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:34:21.890376+00:00, run_after=2022-10-10T21:39:21.890376+00:00
+[2022-10-10 21:34:22,013] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:34:52,097] {processor.py:153} INFO - Started process (PID=7808) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:52,099] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:34:52,101] {logging_mixin.py:115} INFO - [2022-10-10 21:34:52,100] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:52,127] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:34:52,209] {logging_mixin.py:115} INFO - [2022-10-10 21:34:52,209] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:34:52,234] {logging_mixin.py:115} INFO - [2022-10-10 21:34:52,234] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:34:52.125326+00:00, run_after=2022-10-10T21:39:52.125326+00:00
+[2022-10-10 21:34:52,253] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 21:35:22,540] {processor.py:153} INFO - Started process (PID=7830) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:22,542] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:35:22,544] {logging_mixin.py:115} INFO - [2022-10-10 21:35:22,543] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:22,576] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:22,658] {logging_mixin.py:115} INFO - [2022-10-10 21:35:22,658] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:35:22,683] {logging_mixin.py:115} INFO - [2022-10-10 21:35:22,683] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:35:22.574056+00:00, run_after=2022-10-10T21:40:22.574056+00:00
+[2022-10-10 21:35:22,700] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.164 seconds
+[2022-10-10 21:35:52,830] {processor.py:153} INFO - Started process (PID=7861) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:52,831] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:35:52,833] {logging_mixin.py:115} INFO - [2022-10-10 21:35:52,833] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:52,856] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:35:52,937] {logging_mixin.py:115} INFO - [2022-10-10 21:35:52,937] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:35:52,961] {logging_mixin.py:115} INFO - [2022-10-10 21:35:52,961] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:35:52.854472+00:00, run_after=2022-10-10T21:40:52.854472+00:00
+[2022-10-10 21:35:52,981] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 21:36:23,309] {processor.py:153} INFO - Started process (PID=7893) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:23,310] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:36:23,312] {logging_mixin.py:115} INFO - [2022-10-10 21:36:23,312] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:23,339] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:23,418] {logging_mixin.py:115} INFO - [2022-10-10 21:36:23,418] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:36:23,443] {logging_mixin.py:115} INFO - [2022-10-10 21:36:23,443] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:36:23.337191+00:00, run_after=2022-10-10T21:41:23.337191+00:00
+[2022-10-10 21:36:23,460] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 21:36:53,635] {processor.py:153} INFO - Started process (PID=7914) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:53,636] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:36:53,638] {logging_mixin.py:115} INFO - [2022-10-10 21:36:53,638] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:53,661] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:36:53,742] {logging_mixin.py:115} INFO - [2022-10-10 21:36:53,742] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:36:53,768] {logging_mixin.py:115} INFO - [2022-10-10 21:36:53,768] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:36:53.659567+00:00, run_after=2022-10-10T21:41:53.659567+00:00
+[2022-10-10 21:36:53,784] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:37:24,116] {processor.py:153} INFO - Started process (PID=7944) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:24,117] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:37:24,119] {logging_mixin.py:115} INFO - [2022-10-10 21:37:24,119] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:24,145] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:24,244] {logging_mixin.py:115} INFO - [2022-10-10 21:37:24,244] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:37:24,276] {logging_mixin.py:115} INFO - [2022-10-10 21:37:24,276] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:37:24.143634+00:00, run_after=2022-10-10T21:42:24.143634+00:00
+[2022-10-10 21:37:24,296] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.186 seconds
+[2022-10-10 21:37:54,458] {processor.py:153} INFO - Started process (PID=7974) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:54,459] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:37:54,461] {logging_mixin.py:115} INFO - [2022-10-10 21:37:54,460] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:54,486] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:37:54,570] {logging_mixin.py:115} INFO - [2022-10-10 21:37:54,570] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:37:54,597] {logging_mixin.py:115} INFO - [2022-10-10 21:37:54,597] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:37:54.483666+00:00, run_after=2022-10-10T21:42:54.483666+00:00
+[2022-10-10 21:37:54,617] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.164 seconds
+[2022-10-10 21:38:24,738] {processor.py:153} INFO - Started process (PID=7994) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:24,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:38:24,741] {logging_mixin.py:115} INFO - [2022-10-10 21:38:24,741] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:24,764] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:24,845] {logging_mixin.py:115} INFO - [2022-10-10 21:38:24,844] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:38:24,869] {logging_mixin.py:115} INFO - [2022-10-10 21:38:24,869] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:38:24.762416+00:00, run_after=2022-10-10T21:43:24.762416+00:00
+[2022-10-10 21:38:24,888] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:38:55,007] {processor.py:153} INFO - Started process (PID=8025) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:55,008] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:38:55,009] {logging_mixin.py:115} INFO - [2022-10-10 21:38:55,009] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:55,031] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:38:55,112] {logging_mixin.py:115} INFO - [2022-10-10 21:38:55,111] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:38:55,136] {logging_mixin.py:115} INFO - [2022-10-10 21:38:55,136] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:38:55.029815+00:00, run_after=2022-10-10T21:43:55.029815+00:00
+[2022-10-10 21:38:55,154] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:39:25,455] {processor.py:153} INFO - Started process (PID=8047) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:25,456] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:39:25,457] {logging_mixin.py:115} INFO - [2022-10-10 21:39:25,457] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:25,479] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:25,565] {logging_mixin.py:115} INFO - [2022-10-10 21:39:25,565] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:39:25,590] {logging_mixin.py:115} INFO - [2022-10-10 21:39:25,590] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:39:25.477859+00:00, run_after=2022-10-10T21:44:25.477859+00:00
+[2022-10-10 21:39:25,607] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 21:39:55,789] {processor.py:153} INFO - Started process (PID=8077) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:55,792] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:39:55,794] {logging_mixin.py:115} INFO - [2022-10-10 21:39:55,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:55,818] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:39:55,906] {logging_mixin.py:115} INFO - [2022-10-10 21:39:55,906] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:39:55,931] {logging_mixin.py:115} INFO - [2022-10-10 21:39:55,931] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:39:55.815939+00:00, run_after=2022-10-10T21:44:55.815939+00:00
+[2022-10-10 21:39:55,948] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.163 seconds
+[2022-10-10 21:40:26,207] {processor.py:153} INFO - Started process (PID=8106) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:26,209] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:40:26,210] {logging_mixin.py:115} INFO - [2022-10-10 21:40:26,210] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:26,236] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:26,317] {logging_mixin.py:115} INFO - [2022-10-10 21:40:26,316] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:40:26,341] {logging_mixin.py:115} INFO - [2022-10-10 21:40:26,341] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:40:26.234142+00:00, run_after=2022-10-10T21:45:26.234142+00:00
+[2022-10-10 21:40:26,358] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 21:40:56,505] {processor.py:153} INFO - Started process (PID=8127) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:56,506] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:40:56,508] {logging_mixin.py:115} INFO - [2022-10-10 21:40:56,507] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:56,530] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:40:56,615] {logging_mixin.py:115} INFO - [2022-10-10 21:40:56,615] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:40:56,642] {logging_mixin.py:115} INFO - [2022-10-10 21:40:56,642] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:40:56.528772+00:00, run_after=2022-10-10T21:45:56.528772+00:00
+[2022-10-10 21:40:56,664] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.163 seconds
+[2022-10-10 21:41:26,952] {processor.py:153} INFO - Started process (PID=8156) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:26,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:41:26,955] {logging_mixin.py:115} INFO - [2022-10-10 21:41:26,955] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:26,978] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:27,059] {logging_mixin.py:115} INFO - [2022-10-10 21:41:27,059] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:41:27,084] {logging_mixin.py:115} INFO - [2022-10-10 21:41:27,084] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:41:26.976382+00:00, run_after=2022-10-10T21:46:26.976382+00:00
+[2022-10-10 21:41:27,100] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:41:57,257] {processor.py:153} INFO - Started process (PID=8177) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:57,261] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:41:57,262] {logging_mixin.py:115} INFO - [2022-10-10 21:41:57,262] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:57,289] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:41:57,390] {logging_mixin.py:115} INFO - [2022-10-10 21:41:57,390] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:41:57,420] {logging_mixin.py:115} INFO - [2022-10-10 21:41:57,419] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:41:57.287170+00:00, run_after=2022-10-10T21:46:57.287170+00:00
+[2022-10-10 21:41:57,441] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.189 seconds
+[2022-10-10 21:42:27,749] {processor.py:153} INFO - Started process (PID=8208) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:27,751] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:42:27,752] {logging_mixin.py:115} INFO - [2022-10-10 21:42:27,752] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:27,777] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:27,857] {logging_mixin.py:115} INFO - [2022-10-10 21:42:27,857] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:42:27,882] {logging_mixin.py:115} INFO - [2022-10-10 21:42:27,882] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:42:27.775113+00:00, run_after=2022-10-10T21:47:27.775113+00:00
+[2022-10-10 21:42:27,900] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 21:42:58,084] {processor.py:153} INFO - Started process (PID=8239) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:58,085] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:42:58,086] {logging_mixin.py:115} INFO - [2022-10-10 21:42:58,086] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:58,110] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:42:58,191] {logging_mixin.py:115} INFO - [2022-10-10 21:42:58,191] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:42:58,216] {logging_mixin.py:115} INFO - [2022-10-10 21:42:58,216] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:42:58.108058+00:00, run_after=2022-10-10T21:47:58.108058+00:00
+[2022-10-10 21:42:58,238] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 21:43:28,567] {processor.py:153} INFO - Started process (PID=8260) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:28,570] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:43:28,571] {logging_mixin.py:115} INFO - [2022-10-10 21:43:28,571] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:28,594] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:28,674] {logging_mixin.py:115} INFO - [2022-10-10 21:43:28,674] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:43:28,699] {logging_mixin.py:115} INFO - [2022-10-10 21:43:28,699] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:43:28.592167+00:00, run_after=2022-10-10T21:48:28.592167+00:00
+[2022-10-10 21:43:28,716] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:43:59,037] {processor.py:153} INFO - Started process (PID=8290) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:59,038] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:43:59,039] {logging_mixin.py:115} INFO - [2022-10-10 21:43:59,039] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:59,062] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:43:59,145] {logging_mixin.py:115} INFO - [2022-10-10 21:43:59,145] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:43:59,170] {logging_mixin.py:115} INFO - [2022-10-10 21:43:59,169] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:43:59.060084+00:00, run_after=2022-10-10T21:48:59.060084+00:00
+[2022-10-10 21:43:59,187] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 21:44:29,340] {processor.py:153} INFO - Started process (PID=8321) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:29,343] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:44:29,344] {logging_mixin.py:115} INFO - [2022-10-10 21:44:29,344] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:29,369] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:29,460] {logging_mixin.py:115} INFO - [2022-10-10 21:44:29,460] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:44:29,489] {logging_mixin.py:115} INFO - [2022-10-10 21:44:29,489] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:44:29.367199+00:00, run_after=2022-10-10T21:49:29.367199+00:00
+[2022-10-10 21:44:29,513] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.178 seconds
+[2022-10-10 21:44:59,778] {processor.py:153} INFO - Started process (PID=8342) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:59,779] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:44:59,781] {logging_mixin.py:115} INFO - [2022-10-10 21:44:59,781] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:59,803] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:44:59,884] {logging_mixin.py:115} INFO - [2022-10-10 21:44:59,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:44:59,909] {logging_mixin.py:115} INFO - [2022-10-10 21:44:59,908] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:44:59.801671+00:00, run_after=2022-10-10T21:49:59.801671+00:00
+[2022-10-10 21:44:59,926] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:45:30,076] {processor.py:153} INFO - Started process (PID=8372) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:45:30,078] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:45:30,079] {logging_mixin.py:115} INFO - [2022-10-10 21:45:30,079] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:45:30,105] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:45:30,192] {logging_mixin.py:115} INFO - [2022-10-10 21:45:30,191] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:45:30,218] {logging_mixin.py:115} INFO - [2022-10-10 21:45:30,217] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:45:30.103486+00:00, run_after=2022-10-10T21:50:30.103486+00:00
+[2022-10-10 21:45:30,237] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.168 seconds
+[2022-10-10 21:46:00,369] {processor.py:153} INFO - Started process (PID=8393) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:00,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:46:00,372] {logging_mixin.py:115} INFO - [2022-10-10 21:46:00,372] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:00,394] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:00,475] {logging_mixin.py:115} INFO - [2022-10-10 21:46:00,475] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:46:00,501] {logging_mixin.py:115} INFO - [2022-10-10 21:46:00,500] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:46:00.392723+00:00, run_after=2022-10-10T21:51:00.392723+00:00
+[2022-10-10 21:46:00,518] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:46:30,661] {processor.py:153} INFO - Started process (PID=8425) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:30,662] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:46:30,663] {logging_mixin.py:115} INFO - [2022-10-10 21:46:30,663] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:30,686] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:46:30,768] {logging_mixin.py:115} INFO - [2022-10-10 21:46:30,767] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:46:30,793] {logging_mixin.py:115} INFO - [2022-10-10 21:46:30,793] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:46:30.684106+00:00, run_after=2022-10-10T21:51:30.684106+00:00
+[2022-10-10 21:46:30,809] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:47:00,962] {processor.py:153} INFO - Started process (PID=8456) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:00,966] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:47:00,967] {logging_mixin.py:115} INFO - [2022-10-10 21:47:00,967] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:00,996] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:01,103] {logging_mixin.py:115} INFO - [2022-10-10 21:47:01,103] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:47:01,129] {logging_mixin.py:115} INFO - [2022-10-10 21:47:01,129] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:47:00.993716+00:00, run_after=2022-10-10T21:52:00.993716+00:00
+[2022-10-10 21:47:01,150] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.193 seconds
+[2022-10-10 21:47:31,442] {processor.py:153} INFO - Started process (PID=8477) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:31,443] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:47:31,445] {logging_mixin.py:115} INFO - [2022-10-10 21:47:31,445] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:31,466] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:47:31,548] {logging_mixin.py:115} INFO - [2022-10-10 21:47:31,547] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:47:31,572] {logging_mixin.py:115} INFO - [2022-10-10 21:47:31,572] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:47:31.464373+00:00, run_after=2022-10-10T21:52:31.464373+00:00
+[2022-10-10 21:47:31,590] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:48:01,759] {processor.py:153} INFO - Started process (PID=8507) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:01,760] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:48:01,761] {logging_mixin.py:115} INFO - [2022-10-10 21:48:01,761] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:01,783] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:01,863] {logging_mixin.py:115} INFO - [2022-10-10 21:48:01,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:48:01,888] {logging_mixin.py:115} INFO - [2022-10-10 21:48:01,888] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:48:01.781191+00:00, run_after=2022-10-10T21:53:01.781191+00:00
+[2022-10-10 21:48:01,905] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.151 seconds
+[2022-10-10 21:48:32,150] {processor.py:153} INFO - Started process (PID=8529) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:32,151] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:48:32,152] {logging_mixin.py:115} INFO - [2022-10-10 21:48:32,152] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:32,175] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:48:32,254] {logging_mixin.py:115} INFO - [2022-10-10 21:48:32,254] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:48:32,282] {logging_mixin.py:115} INFO - [2022-10-10 21:48:32,282] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:48:32.173277+00:00, run_after=2022-10-10T21:53:32.173277+00:00
+[2022-10-10 21:48:32,302] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 21:49:02,526] {processor.py:153} INFO - Started process (PID=8559) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:02,527] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:49:02,528] {logging_mixin.py:115} INFO - [2022-10-10 21:49:02,528] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:02,555] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:02,649] {logging_mixin.py:115} INFO - [2022-10-10 21:49:02,649] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:49:02,678] {logging_mixin.py:115} INFO - [2022-10-10 21:49:02,677] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:49:02.553390+00:00, run_after=2022-10-10T21:54:02.553390+00:00
+[2022-10-10 21:49:02,697] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.177 seconds
+[2022-10-10 21:49:32,871] {processor.py:153} INFO - Started process (PID=8589) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:32,872] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:49:32,873] {logging_mixin.py:115} INFO - [2022-10-10 21:49:32,873] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:32,896] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:49:32,974] {logging_mixin.py:115} INFO - [2022-10-10 21:49:32,974] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:49:33,001] {logging_mixin.py:115} INFO - [2022-10-10 21:49:33,001] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:49:32.893957+00:00, run_after=2022-10-10T21:54:32.893957+00:00
+[2022-10-10 21:49:33,018] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:50:03,295] {processor.py:153} INFO - Started process (PID=8610) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:03,296] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:50:03,297] {logging_mixin.py:115} INFO - [2022-10-10 21:50:03,297] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:03,320] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:03,399] {logging_mixin.py:115} INFO - [2022-10-10 21:50:03,399] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:50:03,423] {logging_mixin.py:115} INFO - [2022-10-10 21:50:03,423] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:50:03.317705+00:00, run_after=2022-10-10T21:55:03.317705+00:00
+[2022-10-10 21:50:03,442] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:50:33,587] {processor.py:153} INFO - Started process (PID=8640) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:33,588] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:50:33,589] {logging_mixin.py:115} INFO - [2022-10-10 21:50:33,589] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:33,611] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:50:33,692] {logging_mixin.py:115} INFO - [2022-10-10 21:50:33,692] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:50:33,717] {logging_mixin.py:115} INFO - [2022-10-10 21:50:33,717] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:50:33.609240+00:00, run_after=2022-10-10T21:55:33.609240+00:00
+[2022-10-10 21:50:33,734] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:51:03,993] {processor.py:153} INFO - Started process (PID=8671) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:03,994] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:51:03,996] {logging_mixin.py:115} INFO - [2022-10-10 21:51:03,995] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:04,022] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:04,117] {logging_mixin.py:115} INFO - [2022-10-10 21:51:04,116] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:51:04,147] {logging_mixin.py:115} INFO - [2022-10-10 21:51:04,147] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:51:04.019907+00:00, run_after=2022-10-10T21:56:04.019907+00:00
+[2022-10-10 21:51:04,168] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.182 seconds
+[2022-10-10 21:51:34,316] {processor.py:153} INFO - Started process (PID=8692) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:34,317] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:51:34,318] {logging_mixin.py:115} INFO - [2022-10-10 21:51:34,318] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:34,339] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:51:34,419] {logging_mixin.py:115} INFO - [2022-10-10 21:51:34,419] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:51:34,444] {logging_mixin.py:115} INFO - [2022-10-10 21:51:34,444] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:51:34.337791+00:00, run_after=2022-10-10T21:56:34.337791+00:00
+[2022-10-10 21:51:34,464] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:52:04,716] {processor.py:153} INFO - Started process (PID=8722) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:04,719] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:52:04,720] {logging_mixin.py:115} INFO - [2022-10-10 21:52:04,720] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:04,742] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:04,823] {logging_mixin.py:115} INFO - [2022-10-10 21:52:04,823] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:52:04,848] {logging_mixin.py:115} INFO - [2022-10-10 21:52:04,848] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:52:04.740344+00:00, run_after=2022-10-10T21:57:04.740344+00:00
+[2022-10-10 21:52:04,865] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 21:52:35,103] {processor.py:153} INFO - Started process (PID=8743) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:35,105] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:52:35,106] {logging_mixin.py:115} INFO - [2022-10-10 21:52:35,106] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:35,131] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:52:35,217] {logging_mixin.py:115} INFO - [2022-10-10 21:52:35,216] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:52:35,246] {logging_mixin.py:115} INFO - [2022-10-10 21:52:35,246] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:52:35.129369+00:00, run_after=2022-10-10T21:57:35.129369+00:00
+[2022-10-10 21:52:35,267] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.170 seconds
+[2022-10-10 21:53:05,475] {processor.py:153} INFO - Started process (PID=8774) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:05,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:53:05,477] {logging_mixin.py:115} INFO - [2022-10-10 21:53:05,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:05,500] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:05,580] {logging_mixin.py:115} INFO - [2022-10-10 21:53:05,580] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:53:05,605] {logging_mixin.py:115} INFO - [2022-10-10 21:53:05,605] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:53:05.498048+00:00, run_after=2022-10-10T21:58:05.498048+00:00
+[2022-10-10 21:53:05,621] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.151 seconds
+[2022-10-10 21:53:35,926] {processor.py:153} INFO - Started process (PID=8805) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:35,928] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:53:35,929] {logging_mixin.py:115} INFO - [2022-10-10 21:53:35,929] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:35,956] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:53:36,039] {logging_mixin.py:115} INFO - [2022-10-10 21:53:36,039] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:53:36,064] {logging_mixin.py:115} INFO - [2022-10-10 21:53:36,064] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:53:35.954327+00:00, run_after=2022-10-10T21:58:35.954327+00:00
+[2022-10-10 21:53:36,081] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.162 seconds
+[2022-10-10 21:54:06,257] {processor.py:153} INFO - Started process (PID=8826) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:06,259] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:54:06,260] {logging_mixin.py:115} INFO - [2022-10-10 21:54:06,260] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:06,286] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:06,371] {logging_mixin.py:115} INFO - [2022-10-10 21:54:06,370] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:54:06,399] {logging_mixin.py:115} INFO - [2022-10-10 21:54:06,399] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:54:06.283949+00:00, run_after=2022-10-10T21:59:06.283949+00:00
+[2022-10-10 21:54:06,417] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.164 seconds
+[2022-10-10 21:54:36,699] {processor.py:153} INFO - Started process (PID=8856) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:36,700] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:54:36,701] {logging_mixin.py:115} INFO - [2022-10-10 21:54:36,701] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:36,723] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:54:36,805] {logging_mixin.py:115} INFO - [2022-10-10 21:54:36,804] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:54:36,829] {logging_mixin.py:115} INFO - [2022-10-10 21:54:36,829] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:54:36.721596+00:00, run_after=2022-10-10T21:59:36.721596+00:00
+[2022-10-10 21:54:36,847] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:55:07,020] {processor.py:153} INFO - Started process (PID=8878) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:07,021] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:55:07,022] {logging_mixin.py:115} INFO - [2022-10-10 21:55:07,022] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:07,054] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:07,140] {logging_mixin.py:115} INFO - [2022-10-10 21:55:07,140] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:55:07,167] {logging_mixin.py:115} INFO - [2022-10-10 21:55:07,167] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:55:07.052721+00:00, run_after=2022-10-10T22:00:07.052721+00:00
+[2022-10-10 21:55:07,184] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.169 seconds
+[2022-10-10 21:55:37,410] {processor.py:153} INFO - Started process (PID=8908) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:37,411] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:55:37,413] {logging_mixin.py:115} INFO - [2022-10-10 21:55:37,413] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:37,435] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:55:37,515] {logging_mixin.py:115} INFO - [2022-10-10 21:55:37,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:55:37,540] {logging_mixin.py:115} INFO - [2022-10-10 21:55:37,539] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:55:37.433084+00:00, run_after=2022-10-10T22:00:37.433084+00:00
+[2022-10-10 21:55:37,556] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.152 seconds
+[2022-10-10 21:56:07,802] {processor.py:153} INFO - Started process (PID=8938) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:07,803] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:56:07,804] {logging_mixin.py:115} INFO - [2022-10-10 21:56:07,804] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:07,826] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:07,910] {logging_mixin.py:115} INFO - [2022-10-10 21:56:07,910] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:56:07,936] {logging_mixin.py:115} INFO - [2022-10-10 21:56:07,936] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:56:07.824726+00:00, run_after=2022-10-10T22:01:07.824726+00:00
+[2022-10-10 21:56:07,953] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 21:56:38,148] {processor.py:153} INFO - Started process (PID=8958) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:38,149] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:56:38,150] {logging_mixin.py:115} INFO - [2022-10-10 21:56:38,150] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:38,173] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:56:38,254] {logging_mixin.py:115} INFO - [2022-10-10 21:56:38,254] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:56:38,279] {logging_mixin.py:115} INFO - [2022-10-10 21:56:38,279] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:56:38.170935+00:00, run_after=2022-10-10T22:01:38.170935+00:00
+[2022-10-10 21:56:38,296] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 21:57:08,555] {processor.py:153} INFO - Started process (PID=8989) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:08,556] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:57:08,558] {logging_mixin.py:115} INFO - [2022-10-10 21:57:08,557] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:08,580] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:08,666] {logging_mixin.py:115} INFO - [2022-10-10 21:57:08,666] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:57:08,690] {logging_mixin.py:115} INFO - [2022-10-10 21:57:08,690] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:57:08.578311+00:00, run_after=2022-10-10T22:02:08.578311+00:00
+[2022-10-10 21:57:08,706] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 21:57:38,884] {processor.py:153} INFO - Started process (PID=9019) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:38,885] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:57:38,886] {logging_mixin.py:115} INFO - [2022-10-10 21:57:38,886] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:38,911] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:57:39,017] {logging_mixin.py:115} INFO - [2022-10-10 21:57:39,017] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:57:39,046] {logging_mixin.py:115} INFO - [2022-10-10 21:57:39,045] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:57:38.909817+00:00, run_after=2022-10-10T22:02:38.909817+00:00
+[2022-10-10 21:57:39,064] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.185 seconds
+[2022-10-10 21:58:09,159] {processor.py:153} INFO - Started process (PID=9040) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:09,160] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:58:09,162] {logging_mixin.py:115} INFO - [2022-10-10 21:58:09,162] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:09,184] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:09,268] {logging_mixin.py:115} INFO - [2022-10-10 21:58:09,268] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:58:09,297] {logging_mixin.py:115} INFO - [2022-10-10 21:58:09,296] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:58:09.182075+00:00, run_after=2022-10-10T22:03:09.182075+00:00
+[2022-10-10 21:58:09,311] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 21:58:39,658] {processor.py:153} INFO - Started process (PID=9071) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:39,661] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:58:39,663] {logging_mixin.py:115} INFO - [2022-10-10 21:58:39,663] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:39,692] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:58:39,796] {logging_mixin.py:115} INFO - [2022-10-10 21:58:39,796] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:58:39,827] {logging_mixin.py:115} INFO - [2022-10-10 21:58:39,827] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:58:39.690165+00:00, run_after=2022-10-10T22:03:39.690165+00:00
+[2022-10-10 21:58:39,845] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.195 seconds
+[2022-10-10 21:59:10,022] {processor.py:153} INFO - Started process (PID=9092) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:10,025] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:59:10,026] {logging_mixin.py:115} INFO - [2022-10-10 21:59:10,026] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:10,048] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:10,130] {logging_mixin.py:115} INFO - [2022-10-10 21:59:10,129] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:59:10,155] {logging_mixin.py:115} INFO - [2022-10-10 21:59:10,155] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:59:10.046445+00:00, run_after=2022-10-10T22:04:10.046445+00:00
+[2022-10-10 21:59:10,172] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 21:59:40,378] {processor.py:153} INFO - Started process (PID=9121) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:40,380] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 21:59:40,381] {logging_mixin.py:115} INFO - [2022-10-10 21:59:40,381] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:40,407] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 21:59:40,490] {logging_mixin.py:115} INFO - [2022-10-10 21:59:40,490] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 21:59:40,515] {logging_mixin.py:115} INFO - [2022-10-10 21:59:40,515] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T21:59:40.404801+00:00, run_after=2022-10-10T22:04:40.404801+00:00
+[2022-10-10 21:59:40,534] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 22:00:10,703] {processor.py:153} INFO - Started process (PID=9151) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:10,706] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:00:10,708] {logging_mixin.py:115} INFO - [2022-10-10 22:00:10,708] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:10,738] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:10,839] {logging_mixin.py:115} INFO - [2022-10-10 22:00:10,839] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:00:10,877] {logging_mixin.py:115} INFO - [2022-10-10 22:00:10,876] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:00:10.736151+00:00, run_after=2022-10-10T22:05:10.736151+00:00
+[2022-10-10 22:00:10,895] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.196 seconds
+[2022-10-10 22:00:41,062] {processor.py:153} INFO - Started process (PID=9172) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:41,065] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:00:41,067] {logging_mixin.py:115} INFO - [2022-10-10 22:00:41,067] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:41,093] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:00:41,198] {logging_mixin.py:115} INFO - [2022-10-10 22:00:41,197] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:00:41,239] {logging_mixin.py:115} INFO - [2022-10-10 22:00:41,238] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:00:41.091377+00:00, run_after=2022-10-10T22:05:41.091377+00:00
+[2022-10-10 22:00:41,261] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.209 seconds
+[2022-10-10 22:01:11,415] {processor.py:153} INFO - Started process (PID=9202) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:11,416] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:01:11,417] {logging_mixin.py:115} INFO - [2022-10-10 22:01:11,417] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:11,438] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:11,520] {logging_mixin.py:115} INFO - [2022-10-10 22:01:11,520] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:01:11,546] {logging_mixin.py:115} INFO - [2022-10-10 22:01:11,546] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:01:11.436846+00:00, run_after=2022-10-10T22:06:11.436846+00:00
+[2022-10-10 22:01:11,566] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 22:01:41,820] {processor.py:153} INFO - Started process (PID=9223) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:41,821] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:01:41,822] {logging_mixin.py:115} INFO - [2022-10-10 22:01:41,822] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:41,844] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:01:41,924] {logging_mixin.py:115} INFO - [2022-10-10 22:01:41,923] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:01:41,949] {logging_mixin.py:115} INFO - [2022-10-10 22:01:41,948] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:01:41.842215+00:00, run_after=2022-10-10T22:06:41.842215+00:00
+[2022-10-10 22:01:41,966] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.151 seconds
+[2022-10-10 22:02:12,081] {processor.py:153} INFO - Started process (PID=9252) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:12,082] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:02:12,084] {logging_mixin.py:115} INFO - [2022-10-10 22:02:12,083] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:12,106] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:12,190] {logging_mixin.py:115} INFO - [2022-10-10 22:02:12,190] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:02:12,218] {logging_mixin.py:115} INFO - [2022-10-10 22:02:12,218] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:02:12.104333+00:00, run_after=2022-10-10T22:07:12.104333+00:00
+[2022-10-10 22:02:12,236] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 22:02:42,337] {processor.py:153} INFO - Started process (PID=9282) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:42,341] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:02:42,343] {logging_mixin.py:115} INFO - [2022-10-10 22:02:42,343] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:42,371] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:02:42,451] {logging_mixin.py:115} INFO - [2022-10-10 22:02:42,451] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:02:42,486] {logging_mixin.py:115} INFO - [2022-10-10 22:02:42,485] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:02:42.369479+00:00, run_after=2022-10-10T22:07:42.369479+00:00
+[2022-10-10 22:02:42,501] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.170 seconds
+[2022-10-10 22:03:12,769] {processor.py:153} INFO - Started process (PID=9303) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:12,772] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:03:12,774] {logging_mixin.py:115} INFO - [2022-10-10 22:03:12,774] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:12,796] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:12,876] {logging_mixin.py:115} INFO - [2022-10-10 22:03:12,876] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:03:12,902] {logging_mixin.py:115} INFO - [2022-10-10 22:03:12,901] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:03:12.794538+00:00, run_after=2022-10-10T22:08:12.794538+00:00
+[2022-10-10 22:03:12,919] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 22:03:43,032] {processor.py:153} INFO - Started process (PID=9332) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:43,036] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:03:43,037] {logging_mixin.py:115} INFO - [2022-10-10 22:03:43,037] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:43,059] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:03:43,139] {logging_mixin.py:115} INFO - [2022-10-10 22:03:43,139] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:03:43,164] {logging_mixin.py:115} INFO - [2022-10-10 22:03:43,164] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:03:43.057555+00:00, run_after=2022-10-10T22:08:43.057555+00:00
+[2022-10-10 22:03:43,182] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 22:04:13,449] {processor.py:153} INFO - Started process (PID=9352) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:13,452] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:04:13,453] {logging_mixin.py:115} INFO - [2022-10-10 22:04:13,453] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:13,476] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:13,560] {logging_mixin.py:115} INFO - [2022-10-10 22:04:13,560] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:04:13,586] {logging_mixin.py:115} INFO - [2022-10-10 22:04:13,586] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:04:13.475029+00:00, run_after=2022-10-10T22:09:13.475029+00:00
+[2022-10-10 22:04:13,605] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.161 seconds
+[2022-10-10 22:04:43,740] {processor.py:153} INFO - Started process (PID=9382) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:43,743] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:04:43,745] {logging_mixin.py:115} INFO - [2022-10-10 22:04:43,745] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:43,767] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:04:43,848] {logging_mixin.py:115} INFO - [2022-10-10 22:04:43,848] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:04:43,873] {logging_mixin.py:115} INFO - [2022-10-10 22:04:43,873] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:04:43.765887+00:00, run_after=2022-10-10T22:09:43.765887+00:00
+[2022-10-10 22:04:43,889] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 22:05:14,039] {processor.py:153} INFO - Started process (PID=9413) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:14,042] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:05:14,043] {logging_mixin.py:115} INFO - [2022-10-10 22:05:14,043] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:14,065] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:14,147] {logging_mixin.py:115} INFO - [2022-10-10 22:05:14,147] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:05:14,173] {logging_mixin.py:115} INFO - [2022-10-10 22:05:14,173] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:05:14.063328+00:00, run_after=2022-10-10T22:10:14.063328+00:00
+[2022-10-10 22:05:14,190] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 22:05:44,503] {processor.py:153} INFO - Started process (PID=9434) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:44,506] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:05:44,508] {logging_mixin.py:115} INFO - [2022-10-10 22:05:44,507] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:44,531] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:05:44,613] {logging_mixin.py:115} INFO - [2022-10-10 22:05:44,613] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:05:44,639] {logging_mixin.py:115} INFO - [2022-10-10 22:05:44,639] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:05:44.529623+00:00, run_after=2022-10-10T22:10:44.529623+00:00
+[2022-10-10 22:05:44,659] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.161 seconds
+[2022-10-10 22:06:14,817] {processor.py:153} INFO - Started process (PID=9463) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:14,821] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:06:14,822] {logging_mixin.py:115} INFO - [2022-10-10 22:06:14,822] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:14,845] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:14,925] {logging_mixin.py:115} INFO - [2022-10-10 22:06:14,925] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:06:14,951] {logging_mixin.py:115} INFO - [2022-10-10 22:06:14,951] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:06:14.843117+00:00, run_after=2022-10-10T22:11:14.843117+00:00
+[2022-10-10 22:06:14,967] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:06:45,071] {processor.py:153} INFO - Started process (PID=9484) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:45,073] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:06:45,074] {logging_mixin.py:115} INFO - [2022-10-10 22:06:45,074] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:45,097] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:06:45,187] {logging_mixin.py:115} INFO - [2022-10-10 22:06:45,186] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:06:45,222] {logging_mixin.py:115} INFO - [2022-10-10 22:06:45,222] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:06:45.095117+00:00, run_after=2022-10-10T22:11:45.095117+00:00
+[2022-10-10 22:06:45,243] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.176 seconds
+[2022-10-10 22:07:15,472] {processor.py:153} INFO - Started process (PID=9515) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:15,474] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:07:15,475] {logging_mixin.py:115} INFO - [2022-10-10 22:07:15,475] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:15,498] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:15,580] {logging_mixin.py:115} INFO - [2022-10-10 22:07:15,580] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:07:15,608] {logging_mixin.py:115} INFO - [2022-10-10 22:07:15,608] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:07:15.496660+00:00, run_after=2022-10-10T22:12:15.496660+00:00
+[2022-10-10 22:07:15,625] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 22:07:45,783] {processor.py:153} INFO - Started process (PID=9545) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:45,784] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:07:45,785] {logging_mixin.py:115} INFO - [2022-10-10 22:07:45,785] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:45,808] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:07:45,888] {logging_mixin.py:115} INFO - [2022-10-10 22:07:45,888] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:07:45,913] {logging_mixin.py:115} INFO - [2022-10-10 22:07:45,913] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:07:45.806173+00:00, run_after=2022-10-10T22:12:45.806173+00:00
+[2022-10-10 22:07:45,931] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.153 seconds
+[2022-10-10 22:08:16,192] {processor.py:153} INFO - Started process (PID=9566) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:16,194] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:08:16,195] {logging_mixin.py:115} INFO - [2022-10-10 22:08:16,195] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:16,218] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:16,300] {logging_mixin.py:115} INFO - [2022-10-10 22:08:16,300] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:08:16,325] {logging_mixin.py:115} INFO - [2022-10-10 22:08:16,325] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:08:16.216065+00:00, run_after=2022-10-10T22:13:16.216065+00:00
+[2022-10-10 22:08:16,343] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:08:46,509] {processor.py:153} INFO - Started process (PID=9597) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:46,510] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:08:46,511] {logging_mixin.py:115} INFO - [2022-10-10 22:08:46,511] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:46,537] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:08:46,619] {logging_mixin.py:115} INFO - [2022-10-10 22:08:46,618] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:08:46,645] {logging_mixin.py:115} INFO - [2022-10-10 22:08:46,644] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:08:46.534832+00:00, run_after=2022-10-10T22:13:46.534832+00:00
+[2022-10-10 22:08:46,663] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:09:16,933] {processor.py:153} INFO - Started process (PID=9628) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:16,934] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:09:16,935] {logging_mixin.py:115} INFO - [2022-10-10 22:09:16,935] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:16,960] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:17,091] {logging_mixin.py:115} INFO - [2022-10-10 22:09:17,091] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:09:17,127] {logging_mixin.py:115} INFO - [2022-10-10 22:09:17,126] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:09:16.958130+00:00, run_after=2022-10-10T22:14:16.958130+00:00
+[2022-10-10 22:09:17,152] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.224 seconds
+[2022-10-10 22:09:47,354] {processor.py:153} INFO - Started process (PID=9649) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:47,356] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:09:47,357] {logging_mixin.py:115} INFO - [2022-10-10 22:09:47,357] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:47,379] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:09:47,461] {logging_mixin.py:115} INFO - [2022-10-10 22:09:47,461] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:09:47,489] {logging_mixin.py:115} INFO - [2022-10-10 22:09:47,489] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:09:47.377569+00:00, run_after=2022-10-10T22:14:47.377569+00:00
+[2022-10-10 22:09:47,505] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 22:10:18,121] {processor.py:153} INFO - Started process (PID=9678) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:10:18,123] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:10:18,124] {logging_mixin.py:115} INFO - [2022-10-10 22:10:18,124] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:10:18,149] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:10:18,260] {logging_mixin.py:115} INFO - [2022-10-10 22:10:18,260] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:10:18,289] {logging_mixin.py:115} INFO - [2022-10-10 22:10:18,289] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:10:18.146940+00:00, run_after=2022-10-10T22:15:18.146940+00:00
+[2022-10-10 22:10:18,308] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.193 seconds
+[2022-10-10 22:17:31,103] {processor.py:153} INFO - Started process (PID=9680) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:17:31,105] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:17:31,106] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,106] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:17:31,130] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:17:31,229] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,229] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:17:31,265] {logging_mixin.py:115} INFO - [2022-10-10 22:17:31,265] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:17:31.127688+00:00, run_after=2022-10-10T22:22:31.127688+00:00
+[2022-10-10 22:17:31,283] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.187 seconds
+[2022-10-10 22:18:01,473] {processor.py:153} INFO - Started process (PID=9710) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:01,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:18:01,477] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,477] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:01,502] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:01,582] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,581] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:18:01,607] {logging_mixin.py:115} INFO - [2022-10-10 22:18:01,607] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:18:01.500351+00:00, run_after=2022-10-10T22:23:01.500351+00:00
+[2022-10-10 22:18:01,624] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 22:18:31,738] {processor.py:153} INFO - Started process (PID=9731) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:31,740] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:18:31,742] {logging_mixin.py:115} INFO - [2022-10-10 22:18:31,742] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:31,775] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:18:31,870] {logging_mixin.py:115} INFO - [2022-10-10 22:18:31,870] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:18:31,903] {logging_mixin.py:115} INFO - [2022-10-10 22:18:31,903] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:18:31.773228+00:00, run_after=2022-10-10T22:23:31.773228+00:00
+[2022-10-10 22:18:31,922] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.192 seconds
+[2022-10-10 22:19:02,044] {processor.py:153} INFO - Started process (PID=9761) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:02,045] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:19:02,047] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,047] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:02,069] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:02,150] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,149] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:19:02,175] {logging_mixin.py:115} INFO - [2022-10-10 22:19:02,175] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:19:02.067381+00:00, run_after=2022-10-10T22:24:02.067381+00:00
+[2022-10-10 22:19:02,193] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:19:32,325] {processor.py:153} INFO - Started process (PID=9791) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:32,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:19:32,329] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,329] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:32,365] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:19:32,474] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,474] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:19:32,528] {logging_mixin.py:115} INFO - [2022-10-10 22:19:32,528] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:19:32.362975+00:00, run_after=2022-10-10T22:24:32.362975+00:00
+[2022-10-10 22:19:32,549] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.234 seconds
+[2022-10-10 22:20:02,659] {processor.py:153} INFO - Started process (PID=9812) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:02,660] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:20:02,662] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,662] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:02,688] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:02,784] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,784] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:20:02,811] {logging_mixin.py:115} INFO - [2022-10-10 22:20:02,811] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:20:02.685826+00:00, run_after=2022-10-10T22:25:02.685826+00:00
+[2022-10-10 22:20:02,830] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.180 seconds
+[2022-10-10 22:20:32,932] {processor.py:153} INFO - Started process (PID=9842) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:32,934] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:20:32,935] {logging_mixin.py:115} INFO - [2022-10-10 22:20:32,935] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:32,958] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:20:33,066] {logging_mixin.py:115} INFO - [2022-10-10 22:20:33,066] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:20:33,092] {logging_mixin.py:115} INFO - [2022-10-10 22:20:33,092] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:20:32.955911+00:00, run_after=2022-10-10T22:25:32.955911+00:00
+[2022-10-10 22:20:33,110] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.184 seconds
+[2022-10-10 22:21:03,212] {processor.py:153} INFO - Started process (PID=9862) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:03,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:21:03,214] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,214] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:03,236] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:03,325] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,324] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:21:03,362] {logging_mixin.py:115} INFO - [2022-10-10 22:21:03,362] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:21:03.234271+00:00, run_after=2022-10-10T22:26:03.234271+00:00
+[2022-10-10 22:21:03,378] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.171 seconds
+[2022-10-10 22:21:33,488] {processor.py:153} INFO - Started process (PID=9892) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:33,491] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:21:33,493] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,492] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:33,525] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:21:33,632] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,632] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:21:33,665] {logging_mixin.py:115} INFO - [2022-10-10 22:21:33,665] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:21:33.523027+00:00, run_after=2022-10-10T22:26:33.523027+00:00
+[2022-10-10 22:21:33,684] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.200 seconds
+[2022-10-10 22:22:03,806] {processor.py:153} INFO - Started process (PID=9923) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:03,808] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:22:03,809] {logging_mixin.py:115} INFO - [2022-10-10 22:22:03,809] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:03,836] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:03,951] {logging_mixin.py:115} INFO - [2022-10-10 22:22:03,951] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:22:03,978] {logging_mixin.py:115} INFO - [2022-10-10 22:22:03,977] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:22:03.834582+00:00, run_after=2022-10-10T22:27:03.834582+00:00
+[2022-10-10 22:22:03,997] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.195 seconds
+[2022-10-10 22:22:34,147] {processor.py:153} INFO - Started process (PID=9944) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:34,149] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:22:34,151] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,151] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:34,173] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:22:34,255] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,255] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:22:34,280] {logging_mixin.py:115} INFO - [2022-10-10 22:22:34,280] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:22:34.171422+00:00, run_after=2022-10-10T22:27:34.171422+00:00
+[2022-10-10 22:22:34,300] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:23:04,413] {processor.py:153} INFO - Started process (PID=9973) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:04,414] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:23:04,415] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,415] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:04,437] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:04,515] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:23:04,545] {logging_mixin.py:115} INFO - [2022-10-10 22:23:04,545] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:23:04.435211+00:00, run_after=2022-10-10T22:28:04.435211+00:00
+[2022-10-10 22:23:04,565] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:23:34,693] {processor.py:153} INFO - Started process (PID=9995) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:34,694] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:23:34,696] {logging_mixin.py:115} INFO - [2022-10-10 22:23:34,696] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:34,723] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:23:34,803] {logging_mixin.py:115} INFO - [2022-10-10 22:23:34,803] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:23:34,830] {logging_mixin.py:115} INFO - [2022-10-10 22:23:34,830] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:23:34.721074+00:00, run_after=2022-10-10T22:28:34.721074+00:00
+[2022-10-10 22:23:34,847] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:24:04,980] {processor.py:153} INFO - Started process (PID=10025) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:04,982] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:24:04,983] {logging_mixin.py:115} INFO - [2022-10-10 22:24:04,983] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:05,004] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:05,086] {logging_mixin.py:115} INFO - [2022-10-10 22:24:05,085] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:24:05,111] {logging_mixin.py:115} INFO - [2022-10-10 22:24:05,111] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:24:05.002317+00:00, run_after=2022-10-10T22:29:05.002317+00:00
+[2022-10-10 22:24:05,129] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.154 seconds
+[2022-10-10 22:24:35,312] {processor.py:153} INFO - Started process (PID=10055) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:35,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:24:35,315] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,315] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:35,372] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:24:35,457] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,457] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:24:35,483] {logging_mixin.py:115} INFO - [2022-10-10 22:24:35,483] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:24:35.367319+00:00, run_after=2022-10-10T22:29:35.367319+00:00
+[2022-10-10 22:24:35,501] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.194 seconds
+[2022-10-10 22:25:05,672] {processor.py:153} INFO - Started process (PID=10077) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:05,674] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:25:05,675] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,675] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:05,698] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:05,794] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,793] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:25:05,822] {logging_mixin.py:115} INFO - [2022-10-10 22:25:05,822] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:25:05.696451+00:00, run_after=2022-10-10T22:30:05.696451+00:00
+[2022-10-10 22:25:05,838] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.170 seconds
+[2022-10-10 22:25:35,987] {processor.py:153} INFO - Started process (PID=10107) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:35,989] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:25:35,990] {logging_mixin.py:115} INFO - [2022-10-10 22:25:35,990] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:36,012] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:25:36,094] {logging_mixin.py:115} INFO - [2022-10-10 22:25:36,094] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:25:36,121] {logging_mixin.py:115} INFO - [2022-10-10 22:25:36,121] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:25:36.010678+00:00, run_after=2022-10-10T22:30:36.010678+00:00
+[2022-10-10 22:25:36,144] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.163 seconds
+[2022-10-10 22:26:06,312] {processor.py:153} INFO - Started process (PID=10128) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:06,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:26:06,315] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,314] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:06,337] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:06,423] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,423] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:26:06,450] {logging_mixin.py:115} INFO - [2022-10-10 22:26:06,450] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:26:06.335116+00:00, run_after=2022-10-10T22:31:06.335116+00:00
+[2022-10-10 22:26:06,466] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:26:36,631] {processor.py:153} INFO - Started process (PID=10157) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:36,632] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:26:36,633] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,633] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:36,656] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:26:36,738] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,738] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:26:36,767] {logging_mixin.py:115} INFO - [2022-10-10 22:26:36,767] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:26:36.653979+00:00, run_after=2022-10-10T22:31:36.653979+00:00
+[2022-10-10 22:26:36,784] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:27:06,915] {processor.py:153} INFO - Started process (PID=10187) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:06,917] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:27:06,918] {logging_mixin.py:115} INFO - [2022-10-10 22:27:06,918] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:06,941] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:07,021] {logging_mixin.py:115} INFO - [2022-10-10 22:27:07,020] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:27:07,046] {logging_mixin.py:115} INFO - [2022-10-10 22:27:07,046] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:27:06.939198+00:00, run_after=2022-10-10T22:32:06.939198+00:00
+[2022-10-10 22:27:07,062] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:27:37,238] {processor.py:153} INFO - Started process (PID=10208) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:37,240] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:27:37,241] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,241] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:37,270] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:27:37,358] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,358] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:27:37,395] {logging_mixin.py:115} INFO - [2022-10-10 22:27:37,395] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:27:37.268527+00:00, run_after=2022-10-10T22:32:37.268527+00:00
+[2022-10-10 22:27:37,422] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.193 seconds
+[2022-10-10 22:28:07,553] {processor.py:153} INFO - Started process (PID=10238) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:07,554] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:28:07,556] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,556] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:07,585] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:07,688] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,688] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:28:07,714] {logging_mixin.py:115} INFO - [2022-10-10 22:28:07,714] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:28:07.582831+00:00, run_after=2022-10-10T22:33:07.582831+00:00
+[2022-10-10 22:28:07,731] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.185 seconds
+[2022-10-10 22:28:37,921] {processor.py:153} INFO - Started process (PID=10268) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:37,926] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:28:37,931] {logging_mixin.py:115} INFO - [2022-10-10 22:28:37,931] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:37,962] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:28:38,103] {logging_mixin.py:115} INFO - [2022-10-10 22:28:38,102] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:28:38,129] {logging_mixin.py:115} INFO - [2022-10-10 22:28:38,129] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:28:37.960051+00:00, run_after=2022-10-10T22:33:37.960051+00:00
+[2022-10-10 22:28:38,146] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.239 seconds
+[2022-10-10 22:29:08,295] {processor.py:153} INFO - Started process (PID=10289) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:08,297] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:29:08,298] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,298] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:08,321] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:08,420] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,420] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:29:08,447] {logging_mixin.py:115} INFO - [2022-10-10 22:29:08,447] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:29:08.319551+00:00, run_after=2022-10-10T22:34:08.319551+00:00
+[2022-10-10 22:29:08,465] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.176 seconds
+[2022-10-10 22:29:39,021] {processor.py:153} INFO - Started process (PID=10318) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:39,022] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:29:39,023] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,023] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:39,045] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:29:39,124] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,124] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:29:39,149] {logging_mixin.py:115} INFO - [2022-10-10 22:29:39,149] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:29:39.043535+00:00, run_after=2022-10-10T22:34:39.043535+00:00
+[2022-10-10 22:29:39,167] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.151 seconds
+[2022-10-10 22:43:29,096] {processor.py:153} INFO - Started process (PID=10337) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:29,100] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:43:29,101] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,101] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:29,162] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:29,378] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,378] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:43:29,442] {logging_mixin.py:115} INFO - [2022-10-10 22:43:29,442] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:43:29.159525+00:00, run_after=2022-10-10T22:48:29.159525+00:00
+[2022-10-10 22:43:29,477] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.386 seconds
+[2022-10-10 22:43:59,625] {processor.py:153} INFO - Started process (PID=10360) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:59,627] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:43:59,629] {logging_mixin.py:115} INFO - [2022-10-10 22:43:59,628] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:59,654] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:43:59,746] {logging_mixin.py:115} INFO - [2022-10-10 22:43:59,746] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:43:59,774] {logging_mixin.py:115} INFO - [2022-10-10 22:43:59,773] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:43:59.651428+00:00, run_after=2022-10-10T22:48:59.651428+00:00
+[2022-10-10 22:43:59,795] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.177 seconds
+[2022-10-10 22:44:29,894] {processor.py:153} INFO - Started process (PID=10390) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:44:29,895] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:44:29,897] {logging_mixin.py:115} INFO - [2022-10-10 22:44:29,897] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:44:29,935] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:44:30,032] {logging_mixin.py:115} INFO - [2022-10-10 22:44:30,032] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:44:30,057] {logging_mixin.py:115} INFO - [2022-10-10 22:44:30,057] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:44:29.933839+00:00, run_after=2022-10-10T22:49:29.933839+00:00
+[2022-10-10 22:44:30,073] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.186 seconds
+[2022-10-10 22:45:00,174] {processor.py:153} INFO - Started process (PID=10411) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:00,175] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:45:00,177] {logging_mixin.py:115} INFO - [2022-10-10 22:45:00,177] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:00,202] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:00,290] {logging_mixin.py:115} INFO - [2022-10-10 22:45:00,290] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:45:00,318] {logging_mixin.py:115} INFO - [2022-10-10 22:45:00,318] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:45:00.199725+00:00, run_after=2022-10-10T22:50:00.199725+00:00
+[2022-10-10 22:45:00,338] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.171 seconds
+[2022-10-10 22:45:30,456] {processor.py:153} INFO - Started process (PID=10441) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:30,457] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:45:30,458] {logging_mixin.py:115} INFO - [2022-10-10 22:45:30,458] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:30,481] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:45:30,563] {logging_mixin.py:115} INFO - [2022-10-10 22:45:30,562] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:45:30,588] {logging_mixin.py:115} INFO - [2022-10-10 22:45:30,588] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:45:30.479345+00:00, run_after=2022-10-10T22:50:30.479345+00:00
+[2022-10-10 22:45:30,606] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:46:00,719] {processor.py:153} INFO - Started process (PID=10462) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:00,721] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:46:00,722] {logging_mixin.py:115} INFO - [2022-10-10 22:46:00,722] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:00,744] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:00,826] {logging_mixin.py:115} INFO - [2022-10-10 22:46:00,826] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:46:00,851] {logging_mixin.py:115} INFO - [2022-10-10 22:46:00,851] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:46:00.742340+00:00, run_after=2022-10-10T22:51:00.742340+00:00
+[2022-10-10 22:46:00,869] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:46:30,979] {processor.py:153} INFO - Started process (PID=10493) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:30,980] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:46:30,981] {logging_mixin.py:115} INFO - [2022-10-10 22:46:30,981] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:31,004] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:46:31,085] {logging_mixin.py:115} INFO - [2022-10-10 22:46:31,084] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:46:31,111] {logging_mixin.py:115} INFO - [2022-10-10 22:46:31,111] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:46:31.002360+00:00, run_after=2022-10-10T22:51:31.002360+00:00
+[2022-10-10 22:46:31,129] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 22:47:01,232] {processor.py:153} INFO - Started process (PID=10523) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:01,233] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:47:01,235] {logging_mixin.py:115} INFO - [2022-10-10 22:47:01,235] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:01,258] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:01,339] {logging_mixin.py:115} INFO - [2022-10-10 22:47:01,339] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:47:01,368] {logging_mixin.py:115} INFO - [2022-10-10 22:47:01,368] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:47:01.256121+00:00, run_after=2022-10-10T22:52:01.256121+00:00
+[2022-10-10 22:47:01,384] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.158 seconds
+[2022-10-10 22:47:31,514] {processor.py:153} INFO - Started process (PID=10544) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:31,515] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:47:31,517] {logging_mixin.py:115} INFO - [2022-10-10 22:47:31,517] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:31,539] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:47:31,621] {logging_mixin.py:115} INFO - [2022-10-10 22:47:31,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:47:31,647] {logging_mixin.py:115} INFO - [2022-10-10 22:47:31,647] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:47:31.537660+00:00, run_after=2022-10-10T22:52:31.537660+00:00
+[2022-10-10 22:47:31,668] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.159 seconds
+[2022-10-10 22:48:01,792] {processor.py:153} INFO - Started process (PID=10574) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:01,793] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:48:01,794] {logging_mixin.py:115} INFO - [2022-10-10 22:48:01,794] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:01,819] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:01,905] {logging_mixin.py:115} INFO - [2022-10-10 22:48:01,904] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:48:01,931] {logging_mixin.py:115} INFO - [2022-10-10 22:48:01,931] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:48:01.816699+00:00, run_after=2022-10-10T22:53:01.816699+00:00
+[2022-10-10 22:48:01,946] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 22:48:32,093] {processor.py:153} INFO - Started process (PID=10595) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:32,094] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:48:32,096] {logging_mixin.py:115} INFO - [2022-10-10 22:48:32,096] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:32,119] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:48:32,204] {logging_mixin.py:115} INFO - [2022-10-10 22:48:32,204] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:48:32,234] {logging_mixin.py:115} INFO - [2022-10-10 22:48:32,234] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:48:32.117538+00:00, run_after=2022-10-10T22:53:32.117538+00:00
+[2022-10-10 22:48:32,253] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.164 seconds
+[2022-10-10 22:49:02,368] {processor.py:153} INFO - Started process (PID=10625) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:02,369] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:49:02,370] {logging_mixin.py:115} INFO - [2022-10-10 22:49:02,370] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:02,394] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:02,482] {logging_mixin.py:115} INFO - [2022-10-10 22:49:02,482] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:49:02,511] {logging_mixin.py:115} INFO - [2022-10-10 22:49:02,511] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:49:02.392064+00:00, run_after=2022-10-10T22:54:02.392064+00:00
+[2022-10-10 22:49:02,534] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.174 seconds
+[2022-10-10 22:49:32,678] {processor.py:153} INFO - Started process (PID=10655) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:32,679] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:49:32,681] {logging_mixin.py:115} INFO - [2022-10-10 22:49:32,681] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:32,707] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:49:32,796] {logging_mixin.py:115} INFO - [2022-10-10 22:49:32,796] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:49:32,827] {logging_mixin.py:115} INFO - [2022-10-10 22:49:32,827] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:49:32.706135+00:00, run_after=2022-10-10T22:54:32.706135+00:00
+[2022-10-10 22:49:32,847] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.177 seconds
+[2022-10-10 22:50:03,013] {processor.py:153} INFO - Started process (PID=10676) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:03,014] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:50:03,015] {logging_mixin.py:115} INFO - [2022-10-10 22:50:03,015] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:03,038] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:03,119] {logging_mixin.py:115} INFO - [2022-10-10 22:50:03,119] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:50:03,145] {logging_mixin.py:115} INFO - [2022-10-10 22:50:03,145] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:50:03.035844+00:00, run_after=2022-10-10T22:55:03.035844+00:00
+[2022-10-10 22:50:03,165] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 22:50:33,312] {processor.py:153} INFO - Started process (PID=10705) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:33,316] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:50:33,317] {logging_mixin.py:115} INFO - [2022-10-10 22:50:33,317] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:33,345] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:50:33,442] {logging_mixin.py:115} INFO - [2022-10-10 22:50:33,442] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:50:33,476] {logging_mixin.py:115} INFO - [2022-10-10 22:50:33,476] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:50:33.343444+00:00, run_after=2022-10-10T22:55:33.343444+00:00
+[2022-10-10 22:50:33,495] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.188 seconds
+[2022-10-10 22:51:03,652] {processor.py:153} INFO - Started process (PID=10727) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:03,653] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:51:03,655] {logging_mixin.py:115} INFO - [2022-10-10 22:51:03,655] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:03,677] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:03,759] {logging_mixin.py:115} INFO - [2022-10-10 22:51:03,759] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:51:03,784] {logging_mixin.py:115} INFO - [2022-10-10 22:51:03,784] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:51:03.675383+00:00, run_after=2022-10-10T22:56:03.675383+00:00
+[2022-10-10 22:51:03,801] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.155 seconds
+[2022-10-10 22:51:33,947] {processor.py:153} INFO - Started process (PID=10757) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:33,949] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:51:33,951] {logging_mixin.py:115} INFO - [2022-10-10 22:51:33,951] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:33,975] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:51:34,075] {logging_mixin.py:115} INFO - [2022-10-10 22:51:34,075] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:51:34,108] {logging_mixin.py:115} INFO - [2022-10-10 22:51:34,108] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:51:33.973091+00:00, run_after=2022-10-10T22:56:33.973091+00:00
+[2022-10-10 22:51:34,126] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.185 seconds
+[2022-10-10 22:52:04,287] {processor.py:153} INFO - Started process (PID=10788) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:04,288] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:52:04,291] {logging_mixin.py:115} INFO - [2022-10-10 22:52:04,291] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:04,313] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:04,398] {logging_mixin.py:115} INFO - [2022-10-10 22:52:04,398] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:52:04,424] {logging_mixin.py:115} INFO - [2022-10-10 22:52:04,423] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:52:04.311820+00:00, run_after=2022-10-10T22:57:04.311820+00:00
+[2022-10-10 22:52:04,441] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.160 seconds
+[2022-10-10 22:52:34,575] {processor.py:153} INFO - Started process (PID=10809) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:34,577] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:52:34,578] {logging_mixin.py:115} INFO - [2022-10-10 22:52:34,578] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:34,602] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:52:34,684] {logging_mixin.py:115} INFO - [2022-10-10 22:52:34,684] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:52:34,710] {logging_mixin.py:115} INFO - [2022-10-10 22:52:34,710] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:52:34.600028+00:00, run_after=2022-10-10T22:57:34.600028+00:00
+[2022-10-10 22:52:34,727] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.157 seconds
+[2022-10-10 22:53:04,864] {processor.py:153} INFO - Started process (PID=10839) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:04,865] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:53:04,866] {logging_mixin.py:115} INFO - [2022-10-10 22:53:04,866] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:04,889] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:04,972] {logging_mixin.py:115} INFO - [2022-10-10 22:53:04,971] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:53:04,997] {logging_mixin.py:115} INFO - [2022-10-10 22:53:04,997] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:53:04.887147+00:00, run_after=2022-10-10T22:58:04.887147+00:00
+[2022-10-10 22:53:05,013] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.156 seconds
+[2022-10-10 22:53:35,196] {processor.py:153} INFO - Started process (PID=10860) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:35,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:53:35,199] {logging_mixin.py:115} INFO - [2022-10-10 22:53:35,199] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:35,232] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:53:35,334] {logging_mixin.py:115} INFO - [2022-10-10 22:53:35,334] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:53:35,369] {logging_mixin.py:115} INFO - [2022-10-10 22:53:35,369] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:53:35.228715+00:00, run_after=2022-10-10T22:58:35.228715+00:00
+[2022-10-10 22:53:35,388] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.197 seconds
+[2022-10-10 22:54:05,547] {processor.py:153} INFO - Started process (PID=10890) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:05,549] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:54:05,550] {logging_mixin.py:115} INFO - [2022-10-10 22:54:05,550] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:05,578] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:05,666] {logging_mixin.py:115} INFO - [2022-10-10 22:54:05,666] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:54:05,695] {logging_mixin.py:115} INFO - [2022-10-10 22:54:05,695] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:54:05.575880+00:00, run_after=2022-10-10T22:59:05.575880+00:00
+[2022-10-10 22:54:05,710] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.167 seconds
+[2022-10-10 22:54:35,825] {processor.py:153} INFO - Started process (PID=10922) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:35,827] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:54:35,828] {logging_mixin.py:115} INFO - [2022-10-10 22:54:35,828] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:35,852] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:54:35,941] {logging_mixin.py:115} INFO - [2022-10-10 22:54:35,941] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:54:35,968] {logging_mixin.py:115} INFO - [2022-10-10 22:54:35,968] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:54:35.849322+00:00, run_after=2022-10-10T22:59:35.849322+00:00
+[2022-10-10 22:54:35,983] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.165 seconds
+[2022-10-10 22:55:06,495] {processor.py:153} INFO - Started process (PID=10943) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:55:06,496] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 22:55:06,497] {logging_mixin.py:115} INFO - [2022-10-10 22:55:06,497] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:55:06,535] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 22:55:06,636] {logging_mixin.py:115} INFO - [2022-10-10 22:55:06,636] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 22:55:06,701] {logging_mixin.py:115} INFO - [2022-10-10 22:55:06,701] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T22:55:06.532699+00:00, run_after=2022-10-10T23:00:06.532699+00:00
+[2022-10-10 22:55:06,775] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.285 seconds
+[2022-10-10 23:24:58,809] {processor.py:153} INFO - Started process (PID=10962) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:24:58,816] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:24:58,817] {logging_mixin.py:115} INFO - [2022-10-10 23:24:58,817] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:24:58,899] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:24:59,108] {logging_mixin.py:115} INFO - [2022-10-10 23:24:59,108] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:24:59,178] {logging_mixin.py:115} INFO - [2022-10-10 23:24:59,178] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:24:58.891465+00:00, run_after=2022-10-10T23:29:58.891465+00:00
+[2022-10-10 23:24:59,233] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.432 seconds
+[2022-10-10 23:25:29,356] {processor.py:153} INFO - Started process (PID=10986) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:25:29,358] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:25:29,359] {logging_mixin.py:115} INFO - [2022-10-10 23:25:29,359] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:25:29,382] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:25:29,483] {logging_mixin.py:115} INFO - [2022-10-10 23:25:29,483] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:25:29,510] {logging_mixin.py:115} INFO - [2022-10-10 23:25:29,510] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:25:29.380350+00:00, run_after=2022-10-10T23:30:29.380350+00:00
+[2022-10-10 23:25:29,528] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.178 seconds
+[2022-10-10 23:55:29,298] {processor.py:153} INFO - Started process (PID=11016) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:55:29,300] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:55:29,303] {logging_mixin.py:115} INFO - [2022-10-10 23:55:29,302] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:55:29,373] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:55:29,652] {logging_mixin.py:115} INFO - [2022-10-10 23:55:29,652] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:55:29,744] {logging_mixin.py:115} INFO - [2022-10-10 23:55:29,744] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:55:29.358234+00:00, run_after=2022-10-11T00:00:29.358234+00:00
+[2022-10-10 23:55:29,782] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.489 seconds
+[2022-10-10 23:56:00,053] {processor.py:153} INFO - Started process (PID=11028) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:00,059] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:56:00,067] {logging_mixin.py:115} INFO - [2022-10-10 23:56:00,066] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:00,225] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:01,023] {logging_mixin.py:115} INFO - [2022-10-10 23:56:01,023] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:56:01,260] {logging_mixin.py:115} INFO - [2022-10-10 23:56:01,241] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:56:00.212160+00:00, run_after=2022-10-11T00:01:00.212160+00:00
+[2022-10-10 23:56:01,425] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 1.409 seconds
+[2022-10-10 23:56:32,022] {processor.py:153} INFO - Started process (PID=11050) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:32,035] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:56:32,041] {logging_mixin.py:115} INFO - [2022-10-10 23:56:32,041] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:32,263] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:56:33,424] {logging_mixin.py:115} INFO - [2022-10-10 23:56:33,424] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:56:33,671] {logging_mixin.py:115} INFO - [2022-10-10 23:56:33,671] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:56:32.235435+00:00, run_after=2022-10-11T00:01:32.235435+00:00
+[2022-10-10 23:56:33,786] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 1.811 seconds
+[2022-10-10 23:59:47,128] {processor.py:153} INFO - Started process (PID=11063) to work on /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:59:47,137] {processor.py:641} INFO - Processing file /opt/airflow/dags/test_parquet.py for tasks to queue
+[2022-10-10 23:59:47,139] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,139] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:59:47,357] {processor.py:651} INFO - DAG(s) dict_keys(['generate_parquet']) retrieved from /opt/airflow/dags/test_parquet.py
+[2022-10-10 23:59:47,622] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,621] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-10-10 23:59:47,680] {logging_mixin.py:115} INFO - [2022-10-10 23:59:47,680] {dag.py:2972} INFO - Setting next_dagrun for generate_parquet to 2022-10-10T23:59:47.325349+00:00, run_after=2022-10-11T00:04:47.325349+00:00
+[2022-10-10 23:59:47,712] {processor.py:161} INFO - Processing /opt/airflow/dags/test_parquet.py took 0.592 seconds
