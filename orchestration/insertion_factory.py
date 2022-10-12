@@ -1,7 +1,4 @@
 import logging
-import sys
-sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/database_connection')
-sys.path.insert(1, '/Users/gonzo/Desktop/capstone_project/data_generators')
 from db_conn import DatabaseConection as db
 from generators import DataFactory as data
 import id_loader as id

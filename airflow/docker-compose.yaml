@@ -64,6 +64,7 @@ x-airflow-common:
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
     - ./testing:/opt/airflow/testing
+    - data-storage:/opt/airflow/data_storage
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -280,3 +281,4 @@ services:
 
 volumes:
   postgres-db-volume:
+  data-storage:
