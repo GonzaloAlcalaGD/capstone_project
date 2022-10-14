@@ -64,7 +64,6 @@ x-airflow-common:
     - ./logs:/opt/airflow/logs
     - ./plugins:/opt/airflow/plugins
     - ./testing:/opt/airflow/testing
-    - data-storage:/opt/airflow/data_storage
   user: "${AIRFLOW_UID:-50000}:0"
   depends_on:
     &airflow-common-depends-on
@@ -72,8 +71,20 @@ x-airflow-common:
       condition: service_healthy
     postgres:
       condition: service_healthy
-
+  
+  
 services:
+  capstone-db: 
+    image: postgres
+    environment: 
+      - DATABASE_HOST=127.0.0.1
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=root
+      - POSTGRES_DB=root
+    restart: always
+    volumes: 
+      - capstone-data:/var/lib/postgresql/data
+      - ./dags:/opt/airflow/dags
 
   postgres:
     image: postgres:13
@@ -281,4 +292,4 @@ services:
 
 volumes:
   postgres-db-volume:
-  data-storage:
+  capstone-data:

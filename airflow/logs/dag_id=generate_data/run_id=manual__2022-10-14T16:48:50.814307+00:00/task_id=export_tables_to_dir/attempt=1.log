@@ -1,0 +1,44 @@
+[2022-10-14 16:48:57,429] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-14T16:48:50.814307+00:00 [queued]>
+[2022-10-14 16:48:57,446] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-14T16:48:50.814307+00:00 [queued]>
+[2022-10-14 16:48:57,447] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-14 16:48:57,447] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-14 16:48:57,448] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-14 16:48:57,473] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): export_tables_to_dir> on 2022-10-14 16:48:50.814307+00:00
+[2022-10-14 16:48:57,484] {standard_task_runner.py:52} INFO - Started process 684 to run task
+[2022-10-14 16:48:57,490] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'export_tables_to_dir', 'manual__2022-10-14T16:48:50.814307+00:00', '--job-id', '81', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmpgte5jf3k', '--error-file', '/tmp/tmptznnxnt2']
+[2022-10-14 16:48:57,492] {standard_task_runner.py:80} INFO - Job 81: Subtask export_tables_to_dir
+[2022-10-14 16:48:57,589] {task_command.py:371} INFO - Running <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-14T16:48:50.814307+00:00 [running]> on host fd8c43cd0815
+[2022-10-14 16:48:57,740] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=export_tables_to_dir
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-14T16:48:50.814307+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-14T16:48:50.814307+00:00
+[2022-10-14 16:48:57,762] {export_tables.py:37} INFO - Connection to database success
+[2022-10-14 16:48:57,779] {export_tables.py:120} INFO - Working on transaction
+[2022-10-14 16:48:57,820] {export_tables.py:86} INFO - Exporting 300 rows into csv.
+[2022-10-14 16:48:57,825] {export_tables.py:75} INFO - Path already exist, overwriting the file
+[2022-10-14 16:48:57,853] {export_tables.py:96} CRITICAL - Something went wrong at exporting the table to container storage
+[2022-10-14 16:48:57,858] {export_tables.py:120} INFO - Working on customer
+[2022-10-14 16:48:57,869] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/export_tables.py", line 121, in export
+    copy_table(cursor=connection_cursor, conn=connection, path='/opt/airflow/dags/data_storage/pgdata/', table=table.get(_), days=days)
+  File "/opt/airflow/dags/export_tables.py", line 85, in copy_table
+    rows = count_rows(cursor, table=table)
+  File "/opt/airflow/dags/export_tables.py", line 49, in count_rows
+    cursor.execute(f'SELECT * FROM {table}')
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+[2022-10-14 16:48:57,901] {taskinstance.py:1420} INFO - Marking task as UP_FOR_RETRY. dag_id=generate_data, task_id=export_tables_to_dir, execution_date=20221014T164850, start_date=20221014T164857, end_date=20221014T164857
+[2022-10-14 16:48:57,934] {standard_task_runner.py:97} ERROR - Failed to execute job 81 for task export_tables_to_dir (current transaction is aborted, commands ignored until end of transaction block
+; 684)
+[2022-10-14 16:48:57,996] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-10-14 16:48:58,065] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

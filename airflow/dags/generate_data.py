@@ -4,11 +4,14 @@ from airflow import DAG
 # Airflow Operators
 from airflow.operators.email import EmailOperator
 from airflow.decorators import task
+from airflow.operators.python import PythonOperator
 
 # Dependencies
 import logging
 from datetime import timedelta
 import pendulum
+from insertion_orchestration import gen_data
+from export_tables import export
 
 with DAG(
     dag_id= 'generate_data',
@@ -21,15 +24,14 @@ with DAG(
     catchup= False
 ) as dag:
 
-    @task()
-    def print_logging():
-        """ Print test """
-        return logging.info('Generating insertions')
-    
+    generate_fake_data = PythonOperator(
+        task_id='generate_data',
+        python_callable=gen_data
+    )
 
-    @task()
-    def export_tables():
-        """ Export tables from Docker to Host"""
-        return logging.info('Exporting tables')
+    export_tables = PythonOperator(
+        task_id='export_tables_to_dir',
+        python_callable=export
+    )
 
-    print_logging() >> export_tables()
+    generate_fake_data >> export_tables
