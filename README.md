@@ -1,4 +1,4 @@
-# Capstone Project - Big Data Engineering Internship - Grid Dynamicsc
+# Capstone Project - Big Data Engineering Internship -
 [![PyPI version](https://badge.fury.io/py/apache-airflow.svg)](https://badge.fury.io/py/apache-airflow)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/apache-airflow.svg)](https://pypi.org/project/apache-airflow/)
 
@@ -12,37 +12,37 @@ RDBMS (Postresql, or MySQL)
 Parquet files
 Json files
 
-RDBMS tables:
-Transaction
-	id int,
-	Customer_id int,
-	Transaction_ts timestamp,
-	Amount int
-Customer
-	Id int,
-	First_name int,
-	Last_name int,
-	Phone_number int,
-	Address string
+1. RDBMS tables:
+    - Transaction
+	    - id int,
+	    - Customer_id int,
+	    - Transaction_ts timestamp,
+	    - Amount int
+    - Customer
+	    - Id int,
+	    - First_name int,
+	    - Last_name int,
+	    - Phone_number int,
+	    - Address string
 
-JSON structure:
-{
-‘id’:1,
-“ts”: 2022--06-06T22:06:06, 
-“Customer_first_name” : “test”
-“Customer_last_name”: “test”,
-“Amount”: 1000
-“Type” : “0” # 0 - in_store, 1-online	
-}
+2. JSON structure:
+    - {
+        ‘id’:1,
+        “ts”: 2022--06-06T22:06:06, 
+        “Customer_first_name” : “test”
+        “Customer_last_name”: “test”,
+        “Amount”: 1000
+        “Type” : “0” # 0 - in_store, 1-online	
+        }
 
-Parquet structure:
-	Id: int 
-	Customer: Struct
-		First_name: String
-		Last_name: String
-	Amount: int
-	ts: timestamp,
-	Store_id: int
+3. Parquet structure:
+	- Id: int 
+	- Customer: Struct
+		- First_name: String
+		- Last_name: String
+	- Amount: int
+	- ts: timestamp,
+	- Store_id: int
 
 Stages:
 
