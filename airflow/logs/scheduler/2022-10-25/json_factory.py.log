@@ -4298,3 +4298,13 @@
 [2022-10-25T19:53:20.689+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:20.689+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/json_factory.py
 [2022-10-25T19:53:20.879+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/json_factory.py
 [2022-10-25T19:53:20.905+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/json_factory.py took 0.230 seconds
+[2022-10-25T19:53:51.042+0000] {processor.py:156} INFO - Started process (PID=12372) to work on /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.057+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/json_factory.py for tasks to queue
+[2022-10-25T19:53:51.064+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:51.064+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.558+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.560+0000] {processor.py:156} INFO - Started process (PID=13228) to work on /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.565+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/json_factory.py for tasks to queue
+[2022-10-25T19:53:51.569+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:51.568+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.604+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/json_factory.py took 0.580 seconds
+[2022-10-25T19:53:51.834+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/json_factory.py
+[2022-10-25T19:53:51.869+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/json_factory.py took 0.331 seconds

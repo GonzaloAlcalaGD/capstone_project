@@ -6209,3 +6209,17 @@ ImportError: cannot import name 'load_and_aggregate' from 'pyspark_jobs' (/opt/a
 [2022-10-25T19:53:19.559+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:19.559+0000] {dag.py:2573} INFO - Sync 1 DAGs
 [2022-10-25T19:53:19.616+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:19.616+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-25T19:53:19.481666+00:00, run_after=2022-10-26T19:53:19.481666+00:00
 [2022-10-25T19:53:19.652+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.217 seconds
+[2022-10-25T19:53:50.242+0000] {processor.py:156} INFO - Started process (PID=12370) to work on /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.246+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-25T19:53:50.250+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.249+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.334+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.412+0000] {processor.py:156} INFO - Started process (PID=13224) to work on /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.415+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-25T19:53:50.405+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.404+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.551+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-25T19:53:50.765+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.765+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:53:50.867+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.866+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-25T19:53:50.289925+00:00, run_after=2022-10-26T19:53:50.289925+00:00
+[2022-10-25T19:53:50.899+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.898+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:53:50.939+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.732 seconds
+[2022-10-25T19:53:50.990+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:53:50.990+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-25T19:53:50.490293+00:00, run_after=2022-10-26T19:53:50.490293+00:00
+[2022-10-25T19:53:51.098+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.721 seconds
