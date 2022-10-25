@@ -174,9 +174,10 @@ All parquet files will be saved inside **./airflow/dags/storage/...**
 Data stored inside HDFS can be accessed following the next steps
 
 1. Open a new tab in your web browser
-2. In the navbar click on **Utilities**
-3. Go to **Browse the file system**
-4. Data should be under the following directories
+2. Go to the following link : **localhost:9870**
+3. In the navbar click on **Utilities**
+4. Go to **Browse the file system**
+5. Data should be under the following directories
     - Data aggregations:
         - /aggregations/cities_transactions
         - /aggregations/online_offline
