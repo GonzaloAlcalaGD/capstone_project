@@ -6098,3 +6098,101 @@
 [2022-10-25T19:54:51.508+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:54:51.508+0000] {dag.py:2573} INFO - Sync 1 DAGs
 [2022-10-25T19:54:51.625+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:54:51.625+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:54:51.214683+00:00, run_after=2022-10-26T19:54:51.214683+00:00
 [2022-10-25T19:54:51.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.507 seconds
+[2022-10-25T19:55:21.818+0000] {processor.py:156} INFO - Started process (PID=12466) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:21.820+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:55:21.823+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:21.822+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:21.874+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:21.925+0000] {processor.py:156} INFO - Started process (PID=13324) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:21.928+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:55:21.931+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:21.931+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:21.982+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:22.082+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:22.082+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:55:22.148+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:22.148+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:55:21.850831+00:00, run_after=2022-10-26T19:55:21.850831+00:00
+[2022-10-25T19:55:22.176+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:22.175+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:55:22.202+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.394 seconds
+[2022-10-25T19:55:22.250+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:22.249+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:55:21.960624+00:00, run_after=2022-10-26T19:55:21.960624+00:00
+[2022-10-25T19:55:22.300+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.386 seconds
+[2022-10-25T19:55:52.944+0000] {processor.py:156} INFO - Started process (PID=13358) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:52.947+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:55:52.950+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:52.949+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:52.994+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:53.062+0000] {processor.py:156} INFO - Started process (PID=12506) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:53.065+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:55:53.069+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:53.068+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:53.114+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:55:53.187+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:53.186+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:55:53.232+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:53.232+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:55:52.972476+00:00, run_after=2022-10-26T19:55:52.972476+00:00
+[2022-10-25T19:55:53.278+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.342 seconds
+[2022-10-25T19:55:53.291+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:53.291+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:55:53.357+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:55:53.357+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:55:53.094846+00:00, run_after=2022-10-26T19:55:53.094846+00:00
+[2022-10-25T19:55:53.444+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.390 seconds
+[2022-10-25T19:56:23.506+0000] {processor.py:156} INFO - Started process (PID=13392) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.510+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:56:23.514+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:23.513+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.590+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.815+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:23.815+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:56:23.857+0000] {processor.py:156} INFO - Started process (PID=12537) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.860+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:56:23.862+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:23.862+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.883+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:23.882+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:56:23.563110+00:00, run_after=2022-10-26T19:56:23.563110+00:00
+[2022-10-25T19:56:23.928+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:23.941+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.446 seconds
+[2022-10-25T19:56:24.024+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:24.023+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:56:24.116+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:24.115+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:56:23.897578+00:00, run_after=2022-10-26T19:56:23.897578+00:00
+[2022-10-25T19:56:24.166+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.322 seconds
+[2022-10-25T19:56:54.247+0000] {processor.py:156} INFO - Started process (PID=12577) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.250+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:56:54.252+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.252+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.293+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.485+0000] {processor.py:156} INFO - Started process (PID=13426) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.491+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:56:54.497+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.495+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.503+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:56:54.578+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.578+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:56:54.276825+00:00, run_after=2022-10-26T19:56:54.276825+00:00
+[2022-10-25T19:56:54.579+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:56:54.647+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.406 seconds
+[2022-10-25T19:56:54.684+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.684+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:56:54.754+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:56:54.754+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:56:54.539605+00:00, run_after=2022-10-26T19:56:54.539605+00:00
+[2022-10-25T19:56:54.797+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.320 seconds
+[2022-10-25T19:57:24.946+0000] {processor.py:156} INFO - Started process (PID=12608) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:24.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:57:24.954+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:24.954+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:25.012+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:25.022+0000] {processor.py:156} INFO - Started process (PID=13460) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:25.029+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:57:25.033+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:25.032+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:25.103+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:25.315+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:25.314+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:57:25.378+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:25.377+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:57:24.982969+00:00, run_after=2022-10-26T19:57:24.982969+00:00
+[2022-10-25T19:57:25.390+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:25.389+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:57:25.482+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.544 seconds
+[2022-10-25T19:57:25.527+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:25.526+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:57:25.071920+00:00, run_after=2022-10-26T19:57:25.071920+00:00
+[2022-10-25T19:57:25.608+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.595 seconds
+[2022-10-25T19:57:55.633+0000] {processor.py:156} INFO - Started process (PID=12640) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:55.638+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:57:55.640+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:55.640+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:55.700+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:55.846+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:55.846+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:57:55.897+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:55.896+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:57:55.680554+00:00, run_after=2022-10-26T19:57:55.680554+00:00
+[2022-10-25T19:57:55.920+0000] {processor.py:156} INFO - Started process (PID=13494) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:55.925+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:57:55.935+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:55.934+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:55.965+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.340 seconds
+[2022-10-25T19:57:56.001+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:57:56.083+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:56.083+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:57:56.151+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:57:56.151+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:57:55.973339+00:00, run_after=2022-10-26T19:57:55.973339+00:00
+[2022-10-25T19:57:56.186+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.277 seconds
+[2022-10-25T19:58:26.517+0000] {processor.py:156} INFO - Started process (PID=13528) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.520+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:58:26.522+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:26.522+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.571+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.819+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:26.818+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:58:26.842+0000] {processor.py:156} INFO - Started process (PID=12681) to work on /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.846+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_jobs.py for tasks to queue
+[2022-10-25T19:58:26.850+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:26.850+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.885+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:26.885+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:58:26.549195+00:00, run_after=2022-10-26T19:58:26.549195+00:00
+[2022-10-25T19:58:26.898+0000] {processor.py:768} INFO - DAG(s) dict_keys(['load_and_normalize_data_headers']) retrieved from /opt/airflow/dags/pyspark_jobs.py
+[2022-10-25T19:58:26.931+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.426 seconds
+[2022-10-25T19:58:26.950+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:26.950+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:58:27.005+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:58:27.005+0000] {dag.py:3328} INFO - Setting next_dagrun for load_and_normalize_data_headers to 2022-10-25T19:58:26.877306+00:00, run_after=2022-10-26T19:58:26.877306+00:00
+[2022-10-25T19:58:27.047+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_jobs.py took 0.212 seconds

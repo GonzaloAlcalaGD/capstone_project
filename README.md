@@ -147,3 +147,6 @@ PASSWORD : airflow
 Once you are inside the Apache Airflow webserver you must be able to see the following [DAG's](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
 ![Airflow DAGS](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.48.59.png)
 
+To start the pipeline first you'll need to unpause all the dags like in the following image
+![Airflow DAGS ON](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.57.30.png)
+
