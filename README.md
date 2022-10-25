@@ -2,6 +2,14 @@
 [![PyPI version](https://badge.fury.io/py/apache-airflow.svg)](https://badge.fury.io/py/apache-airflow)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/apache-airflow.svg)](https://pypi.org/project/apache-airflow/)
 
+**Table of contents**
+-   [Project description](#project-description)
+    - [Stages](#stages)
+    - [Aggregations](#aggregations)
+    - [Think about](#think-about)
+    - [Concepts](#concepts)
+    - [Optional](#optional)
+    - [Deliverable](#deliverable)
 
 ## Project description
 
@@ -58,7 +66,7 @@ Build next tables:
 2. Count and sum amount transactions for each store for day
 3. Count and sum amount transactions for each city (city can be extracted from address) for day
 
-#### Think about:
+### Think about:
 **Is it convenient to ingest all fields to the data warehouse?**
 
 **Is the source data going to be there forever? What about the data in DWH?**

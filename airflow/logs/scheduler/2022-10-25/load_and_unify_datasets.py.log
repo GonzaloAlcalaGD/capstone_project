@@ -4597,3 +4597,101 @@
 [2022-10-25T18:59:49.062+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.432 seconds
 [2022-10-25T18:59:49.076+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:49.075+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T18:59:48.703717+00:00, run_after=2022-10-26T18:59:48.703717+00:00
 [2022-10-25T18:59:49.128+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.484 seconds
+[2022-10-25T19:00:19.394+0000] {processor.py:156} INFO - Started process (PID=9646) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:19.397+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:00:19.401+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:19.401+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:19.439+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:19.589+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:19.588+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:00:19.672+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:19.671+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:00:19.421750+00:00, run_after=2022-10-26T19:00:19.421750+00:00
+[2022-10-25T19:00:19.725+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.339 seconds
+[2022-10-25T19:00:19.894+0000] {processor.py:156} INFO - Started process (PID=8724) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:19.896+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:00:19.898+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:19.898+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:19.938+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:20.048+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:20.047+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:00:20.111+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:20.111+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:00:19.919851+00:00, run_after=2022-10-26T19:00:19.919851+00:00
+[2022-10-25T19:00:20.148+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.260 seconds
+[2022-10-25T19:00:49.923+0000] {processor.py:156} INFO - Started process (PID=9680) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:49.926+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:00:49.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:49.928+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:49.976+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:50.137+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:50.136+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:00:50.184+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:50.184+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:00:49.957616+00:00, run_after=2022-10-26T19:00:49.957616+00:00
+[2022-10-25T19:00:50.229+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.312 seconds
+[2022-10-25T19:00:50.973+0000] {processor.py:156} INFO - Started process (PID=8764) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:50.976+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:00:50.978+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:50.978+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:51.020+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:00:51.073+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:51.073+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:00:51.119+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:00:51.119+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:00:51.003798+00:00, run_after=2022-10-26T19:00:51.003798+00:00
+[2022-10-25T19:00:51.160+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.193 seconds
+[2022-10-25T19:01:20.348+0000] {processor.py:156} INFO - Started process (PID=9715) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:20.351+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:01:20.354+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:20.353+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:20.403+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:20.583+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:20.583+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:01:20.652+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:20.652+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:01:20.381559+00:00, run_after=2022-10-26T19:01:20.381559+00:00
+[2022-10-25T19:01:20.698+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.361 seconds
+[2022-10-25T19:01:21.567+0000] {processor.py:156} INFO - Started process (PID=8794) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:21.569+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:01:21.572+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:21.571+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:21.614+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:21.666+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:21.665+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:01:21.715+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:21.715+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:01:21.596064+00:00, run_after=2022-10-26T19:01:21.596064+00:00
+[2022-10-25T19:01:21.763+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.203 seconds
+[2022-10-25T19:01:51.115+0000] {processor.py:156} INFO - Started process (PID=9748) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:51.117+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:01:51.120+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:51.119+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:51.164+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:51.366+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:51.366+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:01:51.447+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:51.447+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:01:51.146380+00:00, run_after=2022-10-26T19:01:51.146380+00:00
+[2022-10-25T19:01:51.499+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.399 seconds
+[2022-10-25T19:01:52.302+0000] {processor.py:156} INFO - Started process (PID=8834) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:52.305+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:01:52.307+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:52.307+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:52.350+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:01:52.402+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:52.401+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:01:52.429+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:01:52.429+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:01:52.332837+00:00, run_after=2022-10-26T19:01:52.332837+00:00
+[2022-10-25T19:01:52.464+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.193 seconds
+[2022-10-25T19:02:21.719+0000] {processor.py:156} INFO - Started process (PID=9783) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:21.722+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:02:21.726+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:21.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:21.768+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:21.922+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:21.922+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:02:21.972+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:21.972+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:02:21.749340+00:00, run_after=2022-10-26T19:02:21.749340+00:00
+[2022-10-25T19:02:22.012+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.302 seconds
+[2022-10-25T19:02:22.685+0000] {processor.py:156} INFO - Started process (PID=8865) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:22.688+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:02:22.690+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:22.690+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:22.729+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:22.781+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:22.781+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:02:22.824+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:22.823+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:02:22.711869+00:00, run_after=2022-10-26T19:02:22.711869+00:00
+[2022-10-25T19:02:22.858+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.181 seconds
+[2022-10-25T19:02:52.122+0000] {processor.py:156} INFO - Started process (PID=9817) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:52.126+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:02:52.129+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:52.128+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:52.196+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:52.387+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:52.386+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:02:52.419+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:52.419+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:02:52.172027+00:00, run_after=2022-10-26T19:02:52.172027+00:00
+[2022-10-25T19:02:52.466+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.378 seconds
+[2022-10-25T19:02:53.189+0000] {processor.py:156} INFO - Started process (PID=8906) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:53.191+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:02:53.193+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:53.193+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:53.233+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:02:53.282+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:53.282+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:02:53.328+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:02:53.328+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:02:53.217376+00:00, run_after=2022-10-26T19:02:53.217376+00:00
+[2022-10-25T19:02:53.368+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.187 seconds
+[2022-10-25T19:03:22.622+0000] {processor.py:156} INFO - Started process (PID=9852) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:22.624+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:03:22.626+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:22.626+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:22.668+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:22.817+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:22.817+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:03:22.857+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:22.856+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:03:22.650494+00:00, run_after=2022-10-26T19:03:22.650494+00:00
+[2022-10-25T19:03:22.894+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.282 seconds
+[2022-10-25T19:03:23.843+0000] {processor.py:156} INFO - Started process (PID=8937) to work on /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:23.845+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/load_and_unify_datasets.py for tasks to queue
+[2022-10-25T19:03:23.847+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:23.847+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:23.884+0000] {processor.py:768} INFO - DAG(s) dict_keys(['unify_transform_enrich_data']) retrieved from /opt/airflow/dags/load_and_unify_datasets.py
+[2022-10-25T19:03:23.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:23.930+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-25T19:03:23.989+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:03:23.988+0000] {dag.py:3328} INFO - Setting next_dagrun for unify_transform_enrich_data to 2022-10-25T19:03:23.868765+00:00, run_after=2022-10-26T19:03:23.868765+00:00
+[2022-10-25T19:03:24.028+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/load_and_unify_datasets.py took 0.191 seconds
