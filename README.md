@@ -12,6 +12,7 @@
     - [Deliverable](#deliverable)
 - [Requirements](#requirements)
 - [Getting started](#geting-started)
+- [Usage](#usage)
 
 ## Project description
 
@@ -131,6 +132,18 @@ Once you have Docker desktop installed you need to follow the next steps:
 7. Open your favorite web browser
 8. Go to the following URL : **http://localhost:8080/home**
 
-Once all steps are completed you should see the following website
+
+## Usage
+Once steps are completed you should see the following website
 ![Airflow login](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.34.29.png)
+
+
+Now you should be able to log into the Airflow webserver with the credentials inside the docker-compose.yaml, by default the credentials are 
+```
+USER : airflow
+PASSWORD : airflow
+```
+
+Once you are inside the Apache Airflow webserver you must be able to see the following [DAG's](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
+![Airflow DAGS]((https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%Shot%2022-10-25%at%14.48.59.png)
 
