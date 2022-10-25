@@ -150,3 +150,38 @@ Once you are inside the Apache Airflow webserver you must be able to see the fol
 To start the pipeline first you'll need to unpause all the dags like in the following image
 ![Airflow DAGS ON](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.57.30.png)
 
+After all DAG's are unpaused you simply need to run the **generate_data** DAG to start the whole pipeline.
+
+After the data generation completes all the following dags will get triggered in the following order:
+
+1. load_and_normalize_data_headers
+    - Data will be loaded into Spark Dataframes and headers will get normalized and will be saved into .parquet format
+    - Trigger next pipeline step
+2. unify_transform_enrich_data
+    - Here .parquet data will be loaded and unified into a single Dataframe
+    - Then it will perfom transformations for DataTypes in the unified Dataframe
+    - Unified Dataframe will get enriched (We get rid of null values)
+    - Transformed and enriched data will be saved into HDFS
+    - Trigger next pipeline step
+3. enriched_data_aggregations
+    - Unified and enriched Dataframe will be loaded  
+    - Perfomed aggregations Dataframes will be saved into HDFS
+
+Data storage for .parquet files
+
+All parquet files will be saved inside **./airflow/dags/storage/...**
+
+Data stored inside HDFS can be accessed following the next steps
+
+1. Open a new tab in your web browser
+2. In the navbar click on **Utilities**
+3. Go to **Browse the file system**
+4. Data should be under the following directories
+    - Data aggregations:
+        - /aggregations/cities_transactions
+        - /aggregations/online_offline
+        - /aggregations/store_metrics
+    - Transformed and enriched data:
+        - /transformed_unified_and_enriched_dataframe
+
+
