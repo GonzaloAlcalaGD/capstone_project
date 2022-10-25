@@ -1,0 +1,44 @@
+[2022-10-21 14:32:10,463] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T14:31:58.979199+00:00 [queued]>
+[2022-10-21 14:32:10,485] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T14:31:58.979199+00:00 [queued]>
+[2022-10-21 14:32:10,487] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 14:32:10,489] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-21 14:32:10,490] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 14:32:10,553] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): load_and_normalize_parquet> on 2022-10-21 14:31:58.979199+00:00
+[2022-10-21 14:32:10,578] {standard_task_runner.py:52} INFO - Started process 7318 to run task
+[2022-10-21 14:32:10,578] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-21 14:32:10,590] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_and_normalize_parquet', 'manual__2022-10-21T14:31:58.979199+00:00', '--job-id', '466', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmp29ih3hjv', '--error-file', '/tmp/tmpyzdzgvs1']
+[2022-10-21 14:32:10,592] {standard_task_runner.py:80} INFO - Job 466: Subtask load_and_normalize_parquet
+[2022-10-21 14:32:10,838] {task_command.py:371} INFO - Running <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T14:31:58.979199+00:00 [running]> on host ee1a3e6935ec
+[2022-10-21 14:32:11,127] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_and_normalize_parquet
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-21T14:31:58.979199+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-21T14:31:58.979199+00:00
+[2022-10-21 14:32:11,135] {pyspark_scripts.py:28} INFO - Found the following subdirectories ['2022-10-14', '2022-10-17', '2022-10-18', '2022-10-19']
+[2022-10-21 14:32:11,156] {pyspark_scripts.py:37} INFO - Latest folder: 2022-10-19
+[2022-10-21 14:32:25,542] {pyspark_scripts.py:72} INFO - Working with <bound method RDD.getNumPartitions of MapPartitionsRDD[7] at javaToPython at NativeMethodAccessorImpl.java:0> partitions
+[2022-10-21 14:32:27,940] {logging_mixin.py:115} INFO - +---+----------+---------+----------+-------------------+--------+
+| Id|First_name|Last_name|    Amount|          timestamp|Store_id|
++---+----------+---------+----------+-------------------+--------+
+|341|   Heather|   Nelson|     $9.60|2022-10-18T13:11:46|       3|
+|714|    Thomas| Hamilton|     $4.20|2022-10-17T18:47:47|      12|
+|311|     Kevin|     Barr|$97,151.30|2022-10-18T17:04:03|       4|
+|275|   Maureen|    Brown|$10,601.00|2022-10-18T07:35:37|      15|
+|660|      Mark|     Wade| $9,920.84|2022-10-19T09:14:17|      12|
+|692|  Brittany|Velazquez| $1,072.52|2022-10-18T13:56:56|      16|
+|468|   Heather|    Villa|    $30.05|2022-10-19T08:58:12|      20|
+|685|      Dawn|    Smith|$34,941.97|2022-10-18T14:23:36|      19|
+|575|    Shelby|    Reyes|     $6.52|2022-10-18T13:10:33|       4|
+|129|     Laura|    Bowen|     $9.69|2022-10-18T09:28:54|       6|
++---+----------+---------+----------+-------------------+--------+
+only showing top 10 rows
+[2022-10-21 14:32:30,388] {pyspark_scripts.py:75} INFO - Normalized dataframe saved into .parquet format into /opt/***/dags/storage/parquet_temp
+[2022-10-21 14:32:30,390] {pyspark_scripts.py:76} INFO - Parquet Dataframe succesfully loaded and normalized headers.
+[2022-10-21 14:32:30,392] {python.py:173} INFO - Done. Returned value was: None
+[2022-10-21 14:32:30,518] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=pyspark_jobs, task_id=load_and_normalize_parquet, execution_date=20221021T143158, start_date=20221021T143210, end_date=20221021T143230
+[2022-10-21 14:32:30,677] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-10-21 14:32:30,760] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

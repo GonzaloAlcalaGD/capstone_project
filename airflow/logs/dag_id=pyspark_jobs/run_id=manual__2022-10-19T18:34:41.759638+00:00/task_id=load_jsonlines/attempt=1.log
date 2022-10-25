@@ -1,0 +1,35 @@
+[2022-10-19 18:34:47,254] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_jsonlines manual__2022-10-19T18:34:41.759638+00:00 [queued]>
+[2022-10-19 18:34:47,267] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_jsonlines manual__2022-10-19T18:34:41.759638+00:00 [queued]>
+[2022-10-19 18:34:47,268] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-19 18:34:47,269] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-19 18:34:47,270] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-19 18:34:47,287] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): load_jsonlines> on 2022-10-19 18:34:41.759638+00:00
+[2022-10-19 18:34:47,295] {standard_task_runner.py:52} INFO - Started process 40101 to run task
+[2022-10-19 18:34:47,295] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-19 18:34:47,302] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_jsonlines', 'manual__2022-10-19T18:34:41.759638+00:00', '--job-id', '451', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpys3q5wg_', '--error-file', '/tmp/tmppqo_1ljg']
+[2022-10-19 18:34:47,305] {standard_task_runner.py:80} INFO - Job 451: Subtask load_jsonlines
+[2022-10-19 18:34:47,395] {task_command.py:371} INFO - Running <TaskInstance: pyspark_jobs.load_jsonlines manual__2022-10-19T18:34:41.759638+00:00 [running]> on host ee1a3e6935ec
+[2022-10-19 18:34:47,488] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_jsonlines
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-19T18:34:41.759638+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-19T18:34:41.759638+00:00
+[2022-10-19 18:34:47,490] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/data_extraction_pyspark.py", line 54, in loadJsonData_and_Transform
+    latest = get_latest_folder(get_subdirectories(json_path))
+  File "/opt/airflow/dags/data_extraction_pyspark.py", line 34, in get_subdirectories
+    subdirectories = [f.path for f in os.scandir(path) if f.is_dir()]
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/gonzo/Desktop/capstone_project/airflow/dags/json_storage/'
+[2022-10-19 18:34:47,508] {taskinstance.py:1420} INFO - Marking task as UP_FOR_RETRY. dag_id=pyspark_jobs, task_id=load_jsonlines, execution_date=20221019T183441, start_date=20221019T183447, end_date=20221019T183447
+[2022-10-19 18:34:47,546] {standard_task_runner.py:97} ERROR - Failed to execute job 451 for task load_jsonlines ([Errno 2] No such file or directory: '/Users/gonzo/Desktop/capstone_project/airflow/dags/json_storage/'; 40101)
+[2022-10-19 18:34:47,594] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-10-19 18:34:47,657] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

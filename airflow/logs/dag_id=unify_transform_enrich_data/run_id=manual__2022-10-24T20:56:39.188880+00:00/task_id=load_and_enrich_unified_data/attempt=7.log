@@ -1,0 +1,51 @@
+[2022-10-24T21:32:16.980+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [success]>
+[2022-10-24T21:32:17.019+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [success]>
+[2022-10-24T21:32:17.022+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T21:32:17.023+0000] {taskinstance.py:1363} INFO - Starting attempt 7 of 2
+[2022-10-24T21:32:17.026+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T21:32:17.082+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_enrich_unified_data> on 2022-10-24 20:56:39.188880+00:00
+[2022-10-24T21:32:17.122+0000] {standard_task_runner.py:54} INFO - Started process 68198 to run task
+[2022-10-24T21:32:17.124+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'load_and_enrich_unified_data', 'manual__2022-10-24T20:56:39.188880+00:00', '--job-id', '569', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmpvfvlisc4']
+[2022-10-24T21:32:17.129+0000] {standard_task_runner.py:83} INFO - Job 569: Subtask load_and_enrich_unified_data
+[2022-10-24T21:32:17.134+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T21:32:17.759+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [running]> on host c94e224fed05
+[2022-10-24T21:32:18.233+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_transform_enrich_data
+AIRFLOW_CTX_TASK_ID=load_and_enrich_unified_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T20:56:39.188880+00:00
+AIRFLOW_CTX_TRY_NUMBER=7
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T20:56:39.188880+00:00
+[2022-10-24T21:33:26.620+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 254, in load_and_enrich_data
+    unified_model.show(100)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/dataframe.py", line 606, in show
+    print(self._jdf.showString(n, 20, vertical))
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/utils.py", line 196, in deco
+    raise converted from None
+pyspark.sql.utils.PythonException: 
+  An exception was thrown from the Python worker. Please see the stack trace below.
+Traceback (most recent call last):
+  File "/opt/airflow/dags/pyspark_scripts.py", line 227, in customerID
+    return catalog_sc.value.transform_customer_id(x)
+TypeError: transform_customer_id() takes 1 positional argument but 2 were given
+
+[2022-10-24T21:33:26.789+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=unify_transform_enrich_data, task_id=load_and_enrich_unified_data, execution_date=20221024T205639, start_date=20221024T213216, end_date=20221024T213326
+[2022-10-24T21:33:26.850+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 569 for task load_and_enrich_unified_data (
+  An exception was thrown from the Python worker. Please see the stack trace below.
+Traceback (most recent call last):
+  File "/opt/airflow/dags/pyspark_scripts.py", line 227, in customerID
+    return catalog_sc.value.transform_customer_id(x)
+TypeError: transform_customer_id() takes 1 positional argument but 2 were given
+; 68198)
+[2022-10-24T21:33:26.933+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-24T21:33:27.080+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,42 @@
+[2022-10-17 17:31:12,636] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T17:31:05.688146+00:00 [queued]>
+[2022-10-17 17:31:12,658] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T17:31:05.688146+00:00 [queued]>
+[2022-10-17 17:31:12,660] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 17:31:12,661] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-17 17:31:12,663] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 17:31:12,695] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): export_tables_to_dir> on 2022-10-17 17:31:05.688146+00:00
+[2022-10-17 17:31:12,708] {standard_task_runner.py:52} INFO - Started process 46652 to run task
+[2022-10-17 17:31:12,714] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'export_tables_to_dir', 'manual__2022-10-17T17:31:05.688146+00:00', '--job-id', '414', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmp_i_je86k', '--error-file', '/tmp/tmp5gkdziyl']
+[2022-10-17 17:31:12,718] {standard_task_runner.py:80} INFO - Job 414: Subtask export_tables_to_dir
+[2022-10-17 17:31:12,885] {task_command.py:371} INFO - Running <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T17:31:05.688146+00:00 [running]> on host 614e96fbdf07
+[2022-10-17 17:31:13,072] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=export_tables_to_dir
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-17T17:31:05.688146+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-17T17:31:05.688146+00:00
+[2022-10-17 17:31:13,096] {export_tables.py:37} INFO - Connection to database success
+[2022-10-17 17:31:13,102] {export_tables.py:127} INFO - Working on transaction
+[2022-10-17 17:31:13,117] {export_tables.py:90} INFO - Exporting 2201 rows into csv.
+[2022-10-17 17:31:13,120] {export_tables.py:78} INFO - Creating path /opt/transaction/2022-10-17
+[2022-10-17 17:31:13,122] {export_tables.py:81} CRITICAL - <class 'FileNotFoundError'>
+[2022-10-17 17:31:13,123] {export_tables.py:82} CRITICAL - [Errno 2] No such file or directory: '/opt/transaction/2022-10-17'
+[2022-10-17 17:31:13,124] {export_tables.py:101} CRITICAL - <class 'TypeError'>
+[2022-10-17 17:31:13,125] {export_tables.py:102} CRITICAL - mkdir() missing required argument 'path' (pos 1)
+[2022-10-17 17:31:13,126] {export_tables.py:103} CRITICAL - Something went wrong at exporting the table to container storage
+[2022-10-17 17:31:13,128] {export_tables.py:127} INFO - Working on customer
+[2022-10-17 17:31:13,140] {export_tables.py:90} INFO - Exporting 2201 rows into csv.
+[2022-10-17 17:31:13,141] {export_tables.py:78} INFO - Creating path /opt/customer/2022-10-17
+[2022-10-17 17:31:13,143] {export_tables.py:81} CRITICAL - <class 'FileNotFoundError'>
+[2022-10-17 17:31:13,144] {export_tables.py:82} CRITICAL - [Errno 2] No such file or directory: '/opt/customer/2022-10-17'
+[2022-10-17 17:31:13,146] {export_tables.py:101} CRITICAL - <class 'TypeError'>
+[2022-10-17 17:31:13,147] {export_tables.py:102} CRITICAL - mkdir() missing required argument 'path' (pos 1)
+[2022-10-17 17:31:13,148] {export_tables.py:103} CRITICAL - Something went wrong at exporting the table to container storage
+[2022-10-17 17:31:13,150] {export_tables.py:113} INFO - Both cursor and conn closed successfully
+[2022-10-17 17:31:13,151] {export_tables.py:134} INFO - Both thables export successfully
+[2022-10-17 17:31:13,152] {python.py:173} INFO - Done. Returned value was: None
+[2022-10-17 17:31:13,184] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=generate_data, task_id=export_tables_to_dir, execution_date=20221017T173105, start_date=20221017T173112, end_date=20221017T173113
+[2022-10-17 17:31:13,254] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-10-17 17:31:13,362] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

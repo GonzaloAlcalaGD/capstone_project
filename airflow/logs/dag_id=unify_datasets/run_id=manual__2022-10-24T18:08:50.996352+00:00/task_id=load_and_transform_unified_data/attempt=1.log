@@ -1,0 +1,39 @@
+[2022-10-24T18:10:51.443+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T18:08:50.996352+00:00 [queued]>
+[2022-10-24T18:10:51.493+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T18:08:50.996352+00:00 [queued]>
+[2022-10-24T18:10:51.507+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T18:10:51.512+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T18:10:51.516+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T18:10:51.639+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_transform_unified_data> on 2022-10-24 18:08:50.996352+00:00
+[2022-10-24T18:10:51.688+0000] {standard_task_runner.py:54} INFO - Started process 1974 to run task
+[2022-10-24T18:10:51.700+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_transform_unified_data', 'manual__2022-10-24T18:08:50.996352+00:00', '--job-id', '531', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmpscd4xq1i']
+[2022-10-24T18:10:51.712+0000] {standard_task_runner.py:83} INFO - Job 531: Subtask load_and_transform_unified_data
+[2022-10-24T18:10:51.727+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T18:10:52.390+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T18:08:50.996352+00:00 [running]> on host c94e224fed05
+[2022-10-24T18:10:53.298+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_transform_unified_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T18:08:50.996352+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T18:08:50.996352+00:00
+[2022-10-24T18:11:32.238+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 181, in transform_data
+    temporal_df = spark.read.option('header', 'true').parquet(path)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/readwriter.py", line 364, in parquet
+    return self._df(self._jreader.parquet(_to_seq(self._spark._sc, paths)))
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/utils.py", line 196, in deco
+    raise converted from None
+pyspark.sql.utils.AnalysisException: Path does not exist: file:/opt/airflow/dags/storage/transformed_unified
+[2022-10-24T18:11:32.279+0000] {taskinstance.py:1406} INFO - Marking task as UP_FOR_RETRY. dag_id=unify_datasets, task_id=load_and_transform_unified_data, execution_date=20221024T180850, start_date=20221024T181051, end_date=20221024T181132
+[2022-10-24T18:11:32.313+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 531 for task load_and_transform_unified_data (Path does not exist: file:/opt/airflow/dags/storage/transformed_unified; 1974)
+[2022-10-24T18:11:32.395+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-24T18:11:32.445+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,44 @@
+[2022-10-21 14:39:00,990] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_jsonlines manual__2022-10-21T14:38:50.753124+00:00 [queued]>
+[2022-10-21 14:39:01,003] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_jsonlines manual__2022-10-21T14:38:50.753124+00:00 [queued]>
+[2022-10-21 14:39:01,006] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 14:39:01,007] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-21 14:39:01,009] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 14:39:01,031] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): load_and_normalize_jsonlines> on 2022-10-21 14:38:50.753124+00:00
+[2022-10-21 14:39:01,041] {standard_task_runner.py:52} INFO - Started process 11056 to run task
+[2022-10-21 14:39:01,041] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-21 14:39:01,052] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_and_normalize_jsonlines', 'manual__2022-10-21T14:38:50.753124+00:00', '--job-id', '470', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmp2m2fygu0', '--error-file', '/tmp/tmpzg44ljrn']
+[2022-10-21 14:39:01,054] {standard_task_runner.py:80} INFO - Job 470: Subtask load_and_normalize_jsonlines
+[2022-10-21 14:39:01,172] {task_command.py:371} INFO - Running <TaskInstance: pyspark_jobs.load_and_normalize_jsonlines manual__2022-10-21T14:38:50.753124+00:00 [running]> on host ee1a3e6935ec
+[2022-10-21 14:39:01,295] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_and_normalize_jsonlines
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-21T14:38:50.753124+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-21T14:38:50.753124+00:00
+[2022-10-21 14:39:01,298] {pyspark_scripts.py:28} INFO - Found the following subdirectories ['2022-10-14', '2022-10-17', '2022-10-18', '2022-10-19']
+[2022-10-21 14:39:01,312] {pyspark_scripts.py:37} INFO - Latest folder: 2022-10-19
+[2022-10-21 14:39:12,231] {pyspark_scripts.py:53} INFO - Working with 1 partitions
+[2022-10-21 14:39:13,382] {logging_mixin.py:115} INFO - +---+-------------------+-------------------+------------------+----------+----+
+| id|                 ts|customer_first_name|customer_last_name|    amount|type|
++---+-------------------+-------------------+------------------+----------+----+
+|431|2022-10-18T08:06:02|            Zachary|            Walker|    $38.73|   1|
+| 67|2022-10-18T14:42:26|           Brittany|            Norris|     $5.49|   0|
+|771|2022-10-19T03:13:10|              Kathy|            Meyers| $1,444.19|   1|
+|900|2022-10-18T13:36:39|               Kurt|            Taylor|   $872.79|   1|
+|681|2022-10-17T22:11:21|             Ronald|             White|     $7.16|   0|
+|897|2022-10-18T04:33:05|               Mary|          Thompson|     $6.99|   0|
+|888|2022-10-19T11:25:01|               Jill|           Roberts|$29,393.13|   0|
+|125|2022-10-18T11:16:08|            Timothy|              Cruz| $3,579.21|   1|
+| 59|2022-10-18T09:44:44|               John|          Martinez|$92,135.02|   1|
+|465|2022-10-19T04:07:53|            Richard|           Rosario|   $411.39|   0|
++---+-------------------+-------------------+------------------+----------+----+
+only showing top 10 rows
+[2022-10-21 14:39:16,051] {pyspark_scripts.py:57} INFO - Normalized dataframe saved into .parquet format into /opt/***/dags/storage/jsonlines_temp
+[2022-10-21 14:39:16,057] {pyspark_scripts.py:58} INFO - JSONLines Dataframe succesfully loaded and normalized headers.
+[2022-10-21 14:39:16,062] {python.py:173} INFO - Done. Returned value was: None
+[2022-10-21 14:39:16,138] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=pyspark_jobs, task_id=load_and_normalize_jsonlines, execution_date=20221021T143850, start_date=20221021T143900, end_date=20221021T143916
+[2022-10-21 14:39:16,214] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-10-21 14:39:16,268] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

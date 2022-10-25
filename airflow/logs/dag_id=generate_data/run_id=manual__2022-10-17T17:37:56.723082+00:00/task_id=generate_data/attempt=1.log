@@ -1,0 +1,427 @@
+[2022-10-17 17:37:57,741] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data manual__2022-10-17T17:37:56.723082+00:00 [queued]>
+[2022-10-17 17:37:57,753] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data manual__2022-10-17T17:37:56.723082+00:00 [queued]>
+[2022-10-17 17:37:57,754] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 17:37:57,754] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-17 17:37:57,755] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 17:37:57,774] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): generate_data> on 2022-10-17 17:37:56.723082+00:00
+[2022-10-17 17:37:57,781] {standard_task_runner.py:52} INFO - Started process 47065 to run task
+[2022-10-17 17:37:57,785] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'generate_data', 'manual__2022-10-17T17:37:56.723082+00:00', '--job-id', '415', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmpx7y3w8_k', '--error-file', '/tmp/tmp9pxkb83i']
+[2022-10-17 17:37:57,788] {standard_task_runner.py:80} INFO - Job 415: Subtask generate_data
+[2022-10-17 17:37:57,882] {task_command.py:371} INFO - Running <TaskInstance: generate_data.generate_data manual__2022-10-17T17:37:56.723082+00:00 [running]> on host 614e96fbdf07
+[2022-10-17 17:37:57,986] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=generate_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-17T17:37:56.723082+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-17T17:37:56.723082+00:00
+[2022-10-17 17:37:58,002] {db_conn.py:23} INFO - Connection to database success
+[2022-10-17 17:37:58,013] {db_conn.py:36} INFO - Working on customer #1 with data: 285, Gregory, Jackson, 3266473314, Lake Karina
+[2022-10-17 17:37:58,014] {db_conn.py:37} INFO - Working on transaction #1 with data: 285, 718, 2022-10-17T16:11:12, $1,246.06
+[2022-10-17 17:37:58,027] {db_conn.py:36} INFO - Working on customer #2 with data: 581, Antonio, Avery, 6648164821, Brownchester
+[2022-10-17 17:37:58,028] {db_conn.py:37} INFO - Working on transaction #2 with data: 581, 704, 2022-10-15T06:41:44, $6.73
+[2022-10-17 17:37:58,040] {db_conn.py:36} INFO - Working on customer #3 with data: 25, Michael, Kelly, 6238537799, New Marthaborough
+[2022-10-17 17:37:58,041] {db_conn.py:37} INFO - Working on transaction #3 with data: 25, 802, 2022-10-17T05:12:07, $69,982.11
+[2022-10-17 17:37:58,054] {db_conn.py:36} INFO - Working on customer #4 with data: 765, Margaret, Rojas, 7743522368, Veronicaton
+[2022-10-17 17:37:58,055] {db_conn.py:37} INFO - Working on transaction #4 with data: 765, 208, 2022-10-15T03:46:00, $97.39
+[2022-10-17 17:37:58,067] {db_conn.py:36} INFO - Working on customer #5 with data: 95, Connor, Berry, 1931815205, Port Benjaminfurt
+[2022-10-17 17:37:58,068] {db_conn.py:37} INFO - Working on transaction #5 with data: 95, 653, 2022-10-17T13:02:01, $7.63
+[2022-10-17 17:37:58,077] {db_conn.py:36} INFO - Working on customer #6 with data: 194, Jennifer, Powell, 5971075668, Averymouth
+[2022-10-17 17:37:58,078] {db_conn.py:37} INFO - Working on transaction #6 with data: 194, 897, 2022-10-15T15:42:26, $56,191.83
+[2022-10-17 17:37:58,089] {db_conn.py:36} INFO - Working on customer #7 with data: 128, Andrew, Phillips, 4148875720, Michelleburgh
+[2022-10-17 17:37:58,090] {db_conn.py:37} INFO - Working on transaction #7 with data: 128, 661, 2022-10-15T08:23:38, $2.73
+[2022-10-17 17:37:58,101] {db_conn.py:36} INFO - Working on customer #8 with data: 137, Amanda, Ellison, 9604190868, Grahamstad
+[2022-10-17 17:37:58,102] {db_conn.py:37} INFO - Working on transaction #8 with data: 137, 92, 2022-10-16T10:50:05, $9.64
+[2022-10-17 17:37:58,116] {db_conn.py:36} INFO - Working on customer #9 with data: 300, Kathryn, Bailey, 4958195653, Averymouth
+[2022-10-17 17:37:58,117] {db_conn.py:37} INFO - Working on transaction #9 with data: 300, 409, 2022-10-17T03:40:07, $81.69
+[2022-10-17 17:37:58,128] {db_conn.py:36} INFO - Working on customer #10 with data: 681, Nicholas, Burns, 3601918859, Veronicaton
+[2022-10-17 17:37:58,129] {db_conn.py:37} INFO - Working on transaction #10 with data: 681, 709, 2022-10-17T00:18:08, $9.18
+[2022-10-17 17:37:58,140] {db_conn.py:36} INFO - Working on customer #11 with data: 843, Wendy, Garcia, 3892931913, Grahamstad
+[2022-10-17 17:37:58,141] {db_conn.py:37} INFO - Working on transaction #11 with data: 843, 847, 2022-10-16T21:42:37, $6.37
+[2022-10-17 17:37:58,152] {db_conn.py:36} INFO - Working on customer #12 with data: 644, Melissa, Holmes, 1803985194, Averymouth
+[2022-10-17 17:37:58,153] {db_conn.py:37} INFO - Working on transaction #12 with data: 644, 257, 2022-10-15T04:32:48, $8.53
+[2022-10-17 17:37:58,162] {db_conn.py:36} INFO - Working on customer #13 with data: 485, Elizabeth, Ortiz, 4071518820, Port Loriview
+[2022-10-17 17:37:58,163] {db_conn.py:37} INFO - Working on transaction #13 with data: 485, 368, 2022-10-15T05:26:12, $2,080.38
+[2022-10-17 17:37:58,171] {db_conn.py:36} INFO - Working on customer #14 with data: 28, Kayla, Cowan, 4228247303, Port Benjaminfurt
+[2022-10-17 17:37:58,172] {db_conn.py:37} INFO - Working on transaction #14 with data: 28, 331, 2022-10-15T08:58:30, $4,868.04
+[2022-10-17 17:37:58,179] {db_conn.py:36} INFO - Working on customer #15 with data: 432, Kenneth, Hall, 8625208428, Grahamstad
+[2022-10-17 17:37:58,180] {db_conn.py:37} INFO - Working on transaction #15 with data: 432, 682, 2022-10-15T06:49:59, $612.03
+[2022-10-17 17:37:58,189] {db_conn.py:36} INFO - Working on customer #16 with data: 352, Pamela, Clay, 7249656627, Veronicaton
+[2022-10-17 17:37:58,190] {db_conn.py:37} INFO - Working on transaction #16 with data: 352, 764, 2022-10-14T20:22:09, $3.49
+[2022-10-17 17:37:58,200] {db_conn.py:36} INFO - Working on customer #17 with data: 665, Jennifer, Turner, 8260756487, Erikville
+[2022-10-17 17:37:58,201] {db_conn.py:37} INFO - Working on transaction #17 with data: 665, 864, 2022-10-16T18:56:21, $17,852.79
+[2022-10-17 17:37:58,211] {db_conn.py:36} INFO - Working on customer #18 with data: 19, Patricia, Luna, 2202362095, Erikville
+[2022-10-17 17:37:58,212] {db_conn.py:37} INFO - Working on transaction #18 with data: 19, 273, 2022-10-14T18:29:02, $20,566.76
+[2022-10-17 17:37:58,225] {db_conn.py:36} INFO - Working on customer #19 with data: 806, Amy, White, 6339738442, Veronicaton
+[2022-10-17 17:37:58,226] {db_conn.py:37} INFO - Working on transaction #19 with data: 806, 779, 2022-10-17T00:31:12, $8,086.35
+[2022-10-17 17:37:58,238] {db_conn.py:36} INFO - Working on customer #20 with data: 553, Melissa, Lee, 0617003361, Edwardsburgh
+[2022-10-17 17:37:58,239] {db_conn.py:37} INFO - Working on transaction #20 with data: 553, 468, 2022-10-16T05:27:40, $8,247.16
+[2022-10-17 17:37:58,262] {db_conn.py:36} INFO - Working on customer #21 with data: 323, Lucas, Carroll, 7081311499, Averymouth
+[2022-10-17 17:37:58,263] {db_conn.py:37} INFO - Working on transaction #21 with data: 323, 130, 2022-10-15T18:44:20, $2.80
+[2022-10-17 17:37:58,277] {db_conn.py:36} INFO - Working on customer #22 with data: 144, Anthony, Stone, 4162712797, Smithberg
+[2022-10-17 17:37:58,279] {db_conn.py:37} INFO - Working on transaction #22 with data: 144, 753, 2022-10-17T00:07:13, $16,522.32
+[2022-10-17 17:37:58,307] {db_conn.py:36} INFO - Working on customer #23 with data: 483, Ashley, Blake, 8650425963, Grahamstad
+[2022-10-17 17:37:58,309] {db_conn.py:37} INFO - Working on transaction #23 with data: 483, 789, 2022-10-16T14:59:54, $37,831.30
+[2022-10-17 17:37:58,330] {db_conn.py:36} INFO - Working on customer #24 with data: 277, David, Burns, 7457750302, Veronicaton
+[2022-10-17 17:37:58,331] {db_conn.py:37} INFO - Working on transaction #24 with data: 277, 604, 2022-10-15T22:15:55, $7.02
+[2022-10-17 17:37:58,347] {db_conn.py:36} INFO - Working on customer #25 with data: 480, Amber, Boyle, 0397158103, Clayview
+[2022-10-17 17:37:58,349] {db_conn.py:37} INFO - Working on transaction #25 with data: 480, 666, 2022-10-14T23:09:13, $1,521.02
+[2022-10-17 17:37:58,363] {db_conn.py:36} INFO - Working on customer #26 with data: 668, Tanya, Townsend, 5063978253, Lanefurt
+[2022-10-17 17:37:58,368] {db_conn.py:37} INFO - Working on transaction #26 with data: 668, 193, 2022-10-16T01:08:50, $1,825.81
+[2022-10-17 17:37:58,410] {db_conn.py:36} INFO - Working on customer #27 with data: 768, Linda, Wright, 0778078650, Allenton
+[2022-10-17 17:37:58,414] {db_conn.py:37} INFO - Working on transaction #27 with data: 768, 471, 2022-10-17T12:43:22, $42.19
+[2022-10-17 17:37:58,445] {db_conn.py:36} INFO - Working on customer #28 with data: 848, Robert, Hill, 3041759712, Michelleburgh
+[2022-10-17 17:37:58,447] {db_conn.py:37} INFO - Working on transaction #28 with data: 848, 2, 2022-10-15T22:11:38, $81.63
+[2022-10-17 17:37:58,466] {db_conn.py:36} INFO - Working on customer #29 with data: 340, Patrick, Snyder, 6311903401, Clayview
+[2022-10-17 17:37:58,469] {db_conn.py:37} INFO - Working on transaction #29 with data: 340, 397, 2022-10-14T20:58:49, $25.21
+[2022-10-17 17:37:58,491] {db_conn.py:36} INFO - Working on customer #30 with data: 295, Nathan, Turner, 1534008944, Michelleburgh
+[2022-10-17 17:37:58,493] {db_conn.py:37} INFO - Working on transaction #30 with data: 295, 495, 2022-10-15T13:03:56, $891.15
+[2022-10-17 17:37:58,507] {db_conn.py:36} INFO - Working on customer #31 with data: 152, Jamie, Bass, 1958357292, Robertland
+[2022-10-17 17:37:58,507] {db_conn.py:37} INFO - Working on transaction #31 with data: 152, 447, 2022-10-15T06:47:20, $2.23
+[2022-10-17 17:37:58,519] {db_conn.py:36} INFO - Working on customer #32 with data: 691, Catherine, Yang, 0257535726, Port Loriview
+[2022-10-17 17:37:58,521] {db_conn.py:37} INFO - Working on transaction #32 with data: 691, 219, 2022-10-17T01:51:58, $11,575.82
+[2022-10-17 17:37:58,536] {db_conn.py:36} INFO - Working on customer #33 with data: 60, Dana, Clarke, 2563674292, Erikville
+[2022-10-17 17:37:58,538] {db_conn.py:37} INFO - Working on transaction #33 with data: 60, 668, 2022-10-16T10:26:58, $990.85
+[2022-10-17 17:37:58,550] {db_conn.py:36} INFO - Working on customer #34 with data: 856, Vanessa, Crosby, 1391090094, Lake Jamesville
+[2022-10-17 17:37:58,551] {db_conn.py:37} INFO - Working on transaction #34 with data: 856, 781, 2022-10-15T06:04:23, $31.87
+[2022-10-17 17:37:58,565] {db_conn.py:36} INFO - Working on customer #35 with data: 26, Bryce, Bullock, 9650164692, Port Loriview
+[2022-10-17 17:37:58,567] {db_conn.py:37} INFO - Working on transaction #35 with data: 26, 279, 2022-10-14T21:40:14, $43.34
+[2022-10-17 17:37:58,582] {db_conn.py:36} INFO - Working on customer #36 with data: 339, Christina, Martinez, 7056079785, Grahamstad
+[2022-10-17 17:37:58,583] {db_conn.py:37} INFO - Working on transaction #36 with data: 339, 438, 2022-10-17T08:19:08, $399.12
+[2022-10-17 17:37:58,599] {db_conn.py:36} INFO - Working on customer #37 with data: 233, Michael, Costa, 7483965162, Brownchester
+[2022-10-17 17:37:58,600] {db_conn.py:37} INFO - Working on transaction #37 with data: 233, 286, 2022-10-16T21:34:48, $4.57
+[2022-10-17 17:37:58,615] {db_conn.py:36} INFO - Working on customer #38 with data: 652, Monica, Schmidt, 6228150086, Lanefurt
+[2022-10-17 17:37:58,616] {db_conn.py:37} INFO - Working on transaction #38 with data: 652, 503, 2022-10-16T20:56:06, $64,469.60
+[2022-10-17 17:37:58,629] {db_conn.py:36} INFO - Working on customer #39 with data: 759, Thomas, Smith, 6519115811, Lanefurt
+[2022-10-17 17:37:58,630] {db_conn.py:37} INFO - Working on transaction #39 with data: 759, 761, 2022-10-16T01:12:04, $6.62
+[2022-10-17 17:37:58,645] {db_conn.py:36} INFO - Working on customer #40 with data: 42, Jackson, Wolf, 4007903405, Lake Jamesville
+[2022-10-17 17:37:58,646] {db_conn.py:37} INFO - Working on transaction #40 with data: 42, 449, 2022-10-17T00:39:52, $8,402.67
+[2022-10-17 17:37:58,660] {db_conn.py:36} INFO - Working on customer #41 with data: 541, Laura, Archer, 7720562216, Edwardsburgh
+[2022-10-17 17:37:58,662] {db_conn.py:37} INFO - Working on transaction #41 with data: 541, 191, 2022-10-16T17:35:36, $38.55
+[2022-10-17 17:37:58,676] {db_conn.py:36} INFO - Working on customer #42 with data: 240, Leslie, Mendoza, 9237679415, Smithberg
+[2022-10-17 17:37:58,677] {db_conn.py:37} INFO - Working on transaction #42 with data: 240, 173, 2022-10-16T17:40:55, $76.52
+[2022-10-17 17:37:58,696] {db_conn.py:36} INFO - Working on customer #43 with data: 381, Devin, Smith, 3011469042, Clayview
+[2022-10-17 17:37:58,699] {db_conn.py:37} INFO - Working on transaction #43 with data: 381, 244, 2022-10-17T13:42:56, $3.82
+[2022-10-17 17:37:58,723] {db_conn.py:36} INFO - Working on customer #44 with data: 151, Lindsay, Owens, 8134337675, Grahamstad
+[2022-10-17 17:37:58,727] {db_conn.py:37} INFO - Working on transaction #44 with data: 151, 829, 2022-10-16T01:16:58, $4,271.57
+[2022-10-17 17:37:58,787] {db_conn.py:36} INFO - Working on customer #45 with data: 376, Christine, Webb, 5418680279, West Nichole
+[2022-10-17 17:37:58,795] {db_conn.py:37} INFO - Working on transaction #45 with data: 376, 580, 2022-10-16T01:38:45, $9.59
+[2022-10-17 17:37:58,825] {db_conn.py:36} INFO - Working on customer #46 with data: 202, Jennifer, Washington, 3021913237, Hicksview
+[2022-10-17 17:37:58,826] {db_conn.py:37} INFO - Working on transaction #46 with data: 202, 316, 2022-10-16T19:13:50, $908.04
+[2022-10-17 17:37:58,840] {db_conn.py:36} INFO - Working on customer #47 with data: 587, Karen, Steele, 7123758734, Smithberg
+[2022-10-17 17:37:58,842] {db_conn.py:37} INFO - Working on transaction #47 with data: 587, 554, 2022-10-16T22:51:02, $672.99
+[2022-10-17 17:37:58,856] {db_conn.py:36} INFO - Working on customer #48 with data: 709, Kaitlyn, Pollard, 1153103031, Averymouth
+[2022-10-17 17:37:58,857] {db_conn.py:37} INFO - Working on transaction #48 with data: 709, 42, 2022-10-15T12:36:27, $78.23
+[2022-10-17 17:37:58,874] {db_conn.py:36} INFO - Working on customer #49 with data: 316, John, Mitchell, 4664892950, Hicksview
+[2022-10-17 17:37:58,876] {db_conn.py:37} INFO - Working on transaction #49 with data: 316, 659, 2022-10-16T02:13:26, $5,137.59
+[2022-10-17 17:37:58,889] {db_conn.py:36} INFO - Working on customer #50 with data: 287, Michelle, Richardson, 0718194862, Lanefurt
+[2022-10-17 17:37:58,890] {db_conn.py:37} INFO - Working on transaction #50 with data: 287, 585, 2022-10-16T20:45:04, $6.22
+[2022-10-17 17:37:58,903] {db_conn.py:36} INFO - Working on customer #51 with data: 707, Allen, Howard, 2372293208, Port Benjaminfurt
+[2022-10-17 17:37:58,904] {db_conn.py:37} INFO - Working on transaction #51 with data: 707, 102, 2022-10-17T07:00:19, $1,832.34
+[2022-10-17 17:37:58,916] {db_conn.py:36} INFO - Working on customer #52 with data: 9, Donald, Gonzales, 0752886327, Melissafurt
+[2022-10-17 17:37:58,917] {db_conn.py:37} INFO - Working on transaction #52 with data: 9, 627, 2022-10-16T10:05:02, $739.44
+[2022-10-17 17:37:58,928] {db_conn.py:36} INFO - Working on customer #53 with data: 662, Stacy, Montes, 2232353315, Port Benjaminfurt
+[2022-10-17 17:37:58,929] {db_conn.py:37} INFO - Working on transaction #53 with data: 662, 685, 2022-10-15T12:29:14, $115.91
+[2022-10-17 17:37:58,944] {db_conn.py:36} INFO - Working on customer #54 with data: 427, Samuel, Ball, 9073931468, Melissafurt
+[2022-10-17 17:37:58,945] {db_conn.py:37} INFO - Working on transaction #54 with data: 427, 122, 2022-10-16T21:39:09, $179.77
+[2022-10-17 17:37:58,958] {db_conn.py:36} INFO - Working on customer #55 with data: 284, Michael, Brown, 3273235243, New Marthaborough
+[2022-10-17 17:37:58,960] {db_conn.py:37} INFO - Working on transaction #55 with data: 284, 715, 2022-10-16T03:04:01, $715.29
+[2022-10-17 17:37:58,974] {db_conn.py:36} INFO - Working on customer #56 with data: 647, Kevin, Dunn, 4263733690, New Marthaborough
+[2022-10-17 17:37:58,975] {db_conn.py:37} INFO - Working on transaction #56 with data: 647, 723, 2022-10-15T01:36:06, $2.66
+[2022-10-17 17:37:58,988] {db_conn.py:36} INFO - Working on customer #57 with data: 106, Jennifer, Rivera, 5867070830, Smithberg
+[2022-10-17 17:37:58,989] {db_conn.py:37} INFO - Working on transaction #57 with data: 106, 666, 2022-10-16T04:29:04, $32.38
+[2022-10-17 17:37:59,002] {db_conn.py:36} INFO - Working on customer #58 with data: 832, Jessica, Vazquez, 9867796772, Averymouth
+[2022-10-17 17:37:59,003] {db_conn.py:37} INFO - Working on transaction #58 with data: 832, 460, 2022-10-17T14:38:27, $36.35
+[2022-10-17 17:37:59,014] {db_conn.py:36} INFO - Working on customer #59 with data: 757, Anthony, Blevins, 6491596939, Melissafurt
+[2022-10-17 17:37:59,015] {db_conn.py:37} INFO - Working on transaction #59 with data: 757, 774, 2022-10-16T11:25:55, $9,602.73
+[2022-10-17 17:37:59,027] {db_conn.py:36} INFO - Working on customer #60 with data: 616, Kayla, Doyle, 7642185922, Melissafurt
+[2022-10-17 17:37:59,028] {db_conn.py:37} INFO - Working on transaction #60 with data: 616, 826, 2022-10-15T06:54:02, $74.78
+[2022-10-17 17:37:59,042] {db_conn.py:36} INFO - Working on customer #61 with data: 769, Troy, Todd, 2411889523, Port Benjaminfurt
+[2022-10-17 17:37:59,042] {db_conn.py:37} INFO - Working on transaction #61 with data: 769, 262, 2022-10-15T03:55:39, $3.66
+[2022-10-17 17:37:59,056] {db_conn.py:36} INFO - Working on customer #62 with data: 890, Edward, Huynh, 3696854080, Allenton
+[2022-10-17 17:37:59,058] {db_conn.py:37} INFO - Working on transaction #62 with data: 890, 236, 2022-10-14T18:20:58, $514.96
+[2022-10-17 17:37:59,069] {db_conn.py:36} INFO - Working on customer #63 with data: 715, Bethany, Case, 6577082817, Robertland
+[2022-10-17 17:37:59,070] {db_conn.py:37} INFO - Working on transaction #63 with data: 715, 612, 2022-10-14T20:50:48, $3.42
+[2022-10-17 17:37:59,081] {db_conn.py:36} INFO - Working on customer #64 with data: 4, Charles, Wright, 2909376791, West Nichole
+[2022-10-17 17:37:59,082] {db_conn.py:37} INFO - Working on transaction #64 with data: 4, 759, 2022-10-16T21:59:11, $91.35
+[2022-10-17 17:37:59,094] {db_conn.py:36} INFO - Working on customer #65 with data: 330, Alan, Stewart, 3283514862, Robertland
+[2022-10-17 17:37:59,095] {db_conn.py:37} INFO - Working on transaction #65 with data: 330, 827, 2022-10-16T03:14:30, $60,379.17
+[2022-10-17 17:37:59,107] {db_conn.py:36} INFO - Working on customer #66 with data: 348, Stephanie, Johnson, 2397212615, Smithberg
+[2022-10-17 17:37:59,107] {db_conn.py:37} INFO - Working on transaction #66 with data: 348, 809, 2022-10-14T22:38:48, $3.38
+[2022-10-17 17:37:59,118] {db_conn.py:36} INFO - Working on customer #67 with data: 207, Dana, Johns, 5409354692, Port Benjaminfurt
+[2022-10-17 17:37:59,120] {db_conn.py:37} INFO - Working on transaction #67 with data: 207, 156, 2022-10-16T08:32:42, $867.90
+[2022-10-17 17:37:59,129] {db_conn.py:36} INFO - Working on customer #68 with data: 597, Andrew, Kennedy, 4005744706, Lanefurt
+[2022-10-17 17:37:59,129] {db_conn.py:37} INFO - Working on transaction #68 with data: 597, 542, 2022-10-17T02:39:07, $5.51
+[2022-10-17 17:37:59,139] {db_conn.py:36} INFO - Working on customer #69 with data: 866, James, Cardenas, 8072432509, Smithberg
+[2022-10-17 17:37:59,141] {db_conn.py:37} INFO - Working on transaction #69 with data: 866, 663, 2022-10-16T19:39:38, $784.01
+[2022-10-17 17:37:59,152] {db_conn.py:36} INFO - Working on customer #70 with data: 307, Jessica, Booth, 0463856100, Smithberg
+[2022-10-17 17:37:59,153] {db_conn.py:37} INFO - Working on transaction #70 with data: 307, 249, 2022-10-17T13:53:16, $4.01
+[2022-10-17 17:37:59,162] {db_conn.py:36} INFO - Working on customer #71 with data: 366, Eric, Jenkins, 2442285256, West Nichole
+[2022-10-17 17:37:59,162] {db_conn.py:37} INFO - Working on transaction #71 with data: 366, 349, 2022-10-17T03:13:33, $66.19
+[2022-10-17 17:37:59,174] {db_conn.py:36} INFO - Working on customer #72 with data: 489, Brittany, Gibson, 7240805795, West Nichole
+[2022-10-17 17:37:59,175] {db_conn.py:37} INFO - Working on transaction #72 with data: 489, 107, 2022-10-17T01:39:36, $9,855.94
+[2022-10-17 17:37:59,192] {db_conn.py:36} INFO - Working on customer #73 with data: 518, Teresa, Reed, 2644418965, Melissafurt
+[2022-10-17 17:37:59,193] {db_conn.py:37} INFO - Working on transaction #73 with data: 518, 521, 2022-10-16T17:16:08, $3,411.68
+[2022-10-17 17:37:59,205] {db_conn.py:36} INFO - Working on customer #74 with data: 434, Valerie, Cook, 9448945258, Lake Karina
+[2022-10-17 17:37:59,206] {db_conn.py:37} INFO - Working on transaction #74 with data: 434, 788, 2022-10-17T16:42:38, $3,059.17
+[2022-10-17 17:37:59,217] {db_conn.py:36} INFO - Working on customer #75 with data: 347, Megan, Riley, 7772919967, Lake Karina
+[2022-10-17 17:37:59,217] {db_conn.py:37} INFO - Working on transaction #75 with data: 347, 654, 2022-10-15T00:50:24, $71.82
+[2022-10-17 17:37:59,228] {db_conn.py:36} INFO - Working on customer #76 with data: 734, Vanessa, Robinson, 4685649869, Grahamstad
+[2022-10-17 17:37:59,229] {db_conn.py:37} INFO - Working on transaction #76 with data: 734, 518, 2022-10-15T13:10:18, $74,932.45
+[2022-10-17 17:37:59,238] {db_conn.py:36} INFO - Working on customer #77 with data: 772, Brian, Roberts, 2597595193, Grahamstad
+[2022-10-17 17:37:59,239] {db_conn.py:37} INFO - Working on transaction #77 with data: 772, 167, 2022-10-16T07:50:00, $851.05
+[2022-10-17 17:37:59,248] {db_conn.py:36} INFO - Working on customer #78 with data: 165, Colleen, Williams, 2176244415, Veronicaton
+[2022-10-17 17:37:59,249] {db_conn.py:37} INFO - Working on transaction #78 with data: 165, 711, 2022-10-15T12:17:24, $496.00
+[2022-10-17 17:37:59,258] {db_conn.py:36} INFO - Working on customer #79 with data: 809, Deborah, Hudson, 9624760348, Lake Karina
+[2022-10-17 17:37:59,259] {db_conn.py:37} INFO - Working on transaction #79 with data: 809, 712, 2022-10-16T11:41:02, $134.39
+[2022-10-17 17:37:59,269] {db_conn.py:36} INFO - Working on customer #80 with data: 343, Jessica, Garcia, 7863408763, Lanefurt
+[2022-10-17 17:37:59,271] {db_conn.py:37} INFO - Working on transaction #80 with data: 343, 83, 2022-10-17T01:23:24, $25.35
+[2022-10-17 17:37:59,281] {db_conn.py:36} INFO - Working on customer #81 with data: 857, Richard, Johnson, 9110903908, Melissafurt
+[2022-10-17 17:37:59,282] {db_conn.py:37} INFO - Working on transaction #81 with data: 857, 309, 2022-10-15T21:35:01, $5,604.88
+[2022-10-17 17:37:59,292] {db_conn.py:36} INFO - Working on customer #82 with data: 321, Tiffany, Stewart, 0084634578, Lake Jamesville
+[2022-10-17 17:37:59,293] {db_conn.py:37} INFO - Working on transaction #82 with data: 321, 412, 2022-10-14T19:02:52, $81.62
+[2022-10-17 17:37:59,302] {db_conn.py:36} INFO - Working on customer #83 with data: 577, James, Snow, 1738711078, Clayview
+[2022-10-17 17:37:59,303] {db_conn.py:37} INFO - Working on transaction #83 with data: 577, 714, 2022-10-17T10:25:22, $33,083.51
+[2022-10-17 17:37:59,311] {db_conn.py:36} INFO - Working on customer #84 with data: 478, Cynthia, Carr, 7364015148, Averymouth
+[2022-10-17 17:37:59,312] {db_conn.py:37} INFO - Working on transaction #84 with data: 478, 188, 2022-10-15T06:16:43, $406.61
+[2022-10-17 17:37:59,323] {db_conn.py:36} INFO - Working on customer #85 with data: 210, Robert, Smith, 3208957881, Grahamstad
+[2022-10-17 17:37:59,324] {db_conn.py:37} INFO - Working on transaction #85 with data: 210, 796, 2022-10-17T08:30:57, $88.66
+[2022-10-17 17:37:59,333] {db_conn.py:36} INFO - Working on customer #86 with data: 72, Franklin, Henry, 8243297126, Michelleburgh
+[2022-10-17 17:37:59,334] {db_conn.py:37} INFO - Working on transaction #86 with data: 72, 586, 2022-10-17T07:31:54, $1,000.48
+[2022-10-17 17:37:59,344] {db_conn.py:36} INFO - Working on customer #87 with data: 594, Elizabeth, Gould, 9983432969, Brownchester
+[2022-10-17 17:37:59,346] {db_conn.py:37} INFO - Working on transaction #87 with data: 594, 193, 2022-10-17T06:39:36, $5,649.88
+[2022-10-17 17:37:59,358] {db_conn.py:36} INFO - Working on customer #88 with data: 200, James, Johnson, 9973718092, Clayview
+[2022-10-17 17:37:59,359] {db_conn.py:37} INFO - Working on transaction #88 with data: 200, 229, 2022-10-14T18:50:31, $80,823.90
+[2022-10-17 17:37:59,368] {db_conn.py:36} INFO - Working on customer #89 with data: 657, Dawn, Ramirez, 4494377206, West Nichole
+[2022-10-17 17:37:59,369] {db_conn.py:37} INFO - Working on transaction #89 with data: 657, 605, 2022-10-17T02:13:07, $9.63
+[2022-10-17 17:37:59,379] {db_conn.py:36} INFO - Working on customer #90 with data: 275, Richard, Flynn, 5965841302, Clayview
+[2022-10-17 17:37:59,379] {db_conn.py:37} INFO - Working on transaction #90 with data: 275, 892, 2022-10-15T05:01:48, $791.44
+[2022-10-17 17:37:59,389] {db_conn.py:36} INFO - Working on customer #91 with data: 356, Savannah, Patterson, 3328245891, Michelleburgh
+[2022-10-17 17:37:59,390] {db_conn.py:37} INFO - Working on transaction #91 with data: 356, 393, 2022-10-17T09:15:05, $85.48
+[2022-10-17 17:37:59,414] {db_conn.py:36} INFO - Working on customer #92 with data: 471, Yolanda, Mendez, 9426592311, Lake Karina
+[2022-10-17 17:37:59,415] {db_conn.py:37} INFO - Working on transaction #92 with data: 471, 339, 2022-10-16T06:37:27, $7,832.32
+[2022-10-17 17:37:59,425] {db_conn.py:36} INFO - Working on customer #93 with data: 101, Stephanie, Warner, 0878709528, Port Benjaminfurt
+[2022-10-17 17:37:59,429] {db_conn.py:37} INFO - Working on transaction #93 with data: 101, 306, 2022-10-16T16:22:42, $894.10
+[2022-10-17 17:37:59,443] {db_conn.py:36} INFO - Working on customer #94 with data: 243, John, Kim, 8817948597, Averymouth
+[2022-10-17 17:37:59,446] {db_conn.py:37} INFO - Working on transaction #94 with data: 243, 637, 2022-10-15T16:17:56, $32,192.05
+[2022-10-17 17:37:59,459] {db_conn.py:36} INFO - Working on customer #95 with data: 458, Mary, Jones, 3065238945, Hicksview
+[2022-10-17 17:37:59,460] {db_conn.py:37} INFO - Working on transaction #95 with data: 458, 63, 2022-10-16T05:56:14, $1,611.12
+[2022-10-17 17:37:59,481] {db_conn.py:36} INFO - Working on customer #96 with data: 894, Rachel, Buck, 4898193160, Averymouth
+[2022-10-17 17:37:59,483] {db_conn.py:37} INFO - Working on transaction #96 with data: 894, 731, 2022-10-15T01:38:08, $33,370.47
+[2022-10-17 17:37:59,496] {db_conn.py:36} INFO - Working on customer #97 with data: 373, Cameron, Brown, 5427521671, Melissafurt
+[2022-10-17 17:37:59,497] {db_conn.py:37} INFO - Working on transaction #97 with data: 373, 77, 2022-10-17T11:05:03, $39,210.73
+[2022-10-17 17:37:59,511] {db_conn.py:36} INFO - Working on customer #98 with data: 160, David, Nicholson, 7758342597, Grahamstad
+[2022-10-17 17:37:59,512] {db_conn.py:37} INFO - Working on transaction #98 with data: 160, 515, 2022-10-17T13:21:15, $66.83
+[2022-10-17 17:37:59,523] {db_conn.py:36} INFO - Working on customer #99 with data: 871, Michelle, Parks, 7742255291, New Marthaborough
+[2022-10-17 17:37:59,524] {db_conn.py:37} INFO - Working on transaction #99 with data: 871, 845, 2022-10-15T06:45:55, $58,248.24
+[2022-10-17 17:37:59,533] {db_conn.py:36} INFO - Working on customer #100 with data: 396, Heather, Perkins, 6318950643, Lanefurt
+[2022-10-17 17:37:59,534] {db_conn.py:37} INFO - Working on transaction #100 with data: 396, 428, 2022-10-15T18:55:31, $2,030.57
+[2022-10-17 17:37:59,539] {db_conn.py:49} INFO - Both cursor and conn closed successfully
+[2022-10-17 17:37:59,540] {insertion_factory.py:46} INFO - Insertions into database success.
+[2022-10-17 17:37:59,544] {logging_mixin.py:115} INFO - Generating jsonline: 1
+[2022-10-17 17:37:59,550] {logging_mixin.py:115} INFO - Generating jsonline: 2
+[2022-10-17 17:37:59,556] {logging_mixin.py:115} INFO - Generating jsonline: 3
+[2022-10-17 17:37:59,562] {logging_mixin.py:115} INFO - Generating jsonline: 4
+[2022-10-17 17:37:59,567] {logging_mixin.py:115} INFO - Generating jsonline: 5
+[2022-10-17 17:37:59,573] {logging_mixin.py:115} INFO - Generating jsonline: 6
+[2022-10-17 17:37:59,578] {logging_mixin.py:115} INFO - Generating jsonline: 7
+[2022-10-17 17:37:59,588] {logging_mixin.py:115} INFO - Generating jsonline: 8
+[2022-10-17 17:37:59,602] {logging_mixin.py:115} INFO - Generating jsonline: 9
+[2022-10-17 17:37:59,611] {logging_mixin.py:115} INFO - Generating jsonline: 10
+[2022-10-17 17:37:59,626] {logging_mixin.py:115} INFO - Generating jsonline: 11
+[2022-10-17 17:37:59,634] {logging_mixin.py:115} INFO - Generating jsonline: 12
+[2022-10-17 17:37:59,644] {logging_mixin.py:115} INFO - Generating jsonline: 13
+[2022-10-17 17:37:59,655] {logging_mixin.py:115} INFO - Generating jsonline: 14
+[2022-10-17 17:37:59,663] {logging_mixin.py:115} INFO - Generating jsonline: 15
+[2022-10-17 17:37:59,670] {logging_mixin.py:115} INFO - Generating jsonline: 16
+[2022-10-17 17:37:59,675] {logging_mixin.py:115} INFO - Generating jsonline: 17
+[2022-10-17 17:37:59,681] {logging_mixin.py:115} INFO - Generating jsonline: 18
+[2022-10-17 17:37:59,687] {logging_mixin.py:115} INFO - Generating jsonline: 19
+[2022-10-17 17:37:59,693] {logging_mixin.py:115} INFO - Generating jsonline: 20
+[2022-10-17 17:37:59,698] {logging_mixin.py:115} INFO - Generating jsonline: 21
+[2022-10-17 17:37:59,708] {logging_mixin.py:115} INFO - Generating jsonline: 22
+[2022-10-17 17:37:59,714] {logging_mixin.py:115} INFO - Generating jsonline: 23
+[2022-10-17 17:37:59,719] {logging_mixin.py:115} INFO - Generating jsonline: 24
+[2022-10-17 17:37:59,726] {logging_mixin.py:115} INFO - Generating jsonline: 25
+[2022-10-17 17:37:59,732] {logging_mixin.py:115} INFO - Generating jsonline: 26
+[2022-10-17 17:37:59,737] {logging_mixin.py:115} INFO - Generating jsonline: 27
+[2022-10-17 17:37:59,742] {logging_mixin.py:115} INFO - Generating jsonline: 28
+[2022-10-17 17:37:59,747] {logging_mixin.py:115} INFO - Generating jsonline: 29
+[2022-10-17 17:37:59,754] {logging_mixin.py:115} INFO - Generating jsonline: 30
+[2022-10-17 17:37:59,760] {logging_mixin.py:115} INFO - Generating jsonline: 31
+[2022-10-17 17:37:59,771] {logging_mixin.py:115} INFO - Generating jsonline: 32
+[2022-10-17 17:37:59,777] {logging_mixin.py:115} INFO - Generating jsonline: 33
+[2022-10-17 17:37:59,782] {logging_mixin.py:115} INFO - Generating jsonline: 34
+[2022-10-17 17:37:59,791] {logging_mixin.py:115} INFO - Generating jsonline: 35
+[2022-10-17 17:37:59,804] {logging_mixin.py:115} INFO - Generating jsonline: 36
+[2022-10-17 17:37:59,810] {logging_mixin.py:115} INFO - Generating jsonline: 37
+[2022-10-17 17:37:59,820] {logging_mixin.py:115} INFO - Generating jsonline: 38
+[2022-10-17 17:37:59,825] {logging_mixin.py:115} INFO - Generating jsonline: 39
+[2022-10-17 17:37:59,831] {logging_mixin.py:115} INFO - Generating jsonline: 40
+[2022-10-17 17:37:59,837] {logging_mixin.py:115} INFO - Generating jsonline: 41
+[2022-10-17 17:37:59,841] {logging_mixin.py:115} INFO - Generating jsonline: 42
+[2022-10-17 17:37:59,846] {logging_mixin.py:115} INFO - Generating jsonline: 43
+[2022-10-17 17:37:59,853] {logging_mixin.py:115} INFO - Generating jsonline: 44
+[2022-10-17 17:37:59,860] {logging_mixin.py:115} INFO - Generating jsonline: 45
+[2022-10-17 17:37:59,865] {logging_mixin.py:115} INFO - Generating jsonline: 46
+[2022-10-17 17:37:59,875] {logging_mixin.py:115} INFO - Generating jsonline: 47
+[2022-10-17 17:37:59,880] {logging_mixin.py:115} INFO - Generating jsonline: 48
+[2022-10-17 17:37:59,887] {logging_mixin.py:115} INFO - Generating jsonline: 49
+[2022-10-17 17:37:59,892] {logging_mixin.py:115} INFO - Generating jsonline: 50
+[2022-10-17 17:37:59,899] {logging_mixin.py:115} INFO - Generating jsonline: 51
+[2022-10-17 17:37:59,906] {logging_mixin.py:115} INFO - Generating jsonline: 52
+[2022-10-17 17:37:59,914] {logging_mixin.py:115} INFO - Generating jsonline: 53
+[2022-10-17 17:37:59,921] {logging_mixin.py:115} INFO - Generating jsonline: 54
+[2022-10-17 17:37:59,927] {logging_mixin.py:115} INFO - Generating jsonline: 55
+[2022-10-17 17:37:59,934] {logging_mixin.py:115} INFO - Generating jsonline: 56
+[2022-10-17 17:37:59,941] {logging_mixin.py:115} INFO - Generating jsonline: 57
+[2022-10-17 17:37:59,947] {logging_mixin.py:115} INFO - Generating jsonline: 58
+[2022-10-17 17:37:59,954] {logging_mixin.py:115} INFO - Generating jsonline: 59
+[2022-10-17 17:37:59,960] {logging_mixin.py:115} INFO - Generating jsonline: 60
+[2022-10-17 17:37:59,971] {logging_mixin.py:115} INFO - Generating jsonline: 61
+[2022-10-17 17:37:59,978] {logging_mixin.py:115} INFO - Generating jsonline: 62
+[2022-10-17 17:37:59,987] {logging_mixin.py:115} INFO - Generating jsonline: 63
+[2022-10-17 17:37:59,994] {logging_mixin.py:115} INFO - Generating jsonline: 64
+[2022-10-17 17:38:00,003] {logging_mixin.py:115} INFO - Generating jsonline: 65
+[2022-10-17 17:38:00,017] {logging_mixin.py:115} INFO - Generating jsonline: 66
+[2022-10-17 17:38:00,025] {logging_mixin.py:115} INFO - Generating jsonline: 67
+[2022-10-17 17:38:00,043] {logging_mixin.py:115} INFO - Generating jsonline: 68
+[2022-10-17 17:38:00,051] {logging_mixin.py:115} INFO - Generating jsonline: 69
+[2022-10-17 17:38:00,060] {logging_mixin.py:115} INFO - Generating jsonline: 70
+[2022-10-17 17:38:00,072] {logging_mixin.py:115} INFO - Generating jsonline: 71
+[2022-10-17 17:38:00,081] {logging_mixin.py:115} INFO - Generating jsonline: 72
+[2022-10-17 17:38:00,102] {logging_mixin.py:115} INFO - Generating jsonline: 73
+[2022-10-17 17:38:00,113] {logging_mixin.py:115} INFO - Generating jsonline: 74
+[2022-10-17 17:38:00,121] {logging_mixin.py:115} INFO - Generating jsonline: 75
+[2022-10-17 17:38:00,139] {logging_mixin.py:115} INFO - Generating jsonline: 76
+[2022-10-17 17:38:00,152] {logging_mixin.py:115} INFO - Generating jsonline: 77
+[2022-10-17 17:38:00,164] {logging_mixin.py:115} INFO - Generating jsonline: 78
+[2022-10-17 17:38:00,171] {logging_mixin.py:115} INFO - Generating jsonline: 79
+[2022-10-17 17:38:00,179] {logging_mixin.py:115} INFO - Generating jsonline: 80
+[2022-10-17 17:38:00,188] {logging_mixin.py:115} INFO - Generating jsonline: 81
+[2022-10-17 17:38:00,194] {logging_mixin.py:115} INFO - Generating jsonline: 82
+[2022-10-17 17:38:00,205] {logging_mixin.py:115} INFO - Generating jsonline: 83
+[2022-10-17 17:38:00,213] {logging_mixin.py:115} INFO - Generating jsonline: 84
+[2022-10-17 17:38:00,222] {logging_mixin.py:115} INFO - Generating jsonline: 85
+[2022-10-17 17:38:00,229] {logging_mixin.py:115} INFO - Generating jsonline: 86
+[2022-10-17 17:38:00,237] {logging_mixin.py:115} INFO - Generating jsonline: 87
+[2022-10-17 17:38:00,243] {logging_mixin.py:115} INFO - Generating jsonline: 88
+[2022-10-17 17:38:00,248] {logging_mixin.py:115} INFO - Generating jsonline: 89
+[2022-10-17 17:38:00,254] {logging_mixin.py:115} INFO - Generating jsonline: 90
+[2022-10-17 17:38:00,261] {logging_mixin.py:115} INFO - Generating jsonline: 91
+[2022-10-17 17:38:00,266] {logging_mixin.py:115} INFO - Generating jsonline: 92
+[2022-10-17 17:38:00,273] {logging_mixin.py:115} INFO - Generating jsonline: 93
+[2022-10-17 17:38:00,279] {logging_mixin.py:115} INFO - Generating jsonline: 94
+[2022-10-17 17:38:00,284] {logging_mixin.py:115} INFO - Generating jsonline: 95
+[2022-10-17 17:38:00,293] {logging_mixin.py:115} INFO - Generating jsonline: 96
+[2022-10-17 17:38:00,299] {logging_mixin.py:115} INFO - Generating jsonline: 97
+[2022-10-17 17:38:00,305] {logging_mixin.py:115} INFO - Generating jsonline: 98
+[2022-10-17 17:38:00,324] {logging_mixin.py:115} INFO - Generating jsonline: 99
+[2022-10-17 17:38:00,332] {logging_mixin.py:115} INFO - Generating jsonline: 100
+[2022-10-17 17:38:00,348] {logging_mixin.py:115} INFO - Generating record 1
+[2022-10-17 17:38:00,353] {logging_mixin.py:115} INFO - Generating record 2
+[2022-10-17 17:38:00,358] {logging_mixin.py:115} INFO - Generating record 3
+[2022-10-17 17:38:00,364] {logging_mixin.py:115} INFO - Generating record 4
+[2022-10-17 17:38:00,371] {logging_mixin.py:115} INFO - Generating record 5
+[2022-10-17 17:38:00,376] {logging_mixin.py:115} INFO - Generating record 6
+[2022-10-17 17:38:00,382] {logging_mixin.py:115} INFO - Generating record 7
+[2022-10-17 17:38:00,387] {logging_mixin.py:115} INFO - Generating record 8
+[2022-10-17 17:38:00,392] {logging_mixin.py:115} INFO - Generating record 9
+[2022-10-17 17:38:00,402] {logging_mixin.py:115} INFO - Generating record 10
+[2022-10-17 17:38:00,408] {logging_mixin.py:115} INFO - Generating record 11
+[2022-10-17 17:38:00,414] {logging_mixin.py:115} INFO - Generating record 12
+[2022-10-17 17:38:00,420] {logging_mixin.py:115} INFO - Generating record 13
+[2022-10-17 17:38:00,427] {logging_mixin.py:115} INFO - Generating record 14
+[2022-10-17 17:38:00,432] {logging_mixin.py:115} INFO - Generating record 15
+[2022-10-17 17:38:00,439] {logging_mixin.py:115} INFO - Generating record 16
+[2022-10-17 17:38:00,444] {logging_mixin.py:115} INFO - Generating record 17
+[2022-10-17 17:38:00,451] {logging_mixin.py:115} INFO - Generating record 18
+[2022-10-17 17:38:00,460] {logging_mixin.py:115} INFO - Generating record 19
+[2022-10-17 17:38:00,475] {logging_mixin.py:115} INFO - Generating record 20
+[2022-10-17 17:38:00,483] {logging_mixin.py:115} INFO - Generating record 21
+[2022-10-17 17:38:00,488] {logging_mixin.py:115} INFO - Generating record 22
+[2022-10-17 17:38:00,493] {logging_mixin.py:115} INFO - Generating record 23
+[2022-10-17 17:38:00,498] {logging_mixin.py:115} INFO - Generating record 24
+[2022-10-17 17:38:00,503] {logging_mixin.py:115} INFO - Generating record 25
+[2022-10-17 17:38:00,508] {logging_mixin.py:115} INFO - Generating record 26
+[2022-10-17 17:38:00,517] {logging_mixin.py:115} INFO - Generating record 27
+[2022-10-17 17:38:00,522] {logging_mixin.py:115} INFO - Generating record 28
+[2022-10-17 17:38:00,530] {logging_mixin.py:115} INFO - Generating record 29
+[2022-10-17 17:38:00,539] {logging_mixin.py:115} INFO - Generating record 30
+[2022-10-17 17:38:00,545] {logging_mixin.py:115} INFO - Generating record 31
+[2022-10-17 17:38:00,551] {logging_mixin.py:115} INFO - Generating record 32
+[2022-10-17 17:38:00,557] {logging_mixin.py:115} INFO - Generating record 33
+[2022-10-17 17:38:00,567] {logging_mixin.py:115} INFO - Generating record 34
+[2022-10-17 17:38:00,572] {logging_mixin.py:115} INFO - Generating record 35
+[2022-10-17 17:38:00,585] {logging_mixin.py:115} INFO - Generating record 36
+[2022-10-17 17:38:00,591] {logging_mixin.py:115} INFO - Generating record 37
+[2022-10-17 17:38:00,598] {logging_mixin.py:115} INFO - Generating record 38
+[2022-10-17 17:38:00,603] {logging_mixin.py:115} INFO - Generating record 39
+[2022-10-17 17:38:00,611] {logging_mixin.py:115} INFO - Generating record 40
+[2022-10-17 17:38:00,618] {logging_mixin.py:115} INFO - Generating record 41
+[2022-10-17 17:38:00,624] {logging_mixin.py:115} INFO - Generating record 42
+[2022-10-17 17:38:00,631] {logging_mixin.py:115} INFO - Generating record 43
+[2022-10-17 17:38:00,639] {logging_mixin.py:115} INFO - Generating record 44
+[2022-10-17 17:38:00,645] {logging_mixin.py:115} INFO - Generating record 45
+[2022-10-17 17:38:00,650] {logging_mixin.py:115} INFO - Generating record 46
+[2022-10-17 17:38:00,655] {logging_mixin.py:115} INFO - Generating record 47
+[2022-10-17 17:38:00,661] {logging_mixin.py:115} INFO - Generating record 48
+[2022-10-17 17:38:00,667] {logging_mixin.py:115} INFO - Generating record 49
+[2022-10-17 17:38:00,673] {logging_mixin.py:115} INFO - Generating record 50
+[2022-10-17 17:38:00,678] {logging_mixin.py:115} INFO - Generating record 51
+[2022-10-17 17:38:00,686] {logging_mixin.py:115} INFO - Generating record 52
+[2022-10-17 17:38:00,693] {logging_mixin.py:115} INFO - Generating record 53
+[2022-10-17 17:38:00,701] {logging_mixin.py:115} INFO - Generating record 54
+[2022-10-17 17:38:00,708] {logging_mixin.py:115} INFO - Generating record 55
+[2022-10-17 17:38:00,725] {logging_mixin.py:115} INFO - Generating record 56
+[2022-10-17 17:38:00,732] {logging_mixin.py:115} INFO - Generating record 57
+[2022-10-17 17:38:00,741] {logging_mixin.py:115} INFO - Generating record 58
+[2022-10-17 17:38:00,748] {logging_mixin.py:115} INFO - Generating record 59
+[2022-10-17 17:38:00,756] {logging_mixin.py:115} INFO - Generating record 60
+[2022-10-17 17:38:00,762] {logging_mixin.py:115} INFO - Generating record 61
+[2022-10-17 17:38:00,769] {logging_mixin.py:115} INFO - Generating record 62
+[2022-10-17 17:38:00,780] {logging_mixin.py:115} INFO - Generating record 63
+[2022-10-17 17:38:00,789] {logging_mixin.py:115} INFO - Generating record 64
+[2022-10-17 17:38:00,797] {logging_mixin.py:115} INFO - Generating record 65
+[2022-10-17 17:38:00,806] {logging_mixin.py:115} INFO - Generating record 66
+[2022-10-17 17:38:00,815] {logging_mixin.py:115} INFO - Generating record 67
+[2022-10-17 17:38:00,826] {logging_mixin.py:115} INFO - Generating record 68
+[2022-10-17 17:38:00,834] {logging_mixin.py:115} INFO - Generating record 69
+[2022-10-17 17:38:00,843] {logging_mixin.py:115} INFO - Generating record 70
+[2022-10-17 17:38:00,856] {logging_mixin.py:115} INFO - Generating record 71
+[2022-10-17 17:38:00,867] {logging_mixin.py:115} INFO - Generating record 72
+[2022-10-17 17:38:00,876] {logging_mixin.py:115} INFO - Generating record 73
+[2022-10-17 17:38:00,887] {logging_mixin.py:115} INFO - Generating record 74
+[2022-10-17 17:38:00,897] {logging_mixin.py:115} INFO - Generating record 75
+[2022-10-17 17:38:00,904] {logging_mixin.py:115} INFO - Generating record 76
+[2022-10-17 17:38:00,910] {logging_mixin.py:115} INFO - Generating record 77
+[2022-10-17 17:38:00,917] {logging_mixin.py:115} INFO - Generating record 78
+[2022-10-17 17:38:00,924] {logging_mixin.py:115} INFO - Generating record 79
+[2022-10-17 17:38:00,930] {logging_mixin.py:115} INFO - Generating record 80
+[2022-10-17 17:38:00,937] {logging_mixin.py:115} INFO - Generating record 81
+[2022-10-17 17:38:00,942] {logging_mixin.py:115} INFO - Generating record 82
+[2022-10-17 17:38:00,949] {logging_mixin.py:115} INFO - Generating record 83
+[2022-10-17 17:38:00,958] {logging_mixin.py:115} INFO - Generating record 84
+[2022-10-17 17:38:00,967] {logging_mixin.py:115} INFO - Generating record 85
+[2022-10-17 17:38:00,974] {logging_mixin.py:115} INFO - Generating record 86
+[2022-10-17 17:38:00,983] {logging_mixin.py:115} INFO - Generating record 87
+[2022-10-17 17:38:00,992] {logging_mixin.py:115} INFO - Generating record 88
+[2022-10-17 17:38:01,000] {logging_mixin.py:115} INFO - Generating record 89
+[2022-10-17 17:38:01,021] {logging_mixin.py:115} INFO - Generating record 90
+[2022-10-17 17:38:01,028] {logging_mixin.py:115} INFO - Generating record 91
+[2022-10-17 17:38:01,039] {logging_mixin.py:115} INFO - Generating record 92
+[2022-10-17 17:38:01,047] {logging_mixin.py:115} INFO - Generating record 93
+[2022-10-17 17:38:01,056] {logging_mixin.py:115} INFO - Generating record 94
+[2022-10-17 17:38:01,063] {logging_mixin.py:115} INFO - Generating record 95
+[2022-10-17 17:38:01,069] {logging_mixin.py:115} INFO - Generating record 96
+[2022-10-17 17:38:01,080] {logging_mixin.py:115} INFO - Generating record 97
+[2022-10-17 17:38:01,086] {logging_mixin.py:115} INFO - Generating record 98
+[2022-10-17 17:38:01,100] {logging_mixin.py:115} INFO - Generating record 99
+[2022-10-17 17:38:01,106] {logging_mixin.py:115} INFO - Generating record 100
+[2022-10-17 17:38:01,115] {logging_mixin.py:115} INFO - Data generated correctly
+[2022-10-17 17:38:01,180] {python.py:173} INFO - Done. Returned value was: None
+[2022-10-17 17:38:01,207] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=generate_data, task_id=generate_data, execution_date=20221017T173756, start_date=20221017T173757, end_date=20221017T173801
+[2022-10-17 17:38:01,272] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-10-17 17:38:01,366] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

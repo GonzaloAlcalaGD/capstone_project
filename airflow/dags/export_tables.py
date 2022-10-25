@@ -67,16 +67,24 @@ def generate_path(parent_path: str, day: int) -> str:
     return os.path.join(parent_path, now.add(days=day).to_date_string())
 
 
-def create_path(path: str) -> bool:
+def create_path(day: int) -> bool:
     """
     Function that creates a directory from path.
     """
-    if os.path.exists(path):
-        return logging.info('Path already exist, overwriting the file')
-    else:
-        return os.mkdir(path)
+    try:
+        now = pendulum.now()
+        os.system("docker exec -it b6a25d657cb4 /bin/bash")
+        os.system("cd /opt/transaction")
+        os.system(f"mkdir {now.add(days=day).to_date_string()}")
+        os.system("cd /opt/customer")
+        os.system(f"mkdir {now.add(days=day).to_date_string()}")
+        return True
+    except Exception as e:
+        logging.critical(e.__class__)
+        logging.critical(e)
+        return False
 
-
+    
 def copy_table(cursor, conn, path: str, table: str, days: int) -> bool:
     """
     Function that executes a command that copies the content of a table
@@ -87,12 +95,14 @@ def copy_table(cursor, conn, path: str, table: str, days: int) -> bool:
     try:
         now = pendulum.now()
         filename = f'{table}_{now.add(days=days).to_date_string()}'
-        final_path = generate_path(parent_path=f'{path}/{table}', day=days)
-        create_path(path=final_path)
-        cursor.execute(f'COPY {table} TO \'{final_path}/{filename}.csv\' WITH CSV HEADER DELIMITER \',\';')
+        final_path = generate_path(parent_path=path, day=days)
+        create_path(day=days)
+        cursor.execute(f'COPY {table} TO \'{final_path}/{filename}.csv\' CSV HEADER;')
         conn.commit()
         return True
-    except:
+    except Exception as e:
+        logging.critical(e.__class__)
+        logging.critical(e)
         logging.critical('Something went wrong at exporting the table to container storage')
         return False
 
@@ -118,7 +128,7 @@ def export():
     for _ in range(1,3):
         if status:
             logging.info(f'Working on {table.get(_)}')
-            copy_table(cursor=connection_cursor, conn=connection, path='/opt', table=table.get(_), days=days)
+            copy_table(cursor=connection_cursor, conn=connection, path=f'/opt/{table.get(_)}', table=table.get(_), days=days)
         else:
             logging.critical('Something went wrong')
 

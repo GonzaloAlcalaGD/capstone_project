@@ -1,0 +1,23 @@
+[2022-10-24T17:09:39.298+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data.trigger_data_unification_dag manual__2022-10-24T17:02:54.654763+00:00 [queued]>
+[2022-10-24T17:09:39.360+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data.trigger_data_unification_dag manual__2022-10-24T17:02:54.654763+00:00 [queued]>
+[2022-10-24T17:09:39.365+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T17:09:39.369+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T17:09:39.371+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T17:09:39.472+0000] {taskinstance.py:1383} INFO - Executing <Task(TriggerDagRunOperator): trigger_data_unification_dag> on 2022-10-24 17:02:54.654763+00:00
+[2022-10-24T17:09:39.500+0000] {standard_task_runner.py:54} INFO - Started process 81849 to run task
+[2022-10-24T17:09:39.528+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'load_and_normalize_data', 'trigger_data_unification_dag', 'manual__2022-10-24T17:02:54.654763+00:00', '--job-id', '525', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpl30138c6']
+[2022-10-24T17:09:39.536+0000] {standard_task_runner.py:83} INFO - Job 525: Subtask trigger_data_unification_dag
+[2022-10-24T17:09:39.542+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/pyspark_jobs.py
+[2022-10-24T17:09:40.137+0000] {task_command.py:384} INFO - Running <TaskInstance: load_and_normalize_data.trigger_data_unification_dag manual__2022-10-24T17:02:54.654763+00:00 [running]> on host c94e224fed05
+[2022-10-24T17:09:40.773+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=load_and_normalize_data
+AIRFLOW_CTX_TASK_ID=trigger_data_unification_dag
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T17:02:54.654763+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T17:02:54.654763+00:00
+[2022-10-24T17:09:41.309+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=load_and_normalize_data, task_id=trigger_data_unification_dag, execution_date=20221024T170254, start_date=20221024T170939, end_date=20221024T170941
+[2022-10-24T17:09:41.443+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T17:09:41.539+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

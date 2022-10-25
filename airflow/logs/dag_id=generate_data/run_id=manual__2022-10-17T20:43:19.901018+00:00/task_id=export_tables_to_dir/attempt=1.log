@@ -1,0 +1,47 @@
+[2022-10-17 20:43:48,518] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T20:43:19.901018+00:00 [queued]>
+[2022-10-17 20:43:48,874] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T20:43:19.901018+00:00 [queued]>
+[2022-10-17 20:43:48,890] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 20:43:48,916] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-17 20:43:48,958] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-17 20:43:49,554] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): export_tables_to_dir> on 2022-10-17 20:43:19.901018+00:00
+[2022-10-17 20:43:49,759] {standard_task_runner.py:52} INFO - Started process 3500 to run task
+[2022-10-17 20:43:49,883] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'export_tables_to_dir', 'manual__2022-10-17T20:43:19.901018+00:00', '--job-id', '437', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmpm74n790r', '--error-file', '/tmp/tmpbsl4xxbz']
+[2022-10-17 20:43:49,941] {standard_task_runner.py:80} INFO - Job 437: Subtask export_tables_to_dir
+[2022-10-17 20:43:51,123] {task_command.py:371} INFO - Running <TaskInstance: generate_data.export_tables_to_dir manual__2022-10-17T20:43:19.901018+00:00 [running]> on host c176cd979f84
+[2022-10-17 20:43:51,968] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=export_tables_to_dir
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-17T20:43:19.901018+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-17T20:43:19.901018+00:00
+[2022-10-17 20:43:52,198] {export_tables.py:37} INFO - Connection to database success
+[2022-10-17 20:43:52,223] {export_tables.py:130} INFO - Working on transaction
+[2022-10-17 20:43:52,243] {export_tables.py:94} INFO - Exporting 100 rows into csv.
+[2022-10-17 20:43:52,359] {export_tables.py:104} CRITICAL - <class 'psycopg2.errors.UndefinedFile'>
+[2022-10-17 20:43:52,363] {export_tables.py:105} CRITICAL - could not open file "/opt/transaction/2022-10-17/transaction_2022-10-17.csv" for writing: No such file or directory
+HINT:  COPY TO instructs the PostgreSQL server process to write a file. You may want a client-side facility such as psql's \copy.
+
+[2022-10-17 20:43:52,366] {export_tables.py:106} CRITICAL - Something went wrong at exporting the table to container storage
+[2022-10-17 20:43:52,369] {export_tables.py:130} INFO - Working on customer
+[2022-10-17 20:43:52,385] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/export_tables.py", line 131, in export
+    copy_table(cursor=connection_cursor, conn=connection, path=f'/opt/{table.get(_)}', table=table.get(_), days=days)
+  File "/opt/airflow/dags/export_tables.py", line 93, in copy_table
+    rows = count_rows(cursor, table=table)
+  File "/opt/airflow/dags/export_tables.py", line 49, in count_rows
+    cursor.execute(f'SELECT * FROM {table}')
+psycopg2.errors.InFailedSqlTransaction: current transaction is aborted, commands ignored until end of transaction block
+
+[2022-10-17 20:43:52,483] {taskinstance.py:1420} INFO - Marking task as UP_FOR_RETRY. dag_id=generate_data, task_id=export_tables_to_dir, execution_date=20221017T204319, start_date=20221017T204348, end_date=20221017T204352
+[2022-10-17 20:43:52,600] {standard_task_runner.py:97} ERROR - Failed to execute job 437 for task export_tables_to_dir (current transaction is aborted, commands ignored until end of transaction block
+; 3500)
+[2022-10-17 20:43:52,775] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-10-17 20:43:53,519] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

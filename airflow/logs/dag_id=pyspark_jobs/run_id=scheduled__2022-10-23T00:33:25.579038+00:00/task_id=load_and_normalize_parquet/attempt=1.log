@@ -1,0 +1,50 @@
+[2022-10-24T14:56:43.725+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet scheduled__2022-10-23T00:33:25.579038+00:00 [queued]>
+[2022-10-24T14:56:43.780+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet scheduled__2022-10-23T00:33:25.579038+00:00 [queued]>
+[2022-10-24T14:56:43.784+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T14:56:43.788+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T14:56:43.791+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T14:56:43.924+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_normalize_parquet> on 2022-10-23 00:33:25.579038+00:00
+[2022-10-24T14:56:44.005+0000] {standard_task_runner.py:54} INFO - Started process 33302 to run task
+[2022-10-24T14:56:44.034+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_and_normalize_parquet', 'scheduled__2022-10-23T00:33:25.579038+00:00', '--job-id', '502', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpemn4ypxh']
+[2022-10-24T14:56:44.039+0000] {standard_task_runner.py:83} INFO - Job 502: Subtask load_and_normalize_parquet
+[2022-10-24T14:56:44.042+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/pyspark_jobs.py
+[2022-10-24T14:56:44.800+0000] {task_command.py:384} INFO - Running <TaskInstance: pyspark_jobs.load_and_normalize_parquet scheduled__2022-10-23T00:33:25.579038+00:00 [running]> on host c94e224fed05
+[2022-10-24T14:56:44.984+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_and_normalize_parquet
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-23T00:33:25.579038+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-10-23T00:33:25.579038+00:00
+[2022-10-24T14:57:03.361+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.7/site-packages/pyspark/sql/context.py:114: FutureWarning: Deprecated in 3.0.0. Use SparkSession.builder.getOrCreate() instead.
+  FutureWarning,
+
+[2022-10-24T14:57:03.415+0000] {directories.py:15} INFO - Found the following subdirectories ['2022-10-14', '2022-10-17', '2022-10-18', '2022-10-19']
+[2022-10-24T14:57:03.501+0000] {directories.py:24} INFO - Latest folder: 2022-10-19
+[2022-10-24T14:57:23.568+0000] {pyspark_scripts.py:73} INFO - Working with 1 partitions
+[2022-10-24T14:57:26.009+0000] {logging_mixin.py:117} INFO - +---+----------+---------+----------+-------------------+--------+
+| Id|First_name|Last_name|    Amount|          timestamp|Store_id|
++---+----------+---------+----------+-------------------+--------+
+|341|   Heather|   Nelson|     $9.60|2022-10-18T13:11:46|       3|
+|714|    Thomas| Hamilton|     $4.20|2022-10-17T18:47:47|      12|
+|311|     Kevin|     Barr|$97,151.30|2022-10-18T17:04:03|       4|
+|275|   Maureen|    Brown|$10,601.00|2022-10-18T07:35:37|      15|
+|660|      Mark|     Wade| $9,920.84|2022-10-19T09:14:17|      12|
+|692|  Brittany|Velazquez| $1,072.52|2022-10-18T13:56:56|      16|
+|468|   Heather|    Villa|    $30.05|2022-10-19T08:58:12|      20|
+|685|      Dawn|    Smith|$34,941.97|2022-10-18T14:23:36|      19|
+|575|    Shelby|    Reyes|     $6.52|2022-10-18T13:10:33|       4|
+|129|     Laura|    Bowen|     $9.69|2022-10-18T09:28:54|       6|
++---+----------+---------+----------+-------------------+--------+
+only showing top 10 rows
+[2022-10-24T14:57:27.632+0000] {pyspark_scripts.py:76} INFO - Normalized dataframe saved into .parquet format into /opt/***/dags/storage/parquet_temp
+[2022-10-24T14:57:27.634+0000] {pyspark_scripts.py:18} INFO - Closing spark session...
+[2022-10-24T14:57:28.099+0000] {pyspark_scripts.py:21} INFO - Spark session succesfully closed
+[2022-10-24T14:57:28.102+0000] {pyspark_scripts.py:79} INFO - Spark session and context status: Closed
+[2022-10-24T14:57:28.107+0000] {pyspark_scripts.py:80} INFO - Parquet Dataframe succesfully loaded and normalized headers.
+[2022-10-24T14:57:28.108+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T14:57:28.147+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=pyspark_jobs, task_id=load_and_normalize_parquet, execution_date=20221023T003325, start_date=20221024T145643, end_date=20221024T145728
+[2022-10-24T14:57:28.297+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T14:57:28.416+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

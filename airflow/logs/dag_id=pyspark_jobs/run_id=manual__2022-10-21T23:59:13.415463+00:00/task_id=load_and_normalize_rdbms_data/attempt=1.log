@@ -1,0 +1,31 @@
+[2022-10-22T00:01:30.151+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_rdbms_data manual__2022-10-21T23:59:13.415463+00:00 [queued]>
+[2022-10-22T00:01:30.200+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_rdbms_data manual__2022-10-21T23:59:13.415463+00:00 [queued]>
+[2022-10-22T00:01:30.201+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-22T00:01:30.203+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-22T00:01:30.204+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-22T00:01:30.316+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_normalize_rdbms_data> on 2022-10-21 23:59:13.415463+00:00
+[2022-10-22T00:01:30.338+0000] {standard_task_runner.py:54} INFO - Started process 19539 to run task
+[2022-10-22T00:01:30.378+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_and_normalize_rdbms_data', 'manual__2022-10-21T23:59:13.415463+00:00', '--job-id', '498', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmp4aj226d8']
+[2022-10-22T00:01:30.388+0000] {standard_task_runner.py:83} INFO - Job 498: Subtask load_and_normalize_rdbms_data
+[2022-10-22T00:01:30.402+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/pyspark_jobs.py
+[2022-10-22T00:01:31.347+0000] {task_command.py:384} INFO - Running <TaskInstance: pyspark_jobs.load_and_normalize_rdbms_data manual__2022-10-21T23:59:13.415463+00:00 [running]> on host c94e224fed05
+[2022-10-22T00:01:31.640+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_and_normalize_rdbms_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-21T23:59:13.415463+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-21T23:59:13.415463+00:00
+[2022-10-22T00:01:53.730+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.7/site-packages/pyspark/sql/context.py:114: FutureWarning: Deprecated in 3.0.0. Use SparkSession.builder.getOrCreate() instead.
+  FutureWarning,
+
+[2022-10-22T00:01:53.782+0000] {pyspark_scripts.py:90} INFO - Pass
+[2022-10-22T00:01:53.783+0000] {pyspark_scripts.py:18} INFO - Closing spark session...
+[2022-10-22T00:01:54.103+0000] {pyspark_scripts.py:21} INFO - Spark session succesfully closed
+[2022-10-22T00:01:54.105+0000] {pyspark_scripts.py:92} INFO - Spark session and context status: True
+[2022-10-22T00:01:54.107+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-22T00:01:54.146+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=pyspark_jobs, task_id=load_and_normalize_rdbms_data, execution_date=20221021T235913, start_date=20221022T000130, end_date=20221022T000154
+[2022-10-22T00:01:54.262+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-22T00:01:54.364+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

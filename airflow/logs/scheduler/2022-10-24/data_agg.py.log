@@ -1,0 +1,60 @@
+[2022-10-24T23:06:05.917+0000] {processor.py:156} INFO - Started process (PID=352) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:06:05.929+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:06:05.942+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:05.940+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:06:06.011+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:06:07.332+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.331+0000] {manager.py:507} INFO - Created Permission View: can delete on DAG:enriched_data_aggregations
+[2022-10-24T23:06:07.378+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.378+0000] {manager.py:507} INFO - Created Permission View: can read on DAG:enriched_data_aggregations
+[2022-10-24T23:06:07.412+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.412+0000] {manager.py:507} INFO - Created Permission View: can edit on DAG:enriched_data_aggregations
+[2022-10-24T23:06:07.414+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.414+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:06:07.458+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.458+0000] {dag.py:2594} INFO - Creating ORM DAG for enriched_data_aggregations
+[2022-10-24T23:06:07.488+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:06:07.487+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:06:05.967235+00:00, run_after=2022-10-25T23:06:05.967235+00:00
+[2022-10-24T23:06:07.546+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 1.641 seconds
+[2022-10-24T23:38:20.498+0000] {processor.py:156} INFO - Started process (PID=397) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:38:20.504+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:38:20.508+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:38:20.508+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:38:20.586+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:38:20.721+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:38:20.721+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:38:20.768+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:38:20.768+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:38:20.543128+00:00, run_after=2022-10-25T23:38:20.543128+00:00
+[2022-10-24T23:38:20.815+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.328 seconds
+[2022-10-24T23:39:09.745+0000] {processor.py:156} INFO - Started process (PID=916) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:09.749+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:39:09.752+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:09.752+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:09.811+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:10.081+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:10.081+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:39:10.186+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:10.186+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:39:09.784159+00:00, run_after=2022-10-25T23:39:09.784159+00:00
+[2022-10-24T23:39:10.293+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.560 seconds
+[2022-10-24T23:39:51.135+0000] {processor.py:156} INFO - Started process (PID=1348) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:51.140+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:39:51.145+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:51.144+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:51.191+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:39:51.365+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:51.364+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:39:51.432+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:39:51.432+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:39:51.167749+00:00, run_after=2022-10-25T23:39:51.167749+00:00
+[2022-10-24T23:39:51.484+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.359 seconds
+[2022-10-24T23:40:23.935+0000] {processor.py:156} INFO - Started process (PID=1706) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:40:23.938+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:40:23.940+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:40:23.940+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:40:23.993+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:40:24.174+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:40:24.173+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:40:24.227+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:40:24.226+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:40:23.962592+00:00, run_after=2022-10-25T23:40:23.962592+00:00
+[2022-10-24T23:40:24.283+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.363 seconds
+[2022-10-24T23:41:00.291+0000] {processor.py:156} INFO - Started process (PID=2086) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:00.294+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:41:00.299+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:00.298+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:00.372+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:00.552+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:00.552+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:41:00.654+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:00.653+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:41:00.328645+00:00, run_after=2022-10-25T23:41:00.328645+00:00
+[2022-10-24T23:41:00.722+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.464 seconds
+[2022-10-24T23:41:31.045+0000] {processor.py:156} INFO - Started process (PID=2277) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:31.053+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:41:31.059+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:31.058+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:31.126+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:41:31.320+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:31.320+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:41:31.407+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:41:31.407+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:41:31.087803+00:00, run_after=2022-10-25T23:41:31.087803+00:00
+[2022-10-24T23:41:31.466+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.439 seconds
+[2022-10-24T23:42:24.149+0000] {processor.py:156} INFO - Started process (PID=2805) to work on /opt/airflow/dags/data_agg.py
+[2022-10-24T23:42:24.160+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/data_agg.py for tasks to queue
+[2022-10-24T23:42:24.165+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:42:24.164+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:42:24.237+0000] {processor.py:768} INFO - DAG(s) dict_keys(['enriched_data_aggregations']) retrieved from /opt/airflow/dags/data_agg.py
+[2022-10-24T23:42:24.507+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:42:24.507+0000] {dag.py:2573} INFO - Sync 1 DAGs
+[2022-10-24T23:42:24.584+0000] {logging_mixin.py:117} INFO - [2022-10-24T23:42:24.584+0000] {dag.py:3328} INFO - Setting next_dagrun for enriched_data_aggregations to 2022-10-24T23:42:24.196944+00:00, run_after=2022-10-25T23:42:24.196944+00:00
+[2022-10-24T23:42:24.666+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/data_agg.py took 0.531 seconds

@@ -1,0 +1,41 @@
+[2022-10-24T17:29:08.251+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T17:29:05.054435+00:00 [queued]>
+[2022-10-24T17:29:08.322+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T17:29:05.054435+00:00 [queued]>
+[2022-10-24T17:29:08.379+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T17:29:08.389+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T17:29:08.393+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T17:29:08.507+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_unify_data> on 2022-10-24 17:29:05.054435+00:00
+[2022-10-24T17:29:08.565+0000] {standard_task_runner.py:54} INFO - Started process 88702 to run task
+[2022-10-24T17:29:08.597+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_unify_data', 'manual__2022-10-24T17:29:05.054435+00:00', '--job-id', '527', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmp4p7_jpu5']
+[2022-10-24T17:29:08.605+0000] {standard_task_runner.py:83} INFO - Job 527: Subtask load_and_unify_data
+[2022-10-24T17:29:08.616+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T17:29:09.857+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T17:29:05.054435+00:00 [running]> on host c94e224fed05
+[2022-10-24T17:29:10.718+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_unify_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T17:29:05.054435+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T17:29:05.054435+00:00
+[2022-10-24T17:30:05.352+0000] {logging_mixin.py:117} INFO - root
+ |-- id: long (nullable = true)
+ |-- type: long (nullable = true)
+ |-- store_id: long (nullable = true)
+ |-- amount: string (nullable = true)
+ |-- customer_first_name: string (nullable = true)
+ |-- customer_last_name: string (nullable = true)
+ |-- timestamp: string (nullable = true)
+[2022-10-24T17:30:05.360+0000] {logging_mixin.py:117} INFO - root
+ |-- id: integer (nullable = true)
+ |-- customer_id: integer (nullable = true)
+ |-- amount: string (nullable = true)
+ |-- customer_first_name: string (nullable = true)
+ |-- customer_last_name: string (nullable = true)
+ |-- phone_number: string (nullable = true)
+ |-- address: string (nullable = true)
+ |-- timestamp: string (nullable = true)
+[2022-10-24T17:30:05.361+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T17:30:05.432+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_datasets, task_id=load_and_unify_data, execution_date=20221024T172905, start_date=20221024T172908, end_date=20221024T173005
+[2022-10-24T17:30:05.602+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T17:30:05.677+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

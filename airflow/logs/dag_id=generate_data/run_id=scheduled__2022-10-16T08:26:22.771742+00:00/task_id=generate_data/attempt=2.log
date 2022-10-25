@@ -1,0 +1,52 @@
+[2022-10-16 08:37:23,461] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data scheduled__2022-10-16T08:26:22.771742+00:00 [queued]>
+[2022-10-16 08:37:23,804] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data scheduled__2022-10-16T08:26:22.771742+00:00 [queued]>
+[2022-10-16 08:37:23,821] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-16 08:37:23,835] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-10-16 08:37:23,864] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-16 08:37:24,756] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): generate_data> on 2022-10-16 08:26:22.771742+00:00
+[2022-10-16 08:37:25,131] {standard_task_runner.py:52} INFO - Started process 32523 to run task
+[2022-10-16 08:37:25,283] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'generate_data', 'scheduled__2022-10-16T08:26:22.771742+00:00', '--job-id', '286', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmpv6lf9voc', '--error-file', '/tmp/tmpa5t44knk']
+[2022-10-16 08:37:25,304] {standard_task_runner.py:80} INFO - Job 286: Subtask generate_data
+[2022-10-16 08:37:28,485] {task_command.py:371} INFO - Running <TaskInstance: generate_data.generate_data scheduled__2022-10-16T08:26:22.771742+00:00 [running]> on host 614e96fbdf07
+[2022-10-16 08:37:30,980] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=generate_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-16T08:26:22.771742+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-10-16T08:26:22.771742+00:00
+[2022-10-16 08:37:31,099] {db_conn.py:23} INFO - Connection to database success
+[2022-10-16 08:37:31,563] {insertion_factory.py:41} CRITICAL - <class 'RecursionError'>
+[2022-10-16 08:37:31,575] {insertion_factory.py:42} CRITICAL - maximum recursion depth exceeded while calling a Python object
+[2022-10-16 08:37:31,620] {insertion_factory.py:43} CRITICAL - Insertion into database failed, check params.
+[2022-10-16 08:37:31,656] {logging_mixin.py:115} INFO - Generating jsonline: 1
+[2022-10-16 08:37:32,331] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/insertion_orchestration.py", line 34, in gen_data
+    jf.generate_jsonlines(n_lines=insertions, days= days)
+  File "/opt/airflow/dags/json_factory.py", line 22, in generate_jsonlines
+    id = ID.get_id(dict_ids = ids)
+  File "/opt/airflow/dags/id_loader.py", line 35, in get_id
+    return get_id(dict_ids)
+  File "/opt/airflow/dags/id_loader.py", line 35, in get_id
+    return get_id(dict_ids)
+  File "/opt/airflow/dags/id_loader.py", line 35, in get_id
+    return get_id(dict_ids)
+  [Previous line repeated 929 more times]
+  File "/opt/airflow/dags/id_loader.py", line 29, in get_id
+    key, value = random.choice(list(dict_ids.items()))
+  File "/usr/local/lib/python3.7/random.py", line 259, in choice
+    i = self._randbelow(len(seq))
+  File "/usr/local/lib/python3.7/random.py", line 232, in _randbelow
+    if type(random) is BuiltinMethod or type(getrandbits) is Method:
+RecursionError: maximum recursion depth exceeded while calling a Python object
+[2022-10-16 08:37:32,603] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=generate_data, task_id=generate_data, execution_date=20221016T082622, start_date=20221016T083723, end_date=20221016T083732
+[2022-10-16 08:37:32,959] {standard_task_runner.py:97} ERROR - Failed to execute job 286 for task generate_data (maximum recursion depth exceeded while calling a Python object; 32523)
+[2022-10-16 08:37:33,533] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-10-16 08:37:33,915] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

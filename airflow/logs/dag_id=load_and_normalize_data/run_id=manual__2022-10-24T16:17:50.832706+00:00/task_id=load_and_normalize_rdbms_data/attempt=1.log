@@ -1,0 +1,45 @@
+[2022-10-24T16:20:34.041+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data.load_and_normalize_rdbms_data manual__2022-10-24T16:17:50.832706+00:00 [queued]>
+[2022-10-24T16:20:34.123+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data.load_and_normalize_rdbms_data manual__2022-10-24T16:17:50.832706+00:00 [queued]>
+[2022-10-24T16:20:34.126+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T16:20:34.128+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T16:20:34.131+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T16:20:34.239+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_normalize_rdbms_data> on 2022-10-24 16:17:50.832706+00:00
+[2022-10-24T16:20:34.296+0000] {standard_task_runner.py:54} INFO - Started process 70196 to run task
+[2022-10-24T16:20:34.354+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'load_and_normalize_data', 'load_and_normalize_rdbms_data', 'manual__2022-10-24T16:17:50.832706+00:00', '--job-id', '509', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpiziuqam6']
+[2022-10-24T16:20:34.365+0000] {standard_task_runner.py:83} INFO - Job 509: Subtask load_and_normalize_rdbms_data
+[2022-10-24T16:20:34.376+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/pyspark_jobs.py
+[2022-10-24T16:20:35.250+0000] {task_command.py:384} INFO - Running <TaskInstance: load_and_normalize_data.load_and_normalize_rdbms_data manual__2022-10-24T16:17:50.832706+00:00 [running]> on host c94e224fed05
+[2022-10-24T16:20:35.568+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=load_and_normalize_data
+AIRFLOW_CTX_TASK_ID=load_and_normalize_rdbms_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T16:17:50.832706+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T16:17:50.832706+00:00
+[2022-10-24T16:21:01.235+0000] {warnings.py:110} WARNING - /home/***/.local/lib/python3.7/site-packages/pyspark/sql/context.py:114: FutureWarning: Deprecated in 3.0.0. Use SparkSession.builder.getOrCreate() instead.
+  FutureWarning,
+
+[2022-10-24T16:21:22.771+0000] {logging_mixin.py:117} INFO - +---+-----------+---------+------------+-----------------+
+| id| first_name|last_name|phone_number|          address|
++---+-----------+---------+------------+-----------------+
+|165|      Megan|    Ochoa|  0336459768|New Marthaborough|
+|188|    Kristin|  Griffin|  3918253736|       Grahamstad|
+|835|Christopher| Peterson|  3192230540|New Marthaborough|
+|882|      Andre|    Boone|  0236707335|       Grahamstad|
+|578|      Bryan|   Taylor|  7521050855|       Averymouth|
+|433|   Jennifer|   Martin|  4328381563|        Erikville|
+|529|       Eric|   Little|  8389414916|        Smithberg|
+|204|    William| Crawford|  1625265089|      Veronicaton|
+|369|      Molly|    White|  2674560536|Port Benjaminfurt|
+|295|      Bobby|     Mora|  0838178468|        Erikville|
++---+-----------+---------+------------+-----------------+
+only showing top 10 rows
+[2022-10-24T16:21:22.782+0000] {pyspark_scripts.py:18} INFO - Closing spark session...
+[2022-10-24T16:21:24.541+0000] {pyspark_scripts.py:21} INFO - Spark session succesfully closed
+[2022-10-24T16:21:24.545+0000] {pyspark_scripts.py:108} INFO - Spark session and context status: Closed
+[2022-10-24T16:21:24.549+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T16:21:24.659+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=load_and_normalize_data, task_id=load_and_normalize_rdbms_data, execution_date=20221024T161750, start_date=20221024T162034, end_date=20221024T162124
+[2022-10-24T16:21:24.980+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T16:21:25.455+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

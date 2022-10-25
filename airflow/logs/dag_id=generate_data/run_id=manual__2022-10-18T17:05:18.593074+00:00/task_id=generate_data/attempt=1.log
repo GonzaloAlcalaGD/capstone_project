@@ -1,0 +1,235 @@
+[2022-10-18 17:05:22,590] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data manual__2022-10-18T17:05:18.593074+00:00 [queued]>
+[2022-10-18 17:05:22,609] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: generate_data.generate_data manual__2022-10-18T17:05:18.593074+00:00 [queued]>
+[2022-10-18 17:05:22,610] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-18 17:05:22,612] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-10-18 17:05:22,613] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-18 17:05:22,637] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): generate_data> on 2022-10-18 17:05:18.593074+00:00
+[2022-10-18 17:05:22,645] {standard_task_runner.py:52} INFO - Started process 27326 to run task
+[2022-10-18 17:05:22,649] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'generate_data', 'generate_data', 'manual__2022-10-18T17:05:18.593074+00:00', '--job-id', '442', '--raw', '--subdir', 'DAGS_FOLDER/generate_data.py', '--cfg-path', '/tmp/tmpxncp30jm', '--error-file', '/tmp/tmp87qoo1b_']
+[2022-10-18 17:05:22,652] {standard_task_runner.py:80} INFO - Job 442: Subtask generate_data
+[2022-10-18 17:05:22,741] {task_command.py:371} INFO - Running <TaskInstance: generate_data.generate_data manual__2022-10-18T17:05:18.593074+00:00 [running]> on host c176cd979f84
+[2022-10-18 17:05:22,906] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=generate_data
+AIRFLOW_CTX_TASK_ID=generate_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-18T17:05:18.593074+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-18T17:05:18.593074+00:00
+[2022-10-18 17:05:22,918] {db_conn.py:28} CRITICAL - connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+connection to server at "localhost" (::1), port 5432 failed: Cannot assign requested address
+	Is the server running on that host and accepting TCP/IP connections?
+
+[2022-10-18 17:05:22,919] {db_conn.py:29} CRITICAL - Connection to database failed
+[2022-10-18 17:05:22,929] {db_conn.py:36} INFO - Working on customer #1 with data: 622, Brian, Hebert, 1089075099, Port Benjaminfurt
+[2022-10-18 17:05:22,929] {db_conn.py:37} INFO - Working on transaction #1 with data: 622, 111, 2022-10-16T01:21:05, $694.94
+[2022-10-18 17:05:22,930] {insertion_factory.py:41} CRITICAL - <class 'AttributeError'>
+[2022-10-18 17:05:22,931] {insertion_factory.py:42} CRITICAL - 'Factory' object has no attribute 'cursor'
+[2022-10-18 17:05:22,932] {insertion_factory.py:43} CRITICAL - Insertion into database failed, check params.
+[2022-10-18 17:05:22,937] {logging_mixin.py:115} INFO - Generating jsonline: 1
+[2022-10-18 17:05:22,942] {logging_mixin.py:115} INFO - Generating jsonline: 2
+[2022-10-18 17:05:22,947] {logging_mixin.py:115} INFO - Generating jsonline: 3
+[2022-10-18 17:05:22,952] {logging_mixin.py:115} INFO - Generating jsonline: 4
+[2022-10-18 17:05:22,958] {logging_mixin.py:115} INFO - Generating jsonline: 5
+[2022-10-18 17:05:22,966] {logging_mixin.py:115} INFO - Generating jsonline: 6
+[2022-10-18 17:05:22,971] {logging_mixin.py:115} INFO - Generating jsonline: 7
+[2022-10-18 17:05:22,976] {logging_mixin.py:115} INFO - Generating jsonline: 8
+[2022-10-18 17:05:22,982] {logging_mixin.py:115} INFO - Generating jsonline: 9
+[2022-10-18 17:05:22,986] {logging_mixin.py:115} INFO - Generating jsonline: 10
+[2022-10-18 17:05:22,992] {logging_mixin.py:115} INFO - Generating jsonline: 11
+[2022-10-18 17:05:22,996] {logging_mixin.py:115} INFO - Generating jsonline: 12
+[2022-10-18 17:05:23,001] {logging_mixin.py:115} INFO - Generating jsonline: 13
+[2022-10-18 17:05:23,006] {logging_mixin.py:115} INFO - Generating jsonline: 14
+[2022-10-18 17:05:23,012] {logging_mixin.py:115} INFO - Generating jsonline: 15
+[2022-10-18 17:05:23,018] {logging_mixin.py:115} INFO - Generating jsonline: 16
+[2022-10-18 17:05:23,028] {logging_mixin.py:115} INFO - Generating jsonline: 17
+[2022-10-18 17:05:23,039] {logging_mixin.py:115} INFO - Generating jsonline: 18
+[2022-10-18 17:05:23,046] {logging_mixin.py:115} INFO - Generating jsonline: 19
+[2022-10-18 17:05:23,051] {logging_mixin.py:115} INFO - Generating jsonline: 20
+[2022-10-18 17:05:23,055] {logging_mixin.py:115} INFO - Generating jsonline: 21
+[2022-10-18 17:05:23,062] {logging_mixin.py:115} INFO - Generating jsonline: 22
+[2022-10-18 17:05:23,072] {logging_mixin.py:115} INFO - Generating jsonline: 23
+[2022-10-18 17:05:23,079] {logging_mixin.py:115} INFO - Generating jsonline: 24
+[2022-10-18 17:05:23,083] {logging_mixin.py:115} INFO - Generating jsonline: 25
+[2022-10-18 17:05:23,088] {logging_mixin.py:115} INFO - Generating jsonline: 26
+[2022-10-18 17:05:23,095] {logging_mixin.py:115} INFO - Generating jsonline: 27
+[2022-10-18 17:05:23,101] {logging_mixin.py:115} INFO - Generating jsonline: 28
+[2022-10-18 17:05:23,106] {logging_mixin.py:115} INFO - Generating jsonline: 29
+[2022-10-18 17:05:23,112] {logging_mixin.py:115} INFO - Generating jsonline: 30
+[2022-10-18 17:05:23,121] {logging_mixin.py:115} INFO - Generating jsonline: 31
+[2022-10-18 17:05:23,130] {logging_mixin.py:115} INFO - Generating jsonline: 32
+[2022-10-18 17:05:23,138] {logging_mixin.py:115} INFO - Generating jsonline: 33
+[2022-10-18 17:05:23,144] {logging_mixin.py:115} INFO - Generating jsonline: 34
+[2022-10-18 17:05:23,149] {logging_mixin.py:115} INFO - Generating jsonline: 35
+[2022-10-18 17:05:23,154] {logging_mixin.py:115} INFO - Generating jsonline: 36
+[2022-10-18 17:05:23,161] {logging_mixin.py:115} INFO - Generating jsonline: 37
+[2022-10-18 17:05:23,170] {logging_mixin.py:115} INFO - Generating jsonline: 38
+[2022-10-18 17:05:23,176] {logging_mixin.py:115} INFO - Generating jsonline: 39
+[2022-10-18 17:05:23,182] {logging_mixin.py:115} INFO - Generating jsonline: 40
+[2022-10-18 17:05:23,189] {logging_mixin.py:115} INFO - Generating jsonline: 41
+[2022-10-18 17:05:23,196] {logging_mixin.py:115} INFO - Generating jsonline: 42
+[2022-10-18 17:05:23,201] {logging_mixin.py:115} INFO - Generating jsonline: 43
+[2022-10-18 17:05:23,210] {logging_mixin.py:115} INFO - Generating jsonline: 44
+[2022-10-18 17:05:23,221] {logging_mixin.py:115} INFO - Generating jsonline: 45
+[2022-10-18 17:05:23,230] {logging_mixin.py:115} INFO - Generating jsonline: 46
+[2022-10-18 17:05:23,238] {logging_mixin.py:115} INFO - Generating jsonline: 47
+[2022-10-18 17:05:23,245] {logging_mixin.py:115} INFO - Generating jsonline: 48
+[2022-10-18 17:05:23,251] {logging_mixin.py:115} INFO - Generating jsonline: 49
+[2022-10-18 17:05:23,257] {logging_mixin.py:115} INFO - Generating jsonline: 50
+[2022-10-18 17:05:23,264] {logging_mixin.py:115} INFO - Generating jsonline: 51
+[2022-10-18 17:05:23,271] {logging_mixin.py:115} INFO - Generating jsonline: 52
+[2022-10-18 17:05:23,279] {logging_mixin.py:115} INFO - Generating jsonline: 53
+[2022-10-18 17:05:23,285] {logging_mixin.py:115} INFO - Generating jsonline: 54
+[2022-10-18 17:05:23,291] {logging_mixin.py:115} INFO - Generating jsonline: 55
+[2022-10-18 17:05:23,297] {logging_mixin.py:115} INFO - Generating jsonline: 56
+[2022-10-18 17:05:23,320] {logging_mixin.py:115} INFO - Generating jsonline: 57
+[2022-10-18 17:05:23,325] {logging_mixin.py:115} INFO - Generating jsonline: 58
+[2022-10-18 17:05:23,335] {logging_mixin.py:115} INFO - Generating jsonline: 59
+[2022-10-18 17:05:23,341] {logging_mixin.py:115} INFO - Generating jsonline: 60
+[2022-10-18 17:05:23,349] {logging_mixin.py:115} INFO - Generating jsonline: 61
+[2022-10-18 17:05:23,356] {logging_mixin.py:115} INFO - Generating jsonline: 62
+[2022-10-18 17:05:23,362] {logging_mixin.py:115} INFO - Generating jsonline: 63
+[2022-10-18 17:05:23,369] {logging_mixin.py:115} INFO - Generating jsonline: 64
+[2022-10-18 17:05:23,375] {logging_mixin.py:115} INFO - Generating jsonline: 65
+[2022-10-18 17:05:23,383] {logging_mixin.py:115} INFO - Generating jsonline: 66
+[2022-10-18 17:05:23,389] {logging_mixin.py:115} INFO - Generating jsonline: 67
+[2022-10-18 17:05:23,399] {logging_mixin.py:115} INFO - Generating jsonline: 68
+[2022-10-18 17:05:23,413] {logging_mixin.py:115} INFO - Generating jsonline: 69
+[2022-10-18 17:05:23,418] {logging_mixin.py:115} INFO - Generating jsonline: 70
+[2022-10-18 17:05:23,427] {logging_mixin.py:115} INFO - Generating jsonline: 71
+[2022-10-18 17:05:23,434] {logging_mixin.py:115} INFO - Generating jsonline: 72
+[2022-10-18 17:05:23,440] {logging_mixin.py:115} INFO - Generating jsonline: 73
+[2022-10-18 17:05:23,445] {logging_mixin.py:115} INFO - Generating jsonline: 74
+[2022-10-18 17:05:23,452] {logging_mixin.py:115} INFO - Generating jsonline: 75
+[2022-10-18 17:05:23,458] {logging_mixin.py:115} INFO - Generating jsonline: 76
+[2022-10-18 17:05:23,467] {logging_mixin.py:115} INFO - Generating jsonline: 77
+[2022-10-18 17:05:23,473] {logging_mixin.py:115} INFO - Generating jsonline: 78
+[2022-10-18 17:05:23,480] {logging_mixin.py:115} INFO - Generating jsonline: 79
+[2022-10-18 17:05:23,487] {logging_mixin.py:115} INFO - Generating jsonline: 80
+[2022-10-18 17:05:23,493] {logging_mixin.py:115} INFO - Generating jsonline: 81
+[2022-10-18 17:05:23,514] {logging_mixin.py:115} INFO - Generating jsonline: 82
+[2022-10-18 17:05:23,518] {logging_mixin.py:115} INFO - Generating jsonline: 83
+[2022-10-18 17:05:23,526] {logging_mixin.py:115} INFO - Generating jsonline: 84
+[2022-10-18 17:05:23,555] {logging_mixin.py:115} INFO - Generating jsonline: 85
+[2022-10-18 17:05:23,575] {logging_mixin.py:115} INFO - Generating jsonline: 86
+[2022-10-18 17:05:23,597] {logging_mixin.py:115} INFO - Generating jsonline: 87
+[2022-10-18 17:05:23,608] {logging_mixin.py:115} INFO - Generating jsonline: 88
+[2022-10-18 17:05:23,618] {logging_mixin.py:115} INFO - Generating jsonline: 89
+[2022-10-18 17:05:23,625] {logging_mixin.py:115} INFO - Generating jsonline: 90
+[2022-10-18 17:05:23,632] {logging_mixin.py:115} INFO - Generating jsonline: 91
+[2022-10-18 17:05:23,649] {logging_mixin.py:115} INFO - Generating jsonline: 92
+[2022-10-18 17:05:23,656] {logging_mixin.py:115} INFO - Generating jsonline: 93
+[2022-10-18 17:05:23,661] {logging_mixin.py:115} INFO - Generating jsonline: 94
+[2022-10-18 17:05:23,667] {logging_mixin.py:115} INFO - Generating jsonline: 95
+[2022-10-18 17:05:23,673] {logging_mixin.py:115} INFO - Generating jsonline: 96
+[2022-10-18 17:05:23,679] {logging_mixin.py:115} INFO - Generating jsonline: 97
+[2022-10-18 17:05:23,690] {logging_mixin.py:115} INFO - Generating jsonline: 98
+[2022-10-18 17:05:23,714] {logging_mixin.py:115} INFO - Generating jsonline: 99
+[2022-10-18 17:05:23,729] {logging_mixin.py:115} INFO - Generating jsonline: 100
+[2022-10-18 17:05:23,781] {logging_mixin.py:115} INFO - Generating record 1
+[2022-10-18 17:05:23,786] {logging_mixin.py:115} INFO - Generating record 2
+[2022-10-18 17:05:23,795] {logging_mixin.py:115} INFO - Generating record 3
+[2022-10-18 17:05:23,803] {logging_mixin.py:115} INFO - Generating record 4
+[2022-10-18 17:05:23,814] {logging_mixin.py:115} INFO - Generating record 5
+[2022-10-18 17:05:23,821] {logging_mixin.py:115} INFO - Generating record 6
+[2022-10-18 17:05:23,829] {logging_mixin.py:115} INFO - Generating record 7
+[2022-10-18 17:05:23,838] {logging_mixin.py:115} INFO - Generating record 8
+[2022-10-18 17:05:23,853] {logging_mixin.py:115} INFO - Generating record 9
+[2022-10-18 17:05:23,863] {logging_mixin.py:115} INFO - Generating record 10
+[2022-10-18 17:05:23,870] {logging_mixin.py:115} INFO - Generating record 11
+[2022-10-18 17:05:23,879] {logging_mixin.py:115} INFO - Generating record 12
+[2022-10-18 17:05:23,886] {logging_mixin.py:115} INFO - Generating record 13
+[2022-10-18 17:05:23,896] {logging_mixin.py:115} INFO - Generating record 14
+[2022-10-18 17:05:23,904] {logging_mixin.py:115} INFO - Generating record 15
+[2022-10-18 17:05:23,924] {logging_mixin.py:115} INFO - Generating record 16
+[2022-10-18 17:05:23,947] {logging_mixin.py:115} INFO - Generating record 17
+[2022-10-18 17:05:23,963] {logging_mixin.py:115} INFO - Generating record 18
+[2022-10-18 17:05:23,986] {logging_mixin.py:115} INFO - Generating record 19
+[2022-10-18 17:05:23,999] {logging_mixin.py:115} INFO - Generating record 20
+[2022-10-18 17:05:24,006] {logging_mixin.py:115} INFO - Generating record 21
+[2022-10-18 17:05:24,016] {logging_mixin.py:115} INFO - Generating record 22
+[2022-10-18 17:05:24,022] {logging_mixin.py:115} INFO - Generating record 23
+[2022-10-18 17:05:24,034] {logging_mixin.py:115} INFO - Generating record 24
+[2022-10-18 17:05:24,043] {logging_mixin.py:115} INFO - Generating record 25
+[2022-10-18 17:05:24,050] {logging_mixin.py:115} INFO - Generating record 26
+[2022-10-18 17:05:24,056] {logging_mixin.py:115} INFO - Generating record 27
+[2022-10-18 17:05:24,064] {logging_mixin.py:115} INFO - Generating record 28
+[2022-10-18 17:05:24,073] {logging_mixin.py:115} INFO - Generating record 29
+[2022-10-18 17:05:24,081] {logging_mixin.py:115} INFO - Generating record 30
+[2022-10-18 17:05:24,091] {logging_mixin.py:115} INFO - Generating record 31
+[2022-10-18 17:05:24,097] {logging_mixin.py:115} INFO - Generating record 32
+[2022-10-18 17:05:24,104] {logging_mixin.py:115} INFO - Generating record 33
+[2022-10-18 17:05:24,113] {logging_mixin.py:115} INFO - Generating record 34
+[2022-10-18 17:05:24,120] {logging_mixin.py:115} INFO - Generating record 35
+[2022-10-18 17:05:24,129] {logging_mixin.py:115} INFO - Generating record 36
+[2022-10-18 17:05:24,137] {logging_mixin.py:115} INFO - Generating record 37
+[2022-10-18 17:05:24,146] {logging_mixin.py:115} INFO - Generating record 38
+[2022-10-18 17:05:24,156] {logging_mixin.py:115} INFO - Generating record 39
+[2022-10-18 17:05:24,163] {logging_mixin.py:115} INFO - Generating record 40
+[2022-10-18 17:05:24,169] {logging_mixin.py:115} INFO - Generating record 41
+[2022-10-18 17:05:24,174] {logging_mixin.py:115} INFO - Generating record 42
+[2022-10-18 17:05:24,180] {logging_mixin.py:115} INFO - Generating record 43
+[2022-10-18 17:05:24,186] {logging_mixin.py:115} INFO - Generating record 44
+[2022-10-18 17:05:24,192] {logging_mixin.py:115} INFO - Generating record 45
+[2022-10-18 17:05:24,198] {logging_mixin.py:115} INFO - Generating record 46
+[2022-10-18 17:05:24,203] {logging_mixin.py:115} INFO - Generating record 47
+[2022-10-18 17:05:24,210] {logging_mixin.py:115} INFO - Generating record 48
+[2022-10-18 17:05:24,216] {logging_mixin.py:115} INFO - Generating record 49
+[2022-10-18 17:05:24,222] {logging_mixin.py:115} INFO - Generating record 50
+[2022-10-18 17:05:24,229] {logging_mixin.py:115} INFO - Generating record 51
+[2022-10-18 17:05:24,237] {logging_mixin.py:115} INFO - Generating record 52
+[2022-10-18 17:05:24,244] {logging_mixin.py:115} INFO - Generating record 53
+[2022-10-18 17:05:24,269] {logging_mixin.py:115} INFO - Generating record 54
+[2022-10-18 17:05:24,282] {logging_mixin.py:115} INFO - Generating record 55
+[2022-10-18 17:05:24,292] {logging_mixin.py:115} INFO - Generating record 56
+[2022-10-18 17:05:24,298] {logging_mixin.py:115} INFO - Generating record 57
+[2022-10-18 17:05:24,305] {logging_mixin.py:115} INFO - Generating record 58
+[2022-10-18 17:05:24,312] {logging_mixin.py:115} INFO - Generating record 59
+[2022-10-18 17:05:24,320] {logging_mixin.py:115} INFO - Generating record 60
+[2022-10-18 17:05:24,335] {logging_mixin.py:115} INFO - Generating record 61
+[2022-10-18 17:05:24,345] {logging_mixin.py:115} INFO - Generating record 62
+[2022-10-18 17:05:24,354] {logging_mixin.py:115} INFO - Generating record 63
+[2022-10-18 17:05:24,362] {logging_mixin.py:115} INFO - Generating record 64
+[2022-10-18 17:05:24,372] {logging_mixin.py:115} INFO - Generating record 65
+[2022-10-18 17:05:24,379] {logging_mixin.py:115} INFO - Generating record 66
+[2022-10-18 17:05:24,388] {logging_mixin.py:115} INFO - Generating record 67
+[2022-10-18 17:05:24,409] {logging_mixin.py:115} INFO - Generating record 68
+[2022-10-18 17:05:24,423] {logging_mixin.py:115} INFO - Generating record 69
+[2022-10-18 17:05:24,435] {logging_mixin.py:115} INFO - Generating record 70
+[2022-10-18 17:05:24,445] {logging_mixin.py:115} INFO - Generating record 71
+[2022-10-18 17:05:24,453] {logging_mixin.py:115} INFO - Generating record 72
+[2022-10-18 17:05:24,476] {logging_mixin.py:115} INFO - Generating record 73
+[2022-10-18 17:05:24,484] {logging_mixin.py:115} INFO - Generating record 74
+[2022-10-18 17:05:24,490] {logging_mixin.py:115} INFO - Generating record 75
+[2022-10-18 17:05:24,500] {logging_mixin.py:115} INFO - Generating record 76
+[2022-10-18 17:05:24,517] {logging_mixin.py:115} INFO - Generating record 77
+[2022-10-18 17:05:24,536] {logging_mixin.py:115} INFO - Generating record 78
+[2022-10-18 17:05:24,549] {logging_mixin.py:115} INFO - Generating record 79
+[2022-10-18 17:05:24,556] {logging_mixin.py:115} INFO - Generating record 80
+[2022-10-18 17:05:24,567] {logging_mixin.py:115} INFO - Generating record 81
+[2022-10-18 17:05:24,582] {logging_mixin.py:115} INFO - Generating record 82
+[2022-10-18 17:05:24,595] {logging_mixin.py:115} INFO - Generating record 83
+[2022-10-18 17:05:24,603] {logging_mixin.py:115} INFO - Generating record 84
+[2022-10-18 17:05:24,618] {logging_mixin.py:115} INFO - Generating record 85
+[2022-10-18 17:05:24,627] {logging_mixin.py:115} INFO - Generating record 86
+[2022-10-18 17:05:24,634] {logging_mixin.py:115} INFO - Generating record 87
+[2022-10-18 17:05:24,644] {logging_mixin.py:115} INFO - Generating record 88
+[2022-10-18 17:05:24,650] {logging_mixin.py:115} INFO - Generating record 89
+[2022-10-18 17:05:24,659] {logging_mixin.py:115} INFO - Generating record 90
+[2022-10-18 17:05:24,666] {logging_mixin.py:115} INFO - Generating record 91
+[2022-10-18 17:05:24,677] {logging_mixin.py:115} INFO - Generating record 92
+[2022-10-18 17:05:24,690] {logging_mixin.py:115} INFO - Generating record 93
+[2022-10-18 17:05:24,715] {logging_mixin.py:115} INFO - Generating record 94
+[2022-10-18 17:05:24,728] {logging_mixin.py:115} INFO - Generating record 95
+[2022-10-18 17:05:24,734] {logging_mixin.py:115} INFO - Generating record 96
+[2022-10-18 17:05:24,741] {logging_mixin.py:115} INFO - Generating record 97
+[2022-10-18 17:05:24,761] {logging_mixin.py:115} INFO - Generating record 98
+[2022-10-18 17:05:24,777] {logging_mixin.py:115} INFO - Generating record 99
+[2022-10-18 17:05:24,790] {logging_mixin.py:115} INFO - Generating record 100
+[2022-10-18 17:05:24,803] {logging_mixin.py:115} INFO - Data generated correctly
+[2022-10-18 17:05:25,097] {python.py:173} INFO - Done. Returned value was: None
+[2022-10-18 17:05:25,200] {taskinstance.py:1420} INFO - Marking task as SUCCESS. dag_id=generate_data, task_id=generate_data, execution_date=20221018T170518, start_date=20221018T170522, end_date=20221018T170525
+[2022-10-18 17:05:25,324] {local_task_job.py:156} INFO - Task exited with return code 0
+[2022-10-18 17:05:25,444] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

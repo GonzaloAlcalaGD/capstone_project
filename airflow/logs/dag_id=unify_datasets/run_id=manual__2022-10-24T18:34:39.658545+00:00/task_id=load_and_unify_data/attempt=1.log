@@ -1,0 +1,69 @@
+[2022-10-24T18:34:44.703+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [queued]>
+[2022-10-24T18:34:44.728+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [queued]>
+[2022-10-24T18:34:44.730+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T18:34:44.732+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T18:34:44.734+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T18:34:44.783+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_unify_data> on 2022-10-24 18:34:39.658545+00:00
+[2022-10-24T18:34:44.804+0000] {standard_task_runner.py:54} INFO - Started process 10596 to run task
+[2022-10-24T18:34:44.833+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_unify_data', 'manual__2022-10-24T18:34:39.658545+00:00', '--job-id', '538', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmprzygiw8j']
+[2022-10-24T18:34:44.838+0000] {standard_task_runner.py:83} INFO - Job 538: Subtask load_and_unify_data
+[2022-10-24T18:34:44.842+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T18:34:45.277+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [running]> on host c94e224fed05
+[2022-10-24T18:34:45.755+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_unify_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T18:34:39.658545+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T18:34:39.658545+00:00
+[2022-10-24T18:35:47.514+0000] {logging_mixin.py:117} INFO - +---+-------------------+-------------------+------------------+----------+----+
+| id|          timestamp|customer_first_name|customer_last_name|    amount|type|
++---+-------------------+-------------------+------------------+----------+----+
+|384|2022-10-17T01:14:58|            Anthony|            Dunlap| $7,147.02|   1|
+|567|2022-10-19T16:15:29|              Allen|             Allen| $1,341.19|   1|
+|731|2022-10-17T02:29:08|               Ryan|              Byrd|$15,964.07|   1|
+| 65|2022-10-17T20:14:49|              Kelly|            Torres|     $6.71|   1|
+|388|2022-10-17T06:30:50|            Brandon|            Newton| $4,114.48|   1|
+| 47|2022-10-17T07:01:51|             Sergio|            Wilson|   $488.94|   1|
+|155|2022-10-18T23:56:49|              Sheri|             Glenn|    $80.43|   1|
+|877|2022-10-18T06:02:19|              Caleb|           Montoya| $9,835.32|   0|
+|725|2022-10-17T18:51:21|              Kerry|           Lambert|     $8.79|   1|
+|627|2022-10-17T00:22:14|               Adam|             Smith| $8,362.57|   0|
++---+-------------------+-------------------+------------------+----------+----+
+only showing top 10 rows
+[2022-10-24T18:35:48.386+0000] {logging_mixin.py:117} INFO - +---+-------------------+------------------+----------+-------------------+--------+
+| id|customer_first_name|customer_last_name|    amount|          timestamp|store_id|
++---+-------------------+------------------+----------+-------------------+--------+
+|275|            Maureen|             Brown|$10,601.00|2022-10-18T07:35:37|      15|
+|718|             Taylor|             Clark|   $958.85|2022-10-18T15:18:58|      14|
+|119|              Brian|         Maldonado| $9,524.92|2022-10-19T09:39:28|       6|
+|857|              Emily|             Allen| $8,188.02|2022-10-17T20:26:56|       8|
+|719|               John|            Carter|    $20.40|2022-10-18T14:50:58|       9|
+|239|              Tracy|             Jones|    $47.64|2022-10-19T06:23:10|      10|
+|748|             Daniel|            Walker|$43,226.68|2022-10-17T08:07:10|      12|
+|122|           Michelle|            Meyers|$31,625.00|2022-10-18T06:03:23|      14|
+|108|              Sarah|          Williams|    $84.36|2022-10-18T17:28:33|      18|
+|692|           Brittany|         Velazquez| $1,072.52|2022-10-18T13:56:56|      16|
++---+-------------------+------------------+----------+-------------------+--------+
+only showing top 10 rows
+[2022-10-24T18:35:49.211+0000] {logging_mixin.py:117} INFO - +---+-----------+----------+-------------------+------------------+------------+-----------------+-------------------+
+| id|customer_id|    amount|customer_first_name|customer_last_name|phone_number|          address|          timestamp|
++---+-----------+----------+-------------------+------------------+------------+-----------------+-------------------+
+|570|        574|$75,673.50|           Kristina|              Bell|  0407757614|  Lake Jamesville|2022-10-17T16:55:58|
+|134|        411|   $257.59|             Hector|             Baker|  9795357476|         Clayview|2022-10-18T16:38:55|
+|892|        855|$62,582.27|              Jason|           Fleming|  7034886717|         Lanefurt|2022-10-15T09:06:37|
+|804|        877| $1,532.64|              Kevin|            Horton|  0311159100|       Robertland|2022-10-15T23:51:13|
+| 17|        800|    $14.92|            Caitlin|             Allen|  3341427252|      Melissafurt|2022-10-17T17:05:10|
+|565|        891|   $860.77|              Megan|              Bush|  6757787081|    Port Loriview|2022-10-16T09:14:25|
+|369|        178| $9,061.91|              Molly|             White|  2674560536|Port Benjaminfurt|2022-10-17T16:45:24|
+|256|        786| $2,917.66|            Matthew|             Wells|  8727329276|      Veronicaton|2022-10-15T18:14:29|
+|177|        782|    $53.71|             Krista|          Anderson|  3419056453|     West Nichole|2022-10-15T22:09:36|
+|674|        116|     $5.08|            Francis|            Oliver|  8392065202|      Veronicaton|2022-10-18T09:27:03|
++---+-----------+----------+-------------------+------------------+------------+-----------------+-------------------+
+only showing top 10 rows
+[2022-10-24T18:35:49.215+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T18:35:49.272+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_datasets, task_id=load_and_unify_data, execution_date=20221024T183439, start_date=20221024T183444, end_date=20221024T183549
+[2022-10-24T18:35:49.433+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T18:35:49.569+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

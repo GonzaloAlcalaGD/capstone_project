@@ -1,0 +1,106 @@
+[2022-10-25T02:12:46.335+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:34:43.427609+00:00 [failed]>
+[2022-10-25T02:12:46.385+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:34:43.427609+00:00 [failed]>
+[2022-10-25T02:12:46.388+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T02:12:46.392+0000] {taskinstance.py:1363} INFO - Starting attempt 6 of 2
+[2022-10-25T02:12:46.394+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T02:12:46.445+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_generate_aggregations> on 2022-10-25 01:34:43.427609+00:00
+[2022-10-25T02:12:46.479+0000] {standard_task_runner.py:54} INFO - Started process 14356 to run task
+[2022-10-25T02:12:46.495+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'enriched_data_aggregations', 'load_and_generate_aggregations', 'manual__2022-10-25T01:34:43.427609+00:00', '--job-id', '592', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/data_agg.py', '--cfg-path', '/tmp/tmpqz5b9bb8']
+[2022-10-25T02:12:46.501+0000] {standard_task_runner.py:83} INFO - Job 592: Subtask load_and_generate_aggregations
+[2022-10-25T02:12:46.506+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/data_agg.py
+[2022-10-25T02:12:46.943+0000] {task_command.py:384} INFO - Running <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:34:43.427609+00:00 [running]> on host 0c46e38e1c8e
+[2022-10-25T02:12:47.333+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=enriched_data_aggregations
+AIRFLOW_CTX_TASK_ID=load_and_generate_aggregations
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T01:34:43.427609+00:00
+AIRFLOW_CTX_TRY_NUMBER=6
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T01:34:43.427609+00:00
+[2022-10-25T02:13:28.272+0000] {pyspark_scripts.py:280} INFO - Working in  - Count and sum amount transactions for each type for day, online & offline - 
+[2022-10-25T02:13:38.674+0000] {logging_mixin.py:117} INFO - +----+----------+------------------+------------------+
+|type| timestamp|total_transactions|             total|
++----+----------+------------------+------------------+
+|   1|2022-10-18|                72| 550923.8766937256|
+|   1|2022-10-16|                52| 770093.0860799551|
+|   1|2022-10-17|                86| 1133092.203715682|
+|   1|2022-10-14|                 7| 11244.01019513607|
+|   1|2022-10-19|                36|266427.68115758896|
+|   1|2022-10-15|                43|396290.55984020233|
+|   0|2022-10-15|                27|200340.61073350906|
+|   0|2022-10-19|                38| 514774.3481952846|
+|   0|2022-10-14|                 2|43246.169843673706|
+|   0|2022-10-18|                62| 669039.1448940039|
+|   0|2022-10-17|                64|  577018.139827162|
+|   0|2022-10-16|                45|371993.34034085274|
++----+----------+------------------+------------------+
+[2022-10-25T02:13:38.885+0000] {pyspark_scripts.py:284} INFO - Working in - Count and sum transaction for each store for day -
+[2022-10-25T02:13:41.427+0000] {logging_mixin.py:117} INFO - +--------+----------+-----+------------------+
+|store_id| timestamp|count|             total|
++--------+----------+-----+------------------+
+|       1|2022-10-18|    8|10352.989694237709|
+|       1|2022-10-17|    9|119570.40901470184|
+|       1|2022-10-14|    1|2036.3199462890625|
+|       1|2022-10-16|    4|28318.500908136368|
+|       1|2022-10-19|    5|4569.1801171302795|
+|       1|2022-10-15|    3| 962.9299945831299|
+|       2|2022-10-15|    3|3055.6300048828125|
+|       2|2022-10-18|    7|101182.96770095825|
+|       2|2022-10-17|   11|145505.63321065903|
+|       2|2022-10-16|    3|36578.051067352295|
+|       2|2022-10-14|    1|18.209999084472656|
+|       2|2022-10-19|    5| 71361.62062549591|
+|       3|2022-10-15|    3|57261.348278045654|
+|       3|2022-10-18|    1| 9.600000381469727|
+|       3|2022-10-17|   11| 74678.83226513863|
+|       3|2022-10-19|    1| 850.0900268554688|
+|       3|2022-10-16|    4|156817.66723632812|
+|       4|2022-10-15|    3| 9987.270000457764|
+|       4|2022-10-14|    1|31.979999542236328|
+|       4|2022-10-18|    9|149833.60688352585|
+|       4|2022-10-16|    5|  10894.4195895195|
+|       4|2022-10-17|    7|209389.56054472923|
+|       5|2022-10-19|    3| 58649.86976623535|
+|       5|2022-10-15|    5| 53211.78977203369|
+|       5|2022-10-16|    2|501.17999029159546|
+|       5|2022-10-14|    1|    43239.58984375|
+|       5|2022-10-17|   13|172028.35660499334|
+|       5|2022-10-18|    5|129.51999962329865|
+|       6|2022-10-14|    1| 285.6000061035156|
+|       6|2022-10-18|    9|117157.16052913666|
+|       6|2022-10-19|    5|16158.570039272308|
+|       6|2022-10-17|    4| 87175.67363548279|
+|       6|2022-10-15|    3|1022.2599868774414|
+|       6|2022-10-16|    8| 88998.46258842945|
+|       7|2022-10-16|    7|18869.030132055283|
+|       7|2022-10-18|    3| 902.7800009250641|
+|       7|2022-10-19|    4| 29454.06005859375|
+|       7|2022-10-15|    8| 63826.19953632355|
+|       7|2022-10-17|    9|105273.91103222966|
+|       8|2022-10-18|    3| 7084.510039806366|
+|       8|2022-10-15|    3|15810.619902133942|
+|       8|2022-10-16|    4|   123905.94921875|
+|       8|2022-10-19|    1|   16092.099609375|
+|       8|2022-10-17|    9| 95706.64986467361|
+|       8|2022-10-14|    1|  424.010009765625|
+|       9|2022-10-15|    4|  4731.47989654541|
+|       9|2022-10-19|    4|1092.4500198364258|
+|       9|2022-10-17|    5| 42429.65107917786|
+|       9|2022-10-16|    6|1575.9500288963318|
+|       9|2022-10-18|    5|22276.180154561996|
++--------+----------+-----+------------------+
+only showing top 50 rows
+[2022-10-25T02:13:41.504+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 287, in load_and_aggregate
+    cities_transactions = temporal_df.groupBy(temporal_df.address, temporal_df.timestamp).agg(f.count('*'), alias('count'), f.sum(temporal_df.amount).alias('total')).sort('timestamp')
+NameError: name 'alias' is not defined
+[2022-10-25T02:13:41.545+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=enriched_data_aggregations, task_id=load_and_generate_aggregations, execution_date=20221025T013443, start_date=20221025T021246, end_date=20221025T021341
+[2022-10-25T02:13:41.615+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 592 for task load_and_generate_aggregations (name 'alias' is not defined; 14356)
+[2022-10-25T02:13:41.697+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-25T02:13:41.794+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

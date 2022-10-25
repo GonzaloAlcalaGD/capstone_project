@@ -1,0 +1,23 @@
+[2022-10-25T01:25:06.904+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.trigger_data_aggregations_dag manual__2022-10-25T01:20:03.657514+00:00 [queued]>
+[2022-10-25T01:25:06.941+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.trigger_data_aggregations_dag manual__2022-10-25T01:20:03.657514+00:00 [queued]>
+[2022-10-25T01:25:06.944+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T01:25:06.946+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-25T01:25:06.948+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T01:25:06.997+0000] {taskinstance.py:1383} INFO - Executing <Task(TriggerDagRunOperator): trigger_data_aggregations_dag> on 2022-10-25 01:20:03.657514+00:00
+[2022-10-25T01:25:07.017+0000] {standard_task_runner.py:54} INFO - Started process 11081 to run task
+[2022-10-25T01:25:07.032+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'trigger_data_aggregations_dag', 'manual__2022-10-25T01:20:03.657514+00:00', '--job-id', '583', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmpqykvuahr']
+[2022-10-25T01:25:07.038+0000] {standard_task_runner.py:83} INFO - Job 583: Subtask trigger_data_aggregations_dag
+[2022-10-25T01:25:07.042+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-25T01:25:07.363+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_transform_enrich_data.trigger_data_aggregations_dag manual__2022-10-25T01:20:03.657514+00:00 [running]> on host 0c46e38e1c8e
+[2022-10-25T01:25:07.599+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_transform_enrich_data
+AIRFLOW_CTX_TASK_ID=trigger_data_aggregations_dag
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T01:20:03.657514+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T01:20:03.657514+00:00
+[2022-10-25T01:25:07.842+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_transform_enrich_data, task_id=trigger_data_aggregations_dag, execution_date=20221025T012003, start_date=20221025T012506, end_date=20221025T012507
+[2022-10-25T01:25:07.931+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-25T01:25:07.984+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

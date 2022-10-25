@@ -1,0 +1,33 @@
+[2022-10-24T21:02:40.946+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [failed]>
+[2022-10-24T21:02:40.997+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [failed]>
+[2022-10-24T21:02:41.000+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T21:02:41.012+0000] {taskinstance.py:1363} INFO - Starting attempt 3 of 2
+[2022-10-24T21:02:41.016+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T21:02:41.056+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_enrich_unified_data> on 2022-10-24 20:56:39.188880+00:00
+[2022-10-24T21:02:41.081+0000] {standard_task_runner.py:54} INFO - Started process 58420 to run task
+[2022-10-24T21:02:41.110+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'load_and_enrich_unified_data', 'manual__2022-10-24T20:56:39.188880+00:00', '--job-id', '565', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmp5hc1ztl3']
+[2022-10-24T21:02:41.114+0000] {standard_task_runner.py:83} INFO - Job 565: Subtask load_and_enrich_unified_data
+[2022-10-24T21:02:41.120+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T21:02:41.698+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [running]> on host c94e224fed05
+[2022-10-24T21:02:42.808+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_transform_enrich_data
+AIRFLOW_CTX_TASK_ID=load_and_enrich_unified_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T20:56:39.188880+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T20:56:39.188880+00:00
+[2022-10-24T21:03:22.642+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 230, in load_and_enrich_data
+    storeId_udf = f.udf(storeID, IntegerType())
+NameError: name 'IntegerType' is not defined
+[2022-10-24T21:03:22.701+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=unify_transform_enrich_data, task_id=load_and_enrich_unified_data, execution_date=20221024T205639, start_date=20221024T210240, end_date=20221024T210322
+[2022-10-24T21:03:22.985+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 565 for task load_and_enrich_unified_data (name 'IntegerType' is not defined; 58420)
+[2022-10-24T21:03:23.097+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-24T21:03:23.269+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

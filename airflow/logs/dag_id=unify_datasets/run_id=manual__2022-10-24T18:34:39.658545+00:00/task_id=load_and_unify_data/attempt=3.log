@@ -1,0 +1,39 @@
+[2022-10-24T19:09:22.955+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [success]>
+[2022-10-24T19:09:22.986+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [success]>
+[2022-10-24T19:09:22.987+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:09:22.989+0000] {taskinstance.py:1363} INFO - Starting attempt 3 of 2
+[2022-10-24T19:09:22.990+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:09:23.014+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_unify_data> on 2022-10-24 18:34:39.658545+00:00
+[2022-10-24T19:09:23.031+0000] {standard_task_runner.py:54} INFO - Started process 28530 to run task
+[2022-10-24T19:09:23.044+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_unify_data', 'manual__2022-10-24T18:34:39.658545+00:00', '--job-id', '541', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmp2qx0caal']
+[2022-10-24T19:09:23.047+0000] {standard_task_runner.py:83} INFO - Job 541: Subtask load_and_unify_data
+[2022-10-24T19:09:23.052+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T19:09:23.383+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T18:34:39.658545+00:00 [running]> on host c94e224fed05
+[2022-10-24T19:09:23.683+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_unify_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T18:34:39.658545+00:00
+AIRFLOW_CTX_TRY_NUMBER=3
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T18:34:39.658545+00:00
+[2022-10-24T19:10:25.472+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|     address|          timestamp|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+|  4|        409|    null|null|$79,399.09|             Angela|           Carlson|  8389223624|    Allenton|2022-10-17T09:54:23|
+|  5|        218|    null|null|   $213.88|             Rachel|             Scott|  2742578316|   Hicksview|2022-10-17T03:55:04|
+|  8|        406|    null|null|    $35.74|            Timothy|          Cantrell|  5014848820|    Clayview|2022-10-16T07:02:28|
+| 10|       null|    null|   1|$29,511.92|            Michael|           Stanton|        null|        null|2022-10-19T01:42:35|
+| 10|        114|    null|null| $4,373.21|            Bradley|            Taylor|  3961580002|  Grahamstad|2022-10-17T16:20:46|
+| 11|        862|    null|null| $1,229.40|              Becky|             Rivas|  7296800652|  Robertland|2022-10-15T08:41:19|
+| 12|       null|      12|null| $5,409.77|            Lindsey|          Bartlett|        null|        null|2022-10-16T18:48:32|
+| 15|       null|    null|   0|    $59.32|              Diana|          Mccarthy|        null|        null|2022-10-19T12:45:02|
+| 15|        117|    null|null|    $61.65|               Sara|            Ortega|  1460596241|Edwardsburgh|2022-10-15T01:26:56|
+| 17|        800|    null|null|    $14.92|            Caitlin|             Allen|  3341427252| Melissafurt|2022-10-17T17:05:10|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+only showing top 10 rows
+[2022-10-24T19:10:25.479+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T19:10:25.615+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_datasets, task_id=load_and_unify_data, execution_date=20221024T183439, start_date=20221024T190922, end_date=20221024T191025
+[2022-10-24T19:10:25.737+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T19:10:25.867+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

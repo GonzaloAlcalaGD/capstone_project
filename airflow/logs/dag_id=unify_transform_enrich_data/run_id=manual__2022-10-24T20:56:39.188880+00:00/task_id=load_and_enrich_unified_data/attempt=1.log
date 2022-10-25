@@ -1,0 +1,15 @@
+[2022-10-24T20:59:41.397+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [queued]>
+[2022-10-24T20:59:41.444+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_unified_data manual__2022-10-24T20:56:39.188880+00:00 [queued]>
+[2022-10-24T20:59:41.448+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T20:59:41.450+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T20:59:41.452+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T20:59:41.517+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_enrich_unified_data> on 2022-10-24 20:56:39.188880+00:00
+[2022-10-24T20:59:41.537+0000] {standard_task_runner.py:54} INFO - Started process 58163 to run task
+[2022-10-24T20:59:41.552+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'load_and_enrich_unified_data', 'manual__2022-10-24T20:56:39.188880+00:00', '--job-id', '563', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmphjd8beek']
+[2022-10-24T20:59:41.556+0000] {standard_task_runner.py:83} INFO - Job 563: Subtask load_and_enrich_unified_data
+[2022-10-24T20:59:41.565+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T20:59:41.686+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 563 for task load_and_enrich_unified_data (Task load_and_enrich_unified_data not found; 58163)
+[2022-10-24T20:59:41.723+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-24T20:59:41.851+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

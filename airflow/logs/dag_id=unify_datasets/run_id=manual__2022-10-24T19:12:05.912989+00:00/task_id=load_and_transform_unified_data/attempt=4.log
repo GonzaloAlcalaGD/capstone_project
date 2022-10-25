@@ -1,0 +1,88 @@
+[2022-10-24T19:22:52.763+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [failed]>
+[2022-10-24T19:22:52.844+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [failed]>
+[2022-10-24T19:22:52.847+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:22:52.849+0000] {taskinstance.py:1363} INFO - Starting attempt 4 of 2
+[2022-10-24T19:22:52.850+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:22:52.912+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_transform_unified_data> on 2022-10-24 19:12:05.912989+00:00
+[2022-10-24T19:22:52.946+0000] {standard_task_runner.py:54} INFO - Started process 32018 to run task
+[2022-10-24T19:22:52.981+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_transform_unified_data', 'manual__2022-10-24T19:12:05.912989+00:00', '--job-id', '546', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmppahkzrrm']
+[2022-10-24T19:22:52.989+0000] {standard_task_runner.py:83} INFO - Job 546: Subtask load_and_transform_unified_data
+[2022-10-24T19:22:52.994+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T19:22:53.259+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [running]> on host c94e224fed05
+[2022-10-24T19:22:53.662+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_transform_unified_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T19:12:05.912989+00:00
+AIRFLOW_CTX_TRY_NUMBER=4
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T19:12:05.912989+00:00
+[2022-10-24T19:23:38.517+0000] {pyspark_scripts.py:185} INFO - Temporal DF
+[2022-10-24T19:23:46.520+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|        address|          timestamp|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+|462|        173|    null|null| $6,986.79|             Joshua|            Benson|  6234733926|   Brownchester|2022-10-18T04:47:11|
+|351|       null|    null|   1|$16,092.10|            Jessica|             House|        null|           null|2022-10-19T08:56:41|
+|453|        736|    null|null|   $736.77|            Rebecca|              Rose|  4010305253|    Veronicaton|2022-10-16T13:42:05|
+|399|        423|    null|null| $7,186.36|                Joy|         Mcfarland|  1480094646|   West Nichole|2022-10-17T12:07:31|
+|501|       null|      13|null|   $366.22|            Charles|            Wright|        null|           null|2022-10-17T07:25:50|
+|570|        574|    null|null|$75,673.50|           Kristina|              Bell|  0407757614|Lake Jamesville|2022-10-17T16:55:58|
+|425|         44|    null|null|   $273.74|             Daniel|            Walker|  3629844076|  Michelleburgh|2022-10-15T20:16:23|
+|110|       null|      17|null|     $4.46|              Maria|         Gutierrez|        null|           null|2022-10-18T08:10:18|
+|436|        367|    null|null|$77,044.28|            Melanie|            Fisher|  7840898875|     Grahamstad|2022-10-18T14:12:22|
+|166|       null|    null|   1|     $5.66|              Karla|            Duarte|        null|           null|2022-10-18T06:52:35|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+only showing top 10 rows
+[2022-10-24T19:23:46.954+0000] {pyspark_scripts.py:188} INFO - Dump DF
+[2022-10-24T19:23:54.591+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 190, in transform_data
+    dump_df.show(10)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/dataframe.py", line 606, in show
+    print(self._jdf.showString(n, 20, vertical))
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/utils.py", line 196, in deco
+    raise converted from None
+pyspark.sql.utils.PythonException: 
+  An exception was thrown from the Python worker. Please see the stack trace below.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 670, in main
+    func, profiler, deserializer, serializer = read_udfs(pickleSer, infile, eval_type)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 507, in read_udfs
+    udfs.append(read_single_udf(pickleSer, infile, eval_type, runner_conf, udf_index=i))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 289, in read_single_udf
+    f, return_type = read_command(pickleSer, infile)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 85, in read_command
+    command = serializer._read_with_length(file)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/serializers.py", line 173, in _read_with_length
+    return self.loads(obj)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/serializers.py", line 452, in loads
+    return pickle.loads(obj, encoding=encoding)
+ModuleNotFoundError: No module named 'pyspark_scripts'
+
+[2022-10-24T19:23:54.739+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=unify_datasets, task_id=load_and_transform_unified_data, execution_date=20221024T191205, start_date=20221024T192252, end_date=20221024T192354
+[2022-10-24T19:23:54.822+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 546 for task load_and_transform_unified_data (
+  An exception was thrown from the Python worker. Please see the stack trace below.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 670, in main
+    func, profiler, deserializer, serializer = read_udfs(pickleSer, infile, eval_type)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 507, in read_udfs
+    udfs.append(read_single_udf(pickleSer, infile, eval_type, runner_conf, udf_index=i))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 289, in read_single_udf
+    f, return_type = read_command(pickleSer, infile)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/worker.py", line 85, in read_command
+    command = serializer._read_with_length(file)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/serializers.py", line 173, in _read_with_length
+    return self.loads(obj)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/python/lib/pyspark.zip/pyspark/serializers.py", line 452, in loads
+    return pickle.loads(obj, encoding=encoding)
+ModuleNotFoundError: No module named 'pyspark_scripts'
+; 32018)
+[2022-10-24T19:23:54.890+0000] {local_task_job.py:164} INFO - Task exited with return code 1
+[2022-10-24T19:23:55.005+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

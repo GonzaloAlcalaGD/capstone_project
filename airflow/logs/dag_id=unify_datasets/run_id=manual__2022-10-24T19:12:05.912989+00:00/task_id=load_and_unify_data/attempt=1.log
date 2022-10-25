@@ -1,0 +1,54 @@
+[2022-10-24T19:12:08.420+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T19:12:05.912989+00:00 [queued]>
+[2022-10-24T19:12:08.459+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T19:12:05.912989+00:00 [queued]>
+[2022-10-24T19:12:08.460+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:12:08.462+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-24T19:12:08.463+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:12:08.509+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_unify_data> on 2022-10-24 19:12:05.912989+00:00
+[2022-10-24T19:12:08.520+0000] {standard_task_runner.py:54} INFO - Started process 29848 to run task
+[2022-10-24T19:12:08.534+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_unify_data', 'manual__2022-10-24T19:12:05.912989+00:00', '--job-id', '542', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmp3vhzvxic']
+[2022-10-24T19:12:08.553+0000] {standard_task_runner.py:83} INFO - Job 542: Subtask load_and_unify_data
+[2022-10-24T19:12:08.556+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T19:12:08.890+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_unify_data manual__2022-10-24T19:12:05.912989+00:00 [running]> on host c94e224fed05
+[2022-10-24T19:12:09.060+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_unify_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T19:12:05.912989+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T19:12:05.912989+00:00
+[2022-10-24T19:13:02.349+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|     address|          timestamp|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+|  4|        409|    null|null|$79,399.09|             Angela|           Carlson|  8389223624|    Allenton|2022-10-17T09:54:23|
+|  5|        218|    null|null|   $213.88|             Rachel|             Scott|  2742578316|   Hicksview|2022-10-17T03:55:04|
+|  8|        406|    null|null|    $35.74|            Timothy|          Cantrell|  5014848820|    Clayview|2022-10-16T07:02:28|
+| 10|       null|    null|   1|$29,511.92|            Michael|           Stanton|        null|        null|2022-10-19T01:42:35|
+| 10|        114|    null|null| $4,373.21|            Bradley|            Taylor|  3961580002|  Grahamstad|2022-10-17T16:20:46|
+| 11|        862|    null|null| $1,229.40|              Becky|             Rivas|  7296800652|  Robertland|2022-10-15T08:41:19|
+| 12|       null|      12|null| $5,409.77|            Lindsey|          Bartlett|        null|        null|2022-10-16T18:48:32|
+| 15|       null|    null|   0|    $59.32|              Diana|          Mccarthy|        null|        null|2022-10-19T12:45:02|
+| 15|        117|    null|null|    $61.65|               Sara|            Ortega|  1460596241|Edwardsburgh|2022-10-15T01:26:56|
+| 17|        800|    null|null|    $14.92|            Caitlin|             Allen|  3341427252| Melissafurt|2022-10-17T17:05:10|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+only showing top 10 rows
+[2022-10-24T19:13:09.106+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|        address|          timestamp|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+|462|        173|    null|null| $6,986.79|             Joshua|            Benson|  6234733926|   Brownchester|2022-10-18T04:47:11|
+|351|       null|    null|   1|$16,092.10|            Jessica|             House|        null|           null|2022-10-19T08:56:41|
+|453|        736|    null|null|   $736.77|            Rebecca|              Rose|  4010305253|    Veronicaton|2022-10-16T13:42:05|
+|399|        423|    null|null| $7,186.36|                Joy|         Mcfarland|  1480094646|   West Nichole|2022-10-17T12:07:31|
+|501|       null|      13|null|   $366.22|            Charles|            Wright|        null|           null|2022-10-17T07:25:50|
+|570|        574|    null|null|$75,673.50|           Kristina|              Bell|  0407757614|Lake Jamesville|2022-10-17T16:55:58|
+|425|         44|    null|null|   $273.74|             Daniel|            Walker|  3629844076|  Michelleburgh|2022-10-15T20:16:23|
+|110|       null|      17|null|     $4.46|              Maria|         Gutierrez|        null|           null|2022-10-18T08:10:18|
+|436|        367|    null|null|$77,044.28|            Melanie|            Fisher|  7840898875|     Grahamstad|2022-10-18T14:12:22|
+|166|       null|    null|   1|     $5.66|              Karla|            Duarte|        null|           null|2022-10-18T06:52:35|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+
+only showing top 10 rows
+[2022-10-24T19:13:15.997+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T19:13:16.129+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_datasets, task_id=load_and_unify_data, execution_date=20221024T191205, start_date=20221024T191208, end_date=20221024T191316
+[2022-10-24T19:13:16.291+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T19:13:16.395+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

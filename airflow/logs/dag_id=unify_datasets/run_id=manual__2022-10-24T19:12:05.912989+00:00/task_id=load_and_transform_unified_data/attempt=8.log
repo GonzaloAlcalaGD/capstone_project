@@ -1,0 +1,43 @@
+[2022-10-24T19:42:46.332+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [failed]>
+[2022-10-24T19:42:46.406+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [failed]>
+[2022-10-24T19:42:46.408+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:42:46.410+0000] {taskinstance.py:1363} INFO - Starting attempt 8 of 2
+[2022-10-24T19:42:46.415+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-24T19:42:46.454+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_transform_unified_data> on 2022-10-24 19:12:05.912989+00:00
+[2022-10-24T19:42:46.483+0000] {standard_task_runner.py:54} INFO - Started process 40149 to run task
+[2022-10-24T19:42:46.509+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_datasets', 'load_and_transform_unified_data', 'manual__2022-10-24T19:12:05.912989+00:00', '--job-id', '550', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmp9eom6o4_']
+[2022-10-24T19:42:46.523+0000] {standard_task_runner.py:83} INFO - Job 550: Subtask load_and_transform_unified_data
+[2022-10-24T19:42:46.526+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-24T19:42:46.907+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_datasets.load_and_transform_unified_data manual__2022-10-24T19:12:05.912989+00:00 [running]> on host c94e224fed05
+[2022-10-24T19:42:47.316+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_datasets
+AIRFLOW_CTX_TASK_ID=load_and_transform_unified_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-24T19:12:05.912989+00:00
+AIRFLOW_CTX_TRY_NUMBER=8
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-24T19:12:05.912989+00:00
+[2022-10-24T19:43:30.026+0000] {pyspark_scripts.py:186} INFO - Dump DF
+[2022-10-24T19:43:42.525+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|        address|          timestamp|float_amount|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+------------+
+|462|        173|    null|null| $6,986.79|             Joshua|            Benson|  6234733926|   Brownchester|2022-10-18T04:47:11|     6986.79|
+|351|       null|    null|   1|$16,092.10|            Jessica|             House|        null|           null|2022-10-19T08:56:41|     16092.1|
+|453|        736|    null|null|   $736.77|            Rebecca|              Rose|  4010305253|    Veronicaton|2022-10-16T13:42:05|      736.77|
+|399|        423|    null|null| $7,186.36|                Joy|         Mcfarland|  1480094646|   West Nichole|2022-10-17T12:07:31|     7186.36|
+|501|       null|      13|null|   $366.22|            Charles|            Wright|        null|           null|2022-10-17T07:25:50|      366.22|
+|570|        574|    null|null|$75,673.50|           Kristina|              Bell|  0407757614|Lake Jamesville|2022-10-17T16:55:58|     75673.5|
+|425|         44|    null|null|   $273.74|             Daniel|            Walker|  3629844076|  Michelleburgh|2022-10-15T20:16:23|      273.74|
+|110|       null|      17|null|     $4.46|              Maria|         Gutierrez|        null|           null|2022-10-18T08:10:18|        4.46|
+|436|        367|    null|null|$77,044.28|            Melanie|            Fisher|  7840898875|     Grahamstad|2022-10-18T14:12:22|    77044.28|
+|166|       null|    null|   1|     $5.66|              Karla|            Duarte|        null|           null|2022-10-18T06:52:35|        5.66|
++---+-----------+--------+----+----------+-------------------+------------------+------------+---------------+-------------------+------------+
+only showing top 10 rows
+[2022-10-24T19:43:42.528+0000] {pyspark_scripts.py:10} INFO - Closing spark session...
+[2022-10-24T19:43:43.325+0000] {pyspark_scripts.py:13} INFO - Spark session succesfully closed
+[2022-10-24T19:43:43.327+0000] {pyspark_scripts.py:197} INFO - Spark session and context status: Closed
+[2022-10-24T19:43:43.329+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-24T19:43:43.407+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_datasets, task_id=load_and_transform_unified_data, execution_date=20221024T191205, start_date=20221024T194246, end_date=20221024T194343
+[2022-10-24T19:43:43.569+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-24T19:43:43.676+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

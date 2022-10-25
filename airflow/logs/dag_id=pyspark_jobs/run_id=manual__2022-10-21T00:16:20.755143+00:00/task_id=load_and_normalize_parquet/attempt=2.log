@@ -1,0 +1,64 @@
+[2022-10-21 00:19:26,747] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T00:16:20.755143+00:00 [queued]>
+[2022-10-21 00:19:26,852] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T00:16:20.755143+00:00 [queued]>
+[2022-10-21 00:19:26,869] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 00:19:26,897] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-10-21 00:19:26,901] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-21 00:19:27,411] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): load_and_normalize_parquet> on 2022-10-21 00:16:20.755143+00:00
+[2022-10-21 00:19:27,677] {standard_task_runner.py:52} INFO - Started process 48190 to run task
+[2022-10-21 00:19:27,706] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-21 00:19:27,956] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'pyspark_jobs', 'load_and_normalize_parquet', 'manual__2022-10-21T00:16:20.755143+00:00', '--job-id', '461', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpcnfjz35f', '--error-file', '/tmp/tmp6nfmcj7y']
+[2022-10-21 00:19:27,971] {standard_task_runner.py:80} INFO - Job 461: Subtask load_and_normalize_parquet
+[2022-10-21 00:19:30,997] {task_command.py:371} INFO - Running <TaskInstance: pyspark_jobs.load_and_normalize_parquet manual__2022-10-21T00:16:20.755143+00:00 [running]> on host ee1a3e6935ec
+[2022-10-21 00:19:32,724] {taskinstance.py:1591} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=pyspark_jobs
+AIRFLOW_CTX_TASK_ID=load_and_normalize_parquet
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-21T00:16:20.755143+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-21T00:16:20.755143+00:00
+[2022-10-21 00:19:32,761] {pyspark_scripts.py:28} INFO - Found the following subdirectories ['2022-10-14', '2022-10-17', '2022-10-18', '2022-10-19']
+[2022-10-21 00:19:33,132] {pyspark_scripts.py:37} INFO - Latest folder: 2022-10-19
+[2022-10-21 00:20:02,598] {clientserver.py:538} INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 516, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+[2022-10-21 00:20:02,624] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-21 00:20:02,636] {java_gateway.py:1056} ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 516, in send_command
+    raise Py4JNetworkError("Answer from Java side is empty")
+py4j.protocol.Py4JNetworkError: Answer from Java side is empty
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 540, in send_command
+    "Error while sending or receiving", e, proto.ERROR_ON_RECEIVE)
+py4j.protocol.Py4JNetworkError: Error while sending or receiving
+[2022-10-21 00:20:02,726] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-21 00:20:02,884] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 70, in load_and_normalize_parquet_data
+    df = spark.read.option('header', 'true').parquet(os.path.join(parquet_path, latest))
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/readwriter.py", line 364, in parquet
+    return self._df(self._jreader.parquet(_to_seq(self._spark._sc, paths)))
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1322, in __call__
+    answer, self.gateway_client, self.target_id, self.name)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/utils.py", line 190, in deco
+    return f(*a, **kw)
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/protocol.py", line 336, in get_return_value
+    format(target_id, ".", name))
+py4j.protocol.Py4JError: An error occurred while calling o35.parquet
+[2022-10-21 00:20:02,978] {taskinstance.py:1420} INFO - Marking task as FAILED. dag_id=pyspark_jobs, task_id=load_and_normalize_parquet, execution_date=20221021T001620, start_date=20221021T001926, end_date=20221021T002002
+[2022-10-21 00:20:03,298] {standard_task_runner.py:97} ERROR - Failed to execute job 461 for task load_and_normalize_parquet (An error occurred while calling o35.parquet; 48190)
+[2022-10-21 00:20:03,577] {local_task_job.py:156} INFO - Task exited with return code 1
+[2022-10-21 00:20:04,010] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

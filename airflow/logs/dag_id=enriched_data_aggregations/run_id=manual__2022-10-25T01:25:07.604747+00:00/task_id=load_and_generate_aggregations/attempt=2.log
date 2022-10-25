@@ -1,0 +1,80 @@
+[2022-10-25T01:27:39.243+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:25:07.604747+00:00 [queued]>
+[2022-10-25T01:27:39.289+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:25:07.604747+00:00 [queued]>
+[2022-10-25T01:27:39.293+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T01:27:39.296+0000] {taskinstance.py:1363} INFO - Starting attempt 2 of 2
+[2022-10-25T01:27:39.299+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T01:27:39.394+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_generate_aggregations> on 2022-10-25 01:25:07.604747+00:00
+[2022-10-25T01:27:39.416+0000] {standard_task_runner.py:54} INFO - Started process 11329 to run task
+[2022-10-25T01:27:39.430+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'enriched_data_aggregations', 'load_and_generate_aggregations', 'manual__2022-10-25T01:25:07.604747+00:00', '--job-id', '585', '--raw', '--subdir', 'DAGS_FOLDER/data_agg.py', '--cfg-path', '/tmp/tmpq7j6atck']
+[2022-10-25T01:27:39.434+0000] {standard_task_runner.py:83} INFO - Job 585: Subtask load_and_generate_aggregations
+[2022-10-25T01:27:39.439+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/data_agg.py
+[2022-10-25T01:27:39.906+0000] {task_command.py:384} INFO - Running <TaskInstance: enriched_data_aggregations.load_and_generate_aggregations manual__2022-10-25T01:25:07.604747+00:00 [running]> on host 0c46e38e1c8e
+[2022-10-25T01:27:40.331+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=enriched_data_aggregations
+AIRFLOW_CTX_TASK_ID=load_and_generate_aggregations
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T01:25:07.604747+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T01:25:07.604747+00:00
+[2022-10-25T01:28:22.275+0000] {local_task_job.py:228} WARNING - State of this instance has been externally set to failed. Terminating instance.
+[2022-10-25T01:28:22.315+0000] {process_utils.py:133} INFO - Sending Signals.SIGTERM to group 11329. PIDs of all processes in the group: [11330, 11329]
+[2022-10-25T01:28:22.319+0000] {process_utils.py:84} INFO - Sending the signal Signals.SIGTERM to group 11329
+[2022-10-25T01:28:22.330+0000] {taskinstance.py:1562} ERROR - Received SIGTERM. Terminating subprocesses.
+[2022-10-25T01:28:22.335+0000] {clientserver.py:538} INFO - Error while receiving.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/usr/local/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1564, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2022-10-25T01:28:22.365+0000] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-25T01:28:22.370+0000] {java_gateway.py:1056} ERROR - Exception while sending command.
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 511, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/usr/local/lib/python3.7/socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/taskinstance.py", line 1564, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1038, in send_command
+    response = connection.send_command(command)
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/clientserver.py", line 540, in send_command
+    "Error while sending or receiving", e, proto.ERROR_ON_RECEIVE)
+py4j.protocol.Py4JNetworkError: Error while sending or receiving
+[2022-10-25T01:28:22.401+0000] {clientserver.py:543} INFO - Closing down clientserver connection
+[2022-10-25T01:28:22.410+0000] {taskinstance.py:1851} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 175, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/python.py", line 193, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/pyspark_scripts.py", line 267, in load_and_aggregate
+    spark = SparkSession.builder.getOrCreate()
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/sql/session.py", line 269, in getOrCreate
+    sc = SparkContext.getOrCreate(sparkConf)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/context.py", line 483, in getOrCreate
+    SparkContext(conf=conf or SparkConf())
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/context.py", line 208, in __init__
+    udf_profiler_cls,
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/context.py", line 282, in _do_init
+    self._jsc = jsc or self._initialize_context(self._conf._jconf)
+  File "/home/airflow/.local/lib/python3.7/site-packages/pyspark/context.py", line 402, in _initialize_context
+    return self._jvm.JavaSparkContext(jconf)
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/java_gateway.py", line 1586, in __call__
+    answer, self._gateway_client, None, self._fqn)
+  File "/home/airflow/.local/lib/python3.7/site-packages/py4j/protocol.py", line 336, in get_return_value
+    format(target_id, ".", name))
+py4j.protocol.Py4JError: An error occurred while calling None.org.apache.spark.api.java.JavaSparkContext
+[2022-10-25T01:28:22.569+0000] {taskinstance.py:1406} INFO - Marking task as FAILED. dag_id=enriched_data_aggregations, task_id=load_and_generate_aggregations, execution_date=20221025T012507, start_date=20221025T012739, end_date=20221025T012822
+[2022-10-25T01:28:23.051+0000] {standard_task_runner.py:107} ERROR - Failed to execute job 585 for task load_and_generate_aggregations (An error occurred while calling None.org.apache.spark.api.java.JavaSparkContext; 11329)
+[2022-10-25T01:28:23.394+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=11329, status='terminated', exitcode=1, started='01:27:39') (11329) terminated with exit code 1
+[2022-10-25T01:28:24.206+0000] {process_utils.py:79} INFO - Process psutil.Process(pid=11330, status='terminated', started='01:27:40') (11330) terminated with exit code None
