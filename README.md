@@ -3,13 +3,14 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/apache-airflow.svg)](https://pypi.org/project/apache-airflow/)
 
 **Table of contents**
--   [Project description](#project-description)
+- [Project description](#project-description)
     - [Stages](#stages)
     - [Aggregations](#aggregations)
     - [Think about](#think-about)
     - [Concepts](#concepts)
     - [Optional](#optional)
     - [Deliverable](#deliverable)
+- [Requirements](#requirements)
 
 ## Project description
 
@@ -89,3 +90,26 @@ Build next tables:
 ### Deliverable:
     - Create a personal github project. Add readme with detailed description of the project. 
 
+## Requirements
+Capstone project is tested with:
+|                     | Main version (dev)           | Stable version               |
+|---------------------|------------------------------|------------------------------|
+| Python              | 3.7.14                       | 3.7.14                       |
+| Docker desktop      | 4.10.                        | 4.10.1                       |
+| PostgreSQL          | 13                           | 13                           |
+| Airflow             | 2.4.1                        | 2.4.1                        |
+| Redis               | Latest (7.0)                 | Latest (7.0)                 |
+| Celery              | v5.2.7 (dawn-chorus)         | v5.2.7 (dawn-chorus)         |
+| HDFS                | 3.2.1                        | 3.2.1                        |
+| Java                | 1.8.0_341                    | 1.8.0_341                    |
+
+**Docker dekstop resources**
+For proper operation it is recommended to configure the advanced Docker resources as described below: 
+- CPUs : 6
+- Memory : 12.00 GB
+- Swap : 1 GB
+- Disk image size: 72GB
+
+## Geting started
+In order to execute the project you need to have the following tools installed in your local machine.
+1. Docker desktop(https://www.docker.com/products/docker-desktop/)
