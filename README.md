@@ -127,9 +127,10 @@ Once you have Docker desktop installed you need to follow the next steps:
     - Linux : **ls -a**
 5. Once you see the docker-compose.yaml file execute docker-compose up
 6. Wait until all containers are up and you see the following message:
-     - ` airflow-airflow-webserver-1  | 127.0.0.1 - - [25/Oct/2022:19:32:05 +0000] "GET /health HTTP/1.1" 200 141 "-" "curl/7.74.0" `
+` airflow-airflow-webserver-1  | 127.0.0.1 - - [25/Oct/2022:19:32:05 +0000] "GET /health HTTP/1.1" 200 141 "-" "curl/7.74.0" `
 7. Open your favorite web browser
 8. Go to the following URL : **http://localhost:8080/home**
 
 Once all steps are completed you should see the following website
+![Airflow login](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.34.29.png)
 

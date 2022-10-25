@@ -3994,3 +3994,38 @@ Please take a look at these docs to improve your DAG import time:
 [2022-10-25T19:36:03.374+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:36:03.373+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
 [2022-10-25T19:36:04.070+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
 [2022-10-25T19:36:04.152+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 0.794 seconds
+[2022-10-25T19:36:24.269+0000] {processor.py:156} INFO - Started process (PID=12061) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:24.273+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:36:24.276+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:36:24.275+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:25.201+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:25.280+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 1.025 seconds
+[2022-10-25T19:36:34.400+0000] {processor.py:156} INFO - Started process (PID=11184) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:34.404+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:36:34.406+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:36:34.406+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:35.004+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:35.031+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 0.639 seconds
+[2022-10-25T19:36:55.814+0000] {processor.py:156} INFO - Started process (PID=12095) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:55.818+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:36:55.820+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:36:55.820+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:56.804+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:36:56.842+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 1.044 seconds
+[2022-10-25T19:37:05.771+0000] {processor.py:156} INFO - Started process (PID=11224) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:05.780+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:37:05.784+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:37:05.784+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:06.701+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:06.732+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 0.973 seconds
+[2022-10-25T19:37:26.975+0000] {processor.py:156} INFO - Started process (PID=12129) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:26.982+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:37:26.990+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:37:26.989+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:28.048+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:28.105+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 1.143 seconds
+[2022-10-25T19:37:37.280+0000] {processor.py:156} INFO - Started process (PID=11256) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:37.287+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:37:37.293+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:37:37.292+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:38.539+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:38.595+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 1.339 seconds
+[2022-10-25T19:37:58.753+0000] {processor.py:156} INFO - Started process (PID=12164) to work on /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:58.755+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/insertion_orchestration.py for tasks to queue
+[2022-10-25T19:37:58.758+0000] {logging_mixin.py:117} INFO - [2022-10-25T19:37:58.757+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:59.411+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/insertion_orchestration.py
+[2022-10-25T19:37:59.446+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/insertion_orchestration.py took 0.702 seconds
