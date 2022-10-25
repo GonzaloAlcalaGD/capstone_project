@@ -145,5 +145,5 @@ PASSWORD : airflow
 ```
 
 Once you are inside the Apache Airflow webserver you must be able to see the following [DAG's](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html)
-![Airflow DAGS](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%Shot%2022-10-25%at%14.48.59.png)
+![Airflow DAGS](https://raw.githubusercontent.com/GonzaloAlcalaGD/data_generators/main/images/Screen%20Shot%202022-10-25%20at%2014.48.59.png)
 
