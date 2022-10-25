@@ -3283,3 +3283,73 @@
 [2022-10-25T18:56:09.251+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:09.251+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
 [2022-10-25T18:56:09.263+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
 [2022-10-25T18:56:09.292+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.053 seconds
+[2022-10-25T18:56:31.646+0000] {processor.py:156} INFO - Started process (PID=8466) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:31.654+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:56:31.660+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:31.660+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:31.681+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:31.729+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.096 seconds
+[2022-10-25T18:56:39.572+0000] {processor.py:156} INFO - Started process (PID=9396) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:39.574+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:56:39.577+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:39.577+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:39.596+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:56:39.669+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.104 seconds
+[2022-10-25T18:57:02.088+0000] {processor.py:156} INFO - Started process (PID=8506) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:02.093+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:57:02.100+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:02.099+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:02.140+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:02.197+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.120 seconds
+[2022-10-25T18:57:10.073+0000] {processor.py:156} INFO - Started process (PID=9431) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:10.077+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:57:10.080+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:10.080+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:10.097+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:10.133+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.068 seconds
+[2022-10-25T18:57:33.195+0000] {processor.py:156} INFO - Started process (PID=8537) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:33.199+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:57:33.201+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:33.201+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:33.213+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:33.240+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.051 seconds
+[2022-10-25T18:57:40.464+0000] {processor.py:156} INFO - Started process (PID=9465) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:40.466+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:57:40.468+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:40.468+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:40.478+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:57:40.501+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.041 seconds
+[2022-10-25T18:58:03.317+0000] {processor.py:156} INFO - Started process (PID=8577) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:03.319+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:58:03.322+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:03.322+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:03.334+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:03.362+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.052 seconds
+[2022-10-25T18:58:11.202+0000] {processor.py:156} INFO - Started process (PID=9500) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:11.204+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:58:11.206+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:11.206+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:11.218+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:11.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.053 seconds
+[2022-10-25T18:58:33.532+0000] {processor.py:156} INFO - Started process (PID=8608) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:33.536+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:58:33.539+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:33.538+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:33.553+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:33.584+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.062 seconds
+[2022-10-25T18:58:41.396+0000] {processor.py:156} INFO - Started process (PID=9534) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:41.398+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:58:41.400+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:41.400+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:41.415+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:58:41.450+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.063 seconds
+[2022-10-25T18:59:03.980+0000] {processor.py:156} INFO - Started process (PID=8639) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:03.983+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:59:03.987+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:03.987+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:04.007+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:04.040+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.068 seconds
+[2022-10-25T18:59:11.717+0000] {processor.py:156} INFO - Started process (PID=9568) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:11.722+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:59:11.724+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:11.724+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:11.738+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:11.770+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.063 seconds
+[2022-10-25T18:59:34.087+0000] {processor.py:156} INFO - Started process (PID=8680) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:34.089+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:59:34.092+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:34.092+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:34.103+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:34.135+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.055 seconds
+[2022-10-25T18:59:42.044+0000] {processor.py:156} INFO - Started process (PID=9602) to work on /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:42.047+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/pyspark_scripts.py for tasks to queue
+[2022-10-25T18:59:42.049+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:42.049+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:42.059+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/pyspark_scripts.py
+[2022-10-25T18:59:42.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/pyspark_scripts.py took 0.053 seconds

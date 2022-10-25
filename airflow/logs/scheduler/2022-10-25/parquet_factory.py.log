@@ -3126,3 +3126,83 @@
 [2022-10-25T18:55:45.492+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:55:45.491+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
 [2022-10-25T18:55:46.525+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
 [2022-10-25T18:55:46.553+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 1.078 seconds
+[2022-10-25T18:56:13.718+0000] {processor.py:156} INFO - Started process (PID=9372) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:13.722+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:56:13.724+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:13.724+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:14.546+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:14.579+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.871 seconds
+[2022-10-25T18:56:16.953+0000] {processor.py:156} INFO - Started process (PID=8452) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:16.956+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:56:16.965+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:16.965+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:17.663+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:17.696+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.754 seconds
+[2022-10-25T18:56:45.110+0000] {processor.py:156} INFO - Started process (PID=9408) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:45.112+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:56:45.115+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:45.114+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:45.752+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:45.782+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.678 seconds
+[2022-10-25T18:56:48.113+0000] {processor.py:156} INFO - Started process (PID=8491) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:48.116+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:56:48.120+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:56:48.119+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:48.854+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:56:48.899+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.797 seconds
+[2022-10-25T18:57:17.091+0000] {processor.py:156} INFO - Started process (PID=9445) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:17.101+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:57:17.104+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:17.104+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:18.015+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:18.051+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.970 seconds
+[2022-10-25T18:57:19.199+0000] {processor.py:156} INFO - Started process (PID=8522) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:19.204+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:57:19.209+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:19.208+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:19.888+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:19.925+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.738 seconds
+[2022-10-25T18:57:48.271+0000] {processor.py:156} INFO - Started process (PID=9480) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:48.274+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:57:48.277+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:48.276+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:48.858+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:48.885+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.625 seconds
+[2022-10-25T18:57:50.169+0000] {processor.py:156} INFO - Started process (PID=8562) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:50.176+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:57:50.192+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:57:50.191+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:50.926+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:57:50.959+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.800 seconds
+[2022-10-25T18:58:19.451+0000] {processor.py:156} INFO - Started process (PID=9516) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:19.454+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:58:19.457+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:19.457+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:20.116+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:20.172+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.733 seconds
+[2022-10-25T18:58:21.257+0000] {processor.py:156} INFO - Started process (PID=8593) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:21.262+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:58:21.265+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:21.265+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:22.160+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:22.208+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.961 seconds
+[2022-10-25T18:58:50.643+0000] {processor.py:156} INFO - Started process (PID=9549) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:50.646+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:58:50.648+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:50.648+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:51.432+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:51.464+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.828 seconds
+[2022-10-25T18:58:52.436+0000] {processor.py:156} INFO - Started process (PID=8633) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:52.439+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:58:52.441+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:58:52.441+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:53.210+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:58:53.255+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.850 seconds
+[2022-10-25T18:59:21.806+0000] {processor.py:156} INFO - Started process (PID=9583) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:21.810+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:59:21.813+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:21.812+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:22.737+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:22.779+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 1.007 seconds
+[2022-10-25T18:59:23.995+0000] {processor.py:156} INFO - Started process (PID=8664) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:23.999+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:59:24.002+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:24.001+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:24.868+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:24.908+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.924 seconds
+[2022-10-25T18:59:53.172+0000] {processor.py:156} INFO - Started process (PID=9617) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:53.176+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:59:53.180+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:53.179+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:53.876+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:53.909+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.748 seconds
+[2022-10-25T18:59:55.224+0000] {processor.py:156} INFO - Started process (PID=8703) to work on /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:55.227+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/parquet_factory.py for tasks to queue
+[2022-10-25T18:59:55.230+0000] {logging_mixin.py:117} INFO - [2022-10-25T18:59:55.229+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:56.106+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/parquet_factory.py
+[2022-10-25T18:59:56.159+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/parquet_factory.py took 0.942 seconds
