@@ -213,3 +213,303 @@
 [2022-10-25T14:17:44.761+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:44.760+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
 [2022-10-25T14:17:44.779+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
 [2022-10-25T14:17:44.876+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.143 seconds
+[2022-10-25T14:24:52.791+0000] {processor.py:156} INFO - Started process (PID=23363) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:24:52.797+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:24:52.805+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:52.805+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:24:52.823+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:24:52.879+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.105 seconds
+[2022-10-25T14:25:11.223+0000] {processor.py:156} INFO - Started process (PID=24433) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:11.230+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:25:11.234+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:11.233+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:11.252+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:11.311+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.095 seconds
+[2022-10-25T14:25:42.870+0000] {processor.py:156} INFO - Started process (PID=23878) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:42.894+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:25:42.897+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:42.897+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:42.916+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:42.973+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.118 seconds
+[2022-10-25T14:25:59.315+0000] {processor.py:156} INFO - Started process (PID=24956) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:59.318+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:25:59.320+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:59.320+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:59.335+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:25:59.382+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.081 seconds
+[2022-10-25T14:26:27.220+0000] {processor.py:156} INFO - Started process (PID=24291) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:27.223+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:26:27.226+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:27.226+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:27.241+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:27.305+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.098 seconds
+[2022-10-25T14:26:43.477+0000] {processor.py:156} INFO - Started process (PID=25367) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:43.483+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:26:43.486+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:43.486+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:43.500+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:26:43.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.106 seconds
+[2022-10-25T14:27:15.032+0000] {processor.py:156} INFO - Started process (PID=24771) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:15.038+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:27:15.041+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:15.040+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:15.052+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:15.103+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.080 seconds
+[2022-10-25T14:27:27.002+0000] {processor.py:156} INFO - Started process (PID=25828) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:27.006+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:27:27.008+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:27.007+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:27.028+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:27.070+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.079 seconds
+[2022-10-25T14:27:53.352+0000] {processor.py:156} INFO - Started process (PID=25182) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:53.358+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:27:53.361+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:53.360+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:53.378+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:27:53.418+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.076 seconds
+[2022-10-25T14:28:12.329+0000] {processor.py:156} INFO - Started process (PID=26344) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:12.334+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:28:12.339+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:12.339+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:12.356+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:12.398+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.077 seconds
+[2022-10-25T14:28:43.108+0000] {processor.py:156} INFO - Started process (PID=25705) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:43.112+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:28:43.116+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:43.115+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:43.136+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:43.212+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.113 seconds
+[2022-10-25T14:28:49.886+0000] {processor.py:156} INFO - Started process (PID=26732) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:49.889+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:28:49.892+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:49.892+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:49.903+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:28:49.945+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.069 seconds
+[2022-10-25T14:29:55.596+0000] {processor.py:156} INFO - Started process (PID=25985) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:29:55.598+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:29:55.600+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:55.600+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:29:55.609+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:29:55.651+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.064 seconds
+[2022-10-25T14:30:16.878+0000] {processor.py:156} INFO - Started process (PID=27218) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:16.883+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:30:16.888+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:16.887+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:16.906+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:16.963+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.102 seconds
+[2022-10-25T14:30:40.221+0000] {processor.py:156} INFO - Started process (PID=26442) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:40.224+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:30:40.227+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:40.227+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:40.241+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:30:40.327+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.120 seconds
+[2022-10-25T14:31:08.808+0000] {processor.py:156} INFO - Started process (PID=27741) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:08.812+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:31:08.815+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:08.814+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:08.835+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:08.906+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.110 seconds
+[2022-10-25T14:31:31.115+0000] {processor.py:156} INFO - Started process (PID=26894) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:31.120+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:31:31.126+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:31.125+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:31.139+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:31.232+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.126 seconds
+[2022-10-25T14:31:58.112+0000] {processor.py:156} INFO - Started process (PID=28228) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:58.123+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:31:58.189+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:58.188+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:58.280+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:31:58.341+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.244 seconds
+[2022-10-25T14:32:21.277+0000] {processor.py:156} INFO - Started process (PID=27381) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:21.281+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:32:21.284+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:21.284+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:21.295+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:21.329+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.058 seconds
+[2022-10-25T14:32:40.361+0000] {processor.py:156} INFO - Started process (PID=28662) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:40.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:32:40.378+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:40.378+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:40.410+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:32:40.472+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.124 seconds
+[2022-10-25T14:33:03.824+0000] {processor.py:156} INFO - Started process (PID=27827) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:03.828+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:33:03.832+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:03.831+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:03.850+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:03.930+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.124 seconds
+[2022-10-25T14:33:18.206+0000] {processor.py:156} INFO - Started process (PID=29048) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:18.209+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:33:18.212+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:18.212+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:18.225+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:18.271+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.075 seconds
+[2022-10-25T14:33:46.807+0000] {processor.py:156} INFO - Started process (PID=28259) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:46.811+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:33:46.814+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:46.813+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:46.829+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:46.867+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.072 seconds
+[2022-10-25T14:33:57.180+0000] {processor.py:156} INFO - Started process (PID=29466) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:57.185+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:33:57.189+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:57.189+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:57.206+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:33:57.259+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.092 seconds
+[2022-10-25T14:34:55.720+0000] {processor.py:156} INFO - Started process (PID=28491) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:34:55.723+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:34:55.726+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:55.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:34:55.739+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:34:55.785+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.074 seconds
+[2022-10-25T14:35:21.645+0000] {processor.py:156} INFO - Started process (PID=29934) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:21.651+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:35:21.655+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:21.654+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:21.666+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:21.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.085 seconds
+[2022-10-25T14:35:41.561+0000] {processor.py:156} INFO - Started process (PID=28960) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:41.564+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:35:41.566+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:41.566+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:41.578+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:35:41.628+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.074 seconds
+[2022-10-25T14:36:05.070+0000] {processor.py:156} INFO - Started process (PID=30404) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:05.074+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:36:05.080+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:05.076+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:05.106+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:05.152+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.094 seconds
+[2022-10-25T14:36:23.438+0000] {processor.py:156} INFO - Started process (PID=29384) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:23.448+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:36:23.457+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:23.457+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:23.490+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:23.553+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.128 seconds
+[2022-10-25T14:36:38.226+0000] {processor.py:156} INFO - Started process (PID=30776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:38.230+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:36:38.236+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:38.236+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:38.250+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:36:38.297+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.081 seconds
+[2022-10-25T14:37:07.121+0000] {processor.py:156} INFO - Started process (PID=29818) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:07.127+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:37:07.129+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:07.129+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:07.142+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:07.185+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.079 seconds
+[2022-10-25T14:37:11.673+0000] {processor.py:156} INFO - Started process (PID=31145) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:11.676+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:37:11.678+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:11.678+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:11.687+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:11.727+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.062 seconds
+[2022-10-25T14:37:46.548+0000] {processor.py:156} INFO - Started process (PID=30240) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:46.552+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:37:46.555+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:46.555+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:46.568+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:37:46.615+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.088 seconds
+[2022-10-25T14:38:01.950+0000] {processor.py:156} INFO - Started process (PID=31683) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:01.955+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:38:01.959+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:01.958+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:01.973+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:02.024+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.082 seconds
+[2022-10-25T14:38:25.210+0000] {processor.py:156} INFO - Started process (PID=30641) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:25.216+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:38:25.219+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:25.218+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:25.234+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:25.267+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.078 seconds
+[2022-10-25T14:38:36.141+0000] {processor.py:156} INFO - Started process (PID=32070) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:36.145+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:38:36.147+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:36.147+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:36.161+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:38:36.199+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.071 seconds
+[2022-10-25T14:39:09.344+0000] {processor.py:156} INFO - Started process (PID=32416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:09.361+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:39:09.365+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:09.364+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:09.387+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:09.443+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.111 seconds
+[2022-10-25T14:39:48.076+0000] {processor.py:156} INFO - Started process (PID=31071) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:48.079+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:39:48.081+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:48.081+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:48.092+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:39:48.134+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.069 seconds
+[2022-10-25T14:40:09.456+0000] {processor.py:156} INFO - Started process (PID=32654) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:09.460+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:40:09.462+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:09.462+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:09.489+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:09.535+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.087 seconds
+[2022-10-25T14:40:37.459+0000] {processor.py:156} INFO - Started process (PID=31590) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:37.462+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:40:37.465+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:37.464+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:37.476+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:37.534+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.085 seconds
+[2022-10-25T14:40:52.281+0000] {processor.py:156} INFO - Started process (PID=33113) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:52.286+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:40:52.289+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:52.288+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:52.307+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:40:52.351+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.087 seconds
+[2022-10-25T14:41:15.702+0000] {processor.py:156} INFO - Started process (PID=31998) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:15.706+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:41:15.710+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:15.710+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:15.723+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:15.785+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.094 seconds
+[2022-10-25T14:41:32.608+0000] {processor.py:156} INFO - Started process (PID=33492) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:32.612+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:41:32.621+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:32.620+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:32.646+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:32.696+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.094 seconds
+[2022-10-25T14:41:52.364+0000] {processor.py:156} INFO - Started process (PID=32388) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:52.367+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:41:52.371+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:52.371+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:52.392+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:41:52.444+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.097 seconds
+[2022-10-25T14:42:15.421+0000] {processor.py:156} INFO - Started process (PID=33978) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:15.425+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:42:15.427+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:15.426+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:15.437+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:15.474+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.063 seconds
+[2022-10-25T14:42:29.844+0000] {processor.py:156} INFO - Started process (PID=32772) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:29.850+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:42:29.853+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:29.853+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:29.863+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:29.920+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.086 seconds
+[2022-10-25T14:42:50.058+0000] {processor.py:156} INFO - Started process (PID=34357) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:50.063+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:42:50.067+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:50.067+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:50.091+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:42:50.157+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.110 seconds
+[2022-10-25T14:43:08.447+0000] {processor.py:156} INFO - Started process (PID=33173) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:08.450+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:43:08.456+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:08.456+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:08.470+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:08.540+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.104 seconds
+[2022-10-25T14:43:36.161+0000] {processor.py:156} INFO - Started process (PID=34873) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:36.172+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:43:36.176+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:36.176+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:36.197+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:36.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.096 seconds
+[2022-10-25T14:43:49.189+0000] {processor.py:156} INFO - Started process (PID=33587) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:49.192+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:43:49.197+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:49.197+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:49.219+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:43:49.272+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.096 seconds
+[2022-10-25T14:59:44.882+0000] {processor.py:156} INFO - Started process (PID=33869) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:59:44.905+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T14:59:44.929+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:44.929+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:59:44.943+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T14:59:44.979+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.108 seconds
+[2022-10-25T15:03:29.742+0000] {processor.py:156} INFO - Started process (PID=35546) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:03:29.774+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:03:29.779+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:29.778+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:03:29.792+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:03:29.829+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.103 seconds
+[2022-10-25T15:04:52.814+0000] {processor.py:156} INFO - Started process (PID=34418) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:04:52.817+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:04:52.819+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:52.818+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:04:52.831+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:04:52.863+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.060 seconds
+[2022-10-25T15:05:05.848+0000] {processor.py:156} INFO - Started process (PID=36095) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:05.853+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:05:05.857+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:05.857+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:05.873+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:05.934+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.096 seconds
+[2022-10-25T15:05:41.559+0000] {processor.py:156} INFO - Started process (PID=34903) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:41.562+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:05:41.566+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:41.565+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:41.579+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:41.639+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.091 seconds
+[2022-10-25T15:05:48.724+0000] {processor.py:156} INFO - Started process (PID=36538) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:48.729+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:05:48.738+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:48.738+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:48.757+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:05:48.816+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.137 seconds
+[2022-10-25T15:06:25.578+0000] {processor.py:156} INFO - Started process (PID=36949) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:25.582+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:06:25.583+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:25.583+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:25.598+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:25.661+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.092 seconds
+[2022-10-25T15:06:26.246+0000] {processor.py:156} INFO - Started process (PID=35348) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:26.249+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:06:26.251+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:26.251+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:26.260+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:06:26.294+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.055 seconds
+[2022-10-25T15:07:05.317+0000] {processor.py:156} INFO - Started process (PID=35745) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:05.322+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:07:05.325+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:05.325+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:05.343+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:05.397+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.090 seconds
+[2022-10-25T15:07:08.492+0000] {processor.py:156} INFO - Started process (PID=37432) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:08.496+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar for tasks to queue
+[2022-10-25T15:07:08.499+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:08.499+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:08.512+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar
+[2022-10-25T15:07:08.562+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/commons-io-2.4.jar took 0.082 seconds

@@ -213,3 +213,298 @@
 [2022-10-25T14:17:45.513+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:45.512+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
 [2022-10-25T14:17:45.537+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
 [2022-10-25T14:17:45.577+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.096 seconds
+[2022-10-25T14:24:53.326+0000] {processor.py:156} INFO - Started process (PID=23368) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:24:53.331+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:24:53.334+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:53.334+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:24:53.349+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:24:53.394+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.082 seconds
+[2022-10-25T14:25:11.839+0000] {processor.py:156} INFO - Started process (PID=24445) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:11.845+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:25:11.853+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:11.852+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:11.872+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:11.944+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.118 seconds
+[2022-10-25T14:25:43.442+0000] {processor.py:156} INFO - Started process (PID=23883) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:43.450+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:25:43.453+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:43.452+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:43.464+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:43.521+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.090 seconds
+[2022-10-25T14:25:59.807+0000] {processor.py:156} INFO - Started process (PID=24961) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:59.811+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:25:59.815+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:59.815+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:59.825+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:25:59.866+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.070 seconds
+[2022-10-25T14:26:27.738+0000] {processor.py:156} INFO - Started process (PID=24296) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:27.743+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:26:27.747+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:27.747+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:27.756+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:27.818+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.095 seconds
+[2022-10-25T14:26:44.027+0000] {processor.py:156} INFO - Started process (PID=25379) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:44.031+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:26:44.034+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:44.034+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:44.042+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:26:44.086+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.074 seconds
+[2022-10-25T14:27:15.518+0000] {processor.py:156} INFO - Started process (PID=24776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:15.520+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:27:15.523+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:15.523+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:15.537+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:15.605+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.099 seconds
+[2022-10-25T14:27:27.426+0000] {processor.py:156} INFO - Started process (PID=25833) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:27.429+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:27:27.433+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:27.433+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:27.441+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:27.484+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.065 seconds
+[2022-10-25T14:27:53.759+0000] {processor.py:156} INFO - Started process (PID=25187) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:53.762+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:27:53.766+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:53.765+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:53.774+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:27:53.822+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.068 seconds
+[2022-10-25T14:28:12.733+0000] {processor.py:156} INFO - Started process (PID=26349) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:12.736+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:28:12.739+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:12.738+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:12.749+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:12.808+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.086 seconds
+[2022-10-25T14:28:43.629+0000] {processor.py:156} INFO - Started process (PID=25710) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:43.636+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:28:43.649+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:43.648+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:43.670+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:43.718+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.103 seconds
+[2022-10-25T14:28:50.580+0000] {processor.py:156} INFO - Started process (PID=26737) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:50.584+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:28:50.589+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:50.589+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:50.603+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:28:50.672+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.121 seconds
+[2022-10-25T14:29:55.991+0000] {processor.py:156} INFO - Started process (PID=25990) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:29:55.994+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:29:55.997+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:55.997+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:29:56.006+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:29:56.049+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.068 seconds
+[2022-10-25T14:30:17.304+0000] {processor.py:156} INFO - Started process (PID=27223) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:17.308+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:30:17.312+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:17.311+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:17.321+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:17.365+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.070 seconds
+[2022-10-25T14:30:40.721+0000] {processor.py:156} INFO - Started process (PID=26447) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:40.724+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:30:40.726+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:40.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:40.738+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:30:40.783+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.072 seconds
+[2022-10-25T14:31:09.381+0000] {processor.py:156} INFO - Started process (PID=27752) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:09.392+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:31:09.405+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:09.405+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:09.431+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:09.507+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.139 seconds
+[2022-10-25T14:31:31.813+0000] {processor.py:156} INFO - Started process (PID=26899) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:31.818+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:31:31.821+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:31.821+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:31.833+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:31.936+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.143 seconds
+[2022-10-25T14:31:58.928+0000] {processor.py:156} INFO - Started process (PID=28233) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:58.936+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:31:58.940+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:58.939+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:58.956+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:31:59.022+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.110 seconds
+[2022-10-25T14:32:21.709+0000] {processor.py:156} INFO - Started process (PID=27386) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:21.713+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:32:21.720+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:21.719+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:21.736+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:21.801+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.104 seconds
+[2022-10-25T14:32:40.943+0000] {processor.py:156} INFO - Started process (PID=28667) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:40.949+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:32:40.953+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:40.952+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:40.965+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:32:41.005+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.071 seconds
+[2022-10-25T14:33:04.366+0000] {processor.py:156} INFO - Started process (PID=27832) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:04.369+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:04.374+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:04.374+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:04.382+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:04.440+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.083 seconds
+[2022-10-25T14:33:18.606+0000] {processor.py:156} INFO - Started process (PID=29053) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:18.618+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:18.643+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:18.643+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:18.657+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:18.722+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.126 seconds
+[2022-10-25T14:33:47.258+0000] {processor.py:156} INFO - Started process (PID=28264) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:47.260+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:47.263+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:47.263+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:47.276+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:47.324+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.075 seconds
+[2022-10-25T14:33:57.763+0000] {processor.py:156} INFO - Started process (PID=29471) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:57.768+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:57.774+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:57.774+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:57.785+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:33:57.838+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.091 seconds
+[2022-10-25T14:34:56.189+0000] {processor.py:156} INFO - Started process (PID=28496) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:34:56.193+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:34:56.195+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:56.195+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:34:56.206+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:34:56.256+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.076 seconds
+[2022-10-25T14:35:22.101+0000] {processor.py:156} INFO - Started process (PID=29939) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:22.104+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:35:22.107+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:22.107+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:22.117+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:22.149+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.060 seconds
+[2022-10-25T14:35:42.021+0000] {processor.py:156} INFO - Started process (PID=28965) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:42.024+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:35:42.027+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:42.027+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:42.045+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:35:42.106+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.095 seconds
+[2022-10-25T14:36:05.510+0000] {processor.py:156} INFO - Started process (PID=30409) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:05.515+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:36:05.519+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:05.518+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:05.527+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:05.582+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.081 seconds
+[2022-10-25T14:36:23.956+0000] {processor.py:156} INFO - Started process (PID=29389) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:23.958+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:36:23.969+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:23.969+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:23.995+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:24.084+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.134 seconds
+[2022-10-25T14:36:38.689+0000] {processor.py:156} INFO - Started process (PID=30781) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:38.693+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:36:38.697+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:38.696+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:38.706+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:36:38.779+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.099 seconds
+[2022-10-25T14:37:07.602+0000] {processor.py:156} INFO - Started process (PID=29823) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:07.606+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:07.614+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:07.614+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:07.622+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:07.667+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.075 seconds
+[2022-10-25T14:37:12.029+0000] {processor.py:156} INFO - Started process (PID=31150) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:12.032+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:12.035+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:12.035+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:12.044+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:12.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.068 seconds
+[2022-10-25T14:37:47.025+0000] {processor.py:156} INFO - Started process (PID=30245) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:47.028+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:47.032+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:47.032+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:47.042+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:37:47.093+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.080 seconds
+[2022-10-25T14:38:02.327+0000] {processor.py:156} INFO - Started process (PID=31688) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:02.330+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:38:02.335+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:02.335+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:02.359+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:02.418+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.103 seconds
+[2022-10-25T14:38:25.648+0000] {processor.py:156} INFO - Started process (PID=30646) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:25.653+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:38:25.656+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:25.656+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:25.668+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:25.724+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.094 seconds
+[2022-10-25T14:38:36.602+0000] {processor.py:156} INFO - Started process (PID=32075) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:36.607+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:38:36.609+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:36.609+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:36.629+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:38:36.673+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.082 seconds
+[2022-10-25T14:39:48.449+0000] {processor.py:156} INFO - Started process (PID=31076) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:39:48.454+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:39:48.457+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:48.457+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:39:48.465+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:39:48.524+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.087 seconds
+[2022-10-25T14:40:09.908+0000] {processor.py:156} INFO - Started process (PID=32659) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:09.912+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:40:09.916+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:09.916+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:09.927+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:09.982+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.089 seconds
+[2022-10-25T14:40:37.916+0000] {processor.py:156} INFO - Started process (PID=31595) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:37.919+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:40:37.929+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:37.929+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:37.944+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:38.005+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.097 seconds
+[2022-10-25T14:40:52.759+0000] {processor.py:156} INFO - Started process (PID=33118) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:52.765+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:40:52.770+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:52.769+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:52.785+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:40:52.854+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.113 seconds
+[2022-10-25T14:41:16.236+0000] {processor.py:156} INFO - Started process (PID=32003) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:16.239+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:41:16.243+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:16.242+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:16.255+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:16.308+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.087 seconds
+[2022-10-25T14:41:33.210+0000] {processor.py:156} INFO - Started process (PID=33497) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:33.213+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:41:33.216+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:33.215+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:33.225+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:33.259+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.058 seconds
+[2022-10-25T14:41:52.926+0000] {processor.py:156} INFO - Started process (PID=32393) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:52.935+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:41:52.939+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:52.939+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:52.965+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:41:53.023+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.126 seconds
+[2022-10-25T14:42:15.821+0000] {processor.py:156} INFO - Started process (PID=33983) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:15.825+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:42:15.828+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:15.828+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:15.834+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:15.869+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.066 seconds
+[2022-10-25T14:42:30.380+0000] {processor.py:156} INFO - Started process (PID=32777) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:30.383+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:42:30.385+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:30.385+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:30.394+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:30.427+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.055 seconds
+[2022-10-25T14:42:50.550+0000] {processor.py:156} INFO - Started process (PID=34362) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:50.553+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:42:50.556+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:50.555+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:50.565+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:42:50.654+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.115 seconds
+[2022-10-25T14:43:09.034+0000] {processor.py:156} INFO - Started process (PID=33178) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:09.039+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:43:09.043+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:09.043+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:09.055+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:09.114+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.090 seconds
+[2022-10-25T14:43:36.634+0000] {processor.py:156} INFO - Started process (PID=34885) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:36.637+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:43:36.641+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:36.640+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:36.650+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:36.688+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.064 seconds
+[2022-10-25T14:43:49.652+0000] {processor.py:156} INFO - Started process (PID=33592) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:49.654+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:43:49.656+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:49.656+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:49.664+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:43:49.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.083 seconds
+[2022-10-25T14:59:45.313+0000] {processor.py:156} INFO - Started process (PID=33874) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:59:45.323+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T14:59:45.326+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:45.326+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:59:45.335+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T14:59:45.378+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.073 seconds
+[2022-10-25T15:03:30.546+0000] {processor.py:156} INFO - Started process (PID=35551) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:03:30.549+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:03:30.552+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:30.552+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:03:30.565+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:03:30.644+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.105 seconds
+[2022-10-25T15:04:53.276+0000] {processor.py:156} INFO - Started process (PID=34423) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:04:53.279+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:04:53.283+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:53.282+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:04:53.291+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:04:53.332+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.064 seconds
+[2022-10-25T15:05:06.273+0000] {processor.py:156} INFO - Started process (PID=36100) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:06.278+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:05:06.280+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:06.280+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:06.299+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:06.354+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.093 seconds
+[2022-10-25T15:05:42.440+0000] {processor.py:156} INFO - Started process (PID=34908) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:42.455+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:05:42.462+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:42.462+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:42.494+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:42.582+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.155 seconds
+[2022-10-25T15:05:49.374+0000] {processor.py:156} INFO - Started process (PID=36543) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:49.377+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:05:49.380+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:49.379+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:49.388+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:05:49.435+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.067 seconds
+[2022-10-25T15:06:26.032+0000] {processor.py:156} INFO - Started process (PID=36954) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.036+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:06:26.039+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:26.039+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.047+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.066 seconds
+[2022-10-25T15:06:26.565+0000] {processor.py:156} INFO - Started process (PID=35353) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.567+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:06:26.574+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:26.573+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.582+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:06:26.611+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.051 seconds
+[2022-10-25T15:07:05.858+0000] {processor.py:156} INFO - Started process (PID=35750) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:05.864+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:07:05.868+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:05.868+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:05.884+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:05.965+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.115 seconds
+[2022-10-25T15:07:09.340+0000] {processor.py:156} INFO - Started process (PID=37437) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:09.376+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar for tasks to queue
+[2022-10-25T15:07:09.383+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:09.382+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:09.398+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar
+[2022-10-25T15:07:09.535+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/curator-client-2.7.1.jar took 0.218 seconds

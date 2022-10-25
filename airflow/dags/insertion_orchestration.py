@@ -34,6 +34,6 @@ def gen_data():
     jf.generate_jsonlines(n_lines=insertions, days= days)
     records = pf.generate_data(n_records=insertions)
     pf.generate_parquet(records=records, days=days)
-    # save_days(days= days+1)
+    save_days(days= days+1)
 
 

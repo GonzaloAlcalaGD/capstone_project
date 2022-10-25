@@ -153,3 +153,208 @@
 [2022-10-25T14:17:07.742+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:07.741+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
 [2022-10-25T14:17:07.760+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
 [2022-10-25T14:17:07.851+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.136 seconds
+[2022-10-25T14:25:28.325+0000] {processor.py:156} INFO - Started process (PID=23732) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:28.329+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:25:28.332+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:28.332+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:28.348+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:28.394+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.080 seconds
+[2022-10-25T14:25:45.295+0000] {processor.py:156} INFO - Started process (PID=24812) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:45.299+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:25:45.304+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:45.303+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:45.315+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:25:45.365+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.083 seconds
+[2022-10-25T14:26:20.848+0000] {processor.py:156} INFO - Started process (PID=24256) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:20.851+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:26:20.855+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:20.854+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:20.867+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:20.915+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.078 seconds
+[2022-10-25T14:26:51.134+0000] {processor.py:156} INFO - Started process (PID=25448) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:51.138+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:26:51.141+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:51.141+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:51.169+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:26:51.231+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.108 seconds
+[2022-10-25T14:27:26.628+0000] {processor.py:156} INFO - Started process (PID=24891) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:26.631+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:27:26.634+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:26.634+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:26.644+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:26.682+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.063 seconds
+[2022-10-25T14:27:39.757+0000] {processor.py:156} INFO - Started process (PID=25971) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:39.759+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:27:39.762+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:39.762+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:39.772+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:27:39.810+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.059 seconds
+[2022-10-25T14:28:18.882+0000] {processor.py:156} INFO - Started process (PID=25468) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:18.888+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:28:18.893+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:18.893+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:18.917+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:19.097+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.225 seconds
+[2022-10-25T14:28:26.120+0000] {processor.py:156} INFO - Started process (PID=26498) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:26.123+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:28:26.142+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:26.141+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:26.155+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:28:26.211+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.102 seconds
+[2022-10-25T14:30:09.932+0000] {processor.py:156} INFO - Started process (PID=27148) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:09.939+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:30:09.943+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:09.943+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:09.957+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:10.003+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.087 seconds
+[2022-10-25T14:30:24.226+0000] {processor.py:156} INFO - Started process (PID=26296) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:24.229+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:30:24.232+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:24.232+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:24.243+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:30:24.293+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.075 seconds
+[2022-10-25T14:31:03.541+0000] {processor.py:156} INFO - Started process (PID=27690) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:03.545+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:31:03.548+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:03.547+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:03.557+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:03.599+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.067 seconds
+[2022-10-25T14:31:21.157+0000] {processor.py:156} INFO - Started process (PID=26821) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:21.160+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:31:21.164+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:21.163+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:21.175+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:21.256+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.113 seconds
+[2022-10-25T14:31:50.427+0000] {processor.py:156} INFO - Started process (PID=28147) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:50.440+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:31:50.445+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:50.445+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:50.458+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:31:50.519+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.103 seconds
+[2022-10-25T14:32:15.298+0000] {processor.py:156} INFO - Started process (PID=27344) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:15.302+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:32:15.304+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:15.304+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:15.324+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:15.366+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.087 seconds
+[2022-10-25T14:32:51.442+0000] {processor.py:156} INFO - Started process (PID=28776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:51.449+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:32:51.454+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:51.453+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:51.474+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:32:51.524+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.102 seconds
+[2022-10-25T14:33:20.233+0000] {processor.py:156} INFO - Started process (PID=27981) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:20.237+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:33:20.243+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:20.242+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:20.254+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:20.296+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.076 seconds
+[2022-10-25T14:33:48.531+0000] {processor.py:156} INFO - Started process (PID=29378) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:48.534+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:33:48.536+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:48.536+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:48.547+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:33:48.596+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.075 seconds
+[2022-10-25T14:35:30.334+0000] {processor.py:156} INFO - Started process (PID=28860) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:30.340+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:35:30.343+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:30.342+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:30.354+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:30.410+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.086 seconds
+[2022-10-25T14:35:36.336+0000] {processor.py:156} INFO - Started process (PID=30100) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:36.338+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:35:36.341+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:36.341+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:36.356+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:35:36.407+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.087 seconds
+[2022-10-25T14:36:26.122+0000] {processor.py:156} INFO - Started process (PID=30639) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:26.131+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:36:26.134+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:26.134+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:26.147+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:26.184+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.079 seconds
+[2022-10-25T14:36:34.232+0000] {processor.py:156} INFO - Started process (PID=29493) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:34.241+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:36:34.244+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:34.243+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:34.286+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:36:34.361+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.144 seconds
+[2022-10-25T14:37:16.326+0000] {processor.py:156} INFO - Started process (PID=31195) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:16.329+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:37:16.331+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:16.331+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:16.343+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:16.409+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.092 seconds
+[2022-10-25T14:37:36.927+0000] {processor.py:156} INFO - Started process (PID=30140) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:36.930+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:37:36.934+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:36.933+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:36.948+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:37:37.001+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.083 seconds
+[2022-10-25T14:38:07.240+0000] {processor.py:156} INFO - Started process (PID=31743) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:07.244+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:38:07.248+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:07.247+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:07.259+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:07.299+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.065 seconds
+[2022-10-25T14:38:34.417+0000] {processor.py:156} INFO - Started process (PID=30738) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:34.420+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:38:34.422+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:34.422+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:34.435+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:34.475+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.068 seconds
+[2022-10-25T14:38:56.626+0000] {processor.py:156} INFO - Started process (PID=32286) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:56.634+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:38:56.646+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:56.646+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:56.661+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:38:56.712+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.093 seconds
+[2022-10-25T14:40:22.919+0000] {processor.py:156} INFO - Started process (PID=31444) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:22.924+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:40:22.931+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:22.930+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:22.952+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:23.031+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.131 seconds
+[2022-10-25T14:40:38.553+0000] {processor.py:156} INFO - Started process (PID=32969) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:38.557+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:40:38.559+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:38.559+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:38.569+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:40:38.618+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.074 seconds
+[2022-10-25T14:41:19.761+0000] {processor.py:156} INFO - Started process (PID=32035) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:19.765+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:41:19.769+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:19.768+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:19.781+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:19.820+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.072 seconds
+[2022-10-25T14:41:41.833+0000] {processor.py:156} INFO - Started process (PID=33599) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:41.837+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:41:41.840+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:41.840+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:41.856+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:41:41.894+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.075 seconds
+[2022-10-25T14:42:14.852+0000] {processor.py:156} INFO - Started process (PID=32626) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:14.855+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:42:14.857+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:14.857+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:14.874+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:14.940+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.094 seconds
+[2022-10-25T14:42:37.091+0000] {processor.py:156} INFO - Started process (PID=34213) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:37.095+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:42:37.101+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:37.101+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:37.118+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:42:37.156+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.075 seconds
+[2022-10-25T14:43:13.439+0000] {processor.py:156} INFO - Started process (PID=33227) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:13.442+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:43:13.445+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:13.444+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:13.456+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:13.522+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.094 seconds
+[2022-10-25T14:43:26.105+0000] {processor.py:156} INFO - Started process (PID=34752) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:26.115+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:43:26.121+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:26.120+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:26.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:43:26.196+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.099 seconds
+[2022-10-25T14:44:13.384+0000] {processor.py:156} INFO - Started process (PID=35283) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:44:13.393+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T14:44:13.404+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:13.403+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:44:13.419+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T14:44:13.494+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.121 seconds
+[2022-10-25T15:03:53.931+0000] {processor.py:156} INFO - Started process (PID=34246) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:03:53.934+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:03:53.938+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:53.938+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:03:53.953+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:03:54.021+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.105 seconds
+[2022-10-25T15:04:10.734+0000] {processor.py:156} INFO - Started process (PID=35916) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:04:10.737+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:04:10.739+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:10.739+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:04:10.747+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:04:10.779+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.055 seconds
+[2022-10-25T15:05:27.667+0000] {processor.py:156} INFO - Started process (PID=34786) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:27.676+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:05:27.678+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:27.678+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:27.688+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:27.734+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.075 seconds
+[2022-10-25T15:05:39.306+0000] {processor.py:156} INFO - Started process (PID=36466) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:39.309+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:05:39.314+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:39.313+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:39.324+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:05:39.365+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.066 seconds
+[2022-10-25T15:06:20.516+0000] {processor.py:156} INFO - Started process (PID=35310) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:20.523+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:06:20.527+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:20.526+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:20.541+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:20.588+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.083 seconds
+[2022-10-25T15:06:33.201+0000] {processor.py:156} INFO - Started process (PID=37043) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:33.203+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar for tasks to queue
+[2022-10-25T15:06:33.205+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:33.204+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:33.215+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar
+[2022-10-25T15:06:33.257+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jsp-api-2.1.jar took 0.061 seconds

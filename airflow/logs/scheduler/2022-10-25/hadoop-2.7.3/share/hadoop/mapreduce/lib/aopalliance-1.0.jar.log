@@ -173,3 +173,233 @@
 [2022-10-25T14:17:36.846+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:36.845+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
 [2022-10-25T14:17:36.852+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
 [2022-10-25T14:17:36.913+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.082 seconds
+[2022-10-25T14:25:17.837+0000] {processor.py:156} INFO - Started process (PID=23618) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:17.841+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:25:17.846+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:17.846+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:17.858+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:17.944+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.122 seconds
+[2022-10-25T14:25:35.315+0000] {processor.py:156} INFO - Started process (PID=24700) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:35.318+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:25:35.321+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:35.320+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:35.330+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:25:35.396+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.090 seconds
+[2022-10-25T14:26:08.419+0000] {processor.py:156} INFO - Started process (PID=24142) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:08.422+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:26:08.425+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:08.425+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:08.435+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:08.508+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.098 seconds
+[2022-10-25T14:26:27.725+0000] {processor.py:156} INFO - Started process (PID=25223) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:27.730+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:26:27.733+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:27.733+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:27.741+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:26:27.799+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.086 seconds
+[2022-10-25T14:27:03.718+0000] {processor.py:156} INFO - Started process (PID=24667) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:03.721+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:27:03.724+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:03.724+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:03.730+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:03.782+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.074 seconds
+[2022-10-25T14:27:19.306+0000] {processor.py:156} INFO - Started process (PID=25745) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:19.309+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:27:19.312+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:19.311+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:19.320+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:19.364+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.066 seconds
+[2022-10-25T14:27:58.760+0000] {processor.py:156} INFO - Started process (PID=25255) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:58.767+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:27:58.770+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:58.769+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:58.778+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:27:58.832+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.083 seconds
+[2022-10-25T14:28:07.692+0000] {processor.py:156} INFO - Started process (PID=26293) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:07.695+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:28:07.698+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:07.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:07.714+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:07.771+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.086 seconds
+[2022-10-25T14:28:59.700+0000] {processor.py:156} INFO - Started process (PID=25851) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:59.703+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:28:59.706+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:59.706+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:59.715+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:28:59.800+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.110 seconds
+[2022-10-25T14:29:05.156+0000] {processor.py:156} INFO - Started process (PID=26866) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:29:05.161+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:29:05.166+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:05.166+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:29:05.176+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:29:05.238+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.096 seconds
+[2022-10-25T14:30:19.859+0000] {processor.py:156} INFO - Started process (PID=26251) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:19.865+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:30:19.868+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:19.868+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:19.876+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:19.932+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.090 seconds
+[2022-10-25T14:30:34.274+0000] {processor.py:156} INFO - Started process (PID=27413) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:34.277+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:30:34.282+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:34.281+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:34.294+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:30:34.351+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.088 seconds
+[2022-10-25T14:31:15.270+0000] {processor.py:156} INFO - Started process (PID=26776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:15.278+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:31:15.287+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:15.287+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:15.313+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:15.393+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.137 seconds
+[2022-10-25T14:31:30.582+0000] {processor.py:156} INFO - Started process (PID=27944) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:30.588+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:31:30.597+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:30.597+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:30.611+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:31:30.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.115 seconds
+[2022-10-25T14:32:07.921+0000] {processor.py:156} INFO - Started process (PID=27269) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:07.926+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:32:07.931+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:07.930+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:07.941+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:08.071+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.165 seconds
+[2022-10-25T14:32:30.684+0000] {processor.py:156} INFO - Started process (PID=28551) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:30.688+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:32:30.694+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:30.694+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:30.703+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:30.762+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.101 seconds
+[2022-10-25T14:32:53.005+0000] {processor.py:156} INFO - Started process (PID=27730) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:53.009+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:32:53.015+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:53.015+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:53.022+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:32:53.068+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.073 seconds
+[2022-10-25T14:33:27.117+0000] {processor.py:156} INFO - Started process (PID=29153) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:27.120+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:33:27.123+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:27.123+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:27.131+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:27.171+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.066 seconds
+[2022-10-25T14:33:58.748+0000] {processor.py:156} INFO - Started process (PID=28367) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:58.753+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:33:58.766+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:58.765+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:58.776+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:33:58.861+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.125 seconds
+[2022-10-25T14:35:11.105+0000] {processor.py:156} INFO - Started process (PID=29814) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:11.109+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:35:11.113+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:11.113+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:11.123+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:11.170+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.078 seconds
+[2022-10-25T14:35:19.476+0000] {processor.py:156} INFO - Started process (PID=28746) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:19.479+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:35:19.482+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:19.482+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:19.489+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:19.528+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.063 seconds
+[2022-10-25T14:35:58.147+0000] {processor.py:156} INFO - Started process (PID=30335) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:58.154+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:35:58.158+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:58.158+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:58.167+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:35:58.209+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.072 seconds
+[2022-10-25T14:36:11.166+0000] {processor.py:156} INFO - Started process (PID=29269) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:11.170+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:36:11.172+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:11.172+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:11.179+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:11.225+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.069 seconds
+[2022-10-25T14:36:48.111+0000] {processor.py:156} INFO - Started process (PID=30885) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:48.115+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:36:48.119+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:48.119+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:48.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:36:48.208+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.110 seconds
+[2022-10-25T14:37:14.650+0000] {processor.py:156} INFO - Started process (PID=29903) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:14.661+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:37:14.666+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:14.665+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:14.676+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:14.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.078 seconds
+[2022-10-25T14:37:36.815+0000] {processor.py:156} INFO - Started process (PID=31422) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:36.819+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:37:36.822+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:36.821+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:36.832+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:37:36.897+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.099 seconds
+[2022-10-25T14:38:12.157+0000] {processor.py:156} INFO - Started process (PID=30511) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:12.160+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:38:12.163+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:12.162+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:12.178+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:12.233+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.090 seconds
+[2022-10-25T14:38:29.260+0000] {processor.py:156} INFO - Started process (PID=32000) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:29.263+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:38:29.267+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:29.267+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:29.277+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:38:29.342+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.091 seconds
+[2022-10-25T14:39:53.978+0000] {processor.py:156} INFO - Started process (PID=31136) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:53.984+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:39:53.987+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:53.987+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:53.997+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:54.045+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.074 seconds
+[2022-10-25T14:39:58.869+0000] {processor.py:156} INFO - Started process (PID=32564) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:58.873+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:39:58.876+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:58.875+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:58.884+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:39:58.922+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.067 seconds
+[2022-10-25T14:40:44.103+0000] {processor.py:156} INFO - Started process (PID=31670) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:40:44.107+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:40:44.109+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:44.109+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:40:44.118+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:40:44.168+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.076 seconds
+[2022-10-25T14:41:00.813+0000] {processor.py:156} INFO - Started process (PID=33207) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:00.817+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:41:00.820+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:00.820+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:00.829+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:00.878+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.077 seconds
+[2022-10-25T14:41:38.926+0000] {processor.py:156} INFO - Started process (PID=32257) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:38.930+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:41:38.933+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:38.932+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:38.939+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:41:38.976+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.060 seconds
+[2022-10-25T14:42:05.369+0000] {processor.py:156} INFO - Started process (PID=33887) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:05.377+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:42:05.383+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:05.383+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:05.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:05.462+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.106 seconds
+[2022-10-25T14:42:36.106+0000] {processor.py:156} INFO - Started process (PID=32838) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:36.109+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:42:36.113+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:36.112+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:36.120+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:36.159+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.062 seconds
+[2022-10-25T14:42:57.701+0000] {processor.py:156} INFO - Started process (PID=34448) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:57.705+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:42:57.709+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:57.709+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:57.719+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:42:57.780+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.091 seconds
+[2022-10-25T14:43:36.061+0000] {processor.py:156} INFO - Started process (PID=33456) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:36.067+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:43:36.072+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:36.072+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:36.082+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:36.131+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.083 seconds
+[2022-10-25T14:43:46.006+0000] {processor.py:156} INFO - Started process (PID=34986) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:46.011+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T14:43:46.015+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:46.015+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:46.023+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T14:43:46.058+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.061 seconds
+[2022-10-25T15:03:42.516+0000] {processor.py:156} INFO - Started process (PID=34133) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:42.521+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:03:42.526+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:42.525+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:42.538+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:42.595+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.086 seconds
+[2022-10-25T15:03:59.790+0000] {processor.py:156} INFO - Started process (PID=35805) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:59.793+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:03:59.798+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:59.797+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:59.804+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:03:59.847+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.067 seconds
+[2022-10-25T15:05:17.401+0000] {processor.py:156} INFO - Started process (PID=34679) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:17.413+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:05:17.416+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:17.415+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:17.422+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:17.486+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.099 seconds
+[2022-10-25T15:05:29.247+0000] {processor.py:156} INFO - Started process (PID=36354) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:29.249+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:05:29.252+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:29.252+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:29.263+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:05:29.320+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.082 seconds
+[2022-10-25T15:06:09.903+0000] {processor.py:156} INFO - Started process (PID=35196) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:09.906+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:06:09.908+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:09.908+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:09.917+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:09.980+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.085 seconds
+[2022-10-25T15:06:17.852+0000] {processor.py:156} INFO - Started process (PID=36875) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:17.855+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:06:17.859+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:17.858+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:17.867+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:06:17.915+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.071 seconds
+[2022-10-25T15:07:02.477+0000] {processor.py:156} INFO - Started process (PID=37391) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:02.480+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:07:02.486+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:02.486+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:02.493+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:02.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.103 seconds
+[2022-10-25T15:07:07.932+0000] {processor.py:156} INFO - Started process (PID=35766) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:07.945+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar for tasks to queue
+[2022-10-25T15:07:07.957+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:07.957+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:07.976+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar
+[2022-10-25T15:07:08.104+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/aopalliance-1.0.jar took 0.184 seconds

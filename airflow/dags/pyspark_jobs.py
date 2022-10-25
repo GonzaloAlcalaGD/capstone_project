@@ -48,7 +48,7 @@ with DAG(
 
     trigger_data_unification = TriggerDagRunOperator(
         task_id='trigger_data_unification_dag',
-        trigger_dag_id='unify_datasets'
+        trigger_dag_id='unify_transform_enrich_data'
     )
 
     load_jsonl_data >> load_parquet_data >> load_rdbms_data >> trigger_data_unification

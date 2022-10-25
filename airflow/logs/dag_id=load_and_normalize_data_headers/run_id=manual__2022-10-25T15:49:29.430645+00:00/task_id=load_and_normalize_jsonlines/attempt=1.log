@@ -1,0 +1,47 @@
+[2022-10-25T15:52:41.752+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data_headers.load_and_normalize_jsonlines manual__2022-10-25T15:49:29.430645+00:00 [queued]>
+[2022-10-25T15:52:41.807+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: load_and_normalize_data_headers.load_and_normalize_jsonlines manual__2022-10-25T15:49:29.430645+00:00 [queued]>
+[2022-10-25T15:52:41.814+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T15:52:41.819+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-25T15:52:41.823+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T15:52:41.940+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_normalize_jsonlines> on 2022-10-25 15:49:29.430645+00:00
+[2022-10-25T15:52:42.005+0000] {standard_task_runner.py:54} INFO - Started process 4321 to run task
+[2022-10-25T15:52:42.067+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'load_and_normalize_data_headers', 'load_and_normalize_jsonlines', 'manual__2022-10-25T15:49:29.430645+00:00', '--job-id', '598', '--raw', '--subdir', 'DAGS_FOLDER/pyspark_jobs.py', '--cfg-path', '/tmp/tmpq2d57l0e']
+[2022-10-25T15:52:42.083+0000] {standard_task_runner.py:83} INFO - Job 598: Subtask load_and_normalize_jsonlines
+[2022-10-25T15:52:42.118+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/pyspark_jobs.py
+[2022-10-25T15:52:42.794+0000] {task_command.py:384} INFO - Running <TaskInstance: load_and_normalize_data_headers.load_and_normalize_jsonlines manual__2022-10-25T15:49:29.430645+00:00 [running]> on host faf467258cbc
+[2022-10-25T15:52:43.097+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=load_and_normalize_data_headers
+AIRFLOW_CTX_TASK_ID=load_and_normalize_jsonlines
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T15:49:29.430645+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T15:49:29.430645+00:00
+[2022-10-25T15:52:58.047+0000] {directories.py:15} INFO - Found the following subdirectories ['2022-10-14', '2022-10-17', '2022-10-18', '2022-10-19']
+[2022-10-25T15:52:58.070+0000] {directories.py:24} INFO - Latest folder: 2022-10-19
+[2022-10-25T15:53:15.128+0000] {pyspark_scripts.py:40} INFO - Working with 2 partitions
+[2022-10-25T15:53:16.173+0000] {logging_mixin.py:117} INFO - +---+-------------------+-------------------+------------------+----------+----+
+| id|          timestamp|customer_first_name|customer_last_name|    amount|type|
++---+-------------------+-------------------+------------------+----------+----+
+|465|2022-10-19T04:07:53|            Richard|           Rosario|   $411.39|   0|
+|313|2022-10-19T11:14:35|             Nicole|             Lopez|   $850.09|   1|
+|461|2022-10-18T06:40:28|            Antonio|          Gonzalez|     $2.53|   0|
+|397|2022-10-17T23:17:53|            Kristen|             Patel| $9,323.73|   0|
+|832|2022-10-18T19:26:54|              Dylan|            Warren|   $994.36|   0|
+|784|2022-10-18T10:22:16|               Adam|            Rogers|$81,229.66|   1|
+|166|2022-10-18T06:52:35|              Karla|            Duarte|     $5.66|   1|
+|624|2022-10-18T21:56:29|            Kristen|            Porter|   $206.94|   0|
+|525|2022-10-18T04:48:30|               John|             Brown| $9,474.18|   1|
+|212|2022-10-17T01:03:14|            Michael|            Hudson|$29,771.68|   0|
++---+-------------------+-------------------+------------------+----------+----+
+only showing top 10 rows
+[2022-10-25T15:53:26.326+0000] {pyspark_scripts.py:44} INFO - Normalized dataframe saved into .parquet format into /opt/***/dags/storage/jsonlines_temp
+[2022-10-25T15:53:26.338+0000] {pyspark_scripts.py:10} INFO - Closing spark session...
+[2022-10-25T15:53:27.168+0000] {pyspark_scripts.py:13} INFO - Spark session succesfully closed
+[2022-10-25T15:53:27.170+0000] {pyspark_scripts.py:47} INFO - Spark session and context status: Closed
+[2022-10-25T15:53:27.173+0000] {pyspark_scripts.py:48} INFO - JSONLines Dataframe succesfully loaded and normalized headers.
+[2022-10-25T15:53:27.176+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-25T15:53:27.203+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=load_and_normalize_data_headers, task_id=load_and_normalize_jsonlines, execution_date=20221025T154929, start_date=20221025T155241, end_date=20221025T155327
+[2022-10-25T15:53:27.302+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-25T15:53:27.374+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

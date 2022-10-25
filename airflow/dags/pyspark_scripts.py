@@ -190,7 +190,7 @@ def transform_data(path: str):
     unified_model = unified_model.withColumnRenamed('float_amount', 'amount')
     unified_model = unified_model.withColumnRenamed('t_timestamp', 'timestamp')
     unified_model.show(100)
-    unified_model.write.mode('overwrite').parquet(save_path)
+    unified_model.write.mode('append').parquet(save_path)
     status = close_connection(session= spark, context=sc)
     connection = 'Closed' if status == True else 'Open'
     return logging.info(f'Spark session and context status: {connection}')
@@ -207,7 +207,7 @@ def load_and_enrich_data(path: str):
     conf = SparkConf()
     sc = SparkContext.getOrCreate(conf=conf)
     sc.addFile('/opt/airflow/dags/my_udfs.py')
-    save_path = '/opt/airflow/dags/storage/enriched_data'
+    save_path = 'hdfs://namenode:9000/transformed_unified_and_enriched_dataframe'
 
     catalog = UDFCatalog()
     catalog_sc = sc.broadcast(catalog)
@@ -253,7 +253,7 @@ def load_and_enrich_data(path: str):
     unified_model = unified_model.withColumnRenamed('t_address', 'address')
     unified_model = unified_model.withColumnRenamed('t_customer_id', 'customer_id')
     unified_model.show(100)
-    unified_model.write.mode('overwrite').parquet(save_path)
+    unified_model.write.mode('append').parquet(save_path)
     status = close_connection(session= spark, context=sc)
     connection = 'Closed' if status == True else 'Open'
     return logging.info(f'Spark session and context status: {connection}')
@@ -269,7 +269,7 @@ def load_and_aggregate(path: str):
     conf = SparkConf()
     sc = SparkContext.getOrCreate(conf=conf)
 
-    save_path = '/opt/airflow/dags/storage/aggregations'
+    save_path = 'hdfs://namenode:9000/aggregations'
 
     temporal_df = spark.read.option('header', 'true').parquet(path)
     dump_1 = temporal_df.select('type', 'timestamp', 'amount')
@@ -288,9 +288,9 @@ def load_and_aggregate(path: str):
     logging.info('Working in - Count and sum amount transactions for each city for day -')
     cities_transactions.show(50)
     
-    online_and_offline.write.mode('overwrite').parquet(f'{save_path}/online_offline')
-    store_metrics.write.mode('overwrite').parquet(f'{save_path}/store_metrics')
-    cities_transactions.write.mode('overwrite').parquet(f'{save_path}/cities_transactions')
+    online_and_offline.write.mode('append').parquet(f'{save_path}/online_offline')
+    store_metrics.write.mode('append').parquet(f'{save_path}/store_metrics')
+    cities_transactions.write.mode('append').parquet(f'{save_path}/cities_transactions')
 
     status = close_connection(session= spark, context=sc)
     connection = 'Closed' if status == True else 'Open'

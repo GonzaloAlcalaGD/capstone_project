@@ -168,3 +168,213 @@
 [2022-10-25T14:17:55.674+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:55.673+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
 [2022-10-25T14:17:55.695+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
 [2022-10-25T14:17:55.767+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:25:25.340+0000] {processor.py:156} INFO - Started process (PID=23704) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:25.344+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:25.347+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:25.347+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:25.361+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:25.407+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.075 seconds
+[2022-10-25T14:25:42.624+0000] {processor.py:156} INFO - Started process (PID=24784) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:42.628+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:42.631+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:42.630+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:42.647+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:25:42.704+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.089 seconds
+[2022-10-25T14:26:17.211+0000] {processor.py:156} INFO - Started process (PID=24220) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:17.219+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:17.224+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:17.223+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:17.236+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:17.296+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.097 seconds
+[2022-10-25T14:26:35.028+0000] {processor.py:156} INFO - Started process (PID=25307) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:35.033+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:35.036+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:35.036+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:35.049+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:26:35.101+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.089 seconds
+[2022-10-25T14:27:24.540+0000] {processor.py:156} INFO - Started process (PID=24863) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:24.546+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:24.554+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:24.554+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:24.567+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:24.632+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.100 seconds
+[2022-10-25T14:27:36.985+0000] {processor.py:156} INFO - Started process (PID=25943) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:36.989+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:36.993+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:36.993+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:37.009+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:27:37.054+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:28:15.980+0000] {processor.py:156} INFO - Started process (PID=25440) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:15.983+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:15.986+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:15.986+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:16.007+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:16.052+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.079 seconds
+[2022-10-25T14:28:23.479+0000] {processor.py:156} INFO - Started process (PID=26463) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:23.482+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:23.497+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:23.496+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:23.509+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:28:23.552+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.088 seconds
+[2022-10-25T14:30:07.232+0000] {processor.py:156} INFO - Started process (PID=27113) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:07.237+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:07.242+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:07.242+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:07.267+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:07.341+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.119 seconds
+[2022-10-25T14:30:21.457+0000] {processor.py:156} INFO - Started process (PID=26268) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:21.461+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:21.464+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:21.464+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:21.482+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:30:21.543+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.105 seconds
+[2022-10-25T14:31:00.682+0000] {processor.py:156} INFO - Started process (PID=27662) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:00.685+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:00.693+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:00.693+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:00.706+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:00.761+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.089 seconds
+[2022-10-25T14:31:17.967+0000] {processor.py:156} INFO - Started process (PID=26793) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:17.971+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:17.976+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:17.975+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:17.999+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:18.141+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.197 seconds
+[2022-10-25T14:31:47.604+0000] {processor.py:156} INFO - Started process (PID=28112) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:47.614+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:47.624+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:47.621+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:47.666+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:31:47.758+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.169 seconds
+[2022-10-25T14:32:12.087+0000] {processor.py:156} INFO - Started process (PID=27307) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:12.092+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:12.095+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:12.094+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:12.108+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:12.159+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.100 seconds
+[2022-10-25T14:32:38.141+0000] {processor.py:156} INFO - Started process (PID=28635) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:38.150+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:38.156+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:38.156+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:38.172+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:32:38.232+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.104 seconds
+[2022-10-25T14:33:17.589+0000] {processor.py:156} INFO - Started process (PID=27953) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:17.592+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:17.599+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:17.599+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:17.611+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:17.652+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.072 seconds
+[2022-10-25T14:33:34.906+0000] {processor.py:156} INFO - Started process (PID=29237) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:34.911+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:34.915+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:34.915+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:34.933+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:33:35.004+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.109 seconds
+[2022-10-25T14:35:18.313+0000] {processor.py:156} INFO - Started process (PID=29898) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:18.316+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:18.324+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:18.323+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:18.340+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:18.421+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.115 seconds
+[2022-10-25T14:35:27.886+0000] {processor.py:156} INFO - Started process (PID=28832) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:27.889+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:27.892+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:27.892+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:27.908+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:35:27.982+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.113 seconds
+[2022-10-25T14:36:17.583+0000] {processor.py:156} INFO - Started process (PID=30560) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:17.586+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:17.590+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:17.589+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:17.604+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:17.655+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:36:30.900+0000] {processor.py:156} INFO - Started process (PID=29463) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:30.903+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:30.907+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:30.906+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:30.921+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:36:30.967+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.101 seconds
+[2022-10-25T14:37:08.430+0000] {processor.py:156} INFO - Started process (PID=31109) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:08.434+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:08.438+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:08.438+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:08.452+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:08.497+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.077 seconds
+[2022-10-25T14:37:22.251+0000] {processor.py:156} INFO - Started process (PID=29980) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:22.253+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:22.255+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:22.255+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:22.270+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:22.307+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.064 seconds
+[2022-10-25T14:37:57.163+0000] {processor.py:156} INFO - Started process (PID=31638) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:57.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:57.179+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:57.178+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:57.195+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:37:57.264+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:38:19.724+0000] {processor.py:156} INFO - Started process (PID=30588) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:19.727+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:19.729+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:19.729+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:19.744+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:19.784+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.072 seconds
+[2022-10-25T14:38:47.700+0000] {processor.py:156} INFO - Started process (PID=32201) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:47.704+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:47.708+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:47.707+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:47.717+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:38:47.768+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.075 seconds
+[2022-10-25T14:40:00.777+0000] {processor.py:156} INFO - Started process (PID=31223) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:00.785+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:00.791+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:00.790+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:00.811+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:00.849+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.105 seconds
+[2022-10-25T14:40:36.056+0000] {processor.py:156} INFO - Started process (PID=32941) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:36.059+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:36.062+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:36.062+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:36.073+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:36.120+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.074 seconds
+[2022-10-25T14:40:51.907+0000] {processor.py:156} INFO - Started process (PID=31747) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:51.910+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:51.912+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:51.912+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:51.922+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:40:51.963+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.067 seconds
+[2022-10-25T14:41:39.152+0000] {processor.py:156} INFO - Started process (PID=33571) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:39.154+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:39.157+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:39.157+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:39.171+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:39.216+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.072 seconds
+[2022-10-25T14:41:46.481+0000] {processor.py:156} INFO - Started process (PID=32334) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:46.484+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:46.488+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:46.487+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:46.508+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:41:46.577+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.107 seconds
+[2022-10-25T14:42:26.016+0000] {processor.py:156} INFO - Started process (PID=34093) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:26.022+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:26.025+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:26.024+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:26.040+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:26.098+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.091 seconds
+[2022-10-25T14:42:42.962+0000] {processor.py:156} INFO - Started process (PID=32915) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:42.966+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:42.968+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:42.968+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:42.980+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:42:43.041+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:43:17.762+0000] {processor.py:156} INFO - Started process (PID=34671) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:17.765+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:17.767+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:17.767+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:17.777+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:17.825+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.069 seconds
+[2022-10-25T14:43:43.857+0000] {processor.py:156} INFO - Started process (PID=33542) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:43.862+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:43.865+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:43.865+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:43.877+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:43:43.939+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.090 seconds
+[2022-10-25T14:44:04.501+0000] {processor.py:156} INFO - Started process (PID=35193) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:44:04.506+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T14:44:04.508+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:04.508+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:44:04.519+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T14:44:04.572+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.090 seconds
+[2022-10-25T15:03:49.404+0000] {processor.py:156} INFO - Started process (PID=34210) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:03:49.409+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:03:49.412+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:49.412+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:03:49.426+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:03:49.484+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.089 seconds
+[2022-10-25T15:04:07.615+0000] {processor.py:156} INFO - Started process (PID=35888) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:04:07.620+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:04:07.622+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:07.622+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:04:07.633+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:04:07.689+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.082 seconds
+[2022-10-25T15:05:25.496+0000] {processor.py:156} INFO - Started process (PID=34758) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:25.500+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:25.503+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:25.502+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:25.512+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:25.550+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.062 seconds
+[2022-10-25T15:05:36.881+0000] {processor.py:156} INFO - Started process (PID=36438) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:36.893+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:36.896+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:36.895+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:36.910+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:05:36.952+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.088 seconds
+[2022-10-25T15:06:17.900+0000] {processor.py:156} INFO - Started process (PID=35282) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:17.904+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:17.907+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:17.906+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:17.926+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:17.961+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.074 seconds
+[2022-10-25T15:06:30.690+0000] {processor.py:156} INFO - Started process (PID=37015) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:30.698+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:30.702+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:30.701+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:30.717+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar
+[2022-10-25T15:06:30.754+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-gridmix-2.7.3.jar took 0.071 seconds

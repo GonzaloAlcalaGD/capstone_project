@@ -1,0 +1,42 @@
+[2022-10-25T15:58:37.095+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_unify_data manual__2022-10-25T15:58:33.423691+00:00 [queued]>
+[2022-10-25T15:58:37.123+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_unify_data manual__2022-10-25T15:58:33.423691+00:00 [queued]>
+[2022-10-25T15:58:37.125+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T15:58:37.127+0000] {taskinstance.py:1363} INFO - Starting attempt 1 of 2
+[2022-10-25T15:58:37.129+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T15:58:37.180+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_unify_data> on 2022-10-25 15:58:33.423691+00:00
+[2022-10-25T15:58:37.202+0000] {standard_task_runner.py:54} INFO - Started process 5413 to run task
+[2022-10-25T15:58:37.220+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'load_and_unify_data', 'manual__2022-10-25T15:58:33.423691+00:00', '--job-id', '604', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmphjs055p1']
+[2022-10-25T15:58:37.231+0000] {standard_task_runner.py:83} INFO - Job 604: Subtask load_and_unify_data
+[2022-10-25T15:58:37.234+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-25T15:58:37.469+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_transform_enrich_data.load_and_unify_data manual__2022-10-25T15:58:33.423691+00:00 [running]> on host faf467258cbc
+[2022-10-25T15:58:37.723+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_transform_enrich_data
+AIRFLOW_CTX_TASK_ID=load_and_unify_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T15:58:33.423691+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T15:58:33.423691+00:00
+[2022-10-25T15:59:01.137+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+| id|customer_id|store_id|type|    amount|customer_first_name|customer_last_name|phone_number|     address|          timestamp|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+|386|       null|      11|null|     $5.04|             Colton|            Reeves|        null|        null|2022-10-18T04:05:07|
+|140|         84|    null|null|     $6.82|             Victor|           Johnson|  3667130483| Melissafurt|2022-10-16T03:33:18|
+|520|        264|    null|null|     $5.25|           Jennifer|           Lindsey|  7776183630|Edwardsburgh|2022-10-19T10:43:46|
+|868|       null|    null|   1| $2,739.98|            Mikayla|           Hoffman|        null|        null|2022-10-18T15:55:09|
+|134|        411|    null|null|   $257.59|             Hector|             Baker|  9795357476|    Clayview|2022-10-18T16:38:55|
+|784|       null|    null|   1|$81,229.66|               Adam|            Rogers|        null|        null|2022-10-18T10:22:16|
+|639|        626|    null|null|    $27.42|             Daniel|           Johnson|  1985819695|   Smithberg|2022-10-15T00:55:59|
+|575|       null|       4|null|     $6.52|             Shelby|             Reyes|        null|        null|2022-10-18T13:10:33|
+| 34|        536|    null|null| $9,711.60|            Michael|              Kirk|  2580649831|  Robertland|2022-10-17T16:36:52|
+|485|        136|    null|null|   $559.61|          Stephanie|            Meyers|  2201477739| Veronicaton|2022-10-17T00:42:23|
++---+-----------+--------+----+----------+-------------------+------------------+------------+------------+-------------------+
+only showing top 10 rows
+[2022-10-25T15:59:04.820+0000] {pyspark_scripts.py:10} INFO - Closing spark session...
+[2022-10-25T15:59:05.399+0000] {pyspark_scripts.py:13} INFO - Spark session succesfully closed
+[2022-10-25T15:59:05.404+0000] {pyspark_scripts.py:158} INFO - Spark session and context status: Closed
+[2022-10-25T15:59:05.410+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-25T15:59:05.477+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_transform_enrich_data, task_id=load_and_unify_data, execution_date=20221025T155833, start_date=20221025T155837, end_date=20221025T155905
+[2022-10-25T15:59:05.572+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-25T15:59:05.741+0000] {local_task_job.py:273} INFO - 1 downstream tasks scheduled from follow-on schedule check

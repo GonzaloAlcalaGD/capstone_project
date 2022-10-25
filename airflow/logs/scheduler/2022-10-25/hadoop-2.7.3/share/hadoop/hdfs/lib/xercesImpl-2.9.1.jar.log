@@ -198,3 +198,273 @@
 [2022-10-25T14:17:51.655+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:51.654+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
 [2022-10-25T14:17:51.688+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
 [2022-10-25T14:17:51.716+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.075 seconds
+[2022-10-25T14:25:00.409+0000] {processor.py:156} INFO - Started process (PID=23437) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:00.421+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:25:00.426+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:00.426+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:00.483+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:00.525+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.131 seconds
+[2022-10-25T14:25:18.597+0000] {processor.py:156} INFO - Started process (PID=24514) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:18.601+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:25:18.603+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:18.603+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:18.649+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:18.686+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.100 seconds
+[2022-10-25T14:25:50.488+0000] {processor.py:156} INFO - Started process (PID=23961) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:50.495+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:25:50.498+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:50.498+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:50.562+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:25:50.642+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.165 seconds
+[2022-10-25T14:26:07.896+0000] {processor.py:156} INFO - Started process (PID=25037) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:07.962+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:26:07.965+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:07.965+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:08.106+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:08.198+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.348 seconds
+[2022-10-25T14:26:34.940+0000] {processor.py:156} INFO - Started process (PID=24374) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:34.945+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:26:34.950+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:34.949+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:35.001+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:26:35.049+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.122 seconds
+[2022-10-25T14:27:01.667+0000] {processor.py:156} INFO - Started process (PID=25559) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:01.670+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:27:01.674+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:01.673+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:01.714+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:01.764+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.107 seconds
+[2022-10-25T14:27:22.819+0000] {processor.py:156} INFO - Started process (PID=24847) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:22.826+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:27:22.832+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:22.831+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:22.938+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:23.004+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.201 seconds
+[2022-10-25T14:27:41.240+0000] {processor.py:156} INFO - Started process (PID=25991) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:41.242+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:27:41.244+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:41.244+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:41.289+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:27:41.326+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.094 seconds
+[2022-10-25T14:28:09.294+0000] {processor.py:156} INFO - Started process (PID=25361) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:09.297+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:28:09.299+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:09.299+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:09.327+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:09.356+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.069 seconds
+[2022-10-25T14:28:20.077+0000] {processor.py:156} INFO - Started process (PID=26425) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:20.081+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:28:20.085+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:20.084+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:20.125+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:20.162+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.094 seconds
+[2022-10-25T14:28:52.619+0000] {processor.py:156} INFO - Started process (PID=25787) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:52.622+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:28:52.625+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:52.624+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:52.670+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:28:52.739+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.128 seconds
+[2022-10-25T14:29:16.991+0000] {processor.py:156} INFO - Started process (PID=26964) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:29:16.993+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:29:16.995+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:16.995+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:29:17.040+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:29:17.085+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.107 seconds
+[2022-10-25T14:30:02.551+0000] {processor.py:156} INFO - Started process (PID=26059) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:02.560+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:30:02.562+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:02.561+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:02.613+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:02.701+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.160 seconds
+[2022-10-25T14:30:24.145+0000] {processor.py:156} INFO - Started process (PID=27298) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:24.148+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:30:24.151+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:24.151+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:24.188+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:24.231+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.099 seconds
+[2022-10-25T14:30:48.429+0000] {processor.py:156} INFO - Started process (PID=26525) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:48.433+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:30:48.439+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:48.438+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:48.506+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:30:48.594+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.175 seconds
+[2022-10-25T14:31:18.575+0000] {processor.py:156} INFO - Started process (PID=27822) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:18.580+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:31:18.589+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:18.588+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:18.643+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:18.723+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.157 seconds
+[2022-10-25T14:31:38.897+0000] {processor.py:156} INFO - Started process (PID=26968) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:38.902+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:31:38.909+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:38.908+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:38.955+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:31:38.985+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.098 seconds
+[2022-10-25T14:32:07.297+0000] {processor.py:156} INFO - Started process (PID=28309) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:07.301+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:32:07.304+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:07.304+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:07.350+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:07.407+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.117 seconds
+[2022-10-25T14:32:28.187+0000] {processor.py:156} INFO - Started process (PID=27455) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:28.191+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:32:28.194+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:28.194+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:28.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:28.295+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.119 seconds
+[2022-10-25T14:32:48.585+0000] {processor.py:156} INFO - Started process (PID=28743) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:48.588+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:32:48.591+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:48.591+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:48.636+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:32:48.682+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.107 seconds
+[2022-10-25T14:33:13.034+0000] {processor.py:156} INFO - Started process (PID=27908) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:13.045+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:33:13.049+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:13.049+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:13.149+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:13.209+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.201 seconds
+[2022-10-25T14:33:40.913+0000] {processor.py:156} INFO - Started process (PID=29286) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:40.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:33:40.923+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:40.923+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:40.957+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:33:41.034+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.132 seconds
+[2022-10-25T14:35:01.967+0000] {processor.py:156} INFO - Started process (PID=28565) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:01.972+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:35:01.976+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:01.976+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:02.018+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:02.058+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.102 seconds
+[2022-10-25T14:35:02.487+0000] {processor.py:156} INFO - Started process (PID=29722) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:02.491+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:35:02.494+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:02.493+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:02.539+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:02.578+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.101 seconds
+[2022-10-25T14:35:48.919+0000] {processor.py:156} INFO - Started process (PID=29040) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:48.924+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:35:48.929+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:48.929+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:48.976+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:49.040+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.137 seconds
+[2022-10-25T14:35:49.948+0000] {processor.py:156} INFO - Started process (PID=30242) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:49.959+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:35:49.962+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:49.962+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:50.008+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:35:50.066+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.128 seconds
+[2022-10-25T14:36:40.075+0000] {processor.py:156} INFO - Started process (PID=30793) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:40.078+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:36:40.082+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:40.081+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:40.126+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:40.187+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.121 seconds
+[2022-10-25T14:36:41.114+0000] {processor.py:156} INFO - Started process (PID=29557) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:41.117+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:36:41.119+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:41.119+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:41.164+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:36:41.206+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.101 seconds
+[2022-10-25T14:37:23.774+0000] {processor.py:156} INFO - Started process (PID=29998) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:23.777+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:37:23.784+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:23.783+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:23.844+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:23.891+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.126 seconds
+[2022-10-25T14:37:28.642+0000] {processor.py:156} INFO - Started process (PID=31336) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:28.648+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:37:28.655+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:28.655+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:28.700+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:37:28.758+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.131 seconds
+[2022-10-25T14:38:03.873+0000] {processor.py:156} INFO - Started process (PID=31706) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:03.877+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:38:03.879+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:03.879+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:03.925+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:03.967+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.101 seconds
+[2022-10-25T14:38:03.986+0000] {processor.py:156} INFO - Started process (PID=30416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:03.991+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:38:03.994+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:03.993+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:04.052+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:04.107+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.133 seconds
+[2022-10-25T14:38:43.674+0000] {processor.py:156} INFO - Started process (PID=30836) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:43.678+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:38:43.681+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:43.680+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:43.727+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:43.769+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.104 seconds
+[2022-10-25T14:38:52.564+0000] {processor.py:156} INFO - Started process (PID=32249) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:52.567+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:38:52.571+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:52.570+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:52.606+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:38:52.640+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.086 seconds
+[2022-10-25T14:40:05.817+0000] {processor.py:156} INFO - Started process (PID=31270) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:05.822+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:40:05.825+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:05.825+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:05.878+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:05.946+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.145 seconds
+[2022-10-25T14:40:17.176+0000] {processor.py:156} INFO - Started process (PID=32735) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:17.179+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:40:17.182+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:17.181+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:17.217+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:17.261+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.093 seconds
+[2022-10-25T14:40:55.222+0000] {processor.py:156} INFO - Started process (PID=31793) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:55.232+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:40:55.241+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:55.240+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:55.333+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:55.374+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.166 seconds
+[2022-10-25T14:40:59.509+0000] {processor.py:156} INFO - Started process (PID=33194) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:59.511+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:40:59.514+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:59.513+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:59.546+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:40:59.578+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.077 seconds
+[2022-10-25T14:41:33.423+0000] {processor.py:156} INFO - Started process (PID=32187) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:33.427+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:41:33.430+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:33.430+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:33.470+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:33.529+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.117 seconds
+[2022-10-25T14:41:50.913+0000] {processor.py:156} INFO - Started process (PID=33718) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:50.922+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:41:50.925+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:50.925+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:50.963+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:41:51.003+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.096 seconds
+[2022-10-25T14:42:11.955+0000] {processor.py:156} INFO - Started process (PID=32596) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:11.958+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:42:11.965+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:11.965+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:12.013+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:12.055+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.111 seconds
+[2022-10-25T14:42:28.813+0000] {processor.py:156} INFO - Started process (PID=34119) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:28.817+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:42:28.820+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:28.820+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:28.857+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:28.905+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.100 seconds
+[2022-10-25T14:42:50.179+0000] {processor.py:156} INFO - Started process (PID=32992) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:50.184+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:42:50.188+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:50.188+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:50.226+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:42:50.278+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.111 seconds
+[2022-10-25T14:43:09.408+0000] {processor.py:156} INFO - Started process (PID=34575) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:09.412+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:43:09.419+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:09.415+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:09.463+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:09.505+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.104 seconds
+[2022-10-25T14:43:30.260+0000] {processor.py:156} INFO - Started process (PID=33397) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:30.265+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:43:30.270+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:30.269+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:30.335+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:30.378+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.131 seconds
+[2022-10-25T14:43:56.155+0000] {processor.py:156} INFO - Started process (PID=35097) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:56.158+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T14:43:56.161+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:56.161+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:56.203+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T14:43:56.272+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.129 seconds
+[2022-10-25T15:03:18.966+0000] {processor.py:156} INFO - Started process (PID=33950) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:18.982+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:03:18.984+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:18.984+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:19.039+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:19.139+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.188 seconds
+[2022-10-25T15:03:42.298+0000] {processor.py:156} INFO - Started process (PID=35620) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:42.300+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:03:42.302+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:42.302+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:42.351+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:03:42.406+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.116 seconds
+[2022-10-25T15:04:59.830+0000] {processor.py:156} INFO - Started process (PID=34492) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:04:59.835+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:04:59.838+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:59.837+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:04:59.879+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:04:59.930+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.107 seconds
+[2022-10-25T15:05:13.149+0000] {processor.py:156} INFO - Started process (PID=36169) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:13.152+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:05:13.155+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:13.154+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:13.205+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:13.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.108 seconds
+[2022-10-25T15:05:50.674+0000] {processor.py:156} INFO - Started process (PID=34986) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:50.677+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:05:50.681+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:50.681+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:50.717+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:50.758+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.093 seconds
+[2022-10-25T15:05:55.988+0000] {processor.py:156} INFO - Started process (PID=36612) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:55.991+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:05:55.994+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:55.994+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:56.034+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:05:56.091+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.111 seconds
+[2022-10-25T15:06:33.365+0000] {processor.py:156} INFO - Started process (PID=35431) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:33.368+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:06:33.370+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:33.370+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:33.403+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:33.438+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.082 seconds
+[2022-10-25T15:06:39.665+0000] {processor.py:156} INFO - Started process (PID=37133) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:39.670+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar for tasks to queue
+[2022-10-25T15:06:39.674+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:39.674+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:39.726+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar
+[2022-10-25T15:06:39.773+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/xercesImpl-2.9.1.jar took 0.118 seconds

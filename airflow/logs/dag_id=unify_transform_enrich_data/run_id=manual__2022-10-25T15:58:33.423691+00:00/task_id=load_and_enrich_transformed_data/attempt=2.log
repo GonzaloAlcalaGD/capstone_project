@@ -1,0 +1,132 @@
+[2022-10-25T16:09:17.732+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_transformed_data manual__2022-10-25T15:58:33.423691+00:00 [success]>
+[2022-10-25T16:09:17.763+0000] {taskinstance.py:1165} INFO - Dependencies all met for <TaskInstance: unify_transform_enrich_data.load_and_enrich_transformed_data manual__2022-10-25T15:58:33.423691+00:00 [success]>
+[2022-10-25T16:09:17.765+0000] {taskinstance.py:1362} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T16:09:17.766+0000] {taskinstance.py:1363} INFO - Starting attempt 2 of 2
+[2022-10-25T16:09:17.769+0000] {taskinstance.py:1364} INFO - 
+--------------------------------------------------------------------------------
+[2022-10-25T16:09:17.793+0000] {taskinstance.py:1383} INFO - Executing <Task(PythonOperator): load_and_enrich_transformed_data> on 2022-10-25 15:58:33.423691+00:00
+[2022-10-25T16:09:17.810+0000] {standard_task_runner.py:54} INFO - Started process 7245 to run task
+[2022-10-25T16:09:17.821+0000] {standard_task_runner.py:82} INFO - Running: ['***', 'tasks', 'run', 'unify_transform_enrich_data', 'load_and_enrich_transformed_data', 'manual__2022-10-25T15:58:33.423691+00:00', '--job-id', '609', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/load_and_unify_datasets.py', '--cfg-path', '/tmp/tmpf_picev6']
+[2022-10-25T16:09:17.831+0000] {standard_task_runner.py:83} INFO - Job 609: Subtask load_and_enrich_transformed_data
+[2022-10-25T16:09:17.835+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/***/dags/load_and_unify_datasets.py
+[2022-10-25T16:09:18.105+0000] {task_command.py:384} INFO - Running <TaskInstance: unify_transform_enrich_data.load_and_enrich_transformed_data manual__2022-10-25T15:58:33.423691+00:00 [running]> on host faf467258cbc
+[2022-10-25T16:09:18.315+0000] {taskinstance.py:1592} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=unify_transform_enrich_data
+AIRFLOW_CTX_TASK_ID=load_and_enrich_transformed_data
+AIRFLOW_CTX_EXECUTION_DATE=2022-10-25T15:58:33.423691+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-10-25T15:58:33.423691+00:00
+[2022-10-25T16:10:17.489+0000] {logging_mixin.py:117} INFO - +---+-----------+--------+----+--------+-------------------+------------------+------------+-----------------+----------+
+| id|customer_id|store_id|type|  amount|customer_first_name|customer_last_name|phone_number|          address| timestamp|
++---+-----------+--------+----+--------+-------------------+------------------+------------+-----------------+----------+
+|386|        741|      11|   0|    5.04|             Colton|            Reeves|  3662054258|        Smithberg|2022-10-18|
+|140|         84|      13|   0|    6.82|             Victor|           Johnson|  3667130483|      Melissafurt|2022-10-16|
+|520|        264|      16|   1|    5.25|           Jennifer|           Lindsey|  7776183630|     Edwardsburgh|2022-10-19|
+|868|        835|       3|   1| 2739.98|            Mikayla|           Hoffman|  7895595860|       Robertland|2022-10-18|
+|134|        411|       6|   1|  257.59|             Hector|             Baker|  9795357476|         Clayview|2022-10-18|
+|784|        117|      15|   1|81229.66|               Adam|            Rogers|  2291896642|     West Nichole|2022-10-18|
+|639|        626|       9|   1|   27.42|             Daniel|           Johnson|  1985819695|        Smithberg|2022-10-15|
+|575|        539|       4|   1|    6.52|             Shelby|             Reyes|  0900396146|        Smithberg|2022-10-18|
+| 34|        536|       3|   0|  9711.6|            Michael|              Kirk|  2580649831|       Robertland|2022-10-17|
+|485|        136|       4|   0|  559.61|          Stephanie|            Meyers|  2201477739|      Veronicaton|2022-10-17|
+|718|        504|      14|   0|  958.85|             Taylor|             Clark|  6711955273|        Erikville|2022-10-18|
+|591|        788|      10|   0|    6.58|              Karen|             Wyatt|  0971363069|        Smithberg|2022-10-14|
+|178|        435|       3|   0| 3125.46|           Nicholas|           Ballard|  9615254147|     Edwardsburgh|2022-10-18|
+|646|          8|       5|   0|   88.13|            Vanessa|            Kelley|  7829699887|      Veronicaton|2022-10-18|
+|660|        569|      12|   0| 9920.84|               Mark|              Wade|  1806206561|      Melissafurt|2022-10-19|
+|217|        392|       1|   1|    3.06|              Brian|             Silva|  0623222253|New Marthaborough|2022-10-19|
+|204|        809|       2|   1| 4823.75|            William|          Crawford|  1625265089|      Veronicaton|2022-10-15|
+|328|        392|       6|   1|    49.9|             Denise|           Herrera|  2785146162|       Averymouth|2022-10-16|
+|605|        186|       7|   1| 3030.65|              Shaun|            Pineda|  4506390143|      Veronicaton|2022-10-19|
+|337|        873|      15|   0|    2.77|            Tiffany|          Townsend|  5279649418|         Clayview|2022-10-18|
+|803|         71|       8|   1|   59.22|              Derek|             Kirby|  1266625225|      Veronicaton|2022-10-19|
+|754|         58|       5|   0|  375.12|            Kenneth|           Johnson|  6953770302|      Lake Karina|2022-10-17|
+|674|        116|      19|   1|    5.08|             Justin|              Ball|  5575090507|     Edwardsburgh|2022-10-18|
+|295|        274|      13|   1|    5.72|              Bobby|              Mora|  0838178468|        Erikville|2022-10-15|
+|823|        384|      12|   0|38306.78|             Elaine|           Gregory|  6468800462|        Smithberg|2022-10-19|
+|183|        146|      14|   1| 9624.66|              Peter|          Phillips|  2429240649|New Marthaborough|2022-10-16|
+|271|        614|       4|   0| 4809.66|            Michael|             Jones|  0547746515|Port Benjaminfurt|2022-10-18|
+| 46|        529|       7|   1| 2327.24|               Lisa|            Bailey|  4973938578|    Michelleburgh|2022-10-16|
+|448|        273|       1|   0|  703.06|              Bryan|           Elliott|  7336223783|     West Nichole|2022-10-19|
+|459|        719|       1|   1|    3.77|            Charles|          Williams|  9613309234|     West Nichole|2022-10-16|
+|439|        169|      14|   1|  698.04|             Elaine|             Clark|  2153555105|      Melissafurt|2022-10-15|
+|888|         45|      10|   0|29393.13|               Jill|           Roberts|  6618321684|         Clayview|2022-10-19|
+|275|        355|      15|   0| 10601.0|            Maureen|             Brown|  0626326870|         Allenton|2022-10-18|
+|385|        450|       2|   0|32274.61|               Eric|               Cox|  2676859295|       Grahamstad|2022-10-19|
+|151|        439|       2|   1|  276.06|              James|           Simmons|  4802457681|      Lake Karina|2022-10-17|
+|267|        385|       5|   1|55178.82|              Nancy|             Lopez|  2034595050|       Grahamstad|2022-10-19|
+|682|        165|       4|   1| 2036.32|            Vanessa|            Spears|  6358999903|         Clayview|2022-10-14|
+|353|        815|       5|   0|36566.43|              Brett|              Love|  4847915749|         Clayview|2022-10-16|
+|499|        176|       2|   1|  290.07|               Luis|            Chavez|  3756820872|      Lake Karina|2022-10-17|
+|857|        584|       8|   1| 8188.02|              Emily|             Allen|  6265321791|    Michelleburgh|2022-10-17|
+|568|        613|       2|   0| 4486.76|              Diane|              Neal|  2829216722|  Lake Jamesville|2022-10-15|
+|627|        385|       9|   1|    7.68|            Kathryn|             Watts|  4540285490|        Hicksview|2022-10-15|
+|433|         27|       2|   0|   64.17|           Jennifer|            Martin|  4328381563|        Erikville|2022-10-17|
+|630|        397|      10|   1|  543.32|             Yvonne|           Serrano|  5473330964|     Brownchester|2022-10-18|
+|397|         48|      17|   0| 9323.73|            Kristen|             Patel|  0156999855|       Robertland|2022-10-17|
+|415|        136|      15|   1|   57.79|               Eric|             Myers|  1404442777|       Robertland|2022-10-18|
+|184|        364|       1|   0|    5.73|            Valerie|            Santos|  5552135462|      Melissafurt|2022-10-17|
+|808|        620|       1|   0|  723.26|              Becky|            Turner|  3969111249|  Lake Jamesville|2022-10-15|
+|211|        340|       5|   1|  944.29|            Brendan|            Coffey|  3197926189|       Robertland|2022-10-17|
+|448|        273|      13|   0|  703.06|               Mary|          Ferguson|  7753772749|      Melissafurt|2022-10-19|
+|182|        127|       8|   1|   84.51|           Caroline|             Lynch|  5715512851|Port Benjaminfurt|2022-10-15|
+|737|        466|       3|   0|   74.78|            Jessica|             Clark|  7744447737|New Marthaborough|2022-10-17|
+|316|         79|       9|   0|16634.08|             Shelby|          Callahan|  5223380977|  Lake Jamesville|2022-10-18|
+|835|        132|       9|   0|58136.34|        Christopher|          Peterson|  3192230540|New Marthaborough|2022-10-19|
+|182|        858|      18|   0|    3.96|              David|             Fritz|  2269893411|  Lake Jamesville|2022-10-17|
+|384|         31|       7|   1| 7147.02|            Anthony|            Dunlap|  7183132918|         Lanefurt|2022-10-17|
+|356|        240|       4|   0|    1.24|             Daniel|               Cox|  5814225842|       Averymouth|2022-10-18|
+|674|        116|      15|   0|    5.08|            Francis|            Oliver|  8392065202|      Veronicaton|2022-10-18|
+|431|        860|      16|   1|   38.73|            Zachary|            Walker|  5043885156|     Brownchester|2022-10-18|
+|866|        383|       6|   1| 8658.74|             Lauren|            Holden|  6622451875|     Brownchester|2022-10-16|
+|364|        403|      12|   1| 9708.21|           Virginia|             Brown|  1615971124|  Lake Jamesville|2022-10-16|
+|281|        155|      16|   1|  167.04|            Patrick|             Jones|  0303262302|         Allenton|2022-10-17|
+|712|        676|       1|   0|    4.49|             Joshua|            Jordan|  0561479046|      Lake Karina|2022-10-17|
+|229|        310|      11|   1|21539.22|              Derek|            Fowler|  6925819857|        Erikville|2022-10-17|
+|801|         60|      11|   1|   94.86|              Maria|            Howell|  2663533626|      Melissafurt|2022-10-18|
+|692|        666|      16|   1| 1072.52|           Brittany|         Velazquez|  1770293997|New Marthaborough|2022-10-18|
+|674|        446|      18|   1|20530.42|            Francis|            Oliver|  8392065202|      Veronicaton|2022-10-16|
+|507|        557|       6|   1| 50884.6|             Andrea|          Thompson|  1866506323|Port Benjaminfurt|2022-10-15|
+|625|        435|      12|   0|    2.02|             Austin|            Chavez|  7397572268|       Averymouth|2022-10-18|
+|230|        272|      13|   1|11580.59|            Melissa|           Freeman|  0664882417|      Veronicaton|2022-10-17|
+|717|        870|      19|   1|   20.11|            Michael|              Ward|  0434832877|      Lake Karina|2022-10-17|
+|400|        676|      19|   0| 4147.19|             Olivia|            Sparks|  2527764938|      Veronicaton|2022-10-16|
+|530|        117|       1|   0|   68.22|        Christopher|           Wallace|  2139631761|    Michelleburgh|2022-10-19|
+|262|        724|       2|   1|   116.8|             Alicia|            Valdez|  4083463243|     West Nichole|2022-10-17|
+| 10|        114|      16|   0| 4373.21|            Bradley|            Taylor|  3961580002|       Grahamstad|2022-10-17|
+|774|        535|       2|   0| 5556.58|             Wesley|             Ellis|  3088803521|    Port Loriview|2022-10-18|
+|488|        118|      17|   1|    1.28|            Patrick|            Duncan|  0682859842|       Grahamstad|2022-10-17|
+|648|        885|      17|   0|   31.15|                Amy|           Edwards|  7223733528|     Brownchester|2022-10-18|
+|796|        194|       3|   1|  867.54|               Mary|           Watkins|  6347344779|     Brownchester|2022-10-17|
+|666|         80|       9|   1|   88.15|               Mike|            Conner|  2250272259|New Marthaborough|2022-10-15|
+|592|        620|       6|   0|  875.86|            Shelley|              Cruz|  6762625794|         Clayview|2022-10-19|
+|243|        618|      12|   1|    45.8|             Joseph|             Davis|  2257797585|    Michelleburgh|2022-10-19|
+|549|        815|      13|   0| 1713.75|              James|          Johnston|  7242984331|        Erikville|2022-10-17|
+|459|        256|       4|   0|    1.91|            Charles|          Williams|  9613309234|     West Nichole|2022-10-18|
+|793|        336|       9|   0|   73.11|              Randy|             Fritz|  1856695403|      Melissafurt|2022-10-19|
+| 34|         65|       4|   1|   50.71|            Michael|              Kirk|  2580649831|       Robertland|2022-10-17|
+|154|        544|      17|   1|  128.15|               Mary|           Shelton|  3266303442|    Port Loriview|2022-10-16|
+|873|         83|      11|   1|    7.05|           Reginald|           Fleming|  2845657965|New Marthaborough|2022-10-16|
+|506|        304|       6|   1|  536.97|           Jennifer|          Martinez|  6760631043|         Lanefurt|2022-10-15|
+|650|        476|       1|   1|    3.63|              April|             Smith|  4471755560|     Brownchester|2022-10-17|
+|789|        517|      20|   0|   54.61|              Kelly|             Clark|  3909953782|New Marthaborough|2022-10-18|
+| 72|        484|       2|   1| 4769.99|              Scott|            Herman|  9606694432|     West Nichole|2022-10-17|
+|554|        851|       8|   1|  524.82|           Virginia|             Stone|  9572139131|Port Benjaminfurt|2022-10-15|
+|117|        729|      20|   1|    9.03|           Jeremiah|            Turner|  2293594715|         Lanefurt|2022-10-17|
+|512|        304|      11|   1| 7492.01|             Amanda|              Wood|  4185777522|      Lake Karina|2022-10-17|
+| 26|        646|       2|   0|   74.99|               Dawn|         Rodriguez|  2290947774|        Erikville|2022-10-16|
+|593|          1|       6|   0|    8.99|              Jared|            Mullen|  3558113086|        Erikville|2022-10-18|
+|594|         27|      14|   1| 3505.75|            Matthew|          Anderson|  5299696472|        Smithberg|2022-10-17|
+| 69|        134|       8|   1|  871.78|               Ryan|             Evans|  8962327881|     West Nichole|2022-10-19|
+|467|        185|      19|   0|93965.17|               Chad|           Stanley|  5245500111|        Smithberg|2022-10-16|
++---+-----------+--------+----+--------+-------------------+------------------+------------+-----------------+----------+
+only showing top 100 rows
+[2022-10-25T16:11:02.588+0000] {pyspark_scripts.py:10} INFO - Closing spark session...
+[2022-10-25T16:11:03.311+0000] {pyspark_scripts.py:13} INFO - Spark session succesfully closed
+[2022-10-25T16:11:03.313+0000] {pyspark_scripts.py:259} INFO - Spark session and context status: Closed
+[2022-10-25T16:11:03.315+0000] {python.py:177} INFO - Done. Returned value was: None
+[2022-10-25T16:11:03.356+0000] {taskinstance.py:1406} INFO - Marking task as SUCCESS. dag_id=unify_transform_enrich_data, task_id=load_and_enrich_transformed_data, execution_date=20221025T155833, start_date=20221025T160917, end_date=20221025T161103
+[2022-10-25T16:11:03.474+0000] {local_task_job.py:164} INFO - Task exited with return code 0
+[2022-10-25T16:11:03.518+0000] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -208,3 +208,283 @@
 [2022-10-25T14:17:49.016+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:49.016+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
 [2022-10-25T14:17:49.028+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
 [2022-10-25T14:17:49.061+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.056 seconds
+[2022-10-25T14:24:56.812+0000] {processor.py:156} INFO - Started process (PID=23401) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:24:56.818+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:24:56.822+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:56.821+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:24:56.843+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:24:56.892+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.088 seconds
+[2022-10-25T14:25:15.099+0000] {processor.py:156} INFO - Started process (PID=24478) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:15.103+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:25:15.107+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:15.107+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:15.123+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:15.175+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.091 seconds
+[2022-10-25T14:25:46.573+0000] {processor.py:156} INFO - Started process (PID=23916) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:46.579+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:25:46.583+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:46.583+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:46.602+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:25:46.642+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.080 seconds
+[2022-10-25T14:26:03.318+0000] {processor.py:156} INFO - Started process (PID=25001) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:03.324+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:26:03.330+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:03.330+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:03.350+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:03.395+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.085 seconds
+[2022-10-25T14:26:31.007+0000] {processor.py:156} INFO - Started process (PID=24329) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:31.010+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:26:31.014+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:31.014+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:31.035+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:31.077+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.080 seconds
+[2022-10-25T14:26:47.443+0000] {processor.py:156} INFO - Started process (PID=25412) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:47.447+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:26:47.451+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:47.450+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:47.470+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:26:47.542+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.107 seconds
+[2022-10-25T14:27:18.948+0000] {processor.py:156} INFO - Started process (PID=24811) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:18.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:27:18.955+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:18.954+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:18.973+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:19.044+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.111 seconds
+[2022-10-25T14:27:30.332+0000] {processor.py:156} INFO - Started process (PID=25866) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:30.336+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:27:30.345+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:30.345+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:30.363+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:27:30.409+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.099 seconds
+[2022-10-25T14:28:06.154+0000] {processor.py:156} INFO - Started process (PID=25325) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:06.159+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:28:06.162+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:06.161+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:06.183+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:06.223+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.077 seconds
+[2022-10-25T14:28:15.884+0000] {processor.py:156} INFO - Started process (PID=26389) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:15.886+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:28:15.890+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:15.889+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:15.904+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:15.953+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.079 seconds
+[2022-10-25T14:28:47.462+0000] {processor.py:156} INFO - Started process (PID=25743) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:47.466+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:28:47.470+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:47.469+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:47.493+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:47.583+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.133 seconds
+[2022-10-25T14:28:54.780+0000] {processor.py:156} INFO - Started process (PID=26770) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:54.783+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:28:54.787+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:54.786+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:54.807+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:28:54.882+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.113 seconds
+[2022-10-25T14:29:58.889+0000] {processor.py:156} INFO - Started process (PID=26023) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:29:58.891+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:29:58.894+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:58.893+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:29:58.909+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:29:58.954+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.075 seconds
+[2022-10-25T14:30:20.533+0000] {processor.py:156} INFO - Started process (PID=27262) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:20.536+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:30:20.538+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:20.538+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:20.553+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:20.587+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.062 seconds
+[2022-10-25T14:30:44.352+0000] {processor.py:156} INFO - Started process (PID=26486) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:44.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:30:44.359+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:44.359+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:44.379+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:30:44.429+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.087 seconds
+[2022-10-25T14:31:13.768+0000] {processor.py:156} INFO - Started process (PID=27786) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:13.772+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:31:13.779+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:13.779+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:13.800+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:13.860+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.103 seconds
+[2022-10-25T14:31:35.576+0000] {processor.py:156} INFO - Started process (PID=26932) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:35.579+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:31:35.581+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:35.581+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:35.596+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:31:35.639+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.072 seconds
+[2022-10-25T14:32:03.922+0000] {processor.py:156} INFO - Started process (PID=28273) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:03.928+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:32:03.931+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:03.931+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:03.946+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:03.984+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.071 seconds
+[2022-10-25T14:32:24.707+0000] {processor.py:156} INFO - Started process (PID=27419) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:24.711+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:32:24.713+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:24.713+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:24.731+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:24.786+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.091 seconds
+[2022-10-25T14:32:44.734+0000] {processor.py:156} INFO - Started process (PID=28707) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:44.736+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:32:44.739+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:44.738+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:44.786+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:32:44.844+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.118 seconds
+[2022-10-25T14:33:08.609+0000] {processor.py:156} INFO - Started process (PID=27865) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:08.612+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:33:08.614+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:08.614+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:08.633+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:08.682+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.082 seconds
+[2022-10-25T14:33:21.502+0000] {processor.py:156} INFO - Started process (PID=29086) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:21.508+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:33:21.511+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:21.511+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:21.537+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:21.583+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.095 seconds
+[2022-10-25T14:33:50.606+0000] {processor.py:156} INFO - Started process (PID=28297) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:50.608+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:33:50.611+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:50.610+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:50.632+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:33:50.700+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.103 seconds
+[2022-10-25T14:34:03.571+0000] {processor.py:156} INFO - Started process (PID=29510) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:03.577+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:34:03.582+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:03.582+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:03.611+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:03.653+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.094 seconds
+[2022-10-25T14:34:58.743+0000] {processor.py:156} INFO - Started process (PID=28529) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:58.747+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:34:58.750+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:58.749+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:58.765+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:34:58.796+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.060 seconds
+[2022-10-25T14:35:25.287+0000] {processor.py:156} INFO - Started process (PID=29978) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:25.293+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:35:25.297+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:25.297+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:25.321+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:25.373+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.098 seconds
+[2022-10-25T14:35:45.406+0000] {processor.py:156} INFO - Started process (PID=28998) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:45.411+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:35:45.413+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:45.413+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:45.427+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:35:45.463+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.063 seconds
+[2022-10-25T14:36:08.598+0000] {processor.py:156} INFO - Started process (PID=30449) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:08.602+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:36:08.605+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:08.605+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:08.620+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:08.663+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.075 seconds
+[2022-10-25T14:36:27.638+0000] {processor.py:156} INFO - Started process (PID=29422) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:27.641+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:36:27.644+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:27.643+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:27.662+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:27.707+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.079 seconds
+[2022-10-25T14:36:57.269+0000] {processor.py:156} INFO - Started process (PID=30987) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:57.272+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:36:57.274+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:57.274+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:57.294+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:36:57.338+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.074 seconds
+[2022-10-25T14:37:10.721+0000] {processor.py:156} INFO - Started process (PID=29856) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:10.727+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:37:10.744+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:10.742+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:10.785+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:10.839+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.127 seconds
+[2022-10-25T14:37:45.727+0000] {processor.py:156} INFO - Started process (PID=31517) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:45.730+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:37:45.732+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:45.732+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:45.749+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:45.810+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.093 seconds
+[2022-10-25T14:37:50.437+0000] {processor.py:156} INFO - Started process (PID=30278) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:50.443+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:37:50.450+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:50.448+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:50.462+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:37:50.504+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.076 seconds
+[2022-10-25T14:38:20.420+0000] {processor.py:156} INFO - Started process (PID=31897) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:20.434+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:38:20.437+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:20.437+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:20.460+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:20.516+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.113 seconds
+[2022-10-25T14:38:29.341+0000] {processor.py:156} INFO - Started process (PID=30679) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:29.345+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:38:29.357+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:29.356+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:29.374+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:38:29.433+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.099 seconds
+[2022-10-25T14:39:11.107+0000] {processor.py:156} INFO - Started process (PID=32440) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:11.118+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:39:11.126+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:11.125+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:11.146+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:11.185+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.087 seconds
+[2022-10-25T14:39:51.583+0000] {processor.py:156} INFO - Started process (PID=31109) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:51.587+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:39:51.592+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:51.591+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:51.614+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:39:51.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.102 seconds
+[2022-10-25T14:40:13.323+0000] {processor.py:156} INFO - Started process (PID=32699) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:13.336+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:40:13.339+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:13.339+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:13.360+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:13.401+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.091 seconds
+[2022-10-25T14:40:40.852+0000] {processor.py:156} INFO - Started process (PID=31635) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:40.857+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:40:40.860+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:40.859+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:40.875+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:40.940+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.105 seconds
+[2022-10-25T14:40:55.730+0000] {processor.py:156} INFO - Started process (PID=33158) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:55.733+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:40:55.737+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:55.736+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:55.752+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:40:55.802+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.083 seconds
+[2022-10-25T14:41:29.585+0000] {processor.py:156} INFO - Started process (PID=32151) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:29.588+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:41:29.591+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:29.591+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:29.611+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:29.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.094 seconds
+[2022-10-25T14:41:35.938+0000] {processor.py:156} INFO - Started process (PID=33538) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:35.941+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:41:35.945+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:35.944+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:35.965+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:41:36.022+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.093 seconds
+[2022-10-25T14:42:07.882+0000] {processor.py:156} INFO - Started process (PID=32560) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:07.892+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:42:07.903+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:07.902+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:07.940+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:08.031+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.160 seconds
+[2022-10-25T14:42:18.955+0000] {processor.py:156} INFO - Started process (PID=34016) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:18.959+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:42:18.961+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:18.961+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:18.979+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:19.027+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.081 seconds
+[2022-10-25T14:42:46.159+0000] {processor.py:156} INFO - Started process (PID=32956) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:46.164+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:42:46.172+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:46.172+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:46.191+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:42:46.238+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.092 seconds
+[2022-10-25T14:43:06.184+0000] {processor.py:156} INFO - Started process (PID=34539) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:06.192+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:43:06.197+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:06.196+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:06.214+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:06.247+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.082 seconds
+[2022-10-25T14:43:26.050+0000] {processor.py:156} INFO - Started process (PID=33353) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:26.053+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:43:26.055+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:26.055+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:26.067+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:26.133+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.090 seconds
+[2022-10-25T14:43:52.741+0000] {processor.py:156} INFO - Started process (PID=35061) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:52.748+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:43:52.758+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:52.757+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:52.774+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:43:52.820+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.088 seconds
+[2022-10-25T14:59:48.072+0000] {processor.py:156} INFO - Started process (PID=33907) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:59:48.076+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T14:59:48.079+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:48.079+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:59:48.100+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T14:59:48.172+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.108 seconds
+[2022-10-25T15:03:37.418+0000] {processor.py:156} INFO - Started process (PID=35584) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:03:37.430+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:03:37.434+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:37.434+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:03:37.498+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:03:37.603+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.210 seconds
+[2022-10-25T15:04:56.304+0000] {processor.py:156} INFO - Started process (PID=34456) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:04:56.309+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:04:56.315+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:56.312+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:04:56.330+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:04:56.388+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.094 seconds
+[2022-10-25T15:05:08.708+0000] {processor.py:156} INFO - Started process (PID=36133) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:08.713+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:05:08.721+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:08.721+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:08.736+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:08.779+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.080 seconds
+[2022-10-25T15:05:45.819+0000] {processor.py:156} INFO - Started process (PID=34948) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:45.822+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:05:45.826+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:45.825+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:45.841+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:45.878+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.077 seconds
+[2022-10-25T15:05:52.698+0000] {processor.py:156} INFO - Started process (PID=36576) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:52.705+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:05:52.710+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:52.709+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:52.734+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:05:52.778+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.095 seconds
+[2022-10-25T15:06:29.499+0000] {processor.py:156} INFO - Started process (PID=35395) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:29.504+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:06:29.511+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:29.510+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:29.538+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:29.618+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.129 seconds
+[2022-10-25T15:06:36.535+0000] {processor.py:156} INFO - Started process (PID=37089) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:36.541+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar for tasks to queue
+[2022-10-25T15:06:36.544+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:36.543+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:36.555+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar
+[2022-10-25T15:06:36.614+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/protobuf-java-2.5.0.jar took 0.086 seconds

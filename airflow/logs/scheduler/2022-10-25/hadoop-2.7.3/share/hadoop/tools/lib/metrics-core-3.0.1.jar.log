@@ -153,3 +153,208 @@
 [2022-10-25T14:17:08.188+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:08.188+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
 [2022-10-25T14:17:08.200+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
 [2022-10-25T14:17:08.258+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.088 seconds
+[2022-10-25T14:25:28.710+0000] {processor.py:156} INFO - Started process (PID=23736) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:28.714+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:25:28.718+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:28.718+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:28.749+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:28.808+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.108 seconds
+[2022-10-25T14:25:45.586+0000] {processor.py:156} INFO - Started process (PID=24816) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:45.591+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:25:45.594+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:45.594+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:45.606+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:25:45.646+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.069 seconds
+[2022-10-25T14:26:35.683+0000] {processor.py:156} INFO - Started process (PID=24380) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:35.699+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:26:35.702+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:35.701+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:35.716+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:35.799+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.136 seconds
+[2022-10-25T14:26:51.556+0000] {processor.py:156} INFO - Started process (PID=25452) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:51.559+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:26:51.564+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:51.563+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:51.574+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:26:51.610+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.070 seconds
+[2022-10-25T14:27:26.917+0000] {processor.py:156} INFO - Started process (PID=24895) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:26.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:27:26.922+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:26.922+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:26.933+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:26.972+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.064 seconds
+[2022-10-25T14:27:40.014+0000] {processor.py:156} INFO - Started process (PID=25975) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:40.017+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:27:40.019+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:40.019+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:40.032+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:27:40.072+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.066 seconds
+[2022-10-25T14:28:19.476+0000] {processor.py:156} INFO - Started process (PID=25472) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:19.480+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:28:19.482+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:19.482+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:19.490+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:19.529+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.063 seconds
+[2022-10-25T14:28:26.706+0000] {processor.py:156} INFO - Started process (PID=26502) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:26.711+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:28:26.714+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:26.714+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:26.725+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:28:26.793+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.097 seconds
+[2022-10-25T14:30:10.235+0000] {processor.py:156} INFO - Started process (PID=27152) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:10.237+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:30:10.241+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:10.240+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:10.252+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:10.307+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.081 seconds
+[2022-10-25T14:30:24.558+0000] {processor.py:156} INFO - Started process (PID=26300) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:24.561+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:30:24.564+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:24.563+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:24.573+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:30:24.608+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.056 seconds
+[2022-10-25T14:31:03.992+0000] {processor.py:156} INFO - Started process (PID=27694) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:03.995+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:31:03.999+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:03.998+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:04.009+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:04.059+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.073 seconds
+[2022-10-25T14:31:21.605+0000] {processor.py:156} INFO - Started process (PID=26825) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:21.609+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:31:21.612+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:21.612+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:21.625+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:31:21.683+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.091 seconds
+[2022-10-25T14:32:15.769+0000] {processor.py:156} INFO - Started process (PID=27348) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.773+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:32:15.777+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:15.776+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.785+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.889+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.138 seconds
+[2022-10-25T14:32:15.899+0000] {processor.py:156} INFO - Started process (PID=28400) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.902+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:32:15.906+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:15.905+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.923+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:32:15.998+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.114 seconds
+[2022-10-25T14:33:13.911+0000] {processor.py:156} INFO - Started process (PID=29001) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:13.915+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:33:13.918+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:13.918+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:13.928+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:14.011+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.111 seconds
+[2022-10-25T14:33:20.518+0000] {processor.py:156} INFO - Started process (PID=27985) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:20.522+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:33:20.524+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:20.524+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:20.534+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:33:20.576+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.067 seconds
+[2022-10-25T14:34:14.643+0000] {processor.py:156} INFO - Started process (PID=29626) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:34:14.648+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:34:14.650+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:14.649+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:34:14.661+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:34:14.728+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.095 seconds
+[2022-10-25T14:35:30.683+0000] {processor.py:156} INFO - Started process (PID=28864) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:30.687+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:35:30.691+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:30.691+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:30.705+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:30.770+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.105 seconds
+[2022-10-25T14:35:36.676+0000] {processor.py:156} INFO - Started process (PID=30104) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:36.680+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:35:36.683+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:36.682+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:36.695+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:35:36.761+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.098 seconds
+[2022-10-25T14:36:26.547+0000] {processor.py:156} INFO - Started process (PID=30650) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:26.551+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:36:26.554+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:26.553+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:26.564+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:26.599+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.063 seconds
+[2022-10-25T14:36:34.717+0000] {processor.py:156} INFO - Started process (PID=29497) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:34.721+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:36:34.723+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:34.723+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:34.734+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:36:34.782+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.084 seconds
+[2022-10-25T14:37:16.773+0000] {processor.py:156} INFO - Started process (PID=31199) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:16.778+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:37:16.782+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:16.782+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:16.802+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:16.889+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.137 seconds
+[2022-10-25T14:37:37.262+0000] {processor.py:156} INFO - Started process (PID=30144) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:37.269+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:37:37.275+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:37.274+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:37.287+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:37:37.333+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.087 seconds
+[2022-10-25T14:38:07.527+0000] {processor.py:156} INFO - Started process (PID=31747) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:07.530+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:38:07.533+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:07.533+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:07.544+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:07.597+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.078 seconds
+[2022-10-25T14:38:34.764+0000] {processor.py:156} INFO - Started process (PID=30742) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:34.768+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:38:34.772+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:34.771+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:34.783+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:34.843+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.097 seconds
+[2022-10-25T14:38:56.969+0000] {processor.py:156} INFO - Started process (PID=32290) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:56.978+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:38:56.981+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:56.980+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:56.990+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:38:57.044+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.083 seconds
+[2022-10-25T14:40:23.310+0000] {processor.py:156} INFO - Started process (PID=31448) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:23.324+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:40:23.328+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:23.328+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:23.349+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:23.393+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.093 seconds
+[2022-10-25T14:40:39.010+0000] {processor.py:156} INFO - Started process (PID=32973) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:39.014+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:40:39.017+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:39.017+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:39.030+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:40:39.076+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.077 seconds
+[2022-10-25T14:41:20.168+0000] {processor.py:156} INFO - Started process (PID=32039) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:20.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:41:20.177+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:20.177+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:20.193+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:20.242+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.091 seconds
+[2022-10-25T14:41:42.128+0000] {processor.py:156} INFO - Started process (PID=33603) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:42.131+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:41:42.133+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:42.132+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:42.143+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:41:42.182+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.061 seconds
+[2022-10-25T14:42:15.234+0000] {processor.py:156} INFO - Started process (PID=32630) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:15.239+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:42:15.242+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:15.242+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:15.252+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:15.305+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.089 seconds
+[2022-10-25T14:42:37.457+0000] {processor.py:156} INFO - Started process (PID=34217) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:37.460+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:42:37.464+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:37.463+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:37.481+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:42:37.526+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.076 seconds
+[2022-10-25T14:43:13.761+0000] {processor.py:156} INFO - Started process (PID=33233) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:13.764+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:43:13.767+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:13.766+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:13.775+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:13.804+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.050 seconds
+[2022-10-25T14:43:26.451+0000] {processor.py:156} INFO - Started process (PID=34763) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:26.454+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:43:26.458+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:26.458+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:26.474+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:43:26.519+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.075 seconds
+[2022-10-25T14:44:13.735+0000] {processor.py:156} INFO - Started process (PID=35287) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:44:13.738+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T14:44:13.741+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:13.741+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:44:13.753+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T14:44:13.795+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.067 seconds
+[2022-10-25T15:03:54.637+0000] {processor.py:156} INFO - Started process (PID=34250) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:03:54.640+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:03:54.643+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:54.642+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:03:54.654+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:03:54.701+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.075 seconds
+[2022-10-25T15:04:10.993+0000] {processor.py:156} INFO - Started process (PID=35920) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:04:10.997+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:04:11.001+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:11.000+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:04:11.024+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:04:11.077+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.096 seconds
+[2022-10-25T15:05:28.093+0000] {processor.py:156} INFO - Started process (PID=34790) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:28.096+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:05:28.100+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:28.099+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:28.112+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:28.158+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.072 seconds
+[2022-10-25T15:05:39.606+0000] {processor.py:156} INFO - Started process (PID=36470) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:39.611+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:05:39.614+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:39.614+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:39.622+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:05:40.630+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 1.032 seconds
+[2022-10-25T15:06:20.802+0000] {processor.py:156} INFO - Started process (PID=35314) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:20.806+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:06:20.809+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:20.809+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:20.822+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:20.866+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.079 seconds
+[2022-10-25T15:06:33.428+0000] {processor.py:156} INFO - Started process (PID=37047) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:33.430+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar for tasks to queue
+[2022-10-25T15:06:33.431+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:33.431+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:33.439+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar
+[2022-10-25T15:06:33.473+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/metrics-core-3.0.1.jar took 0.051 seconds

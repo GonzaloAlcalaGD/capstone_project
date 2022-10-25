@@ -173,3 +173,238 @@
 [2022-10-25T14:17:34.867+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:34.867+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
 [2022-10-25T14:17:34.892+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
 [2022-10-25T14:17:34.959+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.108 seconds
+[2022-10-25T14:25:16.005+0000] {processor.py:156} INFO - Started process (PID=23598) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:16.011+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:25:16.018+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:16.018+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:16.051+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:16.114+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.118 seconds
+[2022-10-25T14:25:33.605+0000] {processor.py:156} INFO - Started process (PID=24680) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:33.608+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:25:33.610+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:33.610+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:33.628+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:25:33.678+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.081 seconds
+[2022-10-25T14:26:06.176+0000] {processor.py:156} INFO - Started process (PID=24122) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:06.181+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:26:06.185+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:06.185+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:06.215+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:06.278+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.116 seconds
+[2022-10-25T14:26:25.557+0000] {processor.py:156} INFO - Started process (PID=25203) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:25.562+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:26:25.567+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:25.567+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:25.611+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:26:25.685+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.137 seconds
+[2022-10-25T14:27:01.318+0000] {processor.py:156} INFO - Started process (PID=24645) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:01.323+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:27:01.325+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:01.325+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:01.343+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:01.402+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.097 seconds
+[2022-10-25T14:27:17.035+0000] {processor.py:156} INFO - Started process (PID=25725) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:17.040+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:27:17.046+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:17.046+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:17.071+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:17.121+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.099 seconds
+[2022-10-25T14:27:56.956+0000] {processor.py:156} INFO - Started process (PID=25233) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:56.960+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:27:56.963+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:56.963+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:56.987+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:27:57.025+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.079 seconds
+[2022-10-25T14:28:06.109+0000] {processor.py:156} INFO - Started process (PID=26273) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:06.112+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:28:06.115+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:06.114+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:06.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:06.170+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.072 seconds
+[2022-10-25T14:28:57.738+0000] {processor.py:156} INFO - Started process (PID=25831) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:57.754+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:28:57.772+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:57.771+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:57.824+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:28:57.896+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.166 seconds
+[2022-10-25T14:29:02.710+0000] {processor.py:156} INFO - Started process (PID=26846) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:29:02.713+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:29:02.719+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:02.718+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:29:02.747+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:29:02.813+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.110 seconds
+[2022-10-25T14:30:17.963+0000] {processor.py:156} INFO - Started process (PID=26231) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:17.967+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:30:17.976+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:17.975+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:18.013+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:18.111+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.171 seconds
+[2022-10-25T14:30:32.227+0000] {processor.py:156} INFO - Started process (PID=27393) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:32.230+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:30:32.234+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:32.233+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:32.256+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:30:32.309+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.093 seconds
+[2022-10-25T14:31:12.350+0000] {processor.py:156} INFO - Started process (PID=26747) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:12.356+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:31:12.360+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:12.359+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:12.382+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:12.565+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.228 seconds
+[2022-10-25T14:31:27.524+0000] {processor.py:156} INFO - Started process (PID=27917) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:27.529+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:31:27.533+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:27.533+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:27.561+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:31:27.621+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.107 seconds
+[2022-10-25T14:32:06.068+0000] {processor.py:156} INFO - Started process (PID=27249) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:06.072+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:32:06.076+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:06.076+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:06.115+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:06.170+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.116 seconds
+[2022-10-25T14:32:28.319+0000] {processor.py:156} INFO - Started process (PID=28531) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:28.322+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:32:28.324+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:28.324+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:28.352+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:28.427+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.120 seconds
+[2022-10-25T14:32:51.282+0000] {processor.py:156} INFO - Started process (PID=27710) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:51.285+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:32:51.289+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:51.289+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:51.330+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:32:51.378+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.111 seconds
+[2022-10-25T14:33:25.017+0000] {processor.py:156} INFO - Started process (PID=29133) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:25.021+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:33:25.025+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:25.024+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:25.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:25.092+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.082 seconds
+[2022-10-25T14:33:55.957+0000] {processor.py:156} INFO - Started process (PID=28345) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:55.960+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:33:55.965+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:55.965+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:56.000+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:33:56.064+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.118 seconds
+[2022-10-25T14:34:13.832+0000] {processor.py:156} INFO - Started process (PID=29618) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:34:13.836+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:34:13.842+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:13.840+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:34:13.876+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:34:13.936+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.130 seconds
+[2022-10-25T14:35:17.165+0000] {processor.py:156} INFO - Started process (PID=28726) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:17.169+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:35:17.172+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:17.171+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:17.198+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:17.258+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.106 seconds
+[2022-10-25T14:35:34.775+0000] {processor.py:156} INFO - Started process (PID=30079) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:34.779+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:35:34.781+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:34.781+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:34.808+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:35:34.849+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.080 seconds
+[2022-10-25T14:36:09.182+0000] {processor.py:156} INFO - Started process (PID=29249) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:09.188+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:36:09.191+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:09.191+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:09.212+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:09.270+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.110 seconds
+[2022-10-25T14:36:24.899+0000] {processor.py:156} INFO - Started process (PID=30625) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:24.909+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:36:24.921+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:24.921+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:24.946+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:24.991+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.102 seconds
+[2022-10-25T14:36:56.391+0000] {processor.py:156} INFO - Started process (PID=29718) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:56.393+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:36:56.396+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:56.396+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:56.413+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:36:56.466+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.086 seconds
+[2022-10-25T14:37:14.833+0000] {processor.py:156} INFO - Started process (PID=31181) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:14.836+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:37:14.840+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:14.840+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:14.867+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:14.910+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.087 seconds
+[2022-10-25T14:37:55.831+0000] {processor.py:156} INFO - Started process (PID=30335) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:55.834+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:37:55.837+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:55.837+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:55.855+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:37:55.895+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.075 seconds
+[2022-10-25T14:38:06.073+0000] {processor.py:156} INFO - Started process (PID=31729) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:06.077+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:38:06.081+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:06.081+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:06.100+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:06.146+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.086 seconds
+[2022-10-25T14:38:54.156+0000] {processor.py:156} INFO - Started process (PID=30944) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:54.165+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:38:54.169+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:54.169+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:54.211+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:54.290+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.148 seconds
+[2022-10-25T14:38:55.027+0000] {processor.py:156} INFO - Started process (PID=32272) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:55.032+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:38:55.037+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:55.037+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:55.066+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:38:55.121+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.110 seconds
+[2022-10-25T14:40:20.072+0000] {processor.py:156} INFO - Started process (PID=31416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:20.085+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:40:20.094+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:20.092+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:20.111+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:20.176+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.116 seconds
+[2022-10-25T14:40:31.700+0000] {processor.py:156} INFO - Started process (PID=32894) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:31.704+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:40:31.719+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:31.719+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:31.766+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:40:31.819+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.132 seconds
+[2022-10-25T14:41:08.251+0000] {processor.py:156} INFO - Started process (PID=31937) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:08.255+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:41:08.259+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:08.259+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:08.281+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:08.317+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.074 seconds
+[2022-10-25T14:41:20.103+0000] {processor.py:156} INFO - Started process (PID=33416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:20.106+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:41:20.109+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:20.109+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:20.131+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:41:20.173+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.076 seconds
+[2022-10-25T14:42:03.184+0000] {processor.py:156} INFO - Started process (PID=32505) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:03.187+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:42:03.190+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:03.189+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:03.209+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:03.251+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.076 seconds
+[2022-10-25T14:42:21.989+0000] {processor.py:156} INFO - Started process (PID=34045) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:21.994+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:42:21.998+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:21.996+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:22.017+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:42:22.063+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.083 seconds
+[2022-10-25T14:43:01.540+0000] {processor.py:156} INFO - Started process (PID=33114) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:01.544+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:43:01.546+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:01.546+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:01.568+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:01.618+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.087 seconds
+[2022-10-25T14:43:13.739+0000] {processor.py:156} INFO - Started process (PID=34623) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:13.743+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:43:13.746+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:13.746+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:13.776+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:43:13.845+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.115 seconds
+[2022-10-25T14:44:00.572+0000] {processor.py:156} INFO - Started process (PID=35152) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:44:00.576+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T14:44:00.578+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:00.578+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:44:00.609+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T14:44:00.645+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.084 seconds
+[2022-10-25T15:03:40.901+0000] {processor.py:156} INFO - Started process (PID=34113) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:40.905+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:03:40.916+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:40.913+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:40.933+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:40.994+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.112 seconds
+[2022-10-25T15:03:58.212+0000] {processor.py:156} INFO - Started process (PID=35785) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:58.215+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:03:58.217+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:58.217+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:58.239+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:03:58.283+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.079 seconds
+[2022-10-25T15:05:15.012+0000] {processor.py:156} INFO - Started process (PID=34652) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:15.021+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:05:15.026+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:15.024+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:15.053+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:15.118+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.116 seconds
+[2022-10-25T15:05:27.596+0000] {processor.py:156} INFO - Started process (PID=36334) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:27.599+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:05:27.602+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:27.601+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:27.615+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:05:27.651+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.064 seconds
+[2022-10-25T15:06:08.044+0000] {processor.py:156} INFO - Started process (PID=35176) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:08.047+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:06:08.050+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:08.050+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:08.068+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:08.104+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.068 seconds
+[2022-10-25T15:06:15.911+0000] {processor.py:156} INFO - Started process (PID=36849) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:15.914+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:06:15.917+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:15.916+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:15.950+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:16.007+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.104 seconds
+[2022-10-25T15:06:53.757+0000] {processor.py:156} INFO - Started process (PID=35661) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:53.760+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:06:53.763+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:53.763+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:53.782+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:06:53.831+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.083 seconds
+[2022-10-25T15:07:00.599+0000] {processor.py:156} INFO - Started process (PID=37371) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:07:00.605+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar for tasks to queue
+[2022-10-25T15:07:00.611+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:00.610+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:07:00.646+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar
+[2022-10-25T15:07:00.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/log4j-1.2.17.jar took 0.130 seconds

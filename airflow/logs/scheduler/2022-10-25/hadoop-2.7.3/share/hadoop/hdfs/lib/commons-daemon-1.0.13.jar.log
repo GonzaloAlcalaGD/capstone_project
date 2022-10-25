@@ -203,3 +203,278 @@
 [2022-10-25T14:17:50.246+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:50.245+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
 [2022-10-25T14:17:50.252+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
 [2022-10-25T14:17:50.281+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.048 seconds
+[2022-10-25T14:24:58.352+0000] {processor.py:156} INFO - Started process (PID=23418) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:24:58.356+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:24:58.360+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:58.359+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:24:58.369+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:24:58.419+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.083 seconds
+[2022-10-25T14:25:16.969+0000] {processor.py:156} INFO - Started process (PID=24495) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:16.974+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:25:16.976+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:16.976+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:16.983+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:17.020+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.059 seconds
+[2022-10-25T14:25:48.223+0000] {processor.py:156} INFO - Started process (PID=23940) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:48.227+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:25:48.230+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:48.229+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:48.243+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:25:48.284+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.077 seconds
+[2022-10-25T14:26:05.182+0000] {processor.py:156} INFO - Started process (PID=25018) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:05.187+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:26:05.191+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:05.190+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:05.203+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:05.289+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.117 seconds
+[2022-10-25T14:26:32.819+0000] {processor.py:156} INFO - Started process (PID=24353) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:32.825+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:26:32.832+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:32.831+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:32.848+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:32.946+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.138 seconds
+[2022-10-25T14:26:49.366+0000] {processor.py:156} INFO - Started process (PID=25429) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:49.380+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:26:49.383+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:49.382+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:49.391+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:26:49.426+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.071 seconds
+[2022-10-25T14:27:20.404+0000] {processor.py:156} INFO - Started process (PID=24828) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:20.413+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:27:20.428+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:20.426+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:20.442+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:20.503+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.114 seconds
+[2022-10-25T14:27:31.845+0000] {processor.py:156} INFO - Started process (PID=25883) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:31.857+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:27:31.861+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:31.860+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:31.870+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:27:31.920+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.092 seconds
+[2022-10-25T14:28:07.642+0000] {processor.py:156} INFO - Started process (PID=25342) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:07.646+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:28:07.649+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:07.649+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:07.657+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:07.694+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.060 seconds
+[2022-10-25T14:28:17.866+0000] {processor.py:156} INFO - Started process (PID=26406) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:17.874+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:28:17.881+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:17.880+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:17.890+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:17.973+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.132 seconds
+[2022-10-25T14:28:49.791+0000] {processor.py:156} INFO - Started process (PID=25760) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:49.799+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:28:49.804+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:49.804+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:49.814+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:28:49.867+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.093 seconds
+[2022-10-25T14:29:14.832+0000] {processor.py:156} INFO - Started process (PID=26937) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:29:14.835+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:29:14.838+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:14.837+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:29:14.846+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:29:14.886+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.062 seconds
+[2022-10-25T14:30:00.368+0000] {processor.py:156} INFO - Started process (PID=26040) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:00.372+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:30:00.376+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:00.375+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:00.388+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:00.441+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.081 seconds
+[2022-10-25T14:30:22.082+0000] {processor.py:156} INFO - Started process (PID=27279) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:22.086+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:30:22.090+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:22.089+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:22.099+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:22.148+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.078 seconds
+[2022-10-25T14:30:46.247+0000] {processor.py:156} INFO - Started process (PID=26506) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:46.255+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:30:46.259+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:46.259+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:46.280+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:30:46.359+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.137 seconds
+[2022-10-25T14:31:15.959+0000] {processor.py:156} INFO - Started process (PID=27803) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:15.964+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:31:15.968+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:15.968+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:15.988+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:16.048+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.117 seconds
+[2022-10-25T14:31:37.132+0000] {processor.py:156} INFO - Started process (PID=26949) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:37.136+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:31:37.140+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:37.139+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:37.147+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:31:37.200+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.089 seconds
+[2022-10-25T14:32:05.568+0000] {processor.py:156} INFO - Started process (PID=28290) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:05.571+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:32:05.574+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:05.574+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:05.582+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:05.625+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.069 seconds
+[2022-10-25T14:32:26.128+0000] {processor.py:156} INFO - Started process (PID=27436) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:26.133+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:32:26.136+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:26.136+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:26.143+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:26.178+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.060 seconds
+[2022-10-25T14:32:46.635+0000] {processor.py:156} INFO - Started process (PID=28724) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:46.638+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:32:46.643+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:46.642+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:46.650+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:32:46.688+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.059 seconds
+[2022-10-25T14:33:10.369+0000] {processor.py:156} INFO - Started process (PID=27882) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:10.379+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:33:10.385+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:10.384+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:10.405+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:10.466+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.111 seconds
+[2022-10-25T14:33:23.071+0000] {processor.py:156} INFO - Started process (PID=29111) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:23.076+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:33:23.079+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:23.079+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:23.089+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:23.137+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.083 seconds
+[2022-10-25T14:33:52.228+0000] {processor.py:156} INFO - Started process (PID=28314) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:52.231+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:33:52.236+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:52.235+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:52.244+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:33:52.292+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.076 seconds
+[2022-10-25T14:34:05.310+0000] {processor.py:156} INFO - Started process (PID=29527) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:34:05.313+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:34:05.316+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:05.315+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:34:05.322+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:34:05.366+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.063 seconds
+[2022-10-25T14:35:00.260+0000] {processor.py:156} INFO - Started process (PID=28546) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:00.264+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:35:00.267+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:00.266+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:00.275+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:00.317+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.065 seconds
+[2022-10-25T14:35:26.642+0000] {processor.py:156} INFO - Started process (PID=29995) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:26.645+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:35:26.648+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:26.648+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:26.656+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:26.692+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.058 seconds
+[2022-10-25T14:35:46.956+0000] {processor.py:156} INFO - Started process (PID=29015) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:46.959+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:35:46.961+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:46.961+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:46.981+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:35:47.037+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.090 seconds
+[2022-10-25T14:36:10.013+0000] {processor.py:156} INFO - Started process (PID=30466) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:10.021+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:36:10.025+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:10.024+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:10.034+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:10.069+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.068 seconds
+[2022-10-25T14:36:29.402+0000] {processor.py:156} INFO - Started process (PID=29439) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:29.406+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:36:29.416+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:29.415+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:29.426+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:29.468+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.078 seconds
+[2022-10-25T14:36:58.835+0000] {processor.py:156} INFO - Started process (PID=31004) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:58.839+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:36:58.841+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:58.841+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:58.852+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:36:58.901+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.073 seconds
+[2022-10-25T14:37:12.303+0000] {processor.py:156} INFO - Started process (PID=29873) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:12.306+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:37:12.308+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:12.308+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:12.314+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:12.346+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.051 seconds
+[2022-10-25T14:37:47.460+0000] {processor.py:156} INFO - Started process (PID=31534) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:47.463+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:37:47.466+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:47.466+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:47.477+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:37:47.525+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.075 seconds
+[2022-10-25T14:38:02.234+0000] {processor.py:156} INFO - Started process (PID=30397) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:02.239+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:38:02.243+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:02.242+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:02.254+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:02.328+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.104 seconds
+[2022-10-25T14:38:37.986+0000] {processor.py:156} INFO - Started process (PID=32091) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:37.990+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:38:37.992+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:37.992+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:38.001+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:38.044+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.070 seconds
+[2022-10-25T14:38:41.504+0000] {processor.py:156} INFO - Started process (PID=30817) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:41.508+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:38:41.510+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:41.510+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:41.524+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:38:41.571+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.076 seconds
+[2022-10-25T14:40:03.777+0000] {processor.py:156} INFO - Started process (PID=31251) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:03.789+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:40:03.792+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:03.792+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:03.801+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:03.851+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.084 seconds
+[2022-10-25T14:40:15.183+0000] {processor.py:156} INFO - Started process (PID=32716) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:15.186+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:40:15.192+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:15.191+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:15.201+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:15.239+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.065 seconds
+[2022-10-25T14:40:53.528+0000] {processor.py:156} INFO - Started process (PID=31766) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:53.537+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:40:53.540+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:53.540+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:53.549+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:53.595+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.079 seconds
+[2022-10-25T14:40:57.311+0000] {processor.py:156} INFO - Started process (PID=33175) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:57.315+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:40:57.319+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:57.318+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:57.332+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:40:57.377+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.080 seconds
+[2022-10-25T14:41:31.308+0000] {processor.py:156} INFO - Started process (PID=32168) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:31.313+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:41:31.316+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:31.316+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:31.325+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:31.379+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.084 seconds
+[2022-10-25T14:41:37.516+0000] {processor.py:156} INFO - Started process (PID=33555) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:37.519+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:41:37.521+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:37.521+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:37.531+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:41:37.582+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.077 seconds
+[2022-10-25T14:42:10.353+0000] {processor.py:156} INFO - Started process (PID=32577) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:10.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:42:10.358+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:10.357+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:10.367+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:10.413+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.068 seconds
+[2022-10-25T14:42:20.829+0000] {processor.py:156} INFO - Started process (PID=34033) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:20.833+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:42:20.842+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:20.841+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:20.856+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:20.896+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.088 seconds
+[2022-10-25T14:42:48.162+0000] {processor.py:156} INFO - Started process (PID=32973) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:48.166+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:42:48.169+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:48.169+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:48.185+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:42:48.237+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.092 seconds
+[2022-10-25T14:43:07.710+0000] {processor.py:156} INFO - Started process (PID=34556) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:07.714+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:43:07.717+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:07.716+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:07.726+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:07.768+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.069 seconds
+[2022-10-25T14:43:27.752+0000] {processor.py:156} INFO - Started process (PID=33378) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:27.763+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:43:27.774+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:27.773+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:27.791+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:27.872+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.130 seconds
+[2022-10-25T14:43:54.390+0000] {processor.py:156} INFO - Started process (PID=35078) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:54.393+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:43:54.395+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:54.395+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:54.406+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:43:54.461+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.080 seconds
+[2022-10-25T14:59:49.450+0000] {processor.py:156} INFO - Started process (PID=33924) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:59:49.453+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T14:59:49.455+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:49.455+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:59:49.462+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T14:59:49.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.128 seconds
+[2022-10-25T15:03:40.715+0000] {processor.py:156} INFO - Started process (PID=35601) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:03:40.718+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:03:40.721+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:40.720+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:03:40.733+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:03:40.803+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.098 seconds
+[2022-10-25T15:04:58.020+0000] {processor.py:156} INFO - Started process (PID=34473) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:04:58.023+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:04:58.028+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:58.027+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:04:58.034+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:04:58.071+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.059 seconds
+[2022-10-25T15:05:10.299+0000] {processor.py:156} INFO - Started process (PID=36150) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:10.302+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:05:10.305+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:10.305+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:10.316+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:10.477+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.188 seconds
+[2022-10-25T15:05:48.224+0000] {processor.py:156} INFO - Started process (PID=34967) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:48.229+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:05:48.231+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:48.231+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:48.239+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:48.316+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.102 seconds
+[2022-10-25T15:05:54.407+0000] {processor.py:156} INFO - Started process (PID=36593) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:54.413+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:05:54.418+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:54.417+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:54.428+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:05:54.469+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.072 seconds
+[2022-10-25T15:06:31.585+0000] {processor.py:156} INFO - Started process (PID=35412) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:31.591+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:06:31.594+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:31.594+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:31.603+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:31.656+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.085 seconds
+[2022-10-25T15:06:38.061+0000] {processor.py:156} INFO - Started process (PID=37114) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:38.065+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar for tasks to queue
+[2022-10-25T15:06:38.073+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:38.072+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:38.082+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar
+[2022-10-25T15:06:38.136+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-daemon-1.0.13.jar took 0.082 seconds

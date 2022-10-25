@@ -168,3 +168,213 @@
 [2022-10-25T14:17:55.455+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:55.455+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
 [2022-10-25T14:17:55.461+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
 [2022-10-25T14:17:55.493+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.050 seconds
+[2022-10-25T14:25:25.046+0000] {processor.py:156} INFO - Started process (PID=23701) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:25.054+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:25.058+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:25.058+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:25.068+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:25.125+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.092 seconds
+[2022-10-25T14:25:42.312+0000] {processor.py:156} INFO - Started process (PID=24781) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:42.316+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:42.318+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:42.318+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:42.326+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:25:42.381+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.079 seconds
+[2022-10-25T14:26:16.926+0000] {processor.py:156} INFO - Started process (PID=24216) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:16.930+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:16.933+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:16.932+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:16.942+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:16.994+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.082 seconds
+[2022-10-25T14:26:34.737+0000] {processor.py:156} INFO - Started process (PID=25304) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:34.745+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:34.750+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:34.748+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:34.761+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:26:34.817+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.098 seconds
+[2022-10-25T14:27:24.252+0000] {processor.py:156} INFO - Started process (PID=24860) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:24.255+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:24.257+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:24.257+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:24.278+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:24.348+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.105 seconds
+[2022-10-25T14:27:36.747+0000] {processor.py:156} INFO - Started process (PID=25940) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:36.756+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:36.763+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:36.763+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:36.787+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:27:36.848+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.115 seconds
+[2022-10-25T14:28:15.761+0000] {processor.py:156} INFO - Started process (PID=25437) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:15.769+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:15.773+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:15.773+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:15.782+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:15.851+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.109 seconds
+[2022-10-25T14:28:23.278+0000] {processor.py:156} INFO - Started process (PID=26460) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:23.283+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:23.288+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:23.287+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:23.294+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:28:23.342+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.070 seconds
+[2022-10-25T14:30:06.933+0000] {processor.py:156} INFO - Started process (PID=27110) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:06.939+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:06.945+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:06.943+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:06.953+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:06.993+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.074 seconds
+[2022-10-25T14:30:21.219+0000] {processor.py:156} INFO - Started process (PID=26265) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:21.222+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:21.227+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:21.226+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:21.238+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:30:21.304+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.099 seconds
+[2022-10-25T14:31:00.384+0000] {processor.py:156} INFO - Started process (PID=27659) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:00.389+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:00.392+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:00.391+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:00.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:00.446+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.072 seconds
+[2022-10-25T14:31:17.454+0000] {processor.py:156} INFO - Started process (PID=26790) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:17.461+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:17.463+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:17.463+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:17.476+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:17.531+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.095 seconds
+[2022-10-25T14:31:47.228+0000] {processor.py:156} INFO - Started process (PID=28109) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:47.232+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:47.236+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:47.235+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:47.244+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:31:47.312+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.100 seconds
+[2022-10-25T14:32:11.723+0000] {processor.py:156} INFO - Started process (PID=27304) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:11.730+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:11.740+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:11.739+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:11.761+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:11.823+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.117 seconds
+[2022-10-25T14:32:37.888+0000] {processor.py:156} INFO - Started process (PID=28632) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:37.891+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:37.904+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:37.903+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:37.920+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:32:37.973+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:33:17.330+0000] {processor.py:156} INFO - Started process (PID=27950) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:17.333+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:17.336+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:17.336+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:17.342+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:17.395+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.078 seconds
+[2022-10-25T14:33:34.664+0000] {processor.py:156} INFO - Started process (PID=29234) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:34.668+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:34.672+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:34.672+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:34.681+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:33:34.724+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.070 seconds
+[2022-10-25T14:35:18.098+0000] {processor.py:156} INFO - Started process (PID=29895) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:18.101+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:18.104+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:18.104+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:18.112+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:18.155+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.066 seconds
+[2022-10-25T14:35:27.582+0000] {processor.py:156} INFO - Started process (PID=28829) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:27.586+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:27.591+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:27.590+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:27.617+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:35:27.665+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.101 seconds
+[2022-10-25T14:36:17.349+0000] {processor.py:156} INFO - Started process (PID=30557) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:17.352+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:17.354+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:17.354+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:17.361+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:17.436+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:36:30.580+0000] {processor.py:156} INFO - Started process (PID=29453) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:30.584+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:30.588+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:30.588+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:30.602+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:36:30.652+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:37:08.187+0000] {processor.py:156} INFO - Started process (PID=31106) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:08.190+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:08.192+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:08.192+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:08.205+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:08.254+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.082 seconds
+[2022-10-25T14:37:22.046+0000] {processor.py:156} INFO - Started process (PID=29977) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:22.050+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:22.059+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:22.058+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:22.067+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:22.109+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.079 seconds
+[2022-10-25T14:37:56.849+0000] {processor.py:156} INFO - Started process (PID=31635) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:56.853+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:56.856+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:56.856+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:56.864+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:37:56.913+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.076 seconds
+[2022-10-25T14:38:19.472+0000] {processor.py:156} INFO - Started process (PID=30585) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:19.475+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:19.479+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:19.479+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:19.488+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:19.542+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.080 seconds
+[2022-10-25T14:38:47.460+0000] {processor.py:156} INFO - Started process (PID=32198) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:47.463+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:47.467+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:47.467+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:47.478+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:38:47.533+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:40:00.564+0000] {processor.py:156} INFO - Started process (PID=31220) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:00.569+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:00.572+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:00.571+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:00.577+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:00.635+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.082 seconds
+[2022-10-25T14:40:35.763+0000] {processor.py:156} INFO - Started process (PID=32938) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:35.767+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:35.774+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:35.774+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:35.791+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:35.843+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.097 seconds
+[2022-10-25T14:40:51.669+0000] {processor.py:156} INFO - Started process (PID=31744) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:51.672+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:51.674+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:51.674+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:51.680+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:40:51.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.057 seconds
+[2022-10-25T14:41:38.841+0000] {processor.py:156} INFO - Started process (PID=33568) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:38.844+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:38.851+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:38.850+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:38.857+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:38.916+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.093 seconds
+[2022-10-25T14:41:46.210+0000] {processor.py:156} INFO - Started process (PID=32331) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:46.213+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:46.217+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:46.216+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:46.224+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:41:46.285+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.085 seconds
+[2022-10-25T14:42:25.683+0000] {processor.py:156} INFO - Started process (PID=34090) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:25.689+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:25.693+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:25.692+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:25.702+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:25.781+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.109 seconds
+[2022-10-25T14:42:42.598+0000] {processor.py:156} INFO - Started process (PID=32912) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:42.601+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:42.604+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:42.604+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:42.616+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:42:42.694+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.106 seconds
+[2022-10-25T14:43:17.567+0000] {processor.py:156} INFO - Started process (PID=34668) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:17.574+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:17.577+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:17.577+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:17.586+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:17.643+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.085 seconds
+[2022-10-25T14:43:43.544+0000] {processor.py:156} INFO - Started process (PID=33539) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:43.552+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:43.557+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:43.556+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:43.565+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:43:43.620+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.087 seconds
+[2022-10-25T14:44:04.264+0000] {processor.py:156} INFO - Started process (PID=35190) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:44:04.271+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T14:44:04.275+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:04.275+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:44:04.286+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T14:44:04.344+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.106 seconds
+[2022-10-25T15:03:49.056+0000] {processor.py:156} INFO - Started process (PID=34207) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:03:49.059+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:03:49.066+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:49.066+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:03:49.083+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:03:49.143+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.097 seconds
+[2022-10-25T15:04:07.094+0000] {processor.py:156} INFO - Started process (PID=35885) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:04:07.106+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:04:07.120+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:07.120+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:04:07.149+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:04:07.222+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.150 seconds
+[2022-10-25T15:05:25.260+0000] {processor.py:156} INFO - Started process (PID=34755) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:25.263+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:25.268+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:25.267+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:25.281+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:25.325+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.073 seconds
+[2022-10-25T15:05:36.561+0000] {processor.py:156} INFO - Started process (PID=36435) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:36.566+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:36.573+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:36.572+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:36.588+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:05:36.660+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.109 seconds
+[2022-10-25T15:06:17.524+0000] {processor.py:156} INFO - Started process (PID=35279) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:17.530+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:17.533+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:17.533+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:17.540+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:17.587+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.072 seconds
+[2022-10-25T15:06:30.471+0000] {processor.py:156} INFO - Started process (PID=37012) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:30.476+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:30.479+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:30.479+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:30.488+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar
+[2022-10-25T15:06:30.535+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/hadoop-datajoin-2.7.3.jar took 0.073 seconds

@@ -178,3 +178,243 @@
 [2022-10-25T14:17:31.259+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:31.258+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
 [2022-10-25T14:17:31.280+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
 [2022-10-25T14:17:31.339+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.119 seconds
+[2022-10-25T14:25:13.598+0000] {processor.py:156} INFO - Started process (PID=23574) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:13.612+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:25:13.615+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:13.615+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:13.628+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:13.690+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.100 seconds
+[2022-10-25T14:25:31.263+0000] {processor.py:156} INFO - Started process (PID=24649) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:31.267+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:25:31.270+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:31.270+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:31.283+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:25:31.332+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.076 seconds
+[2022-10-25T14:26:03.446+0000] {processor.py:156} INFO - Started process (PID=24098) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:03.449+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:26:03.454+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:03.453+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:03.480+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:03.533+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.104 seconds
+[2022-10-25T14:26:22.225+0000] {processor.py:156} INFO - Started process (PID=25172) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:22.229+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:26:22.232+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:22.232+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:22.255+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:22.298+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.083 seconds
+[2022-10-25T14:26:58.870+0000] {processor.py:156} INFO - Started process (PID=24613) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:58.876+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:26:58.880+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:58.879+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:58.894+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:26:58.950+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.091 seconds
+[2022-10-25T14:27:14.497+0000] {processor.py:156} INFO - Started process (PID=25701) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:14.502+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:27:14.506+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:14.505+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:14.523+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:14.571+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.089 seconds
+[2022-10-25T14:27:41.882+0000] {processor.py:156} INFO - Started process (PID=25067) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:41.886+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:27:41.890+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:41.889+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:41.904+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:27:41.945+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.074 seconds
+[2022-10-25T14:28:03.755+0000] {processor.py:156} INFO - Started process (PID=26241) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:03.758+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:28:03.760+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:03.760+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:03.773+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:03.809+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.063 seconds
+[2022-10-25T14:28:34.801+0000] {processor.py:156} INFO - Started process (PID=25616) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:34.805+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:28:34.807+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:34.807+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:34.822+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:34.877+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.089 seconds
+[2022-10-25T14:28:59.855+0000] {processor.py:156} INFO - Started process (PID=26822) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:59.861+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:28:59.869+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:59.869+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:59.889+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:28:59.941+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.098 seconds
+[2022-10-25T14:30:14.887+0000] {processor.py:156} INFO - Started process (PID=26196) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:14.893+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:30:14.896+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:14.896+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:14.908+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:14.962+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.084 seconds
+[2022-10-25T14:30:29.680+0000] {processor.py:156} INFO - Started process (PID=27369) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:29.683+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:30:29.687+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:29.686+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:29.704+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:30:29.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.111 seconds
+[2022-10-25T14:31:09.407+0000] {processor.py:156} INFO - Started process (PID=26723) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:09.418+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:31:09.422+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:09.422+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:09.447+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:09.523+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.130 seconds
+[2022-10-25T14:31:25.028+0000] {processor.py:156} INFO - Started process (PID=27893) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:25.031+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:31:25.035+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:25.034+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:25.050+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:31:25.098+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.079 seconds
+[2022-10-25T14:32:03.504+0000] {processor.py:156} INFO - Started process (PID=27225) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:03.508+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:32:03.520+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:03.519+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:03.536+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:03.606+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.126 seconds
+[2022-10-25T14:32:13.590+0000] {processor.py:156} INFO - Started process (PID=28380) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:13.601+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:32:13.608+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:13.607+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:13.628+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:13.709+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.132 seconds
+[2022-10-25T14:32:49.330+0000] {processor.py:156} INFO - Started process (PID=27686) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:49.332+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:32:49.335+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:49.335+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:49.348+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:32:49.401+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.080 seconds
+[2022-10-25T14:33:10.967+0000] {processor.py:156} INFO - Started process (PID=28975) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:10.970+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:33:10.973+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:10.973+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:10.985+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:11.053+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.103 seconds
+[2022-10-25T14:33:33.188+0000] {processor.py:156} INFO - Started process (PID=28118) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:33.194+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:33:33.205+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:33.204+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:33.221+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:33:33.285+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.113 seconds
+[2022-10-25T14:34:11.089+0000] {processor.py:156} INFO - Started process (PID=29587) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:34:11.097+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:34:11.102+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:11.101+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:34:11.122+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:34:11.203+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.129 seconds
+[2022-10-25T14:35:14.675+0000] {processor.py:156} INFO - Started process (PID=28702) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:14.683+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:35:14.688+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:14.687+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:14.707+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:14.768+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.106 seconds
+[2022-10-25T14:35:32.710+0000] {processor.py:156} INFO - Started process (PID=30055) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:32.715+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:35:32.718+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:32.718+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:32.735+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:35:32.780+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.083 seconds
+[2022-10-25T14:36:06.970+0000] {processor.py:156} INFO - Started process (PID=29225) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:06.975+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:36:06.977+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:06.977+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:06.989+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:07.032+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.071 seconds
+[2022-10-25T14:36:15.141+0000] {processor.py:156} INFO - Started process (PID=30526) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:15.145+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:36:15.149+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:15.149+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:15.160+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:15.205+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.074 seconds
+[2022-10-25T14:36:54.305+0000] {processor.py:156} INFO - Started process (PID=29694) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:54.308+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:36:54.314+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:54.314+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:54.333+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:36:54.380+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.085 seconds
+[2022-10-25T14:37:05.695+0000] {processor.py:156} INFO - Started process (PID=31073) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:05.699+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:37:05.702+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:05.701+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:05.724+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:05.791+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.116 seconds
+[2022-10-25T14:37:53.612+0000] {processor.py:156} INFO - Started process (PID=30302) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:53.615+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:37:53.619+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:53.618+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:53.634+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:53.680+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.078 seconds
+[2022-10-25T14:37:54.736+0000] {processor.py:156} INFO - Started process (PID=31610) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:54.740+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:37:54.743+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:54.743+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:54.758+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:37:54.808+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.081 seconds
+[2022-10-25T14:38:45.306+0000] {processor.py:156} INFO - Started process (PID=32173) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:45.310+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:38:45.314+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:45.313+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:45.328+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:45.377+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.087 seconds
+[2022-10-25T14:38:51.370+0000] {processor.py:156} INFO - Started process (PID=30920) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:51.373+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:38:51.376+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:51.375+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:51.389+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:38:51.431+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.072 seconds
+[2022-10-25T14:40:17.459+0000] {processor.py:156} INFO - Started process (PID=31392) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:17.462+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:40:17.466+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:17.466+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:17.490+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:17.549+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.102 seconds
+[2022-10-25T14:40:29.572+0000] {processor.py:156} INFO - Started process (PID=32870) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:29.575+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:40:29.577+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:29.576+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:29.585+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:40:29.628+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.065 seconds
+[2022-10-25T14:41:06.120+0000] {processor.py:156} INFO - Started process (PID=31906) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:06.122+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:41:06.125+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:06.125+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:06.139+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:06.185+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.080 seconds
+[2022-10-25T14:41:17.486+0000] {processor.py:156} INFO - Started process (PID=33392) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:17.491+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:41:17.497+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:17.496+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:17.512+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:41:17.571+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.100 seconds
+[2022-10-25T14:42:00.738+0000] {processor.py:156} INFO - Started process (PID=32481) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:00.742+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:42:00.745+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:00.745+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:00.760+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:00.804+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.097 seconds
+[2022-10-25T14:42:02.641+0000] {processor.py:156} INFO - Started process (PID=33853) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:02.644+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:42:02.650+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:02.649+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:02.672+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:02.712+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.079 seconds
+[2022-10-25T14:42:54.883+0000] {processor.py:156} INFO - Started process (PID=34413) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:54.891+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:42:54.895+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:54.894+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:54.909+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:54.960+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.097 seconds
+[2022-10-25T14:42:58.931+0000] {processor.py:156} INFO - Started process (PID=33088) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:58.936+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:42:58.956+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:58.956+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:59.025+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:42:59.102+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.200 seconds
+[2022-10-25T14:43:43.315+0000] {processor.py:156} INFO - Started process (PID=34958) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:43.321+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:43:43.324+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:43.324+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:43.339+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:43.391+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.086 seconds
+[2022-10-25T14:43:59.202+0000] {processor.py:156} INFO - Started process (PID=33691) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:59.211+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T14:43:59.213+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:59.213+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:59.233+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T14:43:59.286+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.094 seconds
+[2022-10-25T15:03:37.488+0000] {processor.py:156} INFO - Started process (PID=34089) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:37.499+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:03:37.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:37.504+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:37.523+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:37.580+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.123 seconds
+[2022-10-25T15:03:56.267+0000] {processor.py:156} INFO - Started process (PID=35761) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:56.269+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:03:56.272+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:56.272+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:56.285+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:03:56.314+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.058 seconds
+[2022-10-25T15:05:12.581+0000] {processor.py:156} INFO - Started process (PID=34628) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:12.584+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:05:12.587+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:12.586+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:12.601+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:12.643+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.069 seconds
+[2022-10-25T15:05:25.414+0000] {processor.py:156} INFO - Started process (PID=36304) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:25.416+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:05:25.418+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:25.418+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:25.429+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:05:25.468+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.062 seconds
+[2022-10-25T15:06:05.662+0000] {processor.py:156} INFO - Started process (PID=35152) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:05.666+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:06:05.669+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:05.668+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:05.680+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:05.720+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.069 seconds
+[2022-10-25T15:06:13.702+0000] {processor.py:156} INFO - Started process (PID=36825) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:13.711+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:06:13.716+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:13.716+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:13.736+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:13.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.091 seconds
+[2022-10-25T15:06:51.691+0000] {processor.py:156} INFO - Started process (PID=35637) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:51.696+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:06:51.700+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:51.699+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:51.711+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:51.749+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.067 seconds
+[2022-10-25T15:06:58.179+0000] {processor.py:156} INFO - Started process (PID=37347) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:58.181+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar for tasks to queue
+[2022-10-25T15:06:58.184+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:58.183+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:58.199+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar
+[2022-10-25T15:06:58.240+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/webapps/kms/WEB-INF/lib/gson-2.2.4.jar took 0.081 seconds

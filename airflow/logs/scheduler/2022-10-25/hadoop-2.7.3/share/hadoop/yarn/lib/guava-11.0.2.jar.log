@@ -153,3 +153,203 @@
 [2022-10-25T14:17:13.432+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:13.432+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
 [2022-10-25T14:17:13.485+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
 [2022-10-25T14:17:13.549+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.139 seconds
+[2022-10-25T14:25:33.714+0000] {processor.py:156} INFO - Started process (PID=23786) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:33.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:25:33.728+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:33.728+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:33.780+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:33.823+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.115 seconds
+[2022-10-25T14:25:49.883+0000] {processor.py:156} INFO - Started process (PID=24866) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:49.886+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:25:49.889+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:49.888+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:49.948+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:25:50.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.122 seconds
+[2022-10-25T14:26:41.720+0000] {processor.py:156} INFO - Started process (PID=24430) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:41.724+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:26:41.728+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:41.728+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:41.790+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:41.849+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.143 seconds
+[2022-10-25T14:26:56.845+0000] {processor.py:156} INFO - Started process (PID=25508) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:56.852+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:26:56.857+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:56.856+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:56.935+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:26:57.001+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.171 seconds
+[2022-10-25T14:27:44.011+0000] {processor.py:156} INFO - Started process (PID=25099) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:44.014+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:27:44.017+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:44.017+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:44.069+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:44.144+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.142 seconds
+[2022-10-25T14:27:52.027+0000] {processor.py:156} INFO - Started process (PID=26120) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:52.030+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:27:52.034+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:52.033+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:52.099+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:27:52.166+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.149 seconds
+[2022-10-25T14:28:37.155+0000] {processor.py:156} INFO - Started process (PID=25639) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:37.160+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:28:37.165+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:37.164+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:37.253+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:37.295+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.155 seconds
+[2022-10-25T14:28:41.684+0000] {processor.py:156} INFO - Started process (PID=26652) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:41.687+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:28:41.694+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:41.693+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:41.762+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:28:41.815+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.145 seconds
+[2022-10-25T14:30:28.830+0000] {processor.py:156} INFO - Started process (PID=26350) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:28.837+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:30:28.840+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:28.840+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:28.887+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:28.942+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.123 seconds
+[2022-10-25T14:30:40.272+0000] {processor.py:156} INFO - Started process (PID=27481) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:40.277+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:30:40.281+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:40.281+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:40.379+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:30:40.431+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.171 seconds
+[2022-10-25T14:31:46.304+0000] {processor.py:156} INFO - Started process (PID=27053) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:46.311+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:31:46.319+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:46.319+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:46.395+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:46.478+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.183 seconds
+[2022-10-25T14:31:52.055+0000] {processor.py:156} INFO - Started process (PID=28164) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:52.064+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:31:52.068+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:52.067+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:52.149+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:31:52.231+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.188 seconds
+[2022-10-25T14:32:52.726+0000] {processor.py:156} INFO - Started process (PID=28801) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:52.732+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:32:52.735+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:52.735+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:52.779+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:52.821+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.102 seconds
+[2022-10-25T14:32:53.538+0000] {processor.py:156} INFO - Started process (PID=27735) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:53.541+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:32:53.544+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:53.543+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:53.587+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:32:53.632+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.104 seconds
+[2022-10-25T14:33:50.029+0000] {processor.py:156} INFO - Started process (PID=29395) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:50.033+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:33:50.036+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:50.036+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:50.085+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:50.123+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.105 seconds
+[2022-10-25T14:33:59.655+0000] {processor.py:156} INFO - Started process (PID=28372) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:59.665+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:33:59.677+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:59.677+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:59.811+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:33:59.868+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.227 seconds
+[2022-10-25T14:35:35.812+0000] {processor.py:156} INFO - Started process (PID=28923) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:35.818+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:35:35.821+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:35.821+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:35.866+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:35.948+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.145 seconds
+[2022-10-25T14:35:41.275+0000] {processor.py:156} INFO - Started process (PID=30154) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:41.278+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:35:41.281+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:41.281+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:41.341+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:35:41.386+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.121 seconds
+[2022-10-25T14:36:31.071+0000] {processor.py:156} INFO - Started process (PID=30700) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:31.074+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:36:31.077+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:31.076+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:31.173+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:31.227+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.165 seconds
+[2022-10-25T14:36:39.899+0000] {processor.py:156} INFO - Started process (PID=29547) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:39.902+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:36:39.905+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:39.905+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:39.942+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:36:39.977+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.088 seconds
+[2022-10-25T14:37:21.209+0000] {processor.py:156} INFO - Started process (PID=31255) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:21.214+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:37:21.217+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:21.217+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:21.260+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:21.301+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.101 seconds
+[2022-10-25T14:37:41.662+0000] {processor.py:156} INFO - Started process (PID=30201) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:41.667+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:37:41.671+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:41.670+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:41.728+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:37:41.771+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.120 seconds
+[2022-10-25T14:38:12.213+0000] {processor.py:156} INFO - Started process (PID=31803) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:12.216+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:38:12.219+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:12.218+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:12.323+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:12.393+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.194 seconds
+[2022-10-25T14:38:39.472+0000] {processor.py:156} INFO - Started process (PID=30800) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:39.476+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:38:39.478+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:39.478+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:39.550+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:38:39.606+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.151 seconds
+[2022-10-25T14:39:01.500+0000] {processor.py:156} INFO - Started process (PID=32347) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:39:01.503+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:39:01.508+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:01.505+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:39:01.563+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:39:01.621+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.130 seconds
+[2022-10-25T14:40:28.104+0000] {processor.py:156} INFO - Started process (PID=31507) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:28.107+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:40:28.110+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:28.109+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:28.167+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:28.243+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.145 seconds
+[2022-10-25T14:40:43.627+0000] {processor.py:156} INFO - Started process (PID=33030) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:43.631+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:40:43.635+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:43.635+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:43.699+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:40:43.750+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.134 seconds
+[2022-10-25T14:41:24.245+0000] {processor.py:156} INFO - Started process (PID=32098) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:24.247+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:41:24.250+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:24.250+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:24.349+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:24.415+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.180 seconds
+[2022-10-25T14:41:46.149+0000] {processor.py:156} INFO - Started process (PID=33660) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:46.153+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:41:46.156+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:46.155+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:46.204+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:41:46.240+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.099 seconds
+[2022-10-25T14:42:20.352+0000] {processor.py:156} INFO - Started process (PID=32689) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:20.360+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:42:20.363+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:20.363+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:20.446+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:20.493+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.151 seconds
+[2022-10-25T14:42:41.408+0000] {processor.py:156} INFO - Started process (PID=34267) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:41.411+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:42:41.416+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:41.415+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:41.478+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:42:41.529+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.130 seconds
+[2022-10-25T14:43:19.203+0000] {processor.py:156} INFO - Started process (PID=33283) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:19.206+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:43:19.209+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:19.208+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:19.262+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:19.298+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.106 seconds
+[2022-10-25T14:43:31.162+0000] {processor.py:156} INFO - Started process (PID=34813) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:31.166+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:43:31.169+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:31.169+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:31.255+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:43:31.295+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.147 seconds
+[2022-10-25T14:44:18.006+0000] {processor.py:156} INFO - Started process (PID=35344) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:44:18.011+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T14:44:18.016+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:18.015+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:44:18.078+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T14:44:18.116+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.146 seconds
+[2022-10-25T15:03:58.870+0000] {processor.py:156} INFO - Started process (PID=34300) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:03:58.873+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:03:58.877+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:58.876+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:03:58.935+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:03:58.975+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.115 seconds
+[2022-10-25T15:04:56.575+0000] {processor.py:156} INFO - Started process (PID=36005) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:04:56.579+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:04:56.583+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:56.583+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:04:56.678+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:04:56.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.165 seconds
+[2022-10-25T15:05:33.164+0000] {processor.py:156} INFO - Started process (PID=34849) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:33.169+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:05:33.171+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:33.171+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:33.240+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:33.301+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.149 seconds
+[2022-10-25T15:05:58.594+0000] {processor.py:156} INFO - Started process (PID=36645) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:58.597+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:05:58.601+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:58.601+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:58.713+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:05:58.747+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.169 seconds
+[2022-10-25T15:06:37.368+0000] {processor.py:156} INFO - Started process (PID=35481) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:37.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:06:37.375+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:37.374+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:37.430+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:37.510+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.153 seconds
+[2022-10-25T15:06:43.957+0000] {processor.py:156} INFO - Started process (PID=37179) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:43.962+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar for tasks to queue
+[2022-10-25T15:06:43.966+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:43.965+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:44.016+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar
+[2022-10-25T15:06:44.058+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/guava-11.0.2.jar took 0.124 seconds

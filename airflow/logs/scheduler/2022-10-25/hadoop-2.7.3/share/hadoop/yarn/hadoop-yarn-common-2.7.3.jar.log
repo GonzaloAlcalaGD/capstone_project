@@ -153,3 +153,208 @@
 [2022-10-25T14:17:11.107+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:11.107+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
 [2022-10-25T14:17:11.188+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
 [2022-10-25T14:17:11.264+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.208 seconds
+[2022-10-25T14:25:32.102+0000] {processor.py:156} INFO - Started process (PID=23767) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:32.105+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:32.108+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:32.108+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:32.156+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:32.203+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.112 seconds
+[2022-10-25T14:25:48.157+0000] {processor.py:156} INFO - Started process (PID=24847) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:48.161+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:48.167+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:48.166+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:48.225+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:25:48.293+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.147 seconds
+[2022-10-25T14:26:39.298+0000] {processor.py:156} INFO - Started process (PID=24411) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:39.301+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:39.304+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:39.304+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:39.357+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:39.410+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.128 seconds
+[2022-10-25T14:26:54.769+0000] {processor.py:156} INFO - Started process (PID=25489) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:54.782+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:54.793+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:54.792+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:54.875+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:26:54.915+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.153 seconds
+[2022-10-25T14:27:29.499+0000] {processor.py:156} INFO - Started process (PID=24933) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:29.503+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:29.507+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:29.506+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:29.547+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:29.596+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.109 seconds
+[2022-10-25T14:27:50.399+0000] {processor.py:156} INFO - Started process (PID=26101) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:50.404+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:50.406+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:50.406+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:50.460+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:27:50.500+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.123 seconds
+[2022-10-25T14:28:22.086+0000] {processor.py:156} INFO - Started process (PID=25503) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:22.094+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:22.097+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:22.097+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:22.133+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:22.173+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:28:39.773+0000] {processor.py:156} INFO - Started process (PID=26633) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:39.776+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:39.778+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:39.778+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:39.810+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:28:39.862+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.097 seconds
+[2022-10-25T14:30:12.593+0000] {processor.py:156} INFO - Started process (PID=27183) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:12.596+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:12.599+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:12.599+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:12.629+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:12.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.088 seconds
+[2022-10-25T14:30:26.932+0000] {processor.py:156} INFO - Started process (PID=26331) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:26.935+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:26.938+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:26.937+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:26.976+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:30:27.051+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.126 seconds
+[2022-10-25T14:31:07.191+0000] {processor.py:156} INFO - Started process (PID=27725) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:07.196+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:07.199+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:07.199+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:07.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:07.279+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.099 seconds
+[2022-10-25T14:31:44.053+0000] {processor.py:156} INFO - Started process (PID=27032) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:44.056+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:44.059+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:44.059+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:44.128+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:31:44.229+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.201 seconds
+[2022-10-25T14:32:18.913+0000] {processor.py:156} INFO - Started process (PID=28431) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:18.916+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:18.919+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:18.919+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:18.961+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:19.005+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.104 seconds
+[2022-10-25T14:32:36.892+0000] {processor.py:156} INFO - Started process (PID=27549) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:36.895+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:36.904+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:36.903+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:36.950+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:32:37.005+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.126 seconds
+[2022-10-25T14:33:16.837+0000] {processor.py:156} INFO - Started process (PID=29032) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:16.842+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:16.844+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:16.844+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:16.889+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:16.947+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.121 seconds
+[2022-10-25T14:33:41.261+0000] {processor.py:156} INFO - Started process (PID=28210) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:41.268+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:41.284+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:41.279+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:41.324+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:33:41.391+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.166 seconds
+[2022-10-25T14:34:17.620+0000] {processor.py:156} INFO - Started process (PID=29657) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:34:17.625+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:34:17.629+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:17.628+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:34:17.669+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:34:17.719+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:35:33.569+0000] {processor.py:156} INFO - Started process (PID=28895) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:33.572+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:33.576+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:33.575+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:33.614+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:33.659+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.100 seconds
+[2022-10-25T14:35:39.659+0000] {processor.py:156} INFO - Started process (PID=30135) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:39.664+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:39.666+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:39.665+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:39.705+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:35:39.754+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.102 seconds
+[2022-10-25T14:36:29.351+0000] {processor.py:156} INFO - Started process (PID=30681) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:29.353+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:29.358+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:29.357+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:29.402+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:29.457+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.114 seconds
+[2022-10-25T14:36:37.917+0000] {processor.py:156} INFO - Started process (PID=29528) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:37.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:37.924+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:37.923+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:38.015+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:36:38.077+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.174 seconds
+[2022-10-25T14:37:19.610+0000] {processor.py:156} INFO - Started process (PID=31236) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:19.615+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:19.617+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:19.617+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:19.659+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:19.706+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.104 seconds
+[2022-10-25T14:37:40.001+0000] {processor.py:156} INFO - Started process (PID=30175) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:40.005+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:40.008+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:40.007+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:40.052+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:37:40.116+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.126 seconds
+[2022-10-25T14:38:10.263+0000] {processor.py:156} INFO - Started process (PID=31784) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:10.267+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:10.270+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:10.270+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:10.316+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:10.388+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.135 seconds
+[2022-10-25T14:38:37.528+0000] {processor.py:156} INFO - Started process (PID=30781) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:37.531+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:37.533+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:37.533+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:37.583+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:37.638+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.125 seconds
+[2022-10-25T14:38:59.721+0000] {processor.py:156} INFO - Started process (PID=32321) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:59.725+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:59.727+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:59.727+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:59.779+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:38:59.819+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.108 seconds
+[2022-10-25T14:40:26.187+0000] {processor.py:156} INFO - Started process (PID=31479) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:26.197+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:26.203+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:26.202+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:26.242+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:26.291+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.113 seconds
+[2022-10-25T14:40:41.716+0000] {processor.py:156} INFO - Started process (PID=33004) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:41.721+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:41.728+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:41.727+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:41.771+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:40:41.816+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.108 seconds
+[2022-10-25T14:41:22.575+0000] {processor.py:156} INFO - Started process (PID=32077) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:22.578+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:22.582+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:22.581+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:22.617+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:22.655+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.090 seconds
+[2022-10-25T14:41:44.656+0000] {processor.py:156} INFO - Started process (PID=33641) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:44.659+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:44.662+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:44.661+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:44.703+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:41:44.739+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.092 seconds
+[2022-10-25T14:42:18.514+0000] {processor.py:156} INFO - Started process (PID=32670) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:18.517+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:18.519+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:18.519+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:18.553+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:18.605+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.097 seconds
+[2022-10-25T14:42:39.827+0000] {processor.py:156} INFO - Started process (PID=34248) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:39.835+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:39.837+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:39.837+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:39.877+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:42:39.928+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.114 seconds
+[2022-10-25T14:43:17.463+0000] {processor.py:156} INFO - Started process (PID=33264) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:17.467+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:17.471+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:17.471+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:17.525+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:17.566+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.115 seconds
+[2022-10-25T14:43:29.309+0000] {processor.py:156} INFO - Started process (PID=34794) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:29.312+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:29.316+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:29.315+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:29.351+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:43:29.405+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.106 seconds
+[2022-10-25T14:44:16.245+0000] {processor.py:156} INFO - Started process (PID=35318) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:44:16.256+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T14:44:16.261+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:16.261+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:44:16.303+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T14:44:16.342+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.116 seconds
+[2022-10-25T15:03:57.120+0000] {processor.py:156} INFO - Started process (PID=34281) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:03:57.122+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:03:57.125+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:57.125+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:03:57.155+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:03:57.186+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.072 seconds
+[2022-10-25T15:04:54.905+0000] {processor.py:156} INFO - Started process (PID=35979) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:04:54.912+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:04:54.915+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:54.914+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:04:54.940+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:04:54.990+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.095 seconds
+[2022-10-25T15:05:30.685+0000] {processor.py:156} INFO - Started process (PID=34821) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:30.693+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:30.697+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:30.696+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:30.741+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:30.804+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.130 seconds
+[2022-10-25T15:05:56.840+0000] {processor.py:156} INFO - Started process (PID=36626) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:56.846+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:56.850+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:56.849+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:56.898+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:05:56.943+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.117 seconds
+[2022-10-25T15:06:35.898+0000] {processor.py:156} INFO - Started process (PID=35462) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:35.901+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:35.904+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:35.903+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:35.934+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:35.980+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.092 seconds
+[2022-10-25T15:06:42.212+0000] {processor.py:156} INFO - Started process (PID=37160) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:42.222+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:42.225+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:42.225+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:42.258+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar
+[2022-10-25T15:06:42.312+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/hadoop-yarn-common-2.7.3.jar took 0.108 seconds

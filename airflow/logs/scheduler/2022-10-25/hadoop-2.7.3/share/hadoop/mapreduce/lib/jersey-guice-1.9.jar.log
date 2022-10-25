@@ -173,3 +173,223 @@
 [2022-10-25T14:17:54.060+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:54.059+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
 [2022-10-25T14:17:54.072+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
 [2022-10-25T14:17:54.114+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.073 seconds
+[2022-10-25T14:25:18.948+0000] {processor.py:156} INFO - Started process (PID=23631) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:18.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:25:18.955+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:18.955+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:18.964+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:19.019+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.086 seconds
+[2022-10-25T14:25:36.735+0000] {processor.py:156} INFO - Started process (PID=24713) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:36.739+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:25:36.747+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:36.747+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:36.768+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:25:36.820+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.100 seconds
+[2022-10-25T14:26:10.028+0000] {processor.py:156} INFO - Started process (PID=24155) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:10.035+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:26:10.041+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:10.040+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:10.065+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:10.125+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.117 seconds
+[2022-10-25T14:26:28.805+0000] {processor.py:156} INFO - Started process (PID=25236) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:28.808+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:26:28.811+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:28.811+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:28.822+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:26:28.876+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.081 seconds
+[2022-10-25T14:27:05.009+0000] {processor.py:156} INFO - Started process (PID=24680) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:05.016+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:27:05.019+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:05.019+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:05.027+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:05.067+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.070 seconds
+[2022-10-25T14:27:20.252+0000] {processor.py:156} INFO - Started process (PID=25758) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:20.257+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:27:20.263+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:20.262+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:20.278+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:27:20.340+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.098 seconds
+[2022-10-25T14:28:00.161+0000] {processor.py:156} INFO - Started process (PID=25268) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:00.164+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:28:00.167+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:00.166+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:00.178+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:00.227+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.076 seconds
+[2022-10-25T14:28:09.027+0000] {processor.py:156} INFO - Started process (PID=26306) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:09.030+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:28:09.033+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:09.033+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:09.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:28:09.083+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.063 seconds
+[2022-10-25T14:29:06.646+0000] {processor.py:156} INFO - Started process (PID=26886) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:06.662+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:29:06.670+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:06.670+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:06.683+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:06.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.097 seconds
+[2022-10-25T14:29:47.402+0000] {processor.py:156} INFO - Started process (PID=25891) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:47.406+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:29:47.412+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:47.410+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:47.419+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:29:47.467+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.077 seconds
+[2022-10-25T14:30:35.670+0000] {processor.py:156} INFO - Started process (PID=27426) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:35.678+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:30:35.685+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:35.684+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:35.703+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:35.793+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.145 seconds
+[2022-10-25T14:30:50.715+0000] {processor.py:156} INFO - Started process (PID=26547) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:50.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:30:50.724+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:50.723+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:50.743+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:30:50.787+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.085 seconds
+[2022-10-25T14:31:31.936+0000] {processor.py:156} INFO - Started process (PID=27957) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:31.943+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:31:31.946+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:31.946+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:31.958+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:32.031+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.106 seconds
+[2022-10-25T14:31:40.841+0000] {processor.py:156} INFO - Started process (PID=26990) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:40.845+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:31:40.849+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:40.849+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:40.857+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:31:40.911+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.081 seconds
+[2022-10-25T14:32:30.991+0000] {processor.py:156} INFO - Started process (PID=27487) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:31.001+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:32:31.009+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:31.009+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:31.029+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:31.081+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.129 seconds
+[2022-10-25T14:32:32.037+0000] {processor.py:156} INFO - Started process (PID=28571) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:32.046+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:32:32.049+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:32.049+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:32.063+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:32:32.116+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.091 seconds
+[2022-10-25T14:33:28.546+0000] {processor.py:156} INFO - Started process (PID=29166) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:28.550+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:33:28.555+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:28.554+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:28.571+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:28.616+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.082 seconds
+[2022-10-25T14:33:35.441+0000] {processor.py:156} INFO - Started process (PID=28141) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:35.444+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:33:35.446+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:35.446+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:35.453+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:33:35.508+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.082 seconds
+[2022-10-25T14:35:12.331+0000] {processor.py:156} INFO - Started process (PID=29827) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:12.335+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:35:12.339+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:12.338+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:12.349+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:12.401+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.080 seconds
+[2022-10-25T14:35:20.860+0000] {processor.py:156} INFO - Started process (PID=28766) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:20.865+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:35:20.867+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:20.867+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:20.874+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:20.916+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.066 seconds
+[2022-10-25T14:35:59.514+0000] {processor.py:156} INFO - Started process (PID=30348) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:59.518+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:35:59.522+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:59.521+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:59.532+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:35:59.577+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.095 seconds
+[2022-10-25T14:36:12.388+0000] {processor.py:156} INFO - Started process (PID=29282) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:12.392+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:36:12.394+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:12.394+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:12.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:12.440+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.060 seconds
+[2022-10-25T14:36:49.402+0000] {processor.py:156} INFO - Started process (PID=30898) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:49.407+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:36:49.412+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:49.411+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:49.422+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:36:49.484+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.091 seconds
+[2022-10-25T14:37:15.868+0000] {processor.py:156} INFO - Started process (PID=29916) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:15.875+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:37:15.877+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:15.877+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:15.886+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:15.962+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.104 seconds
+[2022-10-25T14:37:38.070+0000] {processor.py:156} INFO - Started process (PID=31442) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:38.075+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:37:38.080+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:38.079+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:38.087+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:37:38.126+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.070 seconds
+[2022-10-25T14:38:13.771+0000] {processor.py:156} INFO - Started process (PID=30524) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:13.774+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:38:13.777+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:13.777+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:13.788+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:13.854+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.094 seconds
+[2022-10-25T14:38:30.464+0000] {processor.py:156} INFO - Started process (PID=32013) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:30.469+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:38:30.472+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:30.472+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:30.479+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:38:30.534+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.078 seconds
+[2022-10-25T14:39:54.983+0000] {processor.py:156} INFO - Started process (PID=31149) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:39:54.986+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:39:54.988+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:54.988+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:39:54.996+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:39:55.025+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.053 seconds
+[2022-10-25T14:39:59.915+0000] {processor.py:156} INFO - Started process (PID=32577) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:39:59.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:39:59.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:59.929+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:39:59.945+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:40:00.010+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.105 seconds
+[2022-10-25T14:40:45.280+0000] {processor.py:156} INFO - Started process (PID=31683) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:40:45.284+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:40:45.287+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:45.287+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:40:45.299+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:40:45.349+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.080 seconds
+[2022-10-25T14:41:02.021+0000] {processor.py:156} INFO - Started process (PID=33220) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:02.027+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:41:02.031+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:02.030+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:02.055+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:02.107+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.099 seconds
+[2022-10-25T14:41:40.022+0000] {processor.py:156} INFO - Started process (PID=32270) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:40.036+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:41:40.039+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:40.039+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:40.052+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:41:40.098+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.091 seconds
+[2022-10-25T14:42:06.821+0000] {processor.py:156} INFO - Started process (PID=33900) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:06.827+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:42:06.833+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:06.831+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:06.848+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:06.921+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.115 seconds
+[2022-10-25T14:42:37.332+0000] {processor.py:156} INFO - Started process (PID=32851) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:37.335+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:42:37.338+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:37.337+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:37.344+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:37.382+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.061 seconds
+[2022-10-25T14:42:58.874+0000] {processor.py:156} INFO - Started process (PID=34461) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:58.877+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:42:58.881+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:58.880+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:58.890+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:42:59.045+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.181 seconds
+[2022-10-25T14:43:37.440+0000] {processor.py:156} INFO - Started process (PID=33469) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:37.452+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:43:37.455+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:37.455+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:37.462+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:37.524+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.098 seconds
+[2022-10-25T14:43:47.243+0000] {processor.py:156} INFO - Started process (PID=35006) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:47.246+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T14:43:47.249+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:47.249+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:47.263+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T14:43:47.333+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.114 seconds
+[2022-10-25T15:03:43.544+0000] {processor.py:156} INFO - Started process (PID=34146) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:03:43.548+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:03:43.551+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:43.551+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:03:43.563+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:03:43.664+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.130 seconds
+[2022-10-25T15:04:00.676+0000] {processor.py:156} INFO - Started process (PID=35818) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:04:00.680+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:04:00.682+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:00.682+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:04:00.692+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:04:00.746+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.079 seconds
+[2022-10-25T15:05:18.668+0000] {processor.py:156} INFO - Started process (PID=34694) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:18.686+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:05:18.690+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:18.689+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:18.705+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:18.780+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.145 seconds
+[2022-10-25T15:05:30.516+0000] {processor.py:156} INFO - Started process (PID=36367) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:30.519+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:05:30.523+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:30.522+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:30.535+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:05:30.574+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.071 seconds
+[2022-10-25T15:06:11.119+0000] {processor.py:156} INFO - Started process (PID=35209) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:11.123+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:06:11.129+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:11.128+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:11.135+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:11.183+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.072 seconds
+[2022-10-25T15:06:19.275+0000] {processor.py:156} INFO - Started process (PID=36888) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:19.279+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:06:19.288+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:19.288+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:19.305+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:06:19.385+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.125 seconds
+[2022-10-25T15:07:10.353+0000] {processor.py:156} INFO - Started process (PID=35779) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:07:10.363+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar for tasks to queue
+[2022-10-25T15:07:10.368+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:10.368+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:07:10.448+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar
+[2022-10-25T15:07:10.593+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/lib/jersey-guice-1.9.jar took 0.299 seconds

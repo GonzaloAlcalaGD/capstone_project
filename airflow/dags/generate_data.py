@@ -3,6 +3,7 @@ from airflow import DAG
 
 # Airflow Operators
 from airflow.operators.python import PythonOperator
+from airflow.operators.trigger_dagrun import TriggerDagRunOperator
 
 # Dependencies
 from datetime import timedelta
@@ -25,5 +26,10 @@ with DAG(
         python_callable=gen_data
     )
 
+    trigger_data_normalization = TriggerDagRunOperator(
+        task_id='trigger_dag_load_and_normalize_data_headers',
+        trigger_dag_id='load_and_normalize_data_headers'
+    )
 
-    generate_fake_data
+
+    generate_fake_data >> trigger_data_normalization

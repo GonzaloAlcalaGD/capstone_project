@@ -213,3 +213,283 @@
 [2022-10-25T14:17:47.941+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:47.941+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
 [2022-10-25T14:17:47.963+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
 [2022-10-25T14:17:48.014+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.092 seconds
+[2022-10-25T14:24:55.793+0000] {processor.py:156} INFO - Started process (PID=23391) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:24:55.807+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:24:55.816+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:55.815+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:24:55.843+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:24:55.905+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.124 seconds
+[2022-10-25T14:25:14.183+0000] {processor.py:156} INFO - Started process (PID=24468) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:14.190+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:25:14.195+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:14.194+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:14.214+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:14.252+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.095 seconds
+[2022-10-25T14:25:45.753+0000] {processor.py:156} INFO - Started process (PID=23906) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:45.756+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:25:45.759+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:45.759+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:45.772+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:25:45.808+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.073 seconds
+[2022-10-25T14:26:02.137+0000] {processor.py:156} INFO - Started process (PID=24984) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:02.144+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:26:02.153+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:02.153+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:02.179+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:02.237+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.111 seconds
+[2022-10-25T14:26:30.037+0000] {processor.py:156} INFO - Started process (PID=24319) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:30.042+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:26:30.047+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:30.046+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:30.069+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:30.113+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.117 seconds
+[2022-10-25T14:26:46.176+0000] {processor.py:156} INFO - Started process (PID=25402) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:46.182+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:26:46.185+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:46.185+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:46.202+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:26:46.258+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.096 seconds
+[2022-10-25T14:27:18.047+0000] {processor.py:156} INFO - Started process (PID=24801) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:18.050+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:27:18.052+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:18.052+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:18.069+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:18.152+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.115 seconds
+[2022-10-25T14:27:29.472+0000] {processor.py:156} INFO - Started process (PID=25856) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:29.480+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:27:29.484+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:29.483+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:29.501+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:29.545+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.085 seconds
+[2022-10-25T14:27:55.703+0000] {processor.py:156} INFO - Started process (PID=25210) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:55.706+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:27:55.708+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:55.708+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:55.725+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:27:55.760+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.064 seconds
+[2022-10-25T14:28:14.863+0000] {processor.py:156} INFO - Started process (PID=26372) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:14.867+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:28:14.870+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:14.870+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:14.886+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:14.923+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.071 seconds
+[2022-10-25T14:28:46.203+0000] {processor.py:156} INFO - Started process (PID=25733) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:46.207+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:28:46.211+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:46.211+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:46.243+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:46.322+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.129 seconds
+[2022-10-25T14:28:53.695+0000] {processor.py:156} INFO - Started process (PID=26760) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:53.699+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:28:53.703+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:53.703+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:53.724+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:28:53.781+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.099 seconds
+[2022-10-25T14:29:57.964+0000] {processor.py:156} INFO - Started process (PID=26013) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:29:57.988+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:29:57.991+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:57.991+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:29:58.012+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:29:58.052+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.101 seconds
+[2022-10-25T14:30:19.624+0000] {processor.py:156} INFO - Started process (PID=27252) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:19.627+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:30:19.630+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:19.629+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:19.659+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:19.707+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.095 seconds
+[2022-10-25T14:30:43.241+0000] {processor.py:156} INFO - Started process (PID=26470) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:43.246+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:30:43.249+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:43.248+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:43.269+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:30:43.333+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.105 seconds
+[2022-10-25T14:31:12.052+0000] {processor.py:156} INFO - Started process (PID=27776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:12.062+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:31:12.071+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:12.070+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:12.114+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:12.202+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.184 seconds
+[2022-10-25T14:31:34.702+0000] {processor.py:156} INFO - Started process (PID=26922) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:34.707+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:31:34.712+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:34.711+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:34.734+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:31:34.776+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.083 seconds
+[2022-10-25T14:32:02.664+0000] {processor.py:156} INFO - Started process (PID=28263) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:02.668+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:32:02.671+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:02.670+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:02.690+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:02.764+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.116 seconds
+[2022-10-25T14:32:23.786+0000] {processor.py:156} INFO - Started process (PID=27409) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:23.791+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:32:23.795+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:23.795+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:23.811+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:23.854+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.080 seconds
+[2022-10-25T14:32:43.574+0000] {processor.py:156} INFO - Started process (PID=28697) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:43.580+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:32:43.587+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:43.586+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:43.636+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:32:43.714+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.151 seconds
+[2022-10-25T14:33:07.413+0000] {processor.py:156} INFO - Started process (PID=27855) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:07.425+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:33:07.430+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:07.429+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:07.457+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:07.520+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.128 seconds
+[2022-10-25T14:33:20.584+0000] {processor.py:156} INFO - Started process (PID=29076) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:20.587+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:33:20.589+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:20.588+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:20.600+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:20.631+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.054 seconds
+[2022-10-25T14:33:49.352+0000] {processor.py:156} INFO - Started process (PID=28287) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:49.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:33:49.358+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:49.358+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:49.393+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:33:49.456+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.115 seconds
+[2022-10-25T14:34:02.270+0000] {processor.py:156} INFO - Started process (PID=29494) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:02.280+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:34:02.287+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:02.284+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:02.307+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:02.364+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.106 seconds
+[2022-10-25T14:34:57.994+0000] {processor.py:156} INFO - Started process (PID=28519) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:57.997+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:34:57.999+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:57.999+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:58.019+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:34:58.060+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.074 seconds
+[2022-10-25T14:35:24.421+0000] {processor.py:156} INFO - Started process (PID=29962) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:24.426+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:35:24.429+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:24.428+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:24.445+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:24.508+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.106 seconds
+[2022-10-25T14:35:44.462+0000] {processor.py:156} INFO - Started process (PID=28988) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:44.469+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:35:44.477+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:44.477+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:44.494+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:35:44.534+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.081 seconds
+[2022-10-25T14:36:07.692+0000] {processor.py:156} INFO - Started process (PID=30439) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:07.695+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:36:07.699+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:07.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:07.723+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:07.767+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.086 seconds
+[2022-10-25T14:36:26.490+0000] {processor.py:156} INFO - Started process (PID=29412) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:26.499+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:36:26.503+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:26.502+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:26.525+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:26.579+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.107 seconds
+[2022-10-25T14:36:56.476+0000] {processor.py:156} INFO - Started process (PID=30969) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:56.480+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:36:56.483+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:56.482+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:56.507+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:36:56.546+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.078 seconds
+[2022-10-25T14:37:09.820+0000] {processor.py:156} INFO - Started process (PID=29846) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:09.824+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:37:09.827+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:09.827+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:09.842+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:09.885+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.078 seconds
+[2022-10-25T14:37:44.853+0000] {processor.py:156} INFO - Started process (PID=31507) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:44.857+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:37:44.860+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:44.860+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:44.878+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:44.918+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.075 seconds
+[2022-10-25T14:37:49.322+0000] {processor.py:156} INFO - Started process (PID=30268) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:49.326+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:37:49.336+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:49.335+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:49.354+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:37:49.431+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.125 seconds
+[2022-10-25T14:38:19.660+0000] {processor.py:156} INFO - Started process (PID=31887) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:19.663+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:38:19.667+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:19.667+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:19.683+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:19.746+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.096 seconds
+[2022-10-25T14:38:28.376+0000] {processor.py:156} INFO - Started process (PID=30669) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:28.379+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:38:28.382+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:28.382+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:28.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:38:28.470+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.111 seconds
+[2022-10-25T14:39:10.088+0000] {processor.py:156} INFO - Started process (PID=32423) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:10.092+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:39:10.096+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:10.095+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:10.119+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:10.163+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.091 seconds
+[2022-10-25T14:39:50.541+0000] {processor.py:156} INFO - Started process (PID=31099) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:50.548+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:39:50.552+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:50.551+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:50.568+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:39:50.613+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.080 seconds
+[2022-10-25T14:40:12.307+0000] {processor.py:156} INFO - Started process (PID=32689) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:12.314+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:40:12.319+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:12.319+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:12.334+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:12.374+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.072 seconds
+[2022-10-25T14:40:39.769+0000] {processor.py:156} INFO - Started process (PID=31618) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:39.773+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:40:39.788+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:39.788+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:39.903+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:39.967+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.206 seconds
+[2022-10-25T14:40:54.706+0000] {processor.py:156} INFO - Started process (PID=33148) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:54.710+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:40:54.713+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:54.712+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:54.741+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:40:54.797+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.100 seconds
+[2022-10-25T14:41:18.950+0000] {processor.py:156} INFO - Started process (PID=32026) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:18.956+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:41:18.960+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:18.960+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:18.986+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:19.036+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.099 seconds
+[2022-10-25T14:41:35.103+0000] {processor.py:156} INFO - Started process (PID=33528) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:35.106+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:41:35.110+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:35.109+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:35.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:41:35.174+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.082 seconds
+[2022-10-25T14:42:07.022+0000] {processor.py:156} INFO - Started process (PID=32550) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:07.026+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:42:07.029+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:07.029+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:07.054+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:07.105+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.096 seconds
+[2022-10-25T14:42:17.932+0000] {processor.py:156} INFO - Started process (PID=34006) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:17.955+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:42:17.958+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:17.958+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:17.985+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:18.052+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.136 seconds
+[2022-10-25T14:42:45.031+0000] {processor.py:156} INFO - Started process (PID=32944) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:45.034+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:42:45.036+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:45.036+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:45.052+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:42:45.102+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.085 seconds
+[2022-10-25T14:43:05.214+0000] {processor.py:156} INFO - Started process (PID=34522) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:05.221+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:43:05.225+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:05.225+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:05.255+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:05.296+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.095 seconds
+[2022-10-25T14:43:25.201+0000] {processor.py:156} INFO - Started process (PID=33343) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:25.208+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:43:25.212+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:25.212+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:25.249+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:25.309+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.121 seconds
+[2022-10-25T14:43:51.699+0000] {processor.py:156} INFO - Started process (PID=35051) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:51.703+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:43:51.706+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:51.705+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:51.728+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:43:51.789+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.097 seconds
+[2022-10-25T14:59:47.333+0000] {processor.py:156} INFO - Started process (PID=33897) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:59:47.336+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T14:59:47.343+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:47.341+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:59:47.371+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T14:59:47.409+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.083 seconds
+[2022-10-25T15:03:34.573+0000] {processor.py:156} INFO - Started process (PID=35574) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:03:34.601+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:03:34.607+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:34.606+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:03:34.629+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:03:34.663+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.099 seconds
+[2022-10-25T15:04:55.444+0000] {processor.py:156} INFO - Started process (PID=34446) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:04:55.452+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:04:55.460+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:55.459+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:04:55.491+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:04:55.545+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.111 seconds
+[2022-10-25T15:05:07.960+0000] {processor.py:156} INFO - Started process (PID=36123) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:07.963+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:05:07.966+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:07.966+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:07.995+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:08.025+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.073 seconds
+[2022-10-25T15:05:44.721+0000] {processor.py:156} INFO - Started process (PID=34931) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:44.725+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:05:44.727+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:44.727+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:44.747+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:44.803+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.102 seconds
+[2022-10-25T15:05:51.830+0000] {processor.py:156} INFO - Started process (PID=36566) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:51.833+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:05:51.837+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:51.837+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:51.854+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:05:51.901+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.079 seconds
+[2022-10-25T15:06:28.683+0000] {processor.py:156} INFO - Started process (PID=35383) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:28.686+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:06:28.692+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:28.692+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:28.715+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:28.769+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.098 seconds
+[2022-10-25T15:06:35.703+0000] {processor.py:156} INFO - Started process (PID=37079) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:35.708+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar for tasks to queue
+[2022-10-25T15:06:35.712+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:35.711+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:35.733+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar
+[2022-10-25T15:06:35.786+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/jetty-6.1.26.jar took 0.092 seconds

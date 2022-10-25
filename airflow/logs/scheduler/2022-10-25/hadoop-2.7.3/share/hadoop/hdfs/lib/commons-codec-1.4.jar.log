@@ -203,3 +203,278 @@
 [2022-10-25T14:17:50.175+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:50.175+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
 [2022-10-25T14:17:50.182+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
 [2022-10-25T14:17:50.216+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.055 seconds
+[2022-10-25T14:24:58.283+0000] {processor.py:156} INFO - Started process (PID=23417) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:24:58.287+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:24:58.292+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:58.291+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:24:58.305+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:24:58.342+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.066 seconds
+[2022-10-25T14:25:16.861+0000] {processor.py:156} INFO - Started process (PID=24494) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:16.865+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:25:16.868+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:16.867+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:16.879+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:16.931+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.082 seconds
+[2022-10-25T14:25:48.145+0000] {processor.py:156} INFO - Started process (PID=23938) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:48.150+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:25:48.159+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:48.158+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:48.175+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:25:48.231+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.109 seconds
+[2022-10-25T14:26:05.003+0000] {processor.py:156} INFO - Started process (PID=25017) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:05.007+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:26:05.010+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:05.010+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:05.033+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:05.095+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.101 seconds
+[2022-10-25T14:26:32.652+0000] {processor.py:156} INFO - Started process (PID=24352) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:32.656+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:26:32.664+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:32.662+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:32.675+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:32.733+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.089 seconds
+[2022-10-25T14:26:49.230+0000] {processor.py:156} INFO - Started process (PID=25428) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:49.237+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:26:49.248+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:49.248+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:49.269+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:26:49.340+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.121 seconds
+[2022-10-25T14:27:20.355+0000] {processor.py:156} INFO - Started process (PID=24827) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:20.358+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:27:20.361+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:20.361+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:20.375+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:20.448+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.100 seconds
+[2022-10-25T14:27:31.762+0000] {processor.py:156} INFO - Started process (PID=25882) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:31.768+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:27:31.771+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:31.771+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:31.786+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:27:31.836+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.092 seconds
+[2022-10-25T14:28:07.525+0000] {processor.py:156} INFO - Started process (PID=25341) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:07.530+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:28:07.535+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:07.534+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:07.552+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:07.606+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.097 seconds
+[2022-10-25T14:28:17.778+0000] {processor.py:156} INFO - Started process (PID=26405) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:17.782+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:28:17.785+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:17.785+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:17.796+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:17.847+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.078 seconds
+[2022-10-25T14:28:49.744+0000] {processor.py:156} INFO - Started process (PID=25759) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:49.748+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:28:49.751+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:49.751+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:49.779+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:28:49.841+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.107 seconds
+[2022-10-25T14:29:14.691+0000] {processor.py:156} INFO - Started process (PID=26936) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:29:14.697+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:29:14.701+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:14.700+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:29:14.716+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:29:14.785+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.117 seconds
+[2022-10-25T14:30:00.240+0000] {processor.py:156} INFO - Started process (PID=26039) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:00.245+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:30:00.248+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:00.248+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:00.255+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:00.303+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.073 seconds
+[2022-10-25T14:30:21.943+0000] {processor.py:156} INFO - Started process (PID=27278) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:21.948+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:30:21.951+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:21.950+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:21.960+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:22.005+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.069 seconds
+[2022-10-25T14:30:46.169+0000] {processor.py:156} INFO - Started process (PID=26505) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:46.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:30:46.180+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:46.179+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:46.193+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:30:46.268+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.112 seconds
+[2022-10-25T14:31:15.793+0000] {processor.py:156} INFO - Started process (PID=27802) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:15.799+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:31:15.805+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:15.804+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:15.818+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:15.864+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.081 seconds
+[2022-10-25T14:31:37.034+0000] {processor.py:156} INFO - Started process (PID=26948) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:37.037+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:31:37.040+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:37.040+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:37.055+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:31:37.109+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.086 seconds
+[2022-10-25T14:32:05.488+0000] {processor.py:156} INFO - Started process (PID=28289) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:05.493+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:32:05.496+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:05.495+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:05.506+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:05.564+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.087 seconds
+[2022-10-25T14:32:26.036+0000] {processor.py:156} INFO - Started process (PID=27435) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:26.039+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:32:26.041+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:26.041+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:26.050+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:26.085+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.057 seconds
+[2022-10-25T14:32:46.500+0000] {processor.py:156} INFO - Started process (PID=28723) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:46.504+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:32:46.510+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:46.509+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:46.523+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:32:46.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.083 seconds
+[2022-10-25T14:33:10.298+0000] {processor.py:156} INFO - Started process (PID=27881) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:10.302+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:33:10.310+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:10.309+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:10.317+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:10.395+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.113 seconds
+[2022-10-25T14:33:22.886+0000] {processor.py:156} INFO - Started process (PID=29110) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:22.909+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:33:22.915+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:22.915+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:22.931+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:22.994+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.119 seconds
+[2022-10-25T14:33:52.129+0000] {processor.py:156} INFO - Started process (PID=28313) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:52.134+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:33:52.138+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:52.137+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:52.145+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:33:52.200+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.089 seconds
+[2022-10-25T14:34:05.193+0000] {processor.py:156} INFO - Started process (PID=29526) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:34:05.197+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:34:05.201+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:05.200+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:34:05.212+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:34:05.261+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.082 seconds
+[2022-10-25T14:35:00.169+0000] {processor.py:156} INFO - Started process (PID=28545) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:00.175+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:35:00.180+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:00.179+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:00.190+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:00.243+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.090 seconds
+[2022-10-25T14:35:26.530+0000] {processor.py:156} INFO - Started process (PID=29994) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:26.534+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:35:26.536+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:26.536+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:26.544+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:26.594+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.071 seconds
+[2022-10-25T14:35:46.868+0000] {processor.py:156} INFO - Started process (PID=29014) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:46.871+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:35:46.875+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:46.874+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:46.885+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:35:46.919+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.059 seconds
+[2022-10-25T14:36:09.951+0000] {processor.py:156} INFO - Started process (PID=30465) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:09.955+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:36:09.961+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:09.961+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:09.973+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:10.032+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.092 seconds
+[2022-10-25T14:36:29.300+0000] {processor.py:156} INFO - Started process (PID=29438) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:29.305+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:36:29.308+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:29.307+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:29.321+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:29.378+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.097 seconds
+[2022-10-25T14:36:58.770+0000] {processor.py:156} INFO - Started process (PID=31003) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:58.773+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:36:58.777+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:58.776+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:58.788+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:36:58.835+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.077 seconds
+[2022-10-25T14:37:12.180+0000] {processor.py:156} INFO - Started process (PID=29872) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:12.184+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:37:12.188+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:12.188+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:12.198+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:12.252+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.085 seconds
+[2022-10-25T14:37:47.331+0000] {processor.py:156} INFO - Started process (PID=31533) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:47.334+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:37:47.337+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:47.337+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:47.348+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:37:47.394+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.073 seconds
+[2022-10-25T14:38:02.128+0000] {processor.py:156} INFO - Started process (PID=30396) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:02.134+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:38:02.137+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:02.137+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:02.150+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:02.189+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.075 seconds
+[2022-10-25T14:38:37.896+0000] {processor.py:156} INFO - Started process (PID=32090) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:37.899+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:38:37.903+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:37.903+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:37.933+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:37.990+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.105 seconds
+[2022-10-25T14:38:41.354+0000] {processor.py:156} INFO - Started process (PID=30816) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:41.357+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:38:41.360+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:41.360+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:41.371+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:38:41.438+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.101 seconds
+[2022-10-25T14:40:03.723+0000] {processor.py:156} INFO - Started process (PID=31250) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:03.726+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:40:03.729+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:03.729+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:03.740+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:03.788+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.073 seconds
+[2022-10-25T14:40:15.007+0000] {processor.py:156} INFO - Started process (PID=32715) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:15.015+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:40:15.020+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:15.018+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:15.029+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:15.128+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.140 seconds
+[2022-10-25T14:40:53.463+0000] {processor.py:156} INFO - Started process (PID=31765) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:53.466+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:40:53.470+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:53.469+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:53.481+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:53.532+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.080 seconds
+[2022-10-25T14:40:57.162+0000] {processor.py:156} INFO - Started process (PID=33174) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:57.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:40:57.178+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:57.177+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:57.193+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:40:57.235+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.086 seconds
+[2022-10-25T14:41:31.169+0000] {processor.py:156} INFO - Started process (PID=32167) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:31.173+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:41:31.182+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:31.182+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:31.194+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:31.245+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.086 seconds
+[2022-10-25T14:41:37.404+0000] {processor.py:156} INFO - Started process (PID=33554) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:37.408+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:41:37.412+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:37.411+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:37.421+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:41:37.475+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.081 seconds
+[2022-10-25T14:42:10.309+0000] {processor.py:156} INFO - Started process (PID=32576) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:10.312+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:42:10.314+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:10.314+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:10.328+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:10.372+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.071 seconds
+[2022-10-25T14:42:20.732+0000] {processor.py:156} INFO - Started process (PID=34032) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:20.739+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:42:20.743+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:20.743+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:20.785+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:20.834+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.117 seconds
+[2022-10-25T14:42:48.050+0000] {processor.py:156} INFO - Started process (PID=32972) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:48.055+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:42:48.058+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:48.057+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:48.067+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:42:48.151+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.111 seconds
+[2022-10-25T14:43:07.647+0000] {processor.py:156} INFO - Started process (PID=34555) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:07.651+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:43:07.656+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:07.655+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:07.676+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:07.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.081 seconds
+[2022-10-25T14:43:27.603+0000] {processor.py:156} INFO - Started process (PID=33377) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:27.610+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:43:27.613+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:27.612+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:27.623+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:27.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.082 seconds
+[2022-10-25T14:43:54.308+0000] {processor.py:156} INFO - Started process (PID=35077) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:54.311+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:43:54.315+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:54.315+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:54.324+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:43:54.369+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.071 seconds
+[2022-10-25T14:59:49.405+0000] {processor.py:156} INFO - Started process (PID=33923) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:59:49.408+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T14:59:49.411+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:49.411+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:59:49.417+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T14:59:49.463+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.067 seconds
+[2022-10-25T15:03:40.693+0000] {processor.py:156} INFO - Started process (PID=35600) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:03:40.698+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:03:40.702+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:40.702+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:03:40.718+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:03:40.763+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.083 seconds
+[2022-10-25T15:04:57.921+0000] {processor.py:156} INFO - Started process (PID=34472) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:04:57.925+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:04:57.928+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:57.927+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:04:57.936+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:04:57.972+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.062 seconds
+[2022-10-25T15:05:10.241+0000] {processor.py:156} INFO - Started process (PID=36149) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:10.254+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:05:10.258+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:10.258+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:10.270+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:10.333+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.101 seconds
+[2022-10-25T15:05:48.001+0000] {processor.py:156} INFO - Started process (PID=34966) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:48.005+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:05:48.009+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:48.008+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:48.038+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:48.115+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.123 seconds
+[2022-10-25T15:05:54.346+0000] {processor.py:156} INFO - Started process (PID=36592) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:54.356+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:05:54.359+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:54.359+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:54.372+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:05:54.414+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.075 seconds
+[2022-10-25T15:06:31.432+0000] {processor.py:156} INFO - Started process (PID=35411) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:31.437+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:06:31.439+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:31.439+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:31.450+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:31.490+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.070 seconds
+[2022-10-25T15:06:37.985+0000] {processor.py:156} INFO - Started process (PID=37113) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:37.989+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar for tasks to queue
+[2022-10-25T15:06:37.991+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:37.990+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:38.001+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar
+[2022-10-25T15:06:38.045+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/commons-codec-1.4.jar took 0.076 seconds

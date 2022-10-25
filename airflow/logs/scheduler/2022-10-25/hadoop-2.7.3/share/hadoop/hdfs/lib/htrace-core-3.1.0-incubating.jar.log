@@ -203,3 +203,278 @@
 [2022-10-25T14:17:50.540+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:50.539+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
 [2022-10-25T14:17:50.563+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
 [2022-10-25T14:17:50.594+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.067 seconds
+[2022-10-25T14:24:58.756+0000] {processor.py:156} INFO - Started process (PID=23423) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:24:58.762+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:24:58.766+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:58.766+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:24:58.801+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:24:58.840+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.096 seconds
+[2022-10-25T14:25:17.386+0000] {processor.py:156} INFO - Started process (PID=24500) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:17.390+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:25:17.393+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:17.392+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:17.428+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:17.481+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.107 seconds
+[2022-10-25T14:25:48.730+0000] {processor.py:156} INFO - Started process (PID=23945) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:48.736+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:25:48.745+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:48.745+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:48.781+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:25:48.827+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.107 seconds
+[2022-10-25T14:26:05.784+0000] {processor.py:156} INFO - Started process (PID=25023) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:05.788+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:26:05.795+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:05.795+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:05.831+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:05.893+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.121 seconds
+[2022-10-25T14:26:33.436+0000] {processor.py:156} INFO - Started process (PID=24360) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:33.443+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:26:33.448+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:33.448+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:33.510+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:33.618+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.199 seconds
+[2022-10-25T14:26:49.792+0000] {processor.py:156} INFO - Started process (PID=25434) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:49.798+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:26:49.803+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:49.802+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:49.839+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:26:49.911+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.131 seconds
+[2022-10-25T14:27:21.141+0000] {processor.py:156} INFO - Started process (PID=24833) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:21.144+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:27:21.147+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:21.146+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:21.192+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:21.244+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.110 seconds
+[2022-10-25T14:27:32.317+0000] {processor.py:156} INFO - Started process (PID=25888) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:32.323+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:27:32.326+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:32.326+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:32.358+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:27:32.410+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.105 seconds
+[2022-10-25T14:28:08.153+0000] {processor.py:156} INFO - Started process (PID=25347) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:08.157+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:28:08.162+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:08.162+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:08.199+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:08.243+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.104 seconds
+[2022-10-25T14:28:18.503+0000] {processor.py:156} INFO - Started process (PID=26411) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:18.507+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:28:18.512+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:18.512+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:18.542+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:18.662+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.168 seconds
+[2022-10-25T14:28:50.716+0000] {processor.py:156} INFO - Started process (PID=25765) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:50.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:28:50.723+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:50.722+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:50.762+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:28:50.811+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.102 seconds
+[2022-10-25T14:29:15.314+0000] {processor.py:156} INFO - Started process (PID=26942) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:29:15.322+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:29:15.328+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:15.327+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:29:15.374+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:29:15.446+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.144 seconds
+[2022-10-25T14:30:00.915+0000] {processor.py:156} INFO - Started process (PID=26045) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:00.918+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:30:00.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:00.929+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:00.970+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:01.017+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.111 seconds
+[2022-10-25T14:30:22.551+0000] {processor.py:156} INFO - Started process (PID=27284) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:22.556+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:30:22.559+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:22.558+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:22.612+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:22.666+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.130 seconds
+[2022-10-25T14:30:46.815+0000] {processor.py:156} INFO - Started process (PID=26511) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:46.819+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:30:46.823+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:46.822+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:46.862+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:30:46.912+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.109 seconds
+[2022-10-25T14:31:16.456+0000] {processor.py:156} INFO - Started process (PID=27808) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:16.459+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:31:16.463+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:16.463+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:16.505+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:16.567+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.126 seconds
+[2022-10-25T14:31:37.503+0000] {processor.py:156} INFO - Started process (PID=26954) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:37.507+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:31:37.514+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:37.513+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:37.548+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:31:37.602+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.107 seconds
+[2022-10-25T14:32:05.993+0000] {processor.py:156} INFO - Started process (PID=28295) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:05.999+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:32:06.002+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:06.002+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:06.038+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:06.091+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.112 seconds
+[2022-10-25T14:32:26.526+0000] {processor.py:156} INFO - Started process (PID=27441) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:26.530+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:32:26.533+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:26.533+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:26.576+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:26.632+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.112 seconds
+[2022-10-25T14:32:47.114+0000] {processor.py:156} INFO - Started process (PID=28729) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:47.117+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:32:47.119+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:47.119+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:47.168+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:32:47.232+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.129 seconds
+[2022-10-25T14:33:11.052+0000] {processor.py:156} INFO - Started process (PID=27887) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:11.061+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:33:11.070+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:11.069+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:11.122+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:11.179+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.143 seconds
+[2022-10-25T14:33:39.487+0000] {processor.py:156} INFO - Started process (PID=29272) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:39.492+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:33:39.495+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:39.495+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:39.534+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:39.602+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.131 seconds
+[2022-10-25T14:33:52.619+0000] {processor.py:156} INFO - Started process (PID=28319) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:52.622+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:33:52.625+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:52.625+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:52.660+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:33:52.718+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.112 seconds
+[2022-10-25T14:35:00.582+0000] {processor.py:156} INFO - Started process (PID=28551) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:00.587+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:35:00.591+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:00.590+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:00.621+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:00.660+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.090 seconds
+[2022-10-25T14:35:01.116+0000] {processor.py:156} INFO - Started process (PID=29708) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:01.120+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:35:01.122+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:01.121+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:01.156+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:01.208+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.103 seconds
+[2022-10-25T14:35:47.293+0000] {processor.py:156} INFO - Started process (PID=29020) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:47.296+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:35:47.299+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:47.298+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:47.323+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:47.353+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.067 seconds
+[2022-10-25T14:35:48.633+0000] {processor.py:156} INFO - Started process (PID=30228) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:48.637+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:35:48.641+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:48.641+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:48.678+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:35:48.715+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.095 seconds
+[2022-10-25T14:36:22.055+0000] {processor.py:156} INFO - Started process (PID=30596) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:22.057+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:36:22.059+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:22.059+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:22.098+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:22.141+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.094 seconds
+[2022-10-25T14:36:29.776+0000] {processor.py:156} INFO - Started process (PID=29444) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:29.779+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:36:29.782+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:29.781+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:29.813+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:29.865+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.100 seconds
+[2022-10-25T14:36:59.280+0000] {processor.py:156} INFO - Started process (PID=31009) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:59.284+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:36:59.287+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:59.287+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:59.321+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:36:59.373+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.107 seconds
+[2022-10-25T14:37:12.736+0000] {processor.py:156} INFO - Started process (PID=29878) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:12.741+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:37:12.743+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:12.743+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:12.780+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:12.856+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.131 seconds
+[2022-10-25T14:37:48.121+0000] {processor.py:156} INFO - Started process (PID=31546) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:48.126+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:37:48.130+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:48.129+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:48.163+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:37:48.282+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.177 seconds
+[2022-10-25T14:38:02.711+0000] {processor.py:156} INFO - Started process (PID=30402) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:02.713+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:38:02.716+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:02.716+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:02.748+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:02.787+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.086 seconds
+[2022-10-25T14:38:38.400+0000] {processor.py:156} INFO - Started process (PID=32096) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:38.411+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:38:38.426+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:38.426+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:38.484+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:38.548+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.155 seconds
+[2022-10-25T14:38:42.002+0000] {processor.py:156} INFO - Started process (PID=30822) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:42.006+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:38:42.012+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:42.011+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:42.057+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:38:42.122+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.133 seconds
+[2022-10-25T14:40:04.265+0000] {processor.py:156} INFO - Started process (PID=31256) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:04.271+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:40:04.274+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:04.274+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:04.306+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:04.369+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.113 seconds
+[2022-10-25T14:40:15.644+0000] {processor.py:156} INFO - Started process (PID=32721) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:15.649+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:40:15.651+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:15.651+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:15.695+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:15.758+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.123 seconds
+[2022-10-25T14:40:53.906+0000] {processor.py:156} INFO - Started process (PID=31771) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:53.908+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:40:53.911+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:53.911+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:53.936+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:53.992+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.097 seconds
+[2022-10-25T14:40:57.786+0000] {processor.py:156} INFO - Started process (PID=33180) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:57.794+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:40:57.797+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:57.797+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:57.854+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:40:57.948+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.179 seconds
+[2022-10-25T14:41:31.823+0000] {processor.py:156} INFO - Started process (PID=32173) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:31.826+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:41:31.829+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:31.829+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:31.872+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:31.929+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.120 seconds
+[2022-10-25T14:41:37.984+0000] {processor.py:156} INFO - Started process (PID=33560) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:37.987+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:41:37.998+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:37.997+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:38.046+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:41:38.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.136 seconds
+[2022-10-25T14:42:10.742+0000] {processor.py:156} INFO - Started process (PID=32582) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:10.745+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:42:10.748+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:10.747+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:10.783+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:10.833+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.100 seconds
+[2022-10-25T14:42:21.225+0000] {processor.py:156} INFO - Started process (PID=34038) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:21.232+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:42:21.234+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:21.234+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:21.258+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:21.301+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.088 seconds
+[2022-10-25T14:42:48.690+0000] {processor.py:156} INFO - Started process (PID=32978) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:48.693+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:42:48.697+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:48.696+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:48.741+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:42:48.823+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.148 seconds
+[2022-10-25T14:43:08.206+0000] {processor.py:156} INFO - Started process (PID=34561) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:08.212+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:43:08.215+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:08.215+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:08.260+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:08.320+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.128 seconds
+[2022-10-25T14:43:28.354+0000] {processor.py:156} INFO - Started process (PID=33383) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:28.357+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:43:28.364+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:28.364+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:28.412+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:28.492+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.153 seconds
+[2022-10-25T14:43:54.816+0000] {processor.py:156} INFO - Started process (PID=35083) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:54.823+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:43:54.826+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:54.826+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:54.871+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:43:54.939+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.134 seconds
+[2022-10-25T14:59:49.966+0000] {processor.py:156} INFO - Started process (PID=33929) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:59:49.970+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T14:59:49.973+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:49.973+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:59:50.006+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T14:59:50.043+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.085 seconds
+[2022-10-25T15:03:41.121+0000] {processor.py:156} INFO - Started process (PID=35606) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:03:41.126+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:03:41.129+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:41.129+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:03:41.163+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:03:41.219+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.110 seconds
+[2022-10-25T15:04:58.496+0000] {processor.py:156} INFO - Started process (PID=34478) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:04:58.499+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:04:58.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:58.503+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:04:58.538+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:04:58.586+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.097 seconds
+[2022-10-25T15:05:10.998+0000] {processor.py:156} INFO - Started process (PID=36155) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:11.002+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:05:11.006+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:11.006+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:11.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:11.098+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.114 seconds
+[2022-10-25T15:05:48.948+0000] {processor.py:156} INFO - Started process (PID=34972) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:48.951+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:05:48.955+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:48.955+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:48.990+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:49.216+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.281 seconds
+[2022-10-25T15:05:54.767+0000] {processor.py:156} INFO - Started process (PID=36598) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:54.775+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:05:54.778+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:54.778+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:54.807+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:05:54.846+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.087 seconds
+[2022-10-25T15:06:32.014+0000] {processor.py:156} INFO - Started process (PID=35417) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:32.017+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:06:32.019+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:32.019+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:32.049+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:32.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.086 seconds
+[2022-10-25T15:06:38.447+0000] {processor.py:156} INFO - Started process (PID=37119) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:38.452+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar for tasks to queue
+[2022-10-25T15:06:38.455+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:38.454+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:38.500+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar
+[2022-10-25T15:06:38.548+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/lib/htrace-core-3.1.0-incubating.jar took 0.109 seconds

@@ -153,3 +153,208 @@
 [2022-10-25T14:17:09.627+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:09.626+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
 [2022-10-25T14:17:09.641+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
 [2022-10-25T14:17:09.717+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.114 seconds
+[2022-10-25T14:25:30.498+0000] {processor.py:156} INFO - Started process (PID=23751) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:30.502+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:25:30.507+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:30.507+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:30.519+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:30.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.080 seconds
+[2022-10-25T14:25:46.690+0000] {processor.py:156} INFO - Started process (PID=24831) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:46.693+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:25:46.696+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:46.695+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:46.706+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:25:46.742+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.064 seconds
+[2022-10-25T14:26:37.409+0000] {processor.py:156} INFO - Started process (PID=24395) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:37.412+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:26:37.415+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:37.415+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:37.425+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:37.485+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.084 seconds
+[2022-10-25T14:26:52.890+0000] {processor.py:156} INFO - Started process (PID=25467) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:52.898+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:26:52.911+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:52.910+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:52.919+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:26:53.012+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.130 seconds
+[2022-10-25T14:27:28.140+0000] {processor.py:156} INFO - Started process (PID=24910) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:28.143+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:27:28.145+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:28.145+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:28.156+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:28.195+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.063 seconds
+[2022-10-25T14:27:41.142+0000] {processor.py:156} INFO - Started process (PID=25990) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:41.147+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:27:41.149+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:41.149+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:41.158+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:27:41.197+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.067 seconds
+[2022-10-25T14:28:20.825+0000] {processor.py:156} INFO - Started process (PID=25487) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:20.828+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:28:20.831+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:20.831+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:20.839+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:20.876+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.062 seconds
+[2022-10-25T14:28:28.277+0000] {processor.py:156} INFO - Started process (PID=26517) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:28.280+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:28:28.282+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:28.282+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:28.289+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:28:28.320+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.052 seconds
+[2022-10-25T14:30:11.433+0000] {processor.py:156} INFO - Started process (PID=27167) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:11.436+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:30:11.438+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:11.438+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:11.447+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:11.494+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.068 seconds
+[2022-10-25T14:30:25.715+0000] {processor.py:156} INFO - Started process (PID=26315) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:25.717+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:30:25.719+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:25.719+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:25.725+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:30:25.769+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.060 seconds
+[2022-10-25T14:31:05.690+0000] {processor.py:156} INFO - Started process (PID=27709) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:05.695+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:31:05.698+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:05.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:05.722+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:05.780+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.100 seconds
+[2022-10-25T14:31:23.429+0000] {processor.py:156} INFO - Started process (PID=26840) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:23.433+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:31:23.436+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:23.436+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:23.447+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:31:23.509+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.090 seconds
+[2022-10-25T14:32:17.542+0000] {processor.py:156} INFO - Started process (PID=28415) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:17.555+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:32:17.558+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:17.558+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:17.569+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:17.639+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.108 seconds
+[2022-10-25T14:32:35.567+0000] {processor.py:156} INFO - Started process (PID=27533) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:35.570+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:32:35.573+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:35.572+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:35.582+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:32:35.626+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.066 seconds
+[2022-10-25T14:33:15.511+0000] {processor.py:156} INFO - Started process (PID=29016) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:15.518+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:33:15.521+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:15.520+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:15.532+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:15.600+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.103 seconds
+[2022-10-25T14:33:39.303+0000] {processor.py:156} INFO - Started process (PID=28187) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:39.308+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:33:39.311+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:39.310+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:39.321+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:33:39.376+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.084 seconds
+[2022-10-25T14:34:16.152+0000] {processor.py:156} INFO - Started process (PID=29641) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:34:16.163+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:34:16.168+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:16.167+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:34:16.188+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:34:16.251+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.117 seconds
+[2022-10-25T14:35:32.175+0000] {processor.py:156} INFO - Started process (PID=28879) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:32.179+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:35:32.182+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:32.182+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:32.202+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:32.256+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.088 seconds
+[2022-10-25T14:35:38.395+0000] {processor.py:156} INFO - Started process (PID=30119) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:38.401+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:35:38.409+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:38.408+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:38.421+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:35:38.459+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.077 seconds
+[2022-10-25T14:36:28.070+0000] {processor.py:156} INFO - Started process (PID=30665) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:28.073+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:36:28.075+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:28.075+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:28.083+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:28.118+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.057 seconds
+[2022-10-25T14:36:36.309+0000] {processor.py:156} INFO - Started process (PID=29512) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:36.313+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:36:36.326+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:36.322+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:36.342+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:36:36.394+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.092 seconds
+[2022-10-25T14:37:18.294+0000] {processor.py:156} INFO - Started process (PID=31220) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:18.304+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:37:18.310+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:18.310+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:18.323+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:18.371+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.103 seconds
+[2022-10-25T14:37:38.641+0000] {processor.py:156} INFO - Started process (PID=30159) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:38.645+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:37:38.650+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:38.649+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:38.660+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:37:38.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.092 seconds
+[2022-10-25T14:38:08.873+0000] {processor.py:156} INFO - Started process (PID=31768) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:08.877+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:38:08.884+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:08.883+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:08.892+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:08.965+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.102 seconds
+[2022-10-25T14:38:36.142+0000] {processor.py:156} INFO - Started process (PID=30763) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:36.145+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:38:36.149+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:36.147+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:36.157+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:36.210+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.079 seconds
+[2022-10-25T14:38:58.201+0000] {processor.py:156} INFO - Started process (PID=32305) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:58.207+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:38:58.210+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:58.210+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:58.217+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:38:58.257+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.067 seconds
+[2022-10-25T14:40:24.589+0000] {processor.py:156} INFO - Started process (PID=31463) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:24.592+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:40:24.595+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:24.595+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:24.604+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:24.671+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.091 seconds
+[2022-10-25T14:40:40.331+0000] {processor.py:156} INFO - Started process (PID=32988) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:40.335+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:40:40.337+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:40.337+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:40.344+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:40:40.390+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.069 seconds
+[2022-10-25T14:41:21.315+0000] {processor.py:156} INFO - Started process (PID=32054) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:21.318+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:41:21.321+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:21.321+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:21.329+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:21.369+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.067 seconds
+[2022-10-25T14:41:43.336+0000] {processor.py:156} INFO - Started process (PID=33618) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:43.339+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:41:43.347+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:43.346+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:43.360+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:41:43.409+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.092 seconds
+[2022-10-25T14:42:16.747+0000] {processor.py:156} INFO - Started process (PID=32645) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:16.750+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:42:16.753+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:16.753+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:16.765+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:16.816+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.079 seconds
+[2022-10-25T14:42:38.639+0000] {processor.py:156} INFO - Started process (PID=34232) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:38.644+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:42:38.647+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:38.646+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:38.655+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:42:38.695+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.065 seconds
+[2022-10-25T14:43:15.371+0000] {processor.py:156} INFO - Started process (PID=33248) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:15.374+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:43:15.377+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:15.377+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:15.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:15.467+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.109 seconds
+[2022-10-25T14:43:27.752+0000] {processor.py:156} INFO - Started process (PID=34778) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:27.760+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:43:27.765+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:27.765+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:27.790+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:43:27.875+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.134 seconds
+[2022-10-25T14:44:14.948+0000] {processor.py:156} INFO - Started process (PID=35302) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:44:14.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T14:44:14.955+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:14.955+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:44:14.963+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T14:44:15.022+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.082 seconds
+[2022-10-25T15:03:55.862+0000] {processor.py:156} INFO - Started process (PID=34265) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:03:55.864+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:03:55.866+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:55.866+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:03:55.874+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:03:55.908+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.053 seconds
+[2022-10-25T15:04:12.429+0000] {processor.py:156} INFO - Started process (PID=35935) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:04:12.433+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:04:12.437+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:12.437+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:04:12.451+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:04:12.518+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.100 seconds
+[2022-10-25T15:05:29.361+0000] {processor.py:156} INFO - Started process (PID=34805) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:29.363+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:05:29.366+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:29.366+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:29.374+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:29.413+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.063 seconds
+[2022-10-25T15:05:42.520+0000] {processor.py:156} INFO - Started process (PID=36485) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:42.539+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:05:42.553+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:42.553+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:42.571+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:05:42.606+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.092 seconds
+[2022-10-25T15:06:34.516+0000] {processor.py:156} INFO - Started process (PID=37062) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.519+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:06:34.521+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:34.521+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.529+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.562+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.054 seconds
+[2022-10-25T15:06:34.731+0000] {processor.py:156} INFO - Started process (PID=35446) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.733+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar for tasks to queue
+[2022-10-25T15:06:34.736+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:34.736+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.742+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar
+[2022-10-25T15:06:34.786+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/sources/hadoop-distcp-2.7.3-sources.jar took 0.063 seconds

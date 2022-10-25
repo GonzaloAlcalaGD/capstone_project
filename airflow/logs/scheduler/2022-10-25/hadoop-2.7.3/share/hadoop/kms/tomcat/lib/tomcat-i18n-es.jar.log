@@ -178,3 +178,243 @@
 [2022-10-25T14:17:27.983+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:27.983+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
 [2022-10-25T14:17:27.994+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
 [2022-10-25T14:17:28.043+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.091 seconds
+[2022-10-25T14:25:10.946+0000] {processor.py:156} INFO - Started process (PID=23547) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:10.958+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:25:10.961+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:10.960+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:10.981+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:11.046+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.122 seconds
+[2022-10-25T14:25:28.905+0000] {processor.py:156} INFO - Started process (PID=24622) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:28.909+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:25:28.912+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:28.912+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:28.922+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:25:28.980+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.082 seconds
+[2022-10-25T14:26:00.753+0000] {processor.py:156} INFO - Started process (PID=24062) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:00.757+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:26:00.761+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:00.761+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:00.778+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:00.818+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.074 seconds
+[2022-10-25T14:26:19.468+0000] {processor.py:156} INFO - Started process (PID=25145) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:19.471+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:26:19.476+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:19.476+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:19.497+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:19.569+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.116 seconds
+[2022-10-25T14:26:56.590+0000] {processor.py:156} INFO - Started process (PID=24586) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:56.596+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:26:56.601+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:56.601+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:56.617+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:26:56.670+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.095 seconds
+[2022-10-25T14:27:12.111+0000] {processor.py:156} INFO - Started process (PID=25667) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:12.118+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:27:12.121+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:12.121+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:12.131+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:12.200+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.100 seconds
+[2022-10-25T14:27:39.930+0000] {processor.py:156} INFO - Started process (PID=25040) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:39.933+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:27:39.935+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:39.935+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:39.943+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:27:39.979+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.057 seconds
+[2022-10-25T14:28:01.145+0000] {processor.py:156} INFO - Started process (PID=26214) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:01.148+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:28:01.151+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:01.151+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:01.160+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:01.211+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.072 seconds
+[2022-10-25T14:28:31.679+0000] {processor.py:156} INFO - Started process (PID=25589) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:31.685+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:28:31.699+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:31.697+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:31.727+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:31.802+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.136 seconds
+[2022-10-25T14:28:56.829+0000] {processor.py:156} INFO - Started process (PID=26795) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:56.834+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:28:56.837+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:56.836+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:56.847+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:28:56.900+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.091 seconds
+[2022-10-25T14:30:12.365+0000] {processor.py:156} INFO - Started process (PID=26169) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:12.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:30:12.373+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:12.373+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:12.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:12.425+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.066 seconds
+[2022-10-25T14:30:27.069+0000] {processor.py:156} INFO - Started process (PID=27335) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:27.073+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:30:27.075+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:27.075+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:27.090+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:30:27.138+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.092 seconds
+[2022-10-25T14:31:06.847+0000] {processor.py:156} INFO - Started process (PID=26696) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:06.852+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:31:06.858+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:06.858+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:06.869+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:06.924+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.089 seconds
+[2022-10-25T14:31:22.402+0000] {processor.py:156} INFO - Started process (PID=27866) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:22.407+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:31:22.411+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:22.411+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:22.431+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:31:22.497+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.113 seconds
+[2022-10-25T14:32:00.006+0000] {processor.py:156} INFO - Started process (PID=27198) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:00.010+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:32:00.014+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:00.014+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:00.028+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:00.103+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.108 seconds
+[2022-10-25T14:32:10.977+0000] {processor.py:156} INFO - Started process (PID=28353) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:10.989+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:32:10.997+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:10.997+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:11.022+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:11.072+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.102 seconds
+[2022-10-25T14:32:46.844+0000] {processor.py:156} INFO - Started process (PID=27659) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:46.848+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:32:46.852+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:46.851+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:46.863+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:32:46.915+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.086 seconds
+[2022-10-25T14:33:08.289+0000] {processor.py:156} INFO - Started process (PID=28948) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:08.292+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:33:08.295+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:08.295+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:08.311+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:08.363+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.086 seconds
+[2022-10-25T14:33:30.757+0000] {processor.py:156} INFO - Started process (PID=28091) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:30.761+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:33:30.765+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:30.765+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:30.792+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:33:30.845+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.106 seconds
+[2022-10-25T14:34:08.429+0000] {processor.py:156} INFO - Started process (PID=29560) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:34:08.435+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:34:08.437+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:08.436+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:34:08.444+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:34:08.523+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.100 seconds
+[2022-10-25T14:35:12.301+0000] {processor.py:156} INFO - Started process (PID=28675) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:12.305+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:35:12.310+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:12.310+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:12.323+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:12.371+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.079 seconds
+[2022-10-25T14:35:29.939+0000] {processor.py:156} INFO - Started process (PID=30028) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:29.942+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:35:29.944+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:29.944+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:29.955+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:35:30.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.071 seconds
+[2022-10-25T14:36:03.751+0000] {processor.py:156} INFO - Started process (PID=29198) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:03.758+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:36:03.761+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:03.761+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:03.775+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:03.835+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.094 seconds
+[2022-10-25T14:36:13.064+0000] {processor.py:156} INFO - Started process (PID=30499) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:13.068+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:36:13.073+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:13.073+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:13.084+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:13.147+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.093 seconds
+[2022-10-25T14:36:51.498+0000] {processor.py:156} INFO - Started process (PID=29667) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:51.502+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:36:51.508+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:51.508+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:51.523+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:36:51.583+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.103 seconds
+[2022-10-25T14:37:03.160+0000] {processor.py:156} INFO - Started process (PID=31046) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:03.163+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:37:03.165+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:03.165+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:03.175+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:03.208+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.054 seconds
+[2022-10-25T14:37:34.002+0000] {processor.py:156} INFO - Started process (PID=30108) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:34.005+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:37:34.009+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:34.008+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:34.024+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:34.073+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.079 seconds
+[2022-10-25T14:37:52.547+0000] {processor.py:156} INFO - Started process (PID=31583) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:52.551+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:37:52.554+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:52.554+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:52.563+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:37:52.607+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.068 seconds
+[2022-10-25T14:38:31.688+0000] {processor.py:156} INFO - Started process (PID=30706) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:31.695+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:38:31.699+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:31.699+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:31.718+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:31.774+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.098 seconds
+[2022-10-25T14:38:43.135+0000] {processor.py:156} INFO - Started process (PID=32146) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:43.144+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:38:43.151+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:43.150+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:43.171+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:38:43.234+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.111 seconds
+[2022-10-25T14:40:14.143+0000] {processor.py:156} INFO - Started process (PID=31365) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:14.146+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:40:14.148+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:14.148+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:14.161+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:14.213+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.079 seconds
+[2022-10-25T14:40:27.072+0000] {processor.py:156} INFO - Started process (PID=32843) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:27.079+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:40:27.091+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:27.090+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:27.111+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:40:27.168+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.104 seconds
+[2022-10-25T14:41:03.775+0000] {processor.py:156} INFO - Started process (PID=31879) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:03.779+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:41:03.783+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:03.782+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:03.801+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:03.862+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.110 seconds
+[2022-10-25T14:41:15.063+0000] {processor.py:156} INFO - Started process (PID=33365) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:15.068+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:41:15.071+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:15.070+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:15.087+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:15.143+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.096 seconds
+[2022-10-25T14:41:58.387+0000] {processor.py:156} INFO - Started process (PID=32454) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:58.390+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:41:58.393+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:58.393+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:58.412+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:58.457+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.085 seconds
+[2022-10-25T14:41:59.859+0000] {processor.py:156} INFO - Started process (PID=33826) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:59.862+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:41:59.865+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:59.864+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:59.875+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:41:59.921+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.071 seconds
+[2022-10-25T14:42:52.441+0000] {processor.py:156} INFO - Started process (PID=34386) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:52.445+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:42:52.448+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:52.447+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:52.458+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:52.505+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.073 seconds
+[2022-10-25T14:42:56.152+0000] {processor.py:156} INFO - Started process (PID=33055) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:56.162+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:42:56.166+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:56.165+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:56.175+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:42:56.220+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.086 seconds
+[2022-10-25T14:43:40.811+0000] {processor.py:156} INFO - Started process (PID=34931) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:40.813+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:43:40.815+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:40.815+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:40.822+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:40.866+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.063 seconds
+[2022-10-25T14:43:55.939+0000] {processor.py:156} INFO - Started process (PID=33664) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:55.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T14:43:55.957+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:55.956+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:55.966+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T14:43:56.016+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.092 seconds
+[2022-10-25T15:03:32.877+0000] {processor.py:156} INFO - Started process (PID=34053) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:32.881+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:03:32.883+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:32.883+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:32.893+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:32.963+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.101 seconds
+[2022-10-25T15:03:53.104+0000] {processor.py:156} INFO - Started process (PID=35728) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:53.108+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:03:53.110+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:53.110+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:53.119+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:03:53.183+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.087 seconds
+[2022-10-25T15:05:09.798+0000] {processor.py:156} INFO - Started process (PID=34601) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:09.801+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:05:09.804+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:09.803+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:09.814+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:09.861+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.070 seconds
+[2022-10-25T15:05:23.124+0000] {processor.py:156} INFO - Started process (PID=36277) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:23.127+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:05:23.130+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:23.130+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:23.143+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:05:23.194+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.087 seconds
+[2022-10-25T15:06:02.774+0000] {processor.py:156} INFO - Started process (PID=35125) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:02.783+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:06:02.786+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:02.785+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:02.805+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:02.884+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.117 seconds
+[2022-10-25T15:06:11.448+0000] {processor.py:156} INFO - Started process (PID=36798) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:11.451+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:06:11.454+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:11.454+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:11.469+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:11.509+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.076 seconds
+[2022-10-25T15:06:49.447+0000] {processor.py:156} INFO - Started process (PID=35610) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:49.454+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:06:49.459+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:49.459+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:49.473+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:49.540+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.107 seconds
+[2022-10-25T15:06:55.222+0000] {processor.py:156} INFO - Started process (PID=37313) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:55.226+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar for tasks to queue
+[2022-10-25T15:06:55.230+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:55.228+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:55.238+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar
+[2022-10-25T15:06:55.316+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/kms/tomcat/lib/tomcat-i18n-es.jar took 0.117 seconds

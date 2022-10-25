@@ -148,3 +148,198 @@
 [2022-10-25T14:17:16.364+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:16.364+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
 [2022-10-25T14:17:16.380+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
 [2022-10-25T14:17:16.427+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.096 seconds
+[2022-10-25T14:25:35.989+0000] {processor.py:156} INFO - Started process (PID=23821) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:35.993+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:25:35.998+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:35.996+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:36.013+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:36.055+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.074 seconds
+[2022-10-25T14:25:52.947+0000] {processor.py:156} INFO - Started process (PID=24899) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:52.961+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:25:52.965+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:52.964+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:52.987+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:25:53.046+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.130 seconds
+[2022-10-25T14:26:44.206+0000] {processor.py:156} INFO - Started process (PID=24456) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:44.211+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:26:44.214+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:44.214+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:44.231+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:44.282+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.085 seconds
+[2022-10-25T14:26:59.454+0000] {processor.py:156} INFO - Started process (PID=25534) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:59.456+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:26:59.463+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:59.462+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:59.478+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:26:59.521+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.081 seconds
+[2022-10-25T14:27:46.451+0000] {processor.py:156} INFO - Started process (PID=25125) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:46.453+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:27:46.456+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:46.455+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:46.467+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:46.519+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.075 seconds
+[2022-10-25T14:27:54.188+0000] {processor.py:156} INFO - Started process (PID=26146) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:54.191+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:27:54.194+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:54.194+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:54.212+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:27:54.252+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.074 seconds
+[2022-10-25T14:28:39.868+0000] {processor.py:156} INFO - Started process (PID=25674) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:39.872+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:28:39.875+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:39.875+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:39.892+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:39.938+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.079 seconds
+[2022-10-25T14:28:44.057+0000] {processor.py:156} INFO - Started process (PID=26678) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:44.061+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:28:44.066+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:44.065+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:44.088+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:28:44.137+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.087 seconds
+[2022-10-25T14:30:31.445+0000] {processor.py:156} INFO - Started process (PID=26385) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:31.450+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:30:31.453+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:31.453+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:31.472+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:31.525+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.094 seconds
+[2022-10-25T14:30:43.062+0000] {processor.py:156} INFO - Started process (PID=27507) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:43.068+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:30:43.071+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:43.070+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:43.098+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:30:43.166+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.120 seconds
+[2022-10-25T14:31:49.542+0000] {processor.py:156} INFO - Started process (PID=27079) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:49.547+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:31:49.550+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:49.550+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:49.568+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:49.615+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.084 seconds
+[2022-10-25T14:31:55.006+0000] {processor.py:156} INFO - Started process (PID=28190) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:55.010+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:31:55.013+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:55.013+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:55.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:31:55.106+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.110 seconds
+[2022-10-25T14:32:54.598+0000] {processor.py:156} INFO - Started process (PID=28827) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:54.601+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:32:54.604+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:54.603+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:54.619+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:54.656+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.067 seconds
+[2022-10-25T14:32:55.927+0000] {processor.py:156} INFO - Started process (PID=27761) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:55.930+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:32:55.938+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:55.937+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:55.959+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:32:56.019+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.111 seconds
+[2022-10-25T14:33:52.089+0000] {processor.py:156} INFO - Started process (PID=29421) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:33:52.098+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:33:52.103+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:52.102+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:33:52.129+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:33:52.190+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.113 seconds
+[2022-10-25T14:34:49.581+0000] {processor.py:156} INFO - Started process (PID=28425) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:34:49.585+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:34:49.587+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:49.587+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:34:49.600+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:34:49.630+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.056 seconds
+[2022-10-25T14:35:43.681+0000] {processor.py:156} INFO - Started process (PID=30180) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:43.684+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:35:43.693+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:43.693+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:43.715+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:43.775+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.106 seconds
+[2022-10-25T14:35:55.304+0000] {processor.py:156} INFO - Started process (PID=29107) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:55.313+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:35:55.320+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:55.318+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:55.342+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:35:55.390+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.093 seconds
+[2022-10-25T14:36:33.884+0000] {processor.py:156} INFO - Started process (PID=30726) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:33.887+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:36:33.890+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:33.890+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:33.907+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:33.945+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.070 seconds
+[2022-10-25T14:36:59.551+0000] {processor.py:156} INFO - Started process (PID=29759) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:59.556+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:36:59.559+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:59.558+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:59.575+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:36:59.629+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.088 seconds
+[2022-10-25T14:37:23.440+0000] {processor.py:156} INFO - Started process (PID=31281) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:23.445+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:37:23.450+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:23.450+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:23.472+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:23.534+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.106 seconds
+[2022-10-25T14:37:59.517+0000] {processor.py:156} INFO - Started process (PID=30369) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:59.521+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:37:59.524+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:59.524+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:59.565+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:37:59.629+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.123 seconds
+[2022-10-25T14:38:15.066+0000] {processor.py:156} INFO - Started process (PID=31829) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:15.069+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:38:15.072+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:15.072+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:15.092+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:15.138+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.090 seconds
+[2022-10-25T14:38:57.720+0000] {processor.py:156} INFO - Started process (PID=30978) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:57.723+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:38:57.726+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:57.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:57.741+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:38:57.790+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.077 seconds
+[2022-10-25T14:39:04.173+0000] {processor.py:156} INFO - Started process (PID=32373) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:39:04.179+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:39:04.184+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:04.184+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:39:04.205+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:39:04.254+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.098 seconds
+[2022-10-25T14:40:30.827+0000] {processor.py:156} INFO - Started process (PID=31533) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:30.830+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:40:30.834+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:30.833+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:30.851+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:30.883+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.065 seconds
+[2022-10-25T14:40:45.869+0000] {processor.py:156} INFO - Started process (PID=33056) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:45.873+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:40:45.877+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:45.876+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:45.896+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:40:45.935+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.073 seconds
+[2022-10-25T14:41:26.790+0000] {processor.py:156} INFO - Started process (PID=32124) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:26.793+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:41:26.796+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:26.796+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:26.818+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:26.882+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.103 seconds
+[2022-10-25T14:41:48.143+0000] {processor.py:156} INFO - Started process (PID=33686) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:48.149+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:41:48.152+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:48.152+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:48.189+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:41:48.226+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.094 seconds
+[2022-10-25T14:42:22.750+0000] {processor.py:156} INFO - Started process (PID=32715) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:22.760+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:42:22.765+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:22.764+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:22.787+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:22.882+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.144 seconds
+[2022-10-25T14:42:43.698+0000] {processor.py:156} INFO - Started process (PID=34293) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:43.702+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:42:43.709+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:43.708+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:43.730+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:42:43.772+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.087 seconds
+[2022-10-25T14:43:21.764+0000] {processor.py:156} INFO - Started process (PID=33309) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:21.771+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:43:21.778+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:21.777+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:21.804+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:21.855+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.106 seconds
+[2022-10-25T14:43:33.352+0000] {processor.py:156} INFO - Started process (PID=34839) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:33.357+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T14:43:33.362+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:33.361+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:33.382+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T14:43:33.430+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.089 seconds
+[2022-10-25T15:04:45.272+0000] {processor.py:156} INFO - Started process (PID=34353) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:45.277+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:04:45.279+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:45.279+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:45.299+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:45.338+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.084 seconds
+[2022-10-25T15:04:59.157+0000] {processor.py:156} INFO - Started process (PID=36031) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:59.164+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:04:59.172+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:59.171+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:59.195+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:04:59.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.103 seconds
+[2022-10-25T15:05:56.051+0000] {processor.py:156} INFO - Started process (PID=35046) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:05:56.054+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:05:56.056+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:56.056+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:05:56.077+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:05:56.119+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.076 seconds
+[2022-10-25T15:06:00.931+0000] {processor.py:156} INFO - Started process (PID=36671) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:00.933+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:06:00.936+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:00.936+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:00.950+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:00.993+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.071 seconds
+[2022-10-25T15:06:46.190+0000] {processor.py:156} INFO - Started process (PID=37205) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:46.193+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:06:46.195+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:46.195+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:46.215+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:46.248+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.066 seconds
+[2022-10-25T15:06:55.238+0000] {processor.py:156} INFO - Started process (PID=35678) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:55.243+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar for tasks to queue
+[2022-10-25T15:06:55.246+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:55.245+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:55.264+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar
+[2022-10-25T15:06:55.320+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/zookeeper-3.4.6-tests.jar took 0.095 seconds

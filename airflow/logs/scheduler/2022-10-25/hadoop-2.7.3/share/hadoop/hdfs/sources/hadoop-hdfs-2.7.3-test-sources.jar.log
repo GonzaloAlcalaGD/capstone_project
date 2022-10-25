@@ -193,3 +193,273 @@
 [2022-10-25T14:17:51.914+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:51.913+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
 [2022-10-25T14:17:51.939+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
 [2022-10-25T14:17:51.976+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.080 seconds
+[2022-10-25T14:25:00.864+0000] {processor.py:156} INFO - Started process (PID=23441) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:00.872+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:25:00.880+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:00.879+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:00.942+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:01.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.150 seconds
+[2022-10-25T14:25:18.918+0000] {processor.py:156} INFO - Started process (PID=24518) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:18.921+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:25:18.924+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:18.923+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:18.955+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:19.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.089 seconds
+[2022-10-25T14:25:50.885+0000] {processor.py:156} INFO - Started process (PID=23965) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:50.888+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:25:50.890+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:50.890+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:50.929+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:25:51.015+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.138 seconds
+[2022-10-25T14:26:08.500+0000] {processor.py:156} INFO - Started process (PID=25041) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:08.505+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:26:08.514+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:08.512+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:08.553+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:08.611+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.125 seconds
+[2022-10-25T14:26:35.383+0000] {processor.py:156} INFO - Started process (PID=24378) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:35.388+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:26:35.391+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:35.391+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:35.429+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:26:35.491+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.119 seconds
+[2022-10-25T14:27:01.988+0000] {processor.py:156} INFO - Started process (PID=25563) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:01.993+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:27:02.004+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:02.003+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:02.030+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:02.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.113 seconds
+[2022-10-25T14:27:23.283+0000] {processor.py:156} INFO - Started process (PID=24851) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:23.289+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:27:23.293+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:23.293+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:23.320+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:23.389+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.127 seconds
+[2022-10-25T14:27:41.548+0000] {processor.py:156} INFO - Started process (PID=25995) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:41.551+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:27:41.554+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:41.554+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:41.603+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:27:41.650+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.110 seconds
+[2022-10-25T14:28:09.592+0000] {processor.py:156} INFO - Started process (PID=25365) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:09.596+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:28:09.599+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:09.599+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:09.642+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:09.690+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.110 seconds
+[2022-10-25T14:28:20.371+0000] {processor.py:156} INFO - Started process (PID=26429) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:20.375+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:28:20.383+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:20.382+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:20.419+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:20.461+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.100 seconds
+[2022-10-25T14:28:53.540+0000] {processor.py:156} INFO - Started process (PID=25793) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:53.544+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:28:53.548+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:53.547+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:53.587+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:28:53.640+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.113 seconds
+[2022-10-25T14:29:17.382+0000] {processor.py:156} INFO - Started process (PID=26968) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:29:17.387+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:29:17.392+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:17.391+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:29:17.448+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:29:17.507+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.137 seconds
+[2022-10-25T14:30:03.044+0000] {processor.py:156} INFO - Started process (PID=26070) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:03.048+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:30:03.052+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:03.052+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:03.092+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:03.148+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.116 seconds
+[2022-10-25T14:30:24.460+0000] {processor.py:156} INFO - Started process (PID=27302) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:24.464+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:30:24.467+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:24.466+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:24.491+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:24.537+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.085 seconds
+[2022-10-25T14:30:48.962+0000] {processor.py:156} INFO - Started process (PID=26529) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:48.965+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:30:48.971+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:48.970+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:49.016+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:30:49.083+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.132 seconds
+[2022-10-25T14:31:18.975+0000] {processor.py:156} INFO - Started process (PID=27826) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:18.979+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:31:18.983+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:18.982+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:19.029+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:19.083+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.124 seconds
+[2022-10-25T14:31:39.207+0000] {processor.py:156} INFO - Started process (PID=26972) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:39.212+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:31:39.215+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:39.215+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:39.247+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:31:39.291+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.092 seconds
+[2022-10-25T14:32:07.661+0000] {processor.py:156} INFO - Started process (PID=28313) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:07.664+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:32:07.667+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:07.667+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:07.697+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:07.736+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.092 seconds
+[2022-10-25T14:32:28.661+0000] {processor.py:156} INFO - Started process (PID=27467) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:28.664+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:32:28.667+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:28.667+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:28.719+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:28.778+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.128 seconds
+[2022-10-25T14:32:48.887+0000] {processor.py:156} INFO - Started process (PID=28747) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:48.890+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:32:48.893+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:48.893+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:48.921+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:32:48.990+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.111 seconds
+[2022-10-25T14:33:13.456+0000] {processor.py:156} INFO - Started process (PID=27912) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:13.459+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:33:13.463+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:13.463+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:13.506+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:13.551+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.103 seconds
+[2022-10-25T14:33:41.388+0000] {processor.py:156} INFO - Started process (PID=29290) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:41.391+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:33:41.394+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:41.394+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:41.438+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:33:41.485+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.105 seconds
+[2022-10-25T14:35:02.341+0000] {processor.py:156} INFO - Started process (PID=28569) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:02.348+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:35:02.350+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:02.350+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:02.388+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:02.421+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.095 seconds
+[2022-10-25T14:35:02.876+0000] {processor.py:156} INFO - Started process (PID=29726) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:02.879+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:35:02.884+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:02.883+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:02.925+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:03.007+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.156 seconds
+[2022-10-25T14:35:49.324+0000] {processor.py:156} INFO - Started process (PID=29044) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:49.331+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:35:49.340+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:49.340+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:49.382+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:49.440+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.128 seconds
+[2022-10-25T14:35:50.366+0000] {processor.py:156} INFO - Started process (PID=30246) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:50.369+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:35:50.372+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:50.372+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:50.411+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:35:50.465+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.111 seconds
+[2022-10-25T14:36:40.408+0000] {processor.py:156} INFO - Started process (PID=30797) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:40.412+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:36:40.414+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:40.414+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:40.450+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:40.495+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.096 seconds
+[2022-10-25T14:36:41.431+0000] {processor.py:156} INFO - Started process (PID=29561) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:41.433+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:36:41.436+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:41.436+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:41.479+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:36:41.537+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.118 seconds
+[2022-10-25T14:37:24.092+0000] {processor.py:156} INFO - Started process (PID=30002) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:24.097+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:37:24.101+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:24.101+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:24.141+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:24.189+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.107 seconds
+[2022-10-25T14:37:29.112+0000] {processor.py:156} INFO - Started process (PID=31340) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:29.120+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:37:29.126+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:29.126+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:29.187+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:37:29.227+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.135 seconds
+[2022-10-25T14:38:04.357+0000] {processor.py:156} INFO - Started process (PID=30420) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:04.360+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:38:04.363+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:04.362+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:04.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:04.458+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.122 seconds
+[2022-10-25T14:38:21.561+0000] {processor.py:156} INFO - Started process (PID=31911) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:21.564+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:38:21.567+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:21.567+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:21.593+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:21.631+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.080 seconds
+[2022-10-25T14:38:44.009+0000] {processor.py:156} INFO - Started process (PID=30840) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:44.012+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:38:44.018+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:44.018+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:44.050+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:38:44.092+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.093 seconds
+[2022-10-25T14:39:12.448+0000] {processor.py:156} INFO - Started process (PID=32454) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:39:12.453+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:39:12.457+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:12.456+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:39:12.489+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:39:12.547+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.108 seconds
+[2022-10-25T14:40:06.219+0000] {processor.py:156} INFO - Started process (PID=31274) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:06.222+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:40:06.226+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:06.226+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:06.252+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:06.287+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.077 seconds
+[2022-10-25T14:40:17.558+0000] {processor.py:156} INFO - Started process (PID=32739) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:17.564+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:40:17.569+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:17.568+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:17.615+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:17.661+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.122 seconds
+[2022-10-25T14:40:55.743+0000] {processor.py:156} INFO - Started process (PID=31797) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:55.746+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:40:55.753+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:55.752+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:55.781+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:55.822+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.094 seconds
+[2022-10-25T14:40:59.987+0000] {processor.py:156} INFO - Started process (PID=33198) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:40:59.992+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:40:59.996+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:59.996+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:00.044+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:00.097+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.130 seconds
+[2022-10-25T14:41:33.743+0000] {processor.py:156} INFO - Started process (PID=32191) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:33.748+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:41:33.755+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:33.754+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:33.784+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:33.838+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.104 seconds
+[2022-10-25T14:41:51.247+0000] {processor.py:156} INFO - Started process (PID=33722) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:51.251+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:41:51.254+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:51.253+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:51.287+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:41:51.351+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.118 seconds
+[2022-10-25T14:42:12.306+0000] {processor.py:156} INFO - Started process (PID=32600) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:12.314+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:42:12.317+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:12.316+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:12.358+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:12.419+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.121 seconds
+[2022-10-25T14:42:29.307+0000] {processor.py:156} INFO - Started process (PID=34123) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:29.310+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:42:29.312+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:29.312+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:29.341+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:29.378+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.079 seconds
+[2022-10-25T14:42:50.560+0000] {processor.py:156} INFO - Started process (PID=32996) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:50.563+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:42:50.567+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:50.567+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:50.607+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:42:50.670+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.123 seconds
+[2022-10-25T14:43:09.776+0000] {processor.py:156} INFO - Started process (PID=34579) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:09.779+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:43:09.786+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:09.786+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:09.839+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:09.896+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.132 seconds
+[2022-10-25T14:43:30.645+0000] {processor.py:156} INFO - Started process (PID=33401) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:30.654+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:43:30.657+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:30.657+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:30.709+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:30.742+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.141 seconds
+[2022-10-25T14:43:56.545+0000] {processor.py:156} INFO - Started process (PID=35101) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:56.549+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T14:43:56.554+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:56.554+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:56.599+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T14:43:56.671+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.147 seconds
+[2022-10-25T15:03:19.704+0000] {processor.py:156} INFO - Started process (PID=33956) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:19.712+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:03:19.714+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:19.714+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:19.815+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:19.982+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.287 seconds
+[2022-10-25T15:03:42.636+0000] {processor.py:156} INFO - Started process (PID=35624) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:42.638+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:03:42.642+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:42.642+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:42.686+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:03:42.726+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.097 seconds
+[2022-10-25T15:05:00.273+0000] {processor.py:156} INFO - Started process (PID=34496) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:00.275+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:05:00.277+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:00.277+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:00.327+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:00.389+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.122 seconds
+[2022-10-25T15:05:13.502+0000] {processor.py:156} INFO - Started process (PID=36173) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:13.509+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:05:13.515+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:13.515+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:13.621+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:13.704+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.217 seconds
+[2022-10-25T15:05:50.976+0000] {processor.py:156} INFO - Started process (PID=34990) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:50.982+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:05:50.985+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:50.984+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:51.013+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:51.058+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.093 seconds
+[2022-10-25T15:05:56.381+0000] {processor.py:156} INFO - Started process (PID=36616) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:56.385+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:05:56.388+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:56.387+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:56.429+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:05:56.496+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.128 seconds
+[2022-10-25T15:06:39.506+0000] {processor.py:156} INFO - Started process (PID=35505) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:39.509+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:06:39.511+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:39.511+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:39.540+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:39.582+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.084 seconds
+[2022-10-25T15:06:40.012+0000] {processor.py:156} INFO - Started process (PID=37137) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:40.015+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar for tasks to queue
+[2022-10-25T15:06:40.018+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:40.018+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:40.048+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar
+[2022-10-25T15:06:40.095+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/hdfs/sources/hadoop-hdfs-2.7.3-test-sources.jar took 0.098 seconds

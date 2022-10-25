@@ -173,3 +173,238 @@
 [2022-10-25T14:17:36.169+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:36.168+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
 [2022-10-25T14:17:36.183+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
 [2022-10-25T14:17:36.252+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:25:17.267+0000] {processor.py:156} INFO - Started process (PID=23612) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:17.272+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:17.275+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:17.275+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:17.304+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:17.374+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.128 seconds
+[2022-10-25T14:25:34.881+0000] {processor.py:156} INFO - Started process (PID=24694) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:34.885+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:25:34.888+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:34.887+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:34.907+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:25:34.954+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:26:07.613+0000] {processor.py:156} INFO - Started process (PID=24136) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:07.617+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:07.622+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:07.622+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:07.648+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:07.712+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.107 seconds
+[2022-10-25T14:26:27.144+0000] {processor.py:156} INFO - Started process (PID=25217) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:27.148+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:26:27.152+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:27.152+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:27.161+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:26:27.207+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.074 seconds
+[2022-10-25T14:27:03.124+0000] {processor.py:156} INFO - Started process (PID=24661) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:03.152+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:03.160+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:03.160+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:03.203+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:03.254+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.228 seconds
+[2022-10-25T14:27:18.679+0000] {processor.py:156} INFO - Started process (PID=25739) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:18.684+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:18.687+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:18.686+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:18.704+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:18.754+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.081 seconds
+[2022-10-25T14:27:58.281+0000] {processor.py:156} INFO - Started process (PID=25249) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:58.284+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:27:58.287+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:58.286+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:58.298+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:27:58.341+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.073 seconds
+[2022-10-25T14:28:07.242+0000] {processor.py:156} INFO - Started process (PID=26287) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:07.245+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:07.248+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:07.247+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:07.266+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:07.308+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.076 seconds
+[2022-10-25T14:28:59.196+0000] {processor.py:156} INFO - Started process (PID=25845) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:59.200+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:28:59.203+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:59.202+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:59.214+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:28:59.255+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.068 seconds
+[2022-10-25T14:29:04.493+0000] {processor.py:156} INFO - Started process (PID=26860) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:29:04.499+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:29:04.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:04.503+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:29:04.527+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:29:04.593+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.125 seconds
+[2022-10-25T14:30:19.286+0000] {processor.py:156} INFO - Started process (PID=26245) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:19.290+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:19.294+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:19.294+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:19.312+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:19.389+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.114 seconds
+[2022-10-25T14:30:33.587+0000] {processor.py:156} INFO - Started process (PID=27407) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:33.592+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:30:33.597+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:33.597+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:33.612+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:30:33.700+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.128 seconds
+[2022-10-25T14:31:14.482+0000] {processor.py:156} INFO - Started process (PID=26770) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:14.487+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:14.494+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:14.494+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:14.513+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:14.567+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:31:29.483+0000] {processor.py:156} INFO - Started process (PID=27931) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:29.492+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:31:29.496+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:29.495+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:29.512+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:31:29.572+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.108 seconds
+[2022-10-25T14:32:07.367+0000] {processor.py:156} INFO - Started process (PID=27263) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:07.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:07.374+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:07.374+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:07.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:07.441+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.084 seconds
+[2022-10-25T14:32:29.761+0000] {processor.py:156} INFO - Started process (PID=28545) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:29.764+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:29.768+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:29.768+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:29.780+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:29.862+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.110 seconds
+[2022-10-25T14:32:52.426+0000] {processor.py:156} INFO - Started process (PID=27724) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:52.433+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:32:52.437+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:52.436+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:52.454+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:32:52.499+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.086 seconds
+[2022-10-25T14:33:26.422+0000] {processor.py:156} INFO - Started process (PID=29147) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:26.426+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:26.431+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:26.430+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:26.443+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:26.528+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.115 seconds
+[2022-10-25T14:33:57.586+0000] {processor.py:156} INFO - Started process (PID=28361) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:57.593+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:33:57.598+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:57.598+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:57.631+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:33:57.706+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.131 seconds
+[2022-10-25T14:35:10.585+0000] {processor.py:156} INFO - Started process (PID=29808) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:10.589+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:10.600+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:10.600+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:10.612+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:10.663+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:35:18.899+0000] {processor.py:156} INFO - Started process (PID=28740) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:18.901+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:18.905+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:18.905+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:18.916+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:18.959+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.070 seconds
+[2022-10-25T14:35:57.497+0000] {processor.py:156} INFO - Started process (PID=30329) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:57.501+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:35:57.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:57.504+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:57.516+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:35:57.563+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.083 seconds
+[2022-10-25T14:36:10.454+0000] {processor.py:156} INFO - Started process (PID=29263) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:10.459+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:10.461+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:10.461+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:10.471+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:10.538+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.094 seconds
+[2022-10-25T14:36:47.379+0000] {processor.py:156} INFO - Started process (PID=30879) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:47.384+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:36:47.389+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:47.388+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:47.405+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:36:47.465+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.095 seconds
+[2022-10-25T14:37:14.083+0000] {processor.py:156} INFO - Started process (PID=29897) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:14.086+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:14.089+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:14.089+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:14.101+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:14.146+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.070 seconds
+[2022-10-25T14:37:36.352+0000] {processor.py:156} INFO - Started process (PID=31416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:36.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:37:36.358+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:36.358+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:36.368+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:37:36.411+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.069 seconds
+[2022-10-25T14:38:11.347+0000] {processor.py:156} INFO - Started process (PID=30505) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:11.356+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:11.361+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:11.361+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:11.381+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:11.429+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.109 seconds
+[2022-10-25T14:38:28.682+0000] {processor.py:156} INFO - Started process (PID=31987) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:28.688+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:38:28.698+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:28.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:28.713+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:38:28.770+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.100 seconds
+[2022-10-25T14:39:19.446+0000] {processor.py:156} INFO - Started process (PID=32530) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:19.456+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:39:19.460+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:19.459+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:19.473+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:19.517+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.084 seconds
+[2022-10-25T14:39:53.497+0000] {processor.py:156} INFO - Started process (PID=31130) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:53.500+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:39:53.509+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:53.508+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:53.521+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:39:53.571+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.083 seconds
+[2022-10-25T14:40:33.396+0000] {processor.py:156} INFO - Started process (PID=32914) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:33.400+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:33.402+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:33.402+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:33.415+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:33.467+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.079 seconds
+[2022-10-25T14:40:43.437+0000] {processor.py:156} INFO - Started process (PID=31664) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:43.441+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:40:43.447+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:43.446+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:43.458+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:40:43.513+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.092 seconds
+[2022-10-25T14:41:22.917+0000] {processor.py:156} INFO - Started process (PID=33430) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:22.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:22.923+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:22.923+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:22.964+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:23.500+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.591 seconds
+[2022-10-25T14:41:38.357+0000] {processor.py:156} INFO - Started process (PID=32251) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:38.364+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:41:38.368+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:38.368+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:38.378+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:41:38.417+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.070 seconds
+[2022-10-25T14:42:23.537+0000] {processor.py:156} INFO - Started process (PID=34059) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:23.541+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:23.548+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:23.547+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:23.561+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:23.612+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.086 seconds
+[2022-10-25T14:42:35.426+0000] {processor.py:156} INFO - Started process (PID=32832) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:35.429+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:42:35.433+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:35.432+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:35.447+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:42:35.499+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.082 seconds
+[2022-10-25T14:43:15.210+0000] {processor.py:156} INFO - Started process (PID=34637) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:15.215+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:15.219+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:15.218+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:15.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:15.293+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.096 seconds
+[2022-10-25T14:43:35.448+0000] {processor.py:156} INFO - Started process (PID=33450) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:35.451+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:43:35.455+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:35.455+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:35.464+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:43:35.501+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.060 seconds
+[2022-10-25T14:44:01.985+0000] {processor.py:156} INFO - Started process (PID=35166) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:44:01.989+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T14:44:01.992+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:01.991+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:44:02.001+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T14:44:02.041+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.067 seconds
+[2022-10-25T15:03:42.050+0000] {processor.py:156} INFO - Started process (PID=34127) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:42.055+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:03:42.058+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:42.058+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:42.068+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:42.106+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.067 seconds
+[2022-10-25T15:03:59.330+0000] {processor.py:156} INFO - Started process (PID=35799) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:59.335+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:03:59.337+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:59.337+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:59.348+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:03:59.397+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.074 seconds
+[2022-10-25T15:05:16.785+0000] {processor.py:156} INFO - Started process (PID=34673) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:16.789+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:16.792+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:16.792+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:16.806+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:16.866+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.093 seconds
+[2022-10-25T15:05:28.662+0000] {processor.py:156} INFO - Started process (PID=36348) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:28.665+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:05:28.669+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:28.669+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:28.695+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:05:28.750+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.094 seconds
+[2022-10-25T15:06:09.326+0000] {processor.py:156} INFO - Started process (PID=35190) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:09.329+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:09.331+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:09.331+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:09.347+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:09.412+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.092 seconds
+[2022-10-25T15:06:17.302+0000] {processor.py:156} INFO - Started process (PID=36869) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:17.312+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:06:17.317+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:17.317+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:17.330+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:06:17.386+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.090 seconds
+[2022-10-25T15:07:01.970+0000] {processor.py:156} INFO - Started process (PID=37385) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:01.976+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:07:01.979+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:01.978+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:01.990+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:02.038+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.076 seconds
+[2022-10-25T15:07:07.178+0000] {processor.py:156} INFO - Started process (PID=35760) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:07.181+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar for tasks to queue
+[2022-10-25T15:07:07.184+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:07:07.183+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:07.206+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar
+[2022-10-25T15:07:07.264+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/mapreduce/hadoop-mapreduce-client-hs-2.7.3.jar took 0.095 seconds

@@ -153,3 +153,203 @@
 [2022-10-25T14:17:12.689+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:12.687+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
 [2022-10-25T14:17:12.737+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
 [2022-10-25T14:17:12.796+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.128 seconds
+[2022-10-25T14:25:33.254+0000] {processor.py:156} INFO - Started process (PID=23781) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:33.260+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:25:33.263+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:33.262+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:33.281+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:33.329+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.084 seconds
+[2022-10-25T14:25:49.422+0000] {processor.py:156} INFO - Started process (PID=24861) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:49.425+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:25:49.428+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:49.428+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:49.455+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:25:49.504+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.090 seconds
+[2022-10-25T14:26:41.237+0000] {processor.py:156} INFO - Started process (PID=24425) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:41.243+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:26:41.247+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:41.247+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:41.275+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:41.325+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.100 seconds
+[2022-10-25T14:26:56.318+0000] {processor.py:156} INFO - Started process (PID=25503) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:56.325+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:26:56.328+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:56.327+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:56.360+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:26:56.413+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.109 seconds
+[2022-10-25T14:27:43.565+0000] {processor.py:156} INFO - Started process (PID=25094) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:43.568+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:27:43.571+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:43.571+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:43.594+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:43.634+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.077 seconds
+[2022-10-25T14:27:51.664+0000] {processor.py:156} INFO - Started process (PID=26115) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:51.673+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:27:51.677+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:51.676+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:51.708+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:27:51.763+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.109 seconds
+[2022-10-25T14:28:36.698+0000] {processor.py:156} INFO - Started process (PID=25634) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:36.701+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:28:36.704+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:36.704+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:36.723+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:36.756+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.066 seconds
+[2022-10-25T14:28:41.172+0000] {processor.py:156} INFO - Started process (PID=26647) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:41.175+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:28:41.179+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:41.178+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:41.207+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:28:41.242+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.082 seconds
+[2022-10-25T14:30:28.381+0000] {processor.py:156} INFO - Started process (PID=26345) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:28.384+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:30:28.389+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:28.388+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:28.441+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:28.510+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.140 seconds
+[2022-10-25T14:30:39.900+0000] {processor.py:156} INFO - Started process (PID=27476) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:39.903+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:30:39.905+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:39.905+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:39.928+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:30:39.966+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.072 seconds
+[2022-10-25T14:31:45.618+0000] {processor.py:156} INFO - Started process (PID=27048) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:45.623+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:31:45.627+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:45.627+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:45.657+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:45.697+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.102 seconds
+[2022-10-25T14:31:51.472+0000] {processor.py:156} INFO - Started process (PID=28159) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:51.476+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:31:51.481+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:51.481+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:51.511+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:31:51.570+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.106 seconds
+[2022-10-25T14:32:38.123+0000] {processor.py:156} INFO - Started process (PID=27563) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:38.129+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:32:38.132+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:38.131+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:38.164+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:38.223+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.113 seconds
+[2022-10-25T14:32:52.354+0000] {processor.py:156} INFO - Started process (PID=28796) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:52.357+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:32:52.360+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:52.360+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:52.383+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:32:52.440+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.093 seconds
+[2022-10-25T14:33:42.673+0000] {processor.py:156} INFO - Started process (PID=28226) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:42.675+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:33:42.678+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:42.678+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:42.720+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:42.771+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.125 seconds
+[2022-10-25T14:33:49.576+0000] {processor.py:156} INFO - Started process (PID=29390) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:49.580+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:33:49.590+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:49.589+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:49.652+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:33:49.685+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.121 seconds
+[2022-10-25T14:35:35.189+0000] {processor.py:156} INFO - Started process (PID=28916) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:35.203+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:35:35.209+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:35.208+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:35.251+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:35.291+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.110 seconds
+[2022-10-25T14:35:40.871+0000] {processor.py:156} INFO - Started process (PID=30149) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:40.874+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:35:40.879+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:40.878+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:40.908+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:35:40.958+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.096 seconds
+[2022-10-25T14:36:30.606+0000] {processor.py:156} INFO - Started process (PID=30695) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:30.613+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:36:30.621+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:30.621+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:30.652+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:30.716+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.126 seconds
+[2022-10-25T14:36:39.434+0000] {processor.py:156} INFO - Started process (PID=29542) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:39.438+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:36:39.442+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:39.442+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:39.474+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:36:39.512+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.085 seconds
+[2022-10-25T14:37:20.750+0000] {processor.py:156} INFO - Started process (PID=31250) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:20.759+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:37:20.763+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:20.763+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:20.790+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:20.838+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.100 seconds
+[2022-10-25T14:37:41.236+0000] {processor.py:156} INFO - Started process (PID=30196) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:41.243+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:37:41.246+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:41.246+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:41.271+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:37:41.330+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.101 seconds
+[2022-10-25T14:38:11.790+0000] {processor.py:156} INFO - Started process (PID=31798) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:11.794+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:38:11.803+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:11.800+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:11.841+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:11.902+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.121 seconds
+[2022-10-25T14:38:38.920+0000] {processor.py:156} INFO - Started process (PID=30795) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:38.930+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:38:38.944+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:38.943+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:38.988+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:38:39.070+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.163 seconds
+[2022-10-25T14:39:01.063+0000] {processor.py:156} INFO - Started process (PID=32342) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:39:01.066+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:39:01.071+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:01.070+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:39:01.100+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:39:01.147+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.097 seconds
+[2022-10-25T14:40:27.619+0000] {processor.py:156} INFO - Started process (PID=31502) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:27.623+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:40:27.629+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:27.629+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:27.652+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:27.694+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.088 seconds
+[2022-10-25T14:40:43.137+0000] {processor.py:156} INFO - Started process (PID=33025) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:43.140+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:40:43.143+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:43.142+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:43.169+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:40:43.210+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.084 seconds
+[2022-10-25T14:41:23.845+0000] {processor.py:156} INFO - Started process (PID=32093) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:23.847+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:41:23.850+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:23.849+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:23.871+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:23.915+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.080 seconds
+[2022-10-25T14:41:45.798+0000] {processor.py:156} INFO - Started process (PID=33655) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:45.804+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:41:45.807+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:45.807+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:45.828+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:41:45.858+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.069 seconds
+[2022-10-25T14:42:19.838+0000] {processor.py:156} INFO - Started process (PID=32684) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:19.844+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:42:19.858+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:19.858+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:19.885+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:19.939+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.115 seconds
+[2022-10-25T14:42:40.975+0000] {processor.py:156} INFO - Started process (PID=34262) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:40.979+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:42:40.981+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:40.981+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:41.008+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:42:41.046+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.079 seconds
+[2022-10-25T14:43:18.785+0000] {processor.py:156} INFO - Started process (PID=33278) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:18.789+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:43:18.793+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:18.792+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:18.828+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:18.885+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.111 seconds
+[2022-10-25T14:43:30.577+0000] {processor.py:156} INFO - Started process (PID=34808) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:30.589+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:43:30.592+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:30.592+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:30.618+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:43:30.659+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.090 seconds
+[2022-10-25T14:44:17.449+0000] {processor.py:156} INFO - Started process (PID=35339) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:44:17.453+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T14:44:17.456+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:17.456+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:44:17.485+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T14:44:17.528+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.090 seconds
+[2022-10-25T15:03:58.353+0000] {processor.py:156} INFO - Started process (PID=34295) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:03:58.357+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:03:58.365+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:58.362+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:03:58.392+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:03:58.448+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.109 seconds
+[2022-10-25T15:04:56.107+0000] {processor.py:156} INFO - Started process (PID=36000) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:04:56.110+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:04:56.117+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:56.117+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:04:56.139+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:04:56.176+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.078 seconds
+[2022-10-25T15:05:32.459+0000] {processor.py:156} INFO - Started process (PID=34844) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:32.462+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:05:32.467+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:32.466+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:32.494+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:32.557+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.107 seconds
+[2022-10-25T15:05:58.143+0000] {processor.py:156} INFO - Started process (PID=36640) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:58.147+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:05:58.152+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:58.151+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:58.182+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:05:58.259+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.130 seconds
+[2022-10-25T15:06:36.984+0000] {processor.py:156} INFO - Started process (PID=35476) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:36.987+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:06:36.990+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:36.989+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:37.006+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:37.061+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.088 seconds
+[2022-10-25T15:06:43.446+0000] {processor.py:156} INFO - Started process (PID=37174) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:43.450+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar for tasks to queue
+[2022-10-25T15:06:43.452+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:43.452+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:43.475+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar
+[2022-10-25T15:06:43.525+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/commons-collections-3.2.2.jar took 0.092 seconds

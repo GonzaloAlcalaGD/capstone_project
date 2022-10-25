@@ -168,3 +168,213 @@
 [2022-10-25T14:17:38.829+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:38.828+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
 [2022-10-25T14:17:38.843+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
 [2022-10-25T14:17:38.907+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.103 seconds
+[2022-10-25T14:25:22.001+0000] {processor.py:156} INFO - Started process (PID=23672) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:22.017+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:25:22.024+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:22.023+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:22.032+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:22.075+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.084 seconds
+[2022-10-25T14:25:39.559+0000] {processor.py:156} INFO - Started process (PID=24745) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:39.563+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:25:39.567+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:39.567+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:39.575+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:25:39.628+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.082 seconds
+[2022-10-25T14:26:13.502+0000] {processor.py:156} INFO - Started process (PID=24187) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:13.507+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:26:13.510+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:13.510+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:13.520+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:13.576+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.084 seconds
+[2022-10-25T14:26:31.612+0000] {processor.py:156} INFO - Started process (PID=25268) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:31.615+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:26:31.617+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:31.617+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:31.624+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:26:31.684+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.081 seconds
+[2022-10-25T14:27:08.115+0000] {processor.py:156} INFO - Started process (PID=24712) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:08.118+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:27:08.123+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:08.122+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:08.134+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:08.194+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.089 seconds
+[2022-10-25T14:27:33.712+0000] {processor.py:156} INFO - Started process (PID=25903) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:33.721+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:27:33.726+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:33.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:33.734+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:27:33.796+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.095 seconds
+[2022-10-25T14:28:03.430+0000] {processor.py:156} INFO - Started process (PID=25300) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:03.434+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:28:03.437+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:03.436+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:03.445+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:03.492+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.071 seconds
+[2022-10-25T14:28:20.553+0000] {processor.py:156} INFO - Started process (PID=26431) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:20.559+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:28:20.563+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:20.562+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:20.571+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:28:20.632+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.093 seconds
+[2022-10-25T14:29:49.921+0000] {processor.py:156} INFO - Started process (PID=25930) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:29:49.926+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:29:49.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:49.930+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:29:49.939+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:29:49.988+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.076 seconds
+[2022-10-25T14:30:04.026+0000] {processor.py:156} INFO - Started process (PID=27081) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:04.029+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:30:04.032+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:04.032+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:04.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:04.107+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.089 seconds
+[2022-10-25T14:30:54.493+0000] {processor.py:156} INFO - Started process (PID=26579) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:54.497+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:30:54.500+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:54.500+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:54.514+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:54.588+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.107 seconds
+[2022-10-25T14:30:56.523+0000] {processor.py:156} INFO - Started process (PID=27622) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:56.526+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:30:56.530+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:56.530+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:56.540+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:30:56.602+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.092 seconds
+[2022-10-25T14:31:43.828+0000] {processor.py:156} INFO - Started process (PID=28080) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:31:43.838+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:31:43.842+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:43.842+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:31:43.855+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:31:43.921+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.107 seconds
+[2022-10-25T14:32:08.510+0000] {processor.py:156} INFO - Started process (PID=27275) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:08.519+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:32:08.523+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:08.522+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:08.532+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:08.575+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.075 seconds
+[2022-10-25T14:32:35.304+0000] {processor.py:156} INFO - Started process (PID=28603) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:35.308+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:32:35.311+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:35.311+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:35.320+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:32:35.387+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.095 seconds
+[2022-10-25T14:33:14.498+0000] {processor.py:156} INFO - Started process (PID=27921) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:14.501+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:33:14.504+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:14.504+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:14.512+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:14.568+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.079 seconds
+[2022-10-25T14:33:31.857+0000] {processor.py:156} INFO - Started process (PID=29198) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:31.859+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:33:31.862+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:31.862+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:31.869+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:33:31.933+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.083 seconds
+[2022-10-25T14:35:15.391+0000] {processor.py:156} INFO - Started process (PID=29866) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:15.395+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:35:15.398+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:15.398+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:15.408+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:15.465+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.083 seconds
+[2022-10-25T14:35:24.632+0000] {processor.py:156} INFO - Started process (PID=28800) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:24.637+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:35:24.641+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:24.641+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:24.653+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:35:24.698+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.078 seconds
+[2022-10-25T14:36:02.012+0000] {processor.py:156} INFO - Started process (PID=30380) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:02.016+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:36:02.019+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:02.018+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:02.032+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:02.088+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.092 seconds
+[2022-10-25T14:36:15.054+0000] {processor.py:156} INFO - Started process (PID=29314) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:15.066+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:36:15.070+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:15.069+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:15.083+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:15.123+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.081 seconds
+[2022-10-25T14:36:52.011+0000] {processor.py:156} INFO - Started process (PID=30930) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:52.016+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:36:52.026+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:52.025+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:52.034+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:36:52.083+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.083 seconds
+[2022-10-25T14:37:19.101+0000] {processor.py:156} INFO - Started process (PID=29948) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:19.105+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:37:19.108+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:19.108+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:19.115+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:19.161+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.068 seconds
+[2022-10-25T14:37:40.601+0000] {processor.py:156} INFO - Started process (PID=31474) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:40.605+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:37:40.608+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:40.607+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:40.618+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:37:40.658+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.067 seconds
+[2022-10-25T14:38:16.963+0000] {processor.py:156} INFO - Started process (PID=30556) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:16.966+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:38:16.968+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:16.968+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:16.975+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:17.031+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.077 seconds
+[2022-10-25T14:38:33.160+0000] {processor.py:156} INFO - Started process (PID=32045) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:33.163+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:38:33.166+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:33.166+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:33.177+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:38:33.217+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.064 seconds
+[2022-10-25T14:39:57.329+0000] {processor.py:156} INFO - Started process (PID=31181) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:39:57.332+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:39:57.334+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:57.334+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:39:57.341+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:39:57.379+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.060 seconds
+[2022-10-25T14:40:02.588+0000] {processor.py:156} INFO - Started process (PID=32615) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:02.590+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:40:02.594+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:02.593+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:02.609+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:02.646+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.069 seconds
+[2022-10-25T14:40:48.852+0000] {processor.py:156} INFO - Started process (PID=31715) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:48.855+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:40:48.858+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:48.858+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:48.867+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:40:48.950+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.106 seconds
+[2022-10-25T14:41:04.972+0000] {processor.py:156} INFO - Started process (PID=33259) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:04.976+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:41:04.979+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:04.979+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:05.000+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:05.054+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.092 seconds
+[2022-10-25T14:41:43.091+0000] {processor.py:156} INFO - Started process (PID=32302) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:43.094+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:41:43.097+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:43.097+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:43.105+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:41:43.166+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.086 seconds
+[2022-10-25T14:42:10.597+0000] {processor.py:156} INFO - Started process (PID=33932) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:10.600+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:42:10.604+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:10.604+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:10.610+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:10.652+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.062 seconds
+[2022-10-25T14:42:39.995+0000] {processor.py:156} INFO - Started process (PID=32883) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:39.998+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:42:40.001+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:40.001+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:40.012+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:42:40.065+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.080 seconds
+[2022-10-25T14:43:02.225+0000] {processor.py:156} INFO - Started process (PID=34493) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:02.228+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:43:02.233+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:02.233+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:02.244+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:02.336+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.122 seconds
+[2022-10-25T14:43:40.244+0000] {processor.py:156} INFO - Started process (PID=33501) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:40.247+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:43:40.249+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:40.249+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:40.257+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:40.291+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.054 seconds
+[2022-10-25T14:43:49.922+0000] {processor.py:156} INFO - Started process (PID=35038) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:49.931+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T14:43:49.943+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:49.943+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:49.960+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T14:43:50.007+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.094 seconds
+[2022-10-25T15:03:46.217+0000] {processor.py:156} INFO - Started process (PID=34178) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:03:46.222+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:03:46.225+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:46.225+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:03:46.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:03:46.274+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.067 seconds
+[2022-10-25T15:04:03.716+0000] {processor.py:156} INFO - Started process (PID=35850) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:04:03.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:04:03.723+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:03.722+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:04:03.729+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:04:03.782+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.074 seconds
+[2022-10-25T15:05:22.114+0000] {processor.py:156} INFO - Started process (PID=34726) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:22.119+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:05:22.127+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:22.127+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:22.136+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:22.172+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.067 seconds
+[2022-10-25T15:05:33.586+0000] {processor.py:156} INFO - Started process (PID=36399) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:33.599+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:05:33.603+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:33.603+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:33.617+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:05:33.713+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.163 seconds
+[2022-10-25T15:06:13.916+0000] {processor.py:156} INFO - Started process (PID=35241) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:13.919+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:06:13.921+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:13.921+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:13.929+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:13.966+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.059 seconds
+[2022-10-25T15:06:27.751+0000] {processor.py:156} INFO - Started process (PID=36983) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:27.754+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar for tasks to queue
+[2022-10-25T15:06:27.758+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:27.757+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:27.764+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar
+[2022-10-25T15:06:27.800+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/asm-3.2.jar took 0.056 seconds

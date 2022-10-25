@@ -168,3 +168,213 @@
 [2022-10-25T14:17:41.143+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:41.142+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
 [2022-10-25T14:17:41.161+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
 [2022-10-25T14:17:41.219+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.092 seconds
+[2022-10-25T14:25:24.289+0000] {processor.py:156} INFO - Started process (PID=23693) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:24.296+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:25:24.300+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:24.299+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:24.317+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:24.388+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.108 seconds
+[2022-10-25T14:25:41.548+0000] {processor.py:156} INFO - Started process (PID=24766) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:41.551+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:25:41.553+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:41.553+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:41.571+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:25:41.621+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.082 seconds
+[2022-10-25T14:26:16.136+0000] {processor.py:156} INFO - Started process (PID=24208) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:16.140+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:26:16.143+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:16.143+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:16.165+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:16.220+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.092 seconds
+[2022-10-25T14:26:34.051+0000] {processor.py:156} INFO - Started process (PID=25296) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:34.056+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:26:34.059+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:34.059+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:34.070+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:26:34.114+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.071 seconds
+[2022-10-25T14:27:23.434+0000] {processor.py:156} INFO - Started process (PID=24852) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:23.447+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:27:23.452+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:23.452+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:23.475+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:23.565+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.144 seconds
+[2022-10-25T14:27:35.954+0000] {processor.py:156} INFO - Started process (PID=25932) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:35.960+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:27:35.964+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:35.963+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:36.004+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:27:36.065+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.132 seconds
+[2022-10-25T14:28:15.030+0000] {processor.py:156} INFO - Started process (PID=25429) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:15.034+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:28:15.039+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:15.038+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:15.049+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:15.088+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.067 seconds
+[2022-10-25T14:28:22.589+0000] {processor.py:156} INFO - Started process (PID=26452) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:22.592+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:28:22.594+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:22.594+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:22.608+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:28:22.643+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.066 seconds
+[2022-10-25T14:30:06.227+0000] {processor.py:156} INFO - Started process (PID=27102) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:06.234+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:30:06.239+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:06.238+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:06.262+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:06.306+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.095 seconds
+[2022-10-25T14:30:20.334+0000] {processor.py:156} INFO - Started process (PID=26257) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:20.338+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:30:20.341+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:20.340+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:20.367+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:20.415+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.088 seconds
+[2022-10-25T14:30:59.345+0000] {processor.py:156} INFO - Started process (PID=27651) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:59.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:30:59.360+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:59.359+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:59.377+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:30:59.451+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.121 seconds
+[2022-10-25T14:31:16.222+0000] {processor.py:156} INFO - Started process (PID=26782) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:16.226+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:31:16.229+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:16.229+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:16.246+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:16.317+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.109 seconds
+[2022-10-25T14:31:46.379+0000] {processor.py:156} INFO - Started process (PID=28101) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:46.387+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:31:46.390+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:46.390+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:46.406+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:31:46.465+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.095 seconds
+[2022-10-25T14:32:10.624+0000] {processor.py:156} INFO - Started process (PID=27296) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:10.634+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:32:10.637+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:10.637+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:10.666+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:10.710+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.097 seconds
+[2022-10-25T14:32:37.284+0000] {processor.py:156} INFO - Started process (PID=28624) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:37.287+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:32:37.289+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:37.289+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:37.304+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:32:37.332+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.057 seconds
+[2022-10-25T14:33:16.679+0000] {processor.py:156} INFO - Started process (PID=27942) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:16.682+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:16.685+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:16.685+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:16.699+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:16.734+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.060 seconds
+[2022-10-25T14:33:34.078+0000] {processor.py:156} INFO - Started process (PID=29226) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:34.081+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:33:34.084+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:34.084+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:34.099+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:33:34.135+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.067 seconds
+[2022-10-25T14:35:17.299+0000] {processor.py:156} INFO - Started process (PID=29887) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:17.303+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:35:17.306+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:17.305+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:17.325+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:17.361+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.072 seconds
+[2022-10-25T14:35:26.831+0000] {processor.py:156} INFO - Started process (PID=28821) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:26.835+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:35:26.839+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:26.839+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:26.859+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:35:26.901+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.080 seconds
+[2022-10-25T14:36:16.543+0000] {processor.py:156} INFO - Started process (PID=30549) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:16.546+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:36:16.556+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:16.555+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:16.571+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:16.614+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.087 seconds
+[2022-10-25T14:36:17.397+0000] {processor.py:156} INFO - Started process (PID=29344) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:17.404+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:36:17.410+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:17.409+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:17.435+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:36:17.500+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.122 seconds
+[2022-10-25T14:37:07.407+0000] {processor.py:156} INFO - Started process (PID=31098) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:07.411+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:07.414+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:07.414+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:07.442+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:07.496+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.099 seconds
+[2022-10-25T14:37:21.360+0000] {processor.py:156} INFO - Started process (PID=29969) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:21.369+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:21.376+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:21.376+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:21.412+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:21.479+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.130 seconds
+[2022-10-25T14:37:56.101+0000] {processor.py:156} INFO - Started process (PID=31627) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:56.104+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:37:56.107+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:56.106+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:56.125+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:37:56.159+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.072 seconds
+[2022-10-25T14:38:18.819+0000] {processor.py:156} INFO - Started process (PID=30577) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:18.822+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:38:18.825+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:18.824+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:18.841+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:18.886+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.077 seconds
+[2022-10-25T14:38:46.693+0000] {processor.py:156} INFO - Started process (PID=32190) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:46.696+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:38:46.698+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:46.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:46.712+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:38:46.744+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.062 seconds
+[2022-10-25T14:39:59.672+0000] {processor.py:156} INFO - Started process (PID=31212) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:39:59.675+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:39:59.678+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:59.677+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:39:59.693+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:39:59.738+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.076 seconds
+[2022-10-25T14:40:34.929+0000] {processor.py:156} INFO - Started process (PID=32930) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:34.933+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:40:34.936+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:34.936+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:34.950+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:35.000+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.082 seconds
+[2022-10-25T14:40:50.892+0000] {processor.py:156} INFO - Started process (PID=31736) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:50.894+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:40:50.897+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:50.896+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:50.910+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:40:50.956+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.075 seconds
+[2022-10-25T14:41:28.266+0000] {processor.py:156} INFO - Started process (PID=33453) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:28.269+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:41:28.272+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:28.272+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:28.283+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:28.319+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.060 seconds
+[2022-10-25T14:41:45.278+0000] {processor.py:156} INFO - Started process (PID=32323) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:45.286+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:41:45.290+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:45.289+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:45.311+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:41:45.355+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.087 seconds
+[2022-10-25T14:42:24.772+0000] {processor.py:156} INFO - Started process (PID=34075) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:24.778+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:42:24.781+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:24.781+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:24.818+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:24.892+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.131 seconds
+[2022-10-25T14:42:41.944+0000] {processor.py:156} INFO - Started process (PID=32904) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:41.947+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:42:41.949+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:41.949+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:41.965+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:42:42.002+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.068 seconds
+[2022-10-25T14:43:16.819+0000] {processor.py:156} INFO - Started process (PID=34660) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:16.823+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:43:16.830+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:16.830+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:16.844+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:16.917+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.112 seconds
+[2022-10-25T14:43:42.622+0000] {processor.py:156} INFO - Started process (PID=33531) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:42.626+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:43:42.630+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:42.630+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:42.656+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:43:42.719+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.119 seconds
+[2022-10-25T14:44:03.421+0000] {processor.py:156} INFO - Started process (PID=35182) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:44:03.425+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T14:44:03.428+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:03.427+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:44:03.438+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T14:44:03.478+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.069 seconds
+[2022-10-25T15:03:48.102+0000] {processor.py:156} INFO - Started process (PID=34199) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:03:48.108+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:03:48.113+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:48.112+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:03:48.128+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:03:48.160+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.068 seconds
+[2022-10-25T15:04:06.094+0000] {processor.py:156} INFO - Started process (PID=35877) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:04:06.098+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:04:06.102+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:06.101+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:04:06.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:04:06.287+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.203 seconds
+[2022-10-25T15:05:24.302+0000] {processor.py:156} INFO - Started process (PID=34747) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:24.306+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:05:24.313+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:24.313+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:24.329+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:24.393+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.102 seconds
+[2022-10-25T15:05:35.790+0000] {processor.py:156} INFO - Started process (PID=36420) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:35.795+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:05:35.804+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:35.802+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:35.825+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:05:35.879+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.103 seconds
+[2022-10-25T15:06:16.716+0000] {processor.py:156} INFO - Started process (PID=35271) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:16.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:06:16.722+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:16.722+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:16.737+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:16.781+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.070 seconds
+[2022-10-25T15:06:29.651+0000] {processor.py:156} INFO - Started process (PID=37004) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:29.658+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar for tasks to queue
+[2022-10-25T15:06:29.675+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:29.673+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:29.701+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar
+[2022-10-25T15:06:29.744+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/curator-recipes-2.7.1.jar took 0.109 seconds

@@ -153,3 +153,203 @@
 [2022-10-25T14:17:12.256+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:12.256+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
 [2022-10-25T14:17:12.265+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
 [2022-10-25T14:17:12.320+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.082 seconds
+[2022-10-25T14:25:32.948+0000] {processor.py:156} INFO - Started process (PID=23776) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:32.952+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:25:32.955+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:32.955+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:32.968+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:33.010+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.071 seconds
+[2022-10-25T14:25:49.013+0000] {processor.py:156} INFO - Started process (PID=24856) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:49.015+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:25:49.020+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:49.019+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:49.029+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:25:49.084+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.083 seconds
+[2022-10-25T14:26:40.308+0000] {processor.py:156} INFO - Started process (PID=24420) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:40.314+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:26:40.319+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:40.319+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:40.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:40.471+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.178 seconds
+[2022-10-25T14:26:55.835+0000] {processor.py:156} INFO - Started process (PID=25498) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:55.840+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:26:55.845+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:55.844+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:55.858+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:26:55.940+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.115 seconds
+[2022-10-25T14:27:43.182+0000] {processor.py:156} INFO - Started process (PID=25087) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:43.185+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:27:43.187+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:43.187+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:43.200+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:43.243+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.068 seconds
+[2022-10-25T14:27:51.220+0000] {processor.py:156} INFO - Started process (PID=26110) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:51.223+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:27:51.226+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:51.225+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:51.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:27:51.277+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.069 seconds
+[2022-10-25T14:28:36.287+0000] {processor.py:156} INFO - Started process (PID=25629) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:36.289+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:28:36.292+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:36.292+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:36.301+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:36.344+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.065 seconds
+[2022-10-25T14:28:40.739+0000] {processor.py:156} INFO - Started process (PID=26642) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:40.743+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:28:40.747+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:40.746+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:40.758+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:28:40.845+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.116 seconds
+[2022-10-25T14:30:27.806+0000] {processor.py:156} INFO - Started process (PID=26340) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:27.812+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:30:27.814+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:27.814+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:27.825+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:27.918+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.125 seconds
+[2022-10-25T14:30:39.473+0000] {processor.py:156} INFO - Started process (PID=27471) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:39.479+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:30:39.484+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:39.483+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:39.502+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:30:39.555+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.094 seconds
+[2022-10-25T14:31:44.984+0000] {processor.py:156} INFO - Started process (PID=27043) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:44.988+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:31:44.992+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:44.992+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:45.001+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:45.055+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.088 seconds
+[2022-10-25T14:31:50.999+0000] {processor.py:156} INFO - Started process (PID=28154) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:51.003+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:31:51.008+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:51.007+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:51.020+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:31:51.067+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.080 seconds
+[2022-10-25T14:32:37.674+0000] {processor.py:156} INFO - Started process (PID=27558) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:37.678+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:32:37.681+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:37.680+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:37.688+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:37.727+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.063 seconds
+[2022-10-25T14:32:52.026+0000] {processor.py:156} INFO - Started process (PID=28791) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:52.030+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:32:52.033+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:52.032+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:52.041+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:32:52.081+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.067 seconds
+[2022-10-25T14:33:42.155+0000] {processor.py:156} INFO - Started process (PID=28221) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:42.159+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:33:42.163+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:42.163+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:42.172+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:42.236+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.093 seconds
+[2022-10-25T14:33:49.040+0000] {processor.py:156} INFO - Started process (PID=29385) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:49.042+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:33:49.045+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:49.045+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:49.055+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:33:49.106+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.076 seconds
+[2022-10-25T14:35:34.411+0000] {processor.py:156} INFO - Started process (PID=28904) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:34.414+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:35:34.418+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:34.418+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:34.428+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:34.516+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.114 seconds
+[2022-10-25T14:35:40.461+0000] {processor.py:156} INFO - Started process (PID=30144) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:40.464+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:35:40.467+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:40.467+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:40.482+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:35:40.529+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.074 seconds
+[2022-10-25T14:36:30.103+0000] {processor.py:156} INFO - Started process (PID=30690) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:30.106+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:36:30.110+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:30.109+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:30.121+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:30.177+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.082 seconds
+[2022-10-25T14:36:38.960+0000] {processor.py:156} INFO - Started process (PID=29537) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:38.963+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:36:38.966+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:38.966+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:38.978+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:36:39.042+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.093 seconds
+[2022-10-25T14:37:20.378+0000] {processor.py:156} INFO - Started process (PID=31245) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:20.384+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:37:20.393+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:20.393+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:20.404+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:20.447+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.086 seconds
+[2022-10-25T14:37:40.795+0000] {processor.py:156} INFO - Started process (PID=30184) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:40.799+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:37:40.803+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:40.802+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:40.812+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:37:40.893+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.112 seconds
+[2022-10-25T14:38:11.373+0000] {processor.py:156} INFO - Started process (PID=31793) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:11.378+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:38:11.382+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:11.381+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:11.392+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:11.449+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.088 seconds
+[2022-10-25T14:38:38.460+0000] {processor.py:156} INFO - Started process (PID=30790) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:38.463+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:38:38.466+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:38.466+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:38.476+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:38:38.520+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.082 seconds
+[2022-10-25T14:39:00.669+0000] {processor.py:156} INFO - Started process (PID=32337) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:39:00.674+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:39:00.679+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:00.679+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:39:00.691+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:39:00.747+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.102 seconds
+[2022-10-25T14:40:27.122+0000] {processor.py:156} INFO - Started process (PID=31495) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:27.124+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:40:27.127+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:27.127+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:27.140+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:27.219+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.109 seconds
+[2022-10-25T14:40:42.581+0000] {processor.py:156} INFO - Started process (PID=33013) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:42.585+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:40:42.588+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:42.587+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:42.600+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:40:42.669+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.100 seconds
+[2022-10-25T14:41:23.378+0000] {processor.py:156} INFO - Started process (PID=32088) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:23.380+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:41:23.384+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:23.383+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:23.396+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:23.435+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.063 seconds
+[2022-10-25T14:41:45.364+0000] {processor.py:156} INFO - Started process (PID=33650) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:45.368+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:41:45.373+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:45.372+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:45.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:41:45.456+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.106 seconds
+[2022-10-25T14:42:19.320+0000] {processor.py:156} INFO - Started process (PID=32679) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:19.323+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:42:19.326+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:19.325+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:19.340+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:19.377+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.071 seconds
+[2022-10-25T14:42:40.619+0000] {processor.py:156} INFO - Started process (PID=34257) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:40.622+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:42:40.624+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:40.624+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:40.636+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:42:40.669+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.058 seconds
+[2022-10-25T14:43:18.379+0000] {processor.py:156} INFO - Started process (PID=33273) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:18.383+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:43:18.386+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:18.386+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:18.403+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:18.457+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.093 seconds
+[2022-10-25T14:43:30.168+0000] {processor.py:156} INFO - Started process (PID=34803) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:30.171+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:43:30.174+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:30.173+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:30.185+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:43:30.222+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.062 seconds
+[2022-10-25T14:44:17.032+0000] {processor.py:156} INFO - Started process (PID=35327) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:44:17.036+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T14:44:17.040+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:17.039+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:44:17.049+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T14:44:17.097+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.076 seconds
+[2022-10-25T15:03:57.844+0000] {processor.py:156} INFO - Started process (PID=34290) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:03:57.849+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:03:57.852+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:57.852+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:03:57.871+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:03:57.916+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.081 seconds
+[2022-10-25T15:04:55.738+0000] {processor.py:156} INFO - Started process (PID=35995) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:04:55.745+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:04:55.750+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:55.749+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:04:55.759+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:04:55.803+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.073 seconds
+[2022-10-25T15:05:31.774+0000] {processor.py:156} INFO - Started process (PID=34839) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:31.779+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:05:31.783+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:31.782+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:31.794+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:31.857+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.108 seconds
+[2022-10-25T15:05:57.680+0000] {processor.py:156} INFO - Started process (PID=36635) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:57.683+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:05:57.686+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:57.686+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:57.697+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:05:57.771+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.108 seconds
+[2022-10-25T15:06:36.602+0000] {processor.py:156} INFO - Started process (PID=35471) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:36.610+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:06:36.613+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:36.613+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:36.628+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:36.671+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.079 seconds
+[2022-10-25T15:06:42.992+0000] {processor.py:156} INFO - Started process (PID=37169) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:42.995+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar for tasks to queue
+[2022-10-25T15:06:43.000+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:42.998+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:43.013+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar
+[2022-10-25T15:06:43.057+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/yarn/lib/activation-1.1.jar took 0.075 seconds

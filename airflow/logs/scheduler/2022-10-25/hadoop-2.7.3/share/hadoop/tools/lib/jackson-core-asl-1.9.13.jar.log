@@ -163,3 +163,213 @@
 [2022-10-25T14:17:22.257+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:22.256+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
 [2022-10-25T14:17:22.269+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
 [2022-10-25T14:17:22.311+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.069 seconds
+[2022-10-25T14:25:26.433+0000] {processor.py:156} INFO - Started process (PID=23715) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:26.437+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:25:26.440+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:26.440+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:26.450+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:26.505+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.082 seconds
+[2022-10-25T14:25:43.627+0000] {processor.py:156} INFO - Started process (PID=24795) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:43.633+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:25:43.637+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:43.636+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:43.651+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:25:43.703+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.098 seconds
+[2022-10-25T14:26:18.578+0000] {processor.py:156} INFO - Started process (PID=24239) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:18.582+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:26:18.585+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:18.585+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:18.604+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:18.675+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.112 seconds
+[2022-10-25T14:26:36.098+0000] {processor.py:156} INFO - Started process (PID=25318) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:36.103+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:26:36.107+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:36.106+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:36.120+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:26:36.175+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.087 seconds
+[2022-10-25T14:27:25.358+0000] {processor.py:156} INFO - Started process (PID=24874) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:25.366+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:27:25.370+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:25.370+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:25.381+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:25.423+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.072 seconds
+[2022-10-25T14:27:38.367+0000] {processor.py:156} INFO - Started process (PID=25954) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:38.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:27:38.374+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:38.374+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:38.386+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:27:38.433+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.076 seconds
+[2022-10-25T14:28:16.880+0000] {processor.py:156} INFO - Started process (PID=25451) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:16.885+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:28:16.888+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:16.887+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:16.900+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:16.939+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.068 seconds
+[2022-10-25T14:28:24.468+0000] {processor.py:156} INFO - Started process (PID=26474) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:24.471+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:28:24.476+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:24.476+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:24.491+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:28:24.552+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.098 seconds
+[2022-10-25T14:30:08.396+0000] {processor.py:156} INFO - Started process (PID=27131) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:08.401+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:30:08.405+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:08.404+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:08.417+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:08.473+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.086 seconds
+[2022-10-25T14:30:22.559+0000] {processor.py:156} INFO - Started process (PID=26279) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:22.562+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:30:22.567+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:22.567+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:22.578+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:30:22.626+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.076 seconds
+[2022-10-25T14:31:01.879+0000] {processor.py:156} INFO - Started process (PID=27673) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:01.886+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:31:01.892+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:01.891+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:01.913+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:01.975+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.111 seconds
+[2022-10-25T14:31:19.316+0000] {processor.py:156} INFO - Started process (PID=26804) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:19.320+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:31:19.323+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:19.322+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:19.335+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:19.391+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.083 seconds
+[2022-10-25T14:31:48.786+0000] {processor.py:156} INFO - Started process (PID=28123) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:48.791+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:31:48.794+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:48.794+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:48.808+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:31:48.872+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.098 seconds
+[2022-10-25T14:32:13.117+0000] {processor.py:156} INFO - Started process (PID=27318) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:13.122+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:32:13.124+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:13.124+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:13.135+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:13.184+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.078 seconds
+[2022-10-25T14:32:38.987+0000] {processor.py:156} INFO - Started process (PID=28646) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:38.989+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:32:38.992+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:38.992+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:39.000+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:32:39.037+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.058 seconds
+[2022-10-25T14:33:18.578+0000] {processor.py:156} INFO - Started process (PID=27964) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:18.583+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:33:18.587+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:18.586+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:18.607+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:18.716+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.151 seconds
+[2022-10-25T14:33:35.868+0000] {processor.py:156} INFO - Started process (PID=29248) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:35.873+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:33:35.876+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:35.876+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:35.889+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:33:35.934+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.078 seconds
+[2022-10-25T14:35:19.096+0000] {processor.py:156} INFO - Started process (PID=29909) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:19.100+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:35:19.103+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:19.102+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:19.114+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:19.172+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.087 seconds
+[2022-10-25T14:35:28.816+0000] {processor.py:156} INFO - Started process (PID=28843) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:28.819+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:35:28.823+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:28.823+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:28.835+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:35:28.887+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.085 seconds
+[2022-10-25T14:36:18.783+0000] {processor.py:156} INFO - Started process (PID=30571) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:18.790+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:36:18.796+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:18.795+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:18.818+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:18.890+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.124 seconds
+[2022-10-25T14:36:31.972+0000] {processor.py:156} INFO - Started process (PID=29476) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:31.975+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:36:31.979+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:31.979+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:31.993+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:36:32.047+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.085 seconds
+[2022-10-25T14:37:09.207+0000] {processor.py:156} INFO - Started process (PID=31120) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:09.211+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:37:09.215+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:09.214+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:09.231+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:09.282+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.084 seconds
+[2022-10-25T14:37:23.145+0000] {processor.py:156} INFO - Started process (PID=29991) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:23.151+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:37:23.154+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:23.154+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:23.164+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:23.210+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.086 seconds
+[2022-10-25T14:37:58.305+0000] {processor.py:156} INFO - Started process (PID=31657) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:58.317+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:37:58.321+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:58.320+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:58.339+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:37:58.414+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.117 seconds
+[2022-10-25T14:38:20.731+0000] {processor.py:156} INFO - Started process (PID=30599) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:20.740+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:38:20.743+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:20.743+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:20.755+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:20.809+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.092 seconds
+[2022-10-25T14:38:48.632+0000] {processor.py:156} INFO - Started process (PID=32212) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:48.636+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:38:48.640+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:48.640+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:48.657+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:38:48.700+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.076 seconds
+[2022-10-25T14:40:01.810+0000] {processor.py:156} INFO - Started process (PID=31234) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:01.813+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:40:01.816+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:01.816+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:01.828+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:01.886+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.089 seconds
+[2022-10-25T14:40:37.116+0000] {processor.py:156} INFO - Started process (PID=32952) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:37.120+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:40:37.122+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:37.122+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:37.134+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:37.193+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.089 seconds
+[2022-10-25T14:40:52.739+0000] {processor.py:156} INFO - Started process (PID=31758) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:52.744+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:40:52.748+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:52.747+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:52.769+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:40:52.814+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.086 seconds
+[2022-10-25T14:41:40.293+0000] {processor.py:156} INFO - Started process (PID=33582) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:40.304+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:41:40.306+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:40.306+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:40.320+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:40.379+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.102 seconds
+[2022-10-25T14:41:47.544+0000] {processor.py:156} INFO - Started process (PID=32345) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:47.547+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:41:47.550+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:47.549+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:47.559+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:41:47.595+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.058 seconds
+[2022-10-25T14:42:27.048+0000] {processor.py:156} INFO - Started process (PID=34104) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:27.052+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:42:27.056+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:27.056+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:27.066+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:27.102+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.061 seconds
+[2022-10-25T14:42:43.992+0000] {processor.py:156} INFO - Started process (PID=32926) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:43.995+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:42:43.997+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:43.997+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:44.008+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:42:44.052+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.068 seconds
+[2022-10-25T14:43:18.681+0000] {processor.py:156} INFO - Started process (PID=34682) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:18.686+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:43:18.688+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:18.688+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:18.700+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:18.745+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.075 seconds
+[2022-10-25T14:43:45.019+0000] {processor.py:156} INFO - Started process (PID=33553) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:45.029+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:43:45.033+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:45.033+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:45.057+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:43:45.112+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.102 seconds
+[2022-10-25T14:44:05.553+0000] {processor.py:156} INFO - Started process (PID=35204) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:44:05.559+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T14:44:05.563+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:44:05.561+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:44:05.579+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T14:44:05.636+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.097 seconds
+[2022-10-25T15:03:50.833+0000] {processor.py:156} INFO - Started process (PID=34229) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:03:50.840+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:03:50.842+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:50.842+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:03:50.864+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:03:50.956+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.148 seconds
+[2022-10-25T15:04:09.162+0000] {processor.py:156} INFO - Started process (PID=35899) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:04:09.165+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:04:09.169+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:09.169+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:04:09.188+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:04:09.240+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.122 seconds
+[2022-10-25T15:05:26.336+0000] {processor.py:156} INFO - Started process (PID=34769) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:26.346+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:05:26.351+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:26.351+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:26.378+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:26.426+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.097 seconds
+[2022-10-25T15:05:37.902+0000] {processor.py:156} INFO - Started process (PID=36449) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:37.907+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:05:37.909+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:37.909+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:37.921+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:05:37.959+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.065 seconds
+[2022-10-25T15:06:19.200+0000] {processor.py:156} INFO - Started process (PID=35293) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:19.203+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:06:19.209+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:19.208+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:19.220+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:19.263+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.076 seconds
+[2022-10-25T15:06:31.642+0000] {processor.py:156} INFO - Started process (PID=37026) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:31.645+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar for tasks to queue
+[2022-10-25T15:06:31.648+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:31.648+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:31.658+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar
+[2022-10-25T15:06:31.713+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/tools/lib/jackson-core-asl-1.9.13.jar took 0.080 seconds

@@ -208,3 +208,283 @@
 [2022-10-25T14:17:48.733+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:48.733+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
 [2022-10-25T14:17:48.812+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
 [2022-10-25T14:17:48.846+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.140 seconds
+[2022-10-25T14:24:56.422+0000] {processor.py:156} INFO - Started process (PID=23398) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:24:56.425+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:24:56.428+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:24:56.428+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:24:56.497+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:24:56.543+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.130 seconds
+[2022-10-25T14:25:14.720+0000] {processor.py:156} INFO - Started process (PID=24475) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:14.723+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:25:14.727+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:14.726+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:14.782+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:14.827+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.115 seconds
+[2022-10-25T14:25:46.306+0000] {processor.py:156} INFO - Started process (PID=23913) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:46.309+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:25:46.316+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:46.316+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:46.368+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:25:46.416+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.119 seconds
+[2022-10-25T14:26:03.025+0000] {processor.py:156} INFO - Started process (PID=24998) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:03.028+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:26:03.031+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:03.030+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:03.088+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:03.130+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.115 seconds
+[2022-10-25T14:26:30.714+0000] {processor.py:156} INFO - Started process (PID=24326) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:30.719+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:26:30.723+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:30.723+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:30.789+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:30.840+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.138 seconds
+[2022-10-25T14:26:47.057+0000] {processor.py:156} INFO - Started process (PID=25409) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:47.060+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:26:47.064+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:47.064+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:47.117+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:26:47.165+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.126 seconds
+[2022-10-25T14:27:18.686+0000] {processor.py:156} INFO - Started process (PID=24808) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:18.689+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:27:18.692+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:18.691+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:18.760+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:18.802+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.128 seconds
+[2022-10-25T14:27:29.985+0000] {processor.py:156} INFO - Started process (PID=25863) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:29.990+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:27:29.993+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:29.993+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:30.051+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:27:30.116+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.144 seconds
+[2022-10-25T14:28:05.812+0000] {processor.py:156} INFO - Started process (PID=25322) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:05.819+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:28:05.822+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:05.822+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:05.882+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:05.943+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.139 seconds
+[2022-10-25T14:28:15.509+0000] {processor.py:156} INFO - Started process (PID=26379) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:15.512+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:28:15.516+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:15.516+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:15.591+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:15.652+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.150 seconds
+[2022-10-25T14:28:47.020+0000] {processor.py:156} INFO - Started process (PID=25740) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:47.027+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:28:47.030+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:47.030+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:47.103+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:47.187+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.185 seconds
+[2022-10-25T14:28:54.363+0000] {processor.py:156} INFO - Started process (PID=26767) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:54.368+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:28:54.371+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:54.371+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:54.461+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:28:54.517+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.166 seconds
+[2022-10-25T14:29:58.503+0000] {processor.py:156} INFO - Started process (PID=26020) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:29:58.507+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:29:58.513+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:58.512+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:29:58.580+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:29:58.705+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.212 seconds
+[2022-10-25T14:30:20.217+0000] {processor.py:156} INFO - Started process (PID=27259) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:20.221+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:30:20.225+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:20.224+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:20.278+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:20.321+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.117 seconds
+[2022-10-25T14:30:43.914+0000] {processor.py:156} INFO - Started process (PID=26477) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:43.920+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:30:43.924+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:43.923+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:44.035+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:30:44.085+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.183 seconds
+[2022-10-25T14:31:13.507+0000] {processor.py:156} INFO - Started process (PID=27783) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:13.511+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:31:13.515+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:13.514+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:13.580+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:13.624+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.129 seconds
+[2022-10-25T14:31:35.321+0000] {processor.py:156} INFO - Started process (PID=26929) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:35.325+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:31:35.328+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:35.327+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:35.385+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:31:35.443+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.132 seconds
+[2022-10-25T14:32:03.508+0000] {processor.py:156} INFO - Started process (PID=28270) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:03.513+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:32:03.516+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:03.515+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:03.581+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:03.674+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.185 seconds
+[2022-10-25T14:32:24.368+0000] {processor.py:156} INFO - Started process (PID=27416) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:24.371+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:32:24.374+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:24.374+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:24.438+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:24.492+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.137 seconds
+[2022-10-25T14:32:44.345+0000] {processor.py:156} INFO - Started process (PID=28704) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:44.355+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:32:44.358+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:44.358+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:44.446+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:32:44.510+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.178 seconds
+[2022-10-25T14:33:08.296+0000] {processor.py:156} INFO - Started process (PID=27862) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:08.301+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:33:08.308+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:08.308+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:08.411+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:08.460+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.177 seconds
+[2022-10-25T14:33:21.167+0000] {processor.py:156} INFO - Started process (PID=29083) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:21.171+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:33:21.173+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:21.173+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:21.230+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:21.282+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.126 seconds
+[2022-10-25T14:33:50.278+0000] {processor.py:156} INFO - Started process (PID=28294) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:50.281+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:33:50.285+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:50.284+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:50.338+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:33:50.373+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.101 seconds
+[2022-10-25T14:34:03.145+0000] {processor.py:156} INFO - Started process (PID=29506) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:03.151+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:34:03.157+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:03.156+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:03.248+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:03.311+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.181 seconds
+[2022-10-25T14:34:58.489+0000] {processor.py:156} INFO - Started process (PID=28526) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:58.495+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:34:58.498+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:34:58.497+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:58.588+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:34:58.623+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.147 seconds
+[2022-10-25T14:35:25.036+0000] {processor.py:156} INFO - Started process (PID=29975) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:25.040+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:35:25.043+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:25.043+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:25.091+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:25.136+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.108 seconds
+[2022-10-25T14:35:45.027+0000] {processor.py:156} INFO - Started process (PID=28995) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:45.034+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:35:45.037+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:45.037+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:45.082+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:35:45.148+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.133 seconds
+[2022-10-25T14:36:08.296+0000] {processor.py:156} INFO - Started process (PID=30446) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:08.300+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:36:08.302+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:08.302+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:08.356+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:08.412+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.125 seconds
+[2022-10-25T14:36:27.338+0000] {processor.py:156} INFO - Started process (PID=29419) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:27.343+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:36:27.347+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:27.346+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:27.406+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:27.461+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.137 seconds
+[2022-10-25T14:36:56.989+0000] {processor.py:156} INFO - Started process (PID=30984) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:56.995+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:36:56.998+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:56.997+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:57.050+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:36:57.090+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.108 seconds
+[2022-10-25T14:37:10.397+0000] {processor.py:156} INFO - Started process (PID=29853) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:10.400+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:37:10.403+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:10.403+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:10.457+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:10.503+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.115 seconds
+[2022-10-25T14:37:45.427+0000] {processor.py:156} INFO - Started process (PID=31514) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:45.434+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:37:45.438+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:45.438+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:45.490+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:45.540+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.130 seconds
+[2022-10-25T14:37:50.112+0000] {processor.py:156} INFO - Started process (PID=30275) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:50.115+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:37:50.118+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:50.117+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:50.171+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:37:50.203+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.110 seconds
+[2022-10-25T14:38:20.141+0000] {processor.py:156} INFO - Started process (PID=31894) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:20.145+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:38:20.147+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:20.147+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:20.214+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:20.250+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.117 seconds
+[2022-10-25T14:38:29.034+0000] {processor.py:156} INFO - Started process (PID=30676) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:29.037+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:38:29.040+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:29.040+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:29.098+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:38:29.146+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.119 seconds
+[2022-10-25T14:39:10.713+0000] {processor.py:156} INFO - Started process (PID=32436) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:10.718+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:39:10.722+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:10.721+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:10.798+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:10.859+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.166 seconds
+[2022-10-25T14:39:51.100+0000] {processor.py:156} INFO - Started process (PID=31106) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:51.105+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:39:51.109+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:51.108+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:51.168+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:39:51.205+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.113 seconds
+[2022-10-25T14:40:12.980+0000] {processor.py:156} INFO - Started process (PID=32696) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:12.988+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:40:12.992+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:12.991+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:13.053+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:13.122+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.152 seconds
+[2022-10-25T14:40:40.448+0000] {processor.py:156} INFO - Started process (PID=31632) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:40.451+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:40:40.454+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:40.454+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:40.515+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:40.564+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.138 seconds
+[2022-10-25T14:40:55.318+0000] {processor.py:156} INFO - Started process (PID=33155) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:55.321+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:40:55.324+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:55.324+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:55.391+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:40:55.465+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.157 seconds
+[2022-10-25T14:41:19.564+0000] {processor.py:156} INFO - Started process (PID=32033) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:19.567+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:41:19.570+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:19.570+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:19.633+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:19.676+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.121 seconds
+[2022-10-25T14:41:35.626+0000] {processor.py:156} INFO - Started process (PID=33535) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:35.631+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:41:35.637+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:35.636+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:35.713+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:41:35.767+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.147 seconds
+[2022-10-25T14:42:07.577+0000] {processor.py:156} INFO - Started process (PID=32557) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:07.580+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:42:07.583+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:07.582+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:07.629+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:07.684+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.113 seconds
+[2022-10-25T14:42:18.623+0000] {processor.py:156} INFO - Started process (PID=34013) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:18.626+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:42:18.628+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:18.627+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:18.672+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:18.725+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.113 seconds
+[2022-10-25T14:42:45.869+0000] {processor.py:156} INFO - Started process (PID=32953) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:45.872+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:42:45.875+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:45.874+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:45.934+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:42:45.981+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.123 seconds
+[2022-10-25T14:43:05.788+0000] {processor.py:156} INFO - Started process (PID=34529) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:05.794+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:43:05.797+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:05.796+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:05.865+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:05.930+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.151 seconds
+[2022-10-25T14:43:25.804+0000] {processor.py:156} INFO - Started process (PID=33350) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:25.810+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:43:25.814+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:25.814+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:25.861+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:25.912+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.124 seconds
+[2022-10-25T14:43:52.406+0000] {processor.py:156} INFO - Started process (PID=35058) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:52.416+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:43:52.418+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:52.418+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:52.463+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:43:52.515+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.122 seconds
+[2022-10-25T14:59:47.787+0000] {processor.py:156} INFO - Started process (PID=33904) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:59:47.790+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T14:59:47.793+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:59:47.793+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:59:47.834+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T14:59:47.880+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.100 seconds
+[2022-10-25T15:03:36.545+0000] {processor.py:156} INFO - Started process (PID=35581) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:03:36.555+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:03:36.562+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:36.561+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:03:36.725+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:03:36.833+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.299 seconds
+[2022-10-25T15:04:56.062+0000] {processor.py:156} INFO - Started process (PID=34453) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:04:56.065+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:04:56.067+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:04:56.067+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:04:56.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:04:56.190+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.138 seconds
+[2022-10-25T15:05:08.439+0000] {processor.py:156} INFO - Started process (PID=36130) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:08.442+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:05:08.445+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:08.445+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:08.511+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:08.549+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.125 seconds
+[2022-10-25T15:05:45.353+0000] {processor.py:156} INFO - Started process (PID=34938) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:45.362+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:05:45.367+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:45.367+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:45.421+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:45.473+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.132 seconds
+[2022-10-25T15:05:52.359+0000] {processor.py:156} INFO - Started process (PID=36573) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:52.362+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:05:52.367+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:52.367+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:52.413+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:05:52.479+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.130 seconds
+[2022-10-25T15:06:29.251+0000] {processor.py:156} INFO - Started process (PID=35392) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:29.257+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:06:29.259+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:29.259+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:29.302+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:29.352+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.109 seconds
+[2022-10-25T15:06:36.245+0000] {processor.py:156} INFO - Started process (PID=37086) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:36.253+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar for tasks to queue
+[2022-10-25T15:06:36.257+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:36.257+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:36.332+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar
+[2022-10-25T15:06:36.391+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/common/lib/mockito-all-1.8.5.jar took 0.154 seconds

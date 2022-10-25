@@ -193,3 +193,273 @@
 [2022-10-25T14:17:52.233+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:17:52.233+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
 [2022-10-25T14:17:52.238+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
 [2022-10-25T14:17:52.270+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.049 seconds
+[2022-10-25T14:25:01.439+0000] {processor.py:156} INFO - Started process (PID=23446) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:01.442+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:25:01.449+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:01.446+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:01.461+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:01.522+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.092 seconds
+[2022-10-25T14:25:19.385+0000] {processor.py:156} INFO - Started process (PID=24523) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:19.389+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:25:19.391+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:19.391+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:19.400+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:19.427+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.051 seconds
+[2022-10-25T14:25:51.489+0000] {processor.py:156} INFO - Started process (PID=23970) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:51.492+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:25:51.496+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:25:51.496+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:51.511+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:25:51.594+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.118 seconds
+[2022-10-25T14:26:09.386+0000] {processor.py:156} INFO - Started process (PID=25046) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:09.391+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:26:09.394+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:09.394+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:09.406+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:09.467+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.092 seconds
+[2022-10-25T14:26:46.708+0000] {processor.py:156} INFO - Started process (PID=24491) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:46.713+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:26:46.716+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:26:46.715+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:46.725+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:26:46.772+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.076 seconds
+[2022-10-25T14:27:02.621+0000] {processor.py:156} INFO - Started process (PID=25568) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:02.623+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:27:02.626+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:02.626+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:02.634+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:02.682+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.072 seconds
+[2022-10-25T14:27:30.751+0000] {processor.py:156} INFO - Started process (PID=24948) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:30.755+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:27:30.758+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:30.758+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:30.770+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:30.818+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.078 seconds
+[2022-10-25T14:27:42.053+0000] {processor.py:156} INFO - Started process (PID=26000) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:42.056+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:27:42.059+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:27:42.059+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:42.070+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:27:42.111+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.068 seconds
+[2022-10-25T14:28:10.051+0000] {processor.py:156} INFO - Started process (PID=25374) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:10.055+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:28:10.058+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:10.058+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:10.070+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:10.128+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.085 seconds
+[2022-10-25T14:28:30.317+0000] {processor.py:156} INFO - Started process (PID=26531) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:30.320+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:28:30.323+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:30.323+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:30.330+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:30.395+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.090 seconds
+[2022-10-25T14:28:54.110+0000] {processor.py:156} INFO - Started process (PID=25798) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:54.115+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:28:54.118+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:28:54.118+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:54.137+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:28:54.227+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.136 seconds
+[2022-10-25T14:29:17.829+0000] {processor.py:156} INFO - Started process (PID=26973) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:29:17.834+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:29:17.842+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:29:17.841+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:29:17.852+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:29:17.923+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.111 seconds
+[2022-10-25T14:30:03.690+0000] {processor.py:156} INFO - Started process (PID=26077) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:03.695+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:30:03.699+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:03.698+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:03.717+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:03.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.098 seconds
+[2022-10-25T14:30:24.848+0000] {processor.py:156} INFO - Started process (PID=27307) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:24.850+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:30:24.852+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:24.852+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:24.865+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:24.908+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.070 seconds
+[2022-10-25T14:30:49.505+0000] {processor.py:156} INFO - Started process (PID=26534) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:49.517+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:30:49.522+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:30:49.521+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:49.543+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:30:49.598+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.113 seconds
+[2022-10-25T14:31:19.502+0000] {processor.py:156} INFO - Started process (PID=27831) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:19.508+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:31:19.512+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:19.512+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:19.542+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:19.605+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.117 seconds
+[2022-10-25T14:31:39.717+0000] {processor.py:156} INFO - Started process (PID=26977) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:39.721+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:31:39.724+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:31:39.723+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:39.731+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:31:39.773+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.065 seconds
+[2022-10-25T14:32:08.215+0000] {processor.py:156} INFO - Started process (PID=28318) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:08.219+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:32:08.222+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:08.222+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:08.235+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:08.280+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.073 seconds
+[2022-10-25T14:32:29.263+0000] {processor.py:156} INFO - Started process (PID=27472) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:29.266+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:32:29.276+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:29.276+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:29.293+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:29.328+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.088 seconds
+[2022-10-25T14:32:49.361+0000] {processor.py:156} INFO - Started process (PID=28752) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:49.366+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:32:49.371+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:32:49.370+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:49.379+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:32:49.425+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.075 seconds
+[2022-10-25T14:33:20.868+0000] {processor.py:156} INFO - Started process (PID=27989) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:20.872+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:33:20.874+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:20.873+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:20.880+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:20.918+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.056 seconds
+[2022-10-25T14:33:41.807+0000] {processor.py:156} INFO - Started process (PID=29295) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:41.810+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:33:41.813+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:33:41.812+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:41.824+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:33:41.889+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.090 seconds
+[2022-10-25T14:35:02.786+0000] {processor.py:156} INFO - Started process (PID=28574) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:02.813+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:35:02.818+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:02.818+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:02.830+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:02.918+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.148 seconds
+[2022-10-25T14:35:03.374+0000] {processor.py:156} INFO - Started process (PID=29731) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:03.377+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:35:03.380+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:03.380+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:03.388+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:03.447+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.083 seconds
+[2022-10-25T14:35:49.835+0000] {processor.py:156} INFO - Started process (PID=29051) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:49.841+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:35:49.844+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:49.843+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:49.856+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:49.905+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.080 seconds
+[2022-10-25T14:35:50.848+0000] {processor.py:156} INFO - Started process (PID=30251) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:50.850+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:35:50.853+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:35:50.853+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:50.868+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:35:50.920+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.083 seconds
+[2022-10-25T14:36:40.873+0000] {processor.py:156} INFO - Started process (PID=30802) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:40.879+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:36:40.885+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:40.884+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:40.898+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:40.938+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.074 seconds
+[2022-10-25T14:36:41.809+0000] {processor.py:156} INFO - Started process (PID=29566) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:41.825+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:36:41.829+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:36:41.829+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:41.849+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:36:41.909+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.117 seconds
+[2022-10-25T14:37:24.519+0000] {processor.py:156} INFO - Started process (PID=30007) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:24.523+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:37:24.525+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:24.525+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:24.534+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:24.579+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.066 seconds
+[2022-10-25T14:37:29.539+0000] {processor.py:156} INFO - Started process (PID=31345) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:29.546+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:37:29.549+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:37:29.548+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:29.557+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:37:29.605+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.077 seconds
+[2022-10-25T14:38:04.922+0000] {processor.py:156} INFO - Started process (PID=30425) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:04.925+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:38:04.930+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:04.930+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:04.944+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:05.016+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.105 seconds
+[2022-10-25T14:38:21.920+0000] {processor.py:156} INFO - Started process (PID=31916) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:21.924+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:38:21.927+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:21.927+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:21.940+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:21.978+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.064 seconds
+[2022-10-25T14:38:44.426+0000] {processor.py:156} INFO - Started process (PID=30845) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:44.439+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:38:44.444+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:38:44.443+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:44.454+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:38:44.511+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.097 seconds
+[2022-10-25T14:39:12.848+0000] {processor.py:156} INFO - Started process (PID=32459) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:39:12.852+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:39:12.861+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:39:12.861+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:39:12.885+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:39:12.938+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.103 seconds
+[2022-10-25T14:40:06.652+0000] {processor.py:156} INFO - Started process (PID=31279) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:06.655+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:40:06.659+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:06.658+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:06.667+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:06.736+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.099 seconds
+[2022-10-25T14:40:18.153+0000] {processor.py:156} INFO - Started process (PID=32744) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:18.158+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:40:18.164+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:18.163+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:18.174+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:18.244+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.104 seconds
+[2022-10-25T14:40:56.165+0000] {processor.py:156} INFO - Started process (PID=31802) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:56.168+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:40:56.171+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:40:56.170+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:56.179+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:40:56.222+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.066 seconds
+[2022-10-25T14:41:05.875+0000] {processor.py:156} INFO - Started process (PID=33266) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:05.881+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:41:05.885+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:05.885+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:05.894+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:05.955+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.089 seconds
+[2022-10-25T14:41:34.152+0000] {processor.py:156} INFO - Started process (PID=32196) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:34.156+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:41:34.160+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:34.160+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:34.169+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:34.210+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.069 seconds
+[2022-10-25T14:41:51.731+0000] {processor.py:156} INFO - Started process (PID=33727) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:51.735+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:41:51.740+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:41:51.740+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:51.756+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:41:51.805+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.086 seconds
+[2022-10-25T14:42:12.977+0000] {processor.py:156} INFO - Started process (PID=32605) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:12.982+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:42:12.985+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:12.985+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:12.995+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:13.043+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.075 seconds
+[2022-10-25T14:42:29.678+0000] {processor.py:156} INFO - Started process (PID=34128) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:29.681+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:42:29.684+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:29.684+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:29.696+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:29.766+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.098 seconds
+[2022-10-25T14:42:51.125+0000] {processor.py:156} INFO - Started process (PID=33001) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:51.128+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:42:51.131+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:42:51.131+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:51.144+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:42:51.190+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.086 seconds
+[2022-10-25T14:43:10.277+0000] {processor.py:156} INFO - Started process (PID=34584) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:10.280+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:43:10.283+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:10.283+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:10.290+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:10.338+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.072 seconds
+[2022-10-25T14:43:31.122+0000] {processor.py:156} INFO - Started process (PID=33406) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:31.126+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:43:31.130+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:31.130+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:31.148+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:31.219+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.105 seconds
+[2022-10-25T14:43:57.107+0000] {processor.py:156} INFO - Started process (PID=35113) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:57.114+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T14:43:57.118+0000] {logging_mixin.py:117} INFO - [2022-10-25T14:43:57.118+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:57.134+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T14:43:57.201+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.112 seconds
+[2022-10-25T15:03:20.640+0000] {processor.py:156} INFO - Started process (PID=33961) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:20.646+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:03:20.648+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:20.648+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:20.657+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:20.777+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.146 seconds
+[2022-10-25T15:03:43.020+0000] {processor.py:156} INFO - Started process (PID=35629) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:43.023+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:03:43.027+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:03:43.027+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:43.036+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:03:43.072+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.067 seconds
+[2022-10-25T15:05:00.755+0000] {processor.py:156} INFO - Started process (PID=34501) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:00.761+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:05:00.763+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:00.763+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:00.777+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:00.829+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.087 seconds
+[2022-10-25T15:05:14.112+0000] {processor.py:156} INFO - Started process (PID=36178) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:14.115+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:05:14.118+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:14.118+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:14.132+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:14.199+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.096 seconds
+[2022-10-25T15:05:51.343+0000] {processor.py:156} INFO - Started process (PID=34995) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:51.346+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:05:51.349+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:05:51.349+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:51.358+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:05:51.392+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.057 seconds
+[2022-10-25T15:06:03.985+0000] {processor.py:156} INFO - Started process (PID=36700) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:03.992+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:06:03.996+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:03.995+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:04.012+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:04.133+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.166 seconds
+[2022-10-25T15:06:39.883+0000] {processor.py:156} INFO - Started process (PID=35510) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:39.887+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:06:39.890+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:39.889+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:39.901+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:39.950+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.076 seconds
+[2022-10-25T15:06:40.437+0000] {processor.py:156} INFO - Started process (PID=37142) to work on /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:40.440+0000] {processor.py:758} INFO - Processing file /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar for tasks to queue
+[2022-10-25T15:06:40.447+0000] {logging_mixin.py:117} INFO - [2022-10-25T15:06:40.447+0000] {dagbag.py:525} INFO - Filling up the DagBag from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:40.460+0000] {processor.py:770} WARNING - No viable dags retrieved from /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar
+[2022-10-25T15:06:40.502+0000] {processor.py:178} INFO - Processing /opt/airflow/dags/hadoop-2.7.3/share/hadoop/httpfs/tomcat/lib/catalina-ant.jar took 0.077 seconds
