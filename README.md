@@ -121,16 +121,20 @@ In order to execute the project you need to have the following tools installed i
 Once you have Docker desktop installed you need to follow the next steps:
 1. Launch Docker desktop
 2. Download/clone github repository to your desktop
+```
+git@github.com:GonzaloAlcalaGD/capstone_project.git
+```
 3. Open a new terminal and cd until you reach the following path **./airflow**
 4. Make sure you see the docker-compose.yaml with:
     - macOS : **ls**
     - Windows : **dir**
     - Linux : **ls -a**
-5. Once you see the docker-compose.yaml file execute docker-compose up
-6. Wait until all containers are up and you see the following message:
+6. Once you see the docker-compose.yaml file execute docker build
+7. After Docker build finishes run docker-compose up
+8. Wait until all containers are up and you see the following message:
 ` airflow-airflow-webserver-1  | 127.0.0.1 - - [25/Oct/2022:19:32:05 +0000] "GET /health HTTP/1.1" 200 141 "-" "curl/7.74.0" `
-7. Open your favorite web browser
-8. Go to the following URL : **http://localhost:8080/home**
+. Open your favorite web browser
+9. Go to the following URL : **http://localhost:8080/home**
 
 
 ## Usage
