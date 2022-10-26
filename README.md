@@ -13,6 +13,7 @@
 - [Requirements](#requirements)
 - [Getting started](#geting-started)
 - [Usage](#usage)
+- [Data Storage](#data-storage)
 
 ## Project description
 
@@ -171,7 +172,7 @@ After the data generation completes all the following dags will get triggered in
     - Unified and enriched Dataframe will be loaded  
     - Perfomed aggregations Dataframes will be saved into HDFS
 
-Data storage for .parquet files
+## Data storage 
 
 All parquet files will be saved inside **./airflow/dags/storage/...**
 
